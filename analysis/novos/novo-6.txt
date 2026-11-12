@@ -1,0 +1,1441 @@
+ CADERNO DE PROVAS
+         LINGUAGENS E SUAS TECNOLOGIAS
+          CIÊNCIAS HUMANAS E SOCIAIS
+         APLICADAS E SUAS TECNOLOGIAS
+
+                    DADOS DE IDENTIFICAÇÃO DO CANDIDATO
+                  Não deixe de preencher as informações a seguir.
+Prédio                                                                    Sala
+
+
+Nome
+
+
+
+
+Nº de Inscrição            Nº do Documento de Identificação         Órgão Expedidor   UF
+SSA UPE – 1ª FASE   1º DIA
+
+
+
+
+                         2
+SSA UPE – 1ª FASE                                                                              1º DIA
+LINGUAGENS E SUAS TECNOLOGIAS
+Questões de 01 a 23
+
+
+
+Você já parou para pensar na importância do amor? Ele é tão importante que diversos estudiosos têm
+defendido que há uma estreita relação entre “amor” e “saúde”. A esse respeito, veja o que nos revela o
+Texto 1, um artigo de divulgação científica, dos campos jornalístico-midiático e das práticas de
+estudo e pesquisa.
+
+Texto 1
+
+
+
+
+      Afinal de contas, o que é o amor? Temos dificuldade em defini-lo, apesar de sermos fascinados
+pelo assunto. De forma geral, o amor romântico apresenta diversos aspectos biológicos, como o
+desenvolvimento de vínculos emocionais, atração sexual e recorrência de pensamentos intrusivos.
+Apesar de ocorrerem com maior frequência e intensidade nas primeiras fases do amor, são sensações
+que nos acompanham durante toda a duração da relação afetiva. Ao nos depararmos com a pessoa
+amada ou até mesmo ao pensarmos nela, ativamos diversas áreas do nosso cérebro que estão
+relacionadas com a recompensa e a motivação. O processo é tão contagiante que desativamos
+também áreas como a amígdala e o córtex frontal e, assim, reduzimos quaisquer emoções negativas
+ou julgamentos que possam surgir sobre a pessoa. Por isso, podemos dizer que o amor é, de fato,
+cego.
+      Por outro lado, sabemos que a saúde do coração é importante, por isso nos exercitamos e
+prestamos atenção no que comemos. Porém, inúmeros estudos já comprovaram que também o amor
+é benéfico para a nossa saúde. Além de ser uma das emoções básicas do ser humano, produz uma
+série de reações químicas em nosso corpo que nos afetam de forma positiva. Desse modo, a ciência
+também consegue explicar como o amor influencia o nosso corpo e a mente. A felicidade inicial de
+estar apaixonado é estimulada por 3 substâncias químicas no cérebro: noradrenalina, dopamina e
+feniletilamina.
+      Ademais, não se trata apenas de amor romântico, mas do amor em suas muitas formas. Assim,
+são benéficas desde as relações com nosso grupo de amigos e parentes, até aquele relacionamento a
+longo prazo, com alguém especial. Desse modo, passar tempo com entes queridos também ajuda a
+reduzir o estresse e a ansiedade. Além de o amor ser ótimo por razões inexplicáveis, existem alguns
+benefícios cientificamente comprovados para o ser humano. Eis alguns deles:
+Aumenta a autoestima
+O amor aumenta a produção de melatonina, que melhora a autoestima e proporciona uma sensação
+de vitalidade. Além disso, amar e ser amado ajudam a nos sentirmos importantes para os outros, o que
+nos dá segurança em nós mesmos.
+
+
+                                                                                                     3
+SSA UPE – 1ª FASE                                                                                                   1º DIA
+Auxilia a saúde do coração
+Seria impossível o amor não fortalecer o coração. Isso porque essa sensação de paixão ajuda na
+produção de dopamina, ocitocina e norepinefrina, três substâncias que reduzem os riscos de doenças
+cardiovasculares.
+Reduz níveis de estresse
+O cortisol é o hormônio liberado em resposta ao estresse e causa aumento na pressão arterial. No
+entanto, apaixonar-se reduz a produção desse hormônio, de forma que os efeitos negativos do
+estresse diminuem naturalmente.
+Diminui o índice de tristeza e mal-estar
+Havendo maior liberação de endorfinas, a sensação de felicidade aumenta, portanto são essas as
+substâncias conhecidas como antidepressivos naturais. Além disso, as endorfinas auxiliam o nosso
+sistema imunológico, melhorando as defesas do corpo contra doenças.
+                            Disponível em: https://litoplan.com.br/2022/06/14/saude-e-amor. Acesso em: 05 ago. 2024. Adaptado.
+
+
+1. Como outros textos do campo jornalístico-midiático, também o Texto 1 pretende seduzir o leitor pela
+apresentação de alguma ‘novidade’. O caráter de ‘novidade’ do texto se revela, principalmente, pela(s)
+
+a) definição bastante clara do que vem a ser isso que costumamos chamar de amor romântico.
+b) constatações de que o amor romântico se estende às relações com nossos amigos e parentes.
+c) informação inusitada de que todas as pessoas que se sentem amadas são imunes à depressão.
+d) apresentação do amor como o único remédio capaz de proteger nosso sistema imunológico.
+e) explicações cientificamente fundamentadas sobre como o amor atua em nosso corpo e mente.
+
+
+2. Analisando o Texto 1 globalmente, é CORRETO afirmar que, do ponto de vista ideológico, ele
+
+a) se alinha a uma visão de mundo bem conservadora, já que defende laços familiares fortes e
+   relacionamentos conjugais inquebrantáveis.
+b) carece de uma visão mais crítica e aprofundada sobre a relação entre amor e saúde, pois só se
+   apresentam pontos positivos dessa relação.
+c) segue uma posição fria, típica da Ciência, e por isso explica o amor exclusivamente como produto
+   da ação de substâncias químicas em nosso cérebro.
+d) revela uma visão ingênua e romântica, pois define o amor como um conjunto de sensações que nos
+   deixam “cegos” nas nossas relações afetivas.
+e) adota uma perspectiva pós-moderna no tratamento do tema, razão pela qual explica a relação amor-
+   saúde como algo que pode ser relativizado.
+
+
+Todos nós experienciamos alguma forma de amor, seja nas relações familiares, no nosso círculo de
+amigos, seja com alguém especial ou até mesmo no afeto que conseguimos desenvolver com um
+animal de estimação. Entretanto, há pessoas que confundem amor com posse e, em alguns casos, o
+que se pensava que era amor acaba por se tornar violência. O Texto 2, um infográfico, do campo da
+vida pessoal, nos mostra alguns sinais do “falso amor”.
+
+
+
+
+                                                                                                                            4
+SSA UPE – 1ª FASE                                                                                           1º DIA
+Texto 2
+
+
+
+
+                   Disponível em: https://ediedson.tumblr.com/image/58062377686. Acesso em: 04 set. 2024.
+
+3. O Texto 2, como um infográfico, organiza-se na inter-relação entre elementos verbais e visuais. Sobre a
+funcionalidade e a integração entre esses dois elementos, assinale a alternativa CORRETA.
+a) A imagem que está posicionada no centro do texto e rodeada de elementos verbais já é uma pista
+   importante para o leitor de que o texto aborda relacionamentos amorosos conflituosos.
+b) Os balões em que aparecem os sinais do “falso amor” são alocados no texto em ordem decrescente de
+   gravidade, ou seja, o ato de “paquerar todo mundo” é dado como o mais grave dentre todos.
+c) No pequeno texto escrito do lado esquerdo do infográfico, sob o título “Fique atento aos sinais do falso
+   amor”, a autora faz a narração de um caso de amor em que o “sinal amarelo” foi aceso.
+d) Com a imagem que sobressai no centro do texto, o autor pretendeu ilustrar para suas leitoras as diversas
+   formas de agressão nos relacionamentos, explicadas na parte verbal do infográfico.
+e) Com as imagens pequenas de um coração partido e de uma interrogação, o autor do infográfico quis
+   expressar sua total descrença em relacionamentos duradouros entre homens e mulheres.
+                                                                                                                 5
+SSA UPE – 1ª FASE                                                                                                     1º DIA
+4. Todo texto é elaborado para cumprir um propósito. O Texto 2, por exemplo, pretende, sobretudo,
+a) divulgar novos canais pelos quais as mulheres podem denunciar agressões ou ameaças contra elas,
+   cometidas por seus parceiros amorosos.
+b) trazer conselhos para que casais que estão enfrentando problemas no relacionamento amoroso possam
+   superá-los de uma maneira satisfatória.
+c) alertar, especialmente as mulheres, para se manterem atentas a certos sinais de que seu relacionamento
+   amoroso enfrenta problemas.
+d) defender uma nova atitude para as mulheres, que deixem de ser submissas e ataquem seus parceiros
+   amorosos sempre que se sentirem ameaçadas.
+e) argumentar a favor de relacionamentos amorosos em que direitos sejam iguais, isto é, em que as
+   mulheres possam revidar as ameaças dos parceiros.
+
+Muitas vezes, falta amor e cuidado nas relações conjugais. Para proteger os direitos das mulheres, em 2006
+foi sancionada a Lei Maria da Penha, que completou, neste ano de 2024, a sua maioridade. No entanto,
+apesar dos avanços na legislação, reconhecidos por todos, a opressão às mulheres continua sendo um dos
+principais problemas sociais do país. Leia, a seguir, o Texto 3, um excerto da Lei Maria da Penha, um
+exemplo de texto do campo de atuação na vida pública.
+
+
+Texto 3
+                               LEI Nº 11.340, DE 7 DE AGOSTO DE 2006
+  O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a
+seguinte Lei:
+                                   TÍTULO I
+                                     DISPOSIÇÕES PRELIMINARES
+            o
+       Art. 1 Esta Lei cria mecanismos para coibir e prevenir a violência doméstica e familiar contra a
+mulher, nos termos do § 8o do art. 226 da Constituição Federal, da Convenção sobre a Eliminação de Todas
+as Formas de Violência contra a Mulher, da Convenção Interamericana para Prevenir, Punir e Erradicar a
+Violência contra a Mulher e de outros tratados internacionais ratificados pela República Federativa do Brasil;
+dispõe sobre a criação dos Juizados de Violência Doméstica e Familiar contra a Mulher e estabelece
+medidas de assistência e proteção às mulheres em situação de violência doméstica e familiar.
+       Art. 2o Toda mulher, independentemente de classe, raça, etnia, orientação sexual, renda, cultura, nível
+educacional, idade e religião, goza dos direitos fundamentais inerentes à pessoa humana, sendo-lhe
+asseguradas as oportunidades e facilidades para viver sem violência, preservar sua saúde física e mental e
+seu aperfeiçoamento moral, intelectual e social.
+       Art. 3o Serão asseguradas às mulheres as condições para o exercício efetivo dos direitos à vida, à
+segurança, à saúde, à alimentação, à educação, à cultura, à moradia, ao acesso à justiça, ao esporte, ao
+lazer, ao trabalho, à cidadania, à liberdade, à dignidade, ao respeito e à convivência familiar e comunitária.
+       § 1o O poder público desenvolverá políticas que visem garantir os direitos humanos das mulheres no
+âmbito das relações domésticas e familiares no sentido de resguardá-las de toda forma de negligência,
+discriminação, exploração, violência, crueldade e opressão.
+       § 2o Cabe à família, à sociedade e ao poder público criar as condições necessárias para o efetivo
+exercício dos direitos enunciados no caput. [...]
+                                        Disponível em: https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2006/Lei/L11340.htm.
+                                                                                      Acesso em: 03 set. 2024. Excerto adaptado.
+
+
+
+
+                                                                                                                              6
+SSA UPE – 1ª FASE                                                                                                                1º DIA
+5. Como se vê no Texto 3, a Lei prevê que os direitos das mulheres sejam
+a) aprovados por tratados internacionais, que devem criar os Juizados de Violência Doméstica e
+   Familiar contra a Mulher.
+b) transcritos dos direitos que já estão expressos nos trechos constantes no § 8o do art. 226 da
+   Constituição Federal.
+c) garantidos por sua família, que detém a responsabilidade de resguardar as mulheres de toda forma
+   de negligência e violência.
+d) assegurados também pelo poder público, por meio de políticas que permitam que as mulheres
+   gozem plenamente de seus direitos.
+e) facilitados por seus companheiros ou cônjuges, visando à saúde física e mental de todas as
+   mulheres, indiscriminadamente.
+
+Nas artes, de uma maneira geral, o amor é retratado poeticamente a partir de diversas perspectivas.
+Uma delas é o amor que aprisiona os apaixonados, em relações por vezes conturbadas. Leia
+atentamente os Textos 4 e 5, respectivamente um trecho de poema e uma letra de música, ambos
+do campo artístico-literário.
+
+Texto 4                                                               Texto 5
+
+Marília de Dirceu (Lira IX)                                           Saga
+                                                                                     Reginaldo Rossi
+               Tomás Antônio Gonzaga
+                                                                      Parece até mentira
+Eu sou, gentil Marília, eu sou cativo;
+                                                                      Que acabou o encanto
+Porém não me venceu a mão armada
+                                                                      Que você exercia sobre mim
+De ferro e de furor:
+Uma alma sobre todas elevada                                          Eu era mesmo, um escravo teu
+Não cede a outra força que não seja                                   Mas eu lutava e pedia a Deus
+À tenra mão do amor.                                                  Pra me livrar da saga desse amor
+Arrastem pois os outros muito embora                                  Eu te adorando tanto
+Cadeias nas bigornas trabalhadas                                      Eu te amando tanto
+Com pesados martelos:                                                 Eu nem notava que os meus grilhões
+Eu tenho as minhas mãos ao carro atadas                               Eram cordéis, daqueles, dos fantoches
+Com duros ferros não, com fios d’ouro,                                Que em tuas mãos, estava minha sorte
+Que são seus cabelos.                                                 A vida, morte e o meu coração
+[...]                                                                 Ah! Mas agora, que eu me libertei
+                                                                      Que o meu caminho, eu mesmo traço
+Estima pois os mais a liberdade;
+                                                                      Quero voltar pro laço
+Eu prezo o cativeiro: sim, nem chamo
+                                                                      Voltar pro teu abraço
+À mão de amor ímpia:
+                                                                      Eu sinto falta da tua prisão.
+Honro a virtude, e os teus dotes amo:
+Também o grande Aquiles veste a saia,                                 Parece até mentira. (3x)
+Também Alcides fia.
+                                                                          Disponível em: https://www.letras.mus.br/reginaldo-rossi/1111155/
+ GONZAGA, Tomás Antônio. Marília de Dirceu & Cartas Chilenas. São                                        Acesso em: 20 jul. 2024. Adaptado.
+                                       Paulo: Ática, 2019. Excerto.
+
+
+6. Os estilos de época não são marcas exclusivas da literatura de seus autores; pelo contrário,
+encontramos traços desses estilos em textos diversos, inclusive nas produções contemporâneas e em
+outras artes, como a música e o cinema. O Texto 4, por exemplo, é bastante característico da estética
+árcade, embora dialogue também com a romântica. O Texto 5 é um exemplo de composição mais
+recente em que encontramos alguns aspectos das estéticas barroca, árcade e romântica. A respeito da
+temática e das marcas barrocas e árcades nos Textos 4 e 5, assinale a alternativa que registra uma
+análise CORRETA.
+                                                                                                                                         7
+SSA UPE – 1ª FASE                                                                                                  1º DIA
+a) Uma diferença central entre os Textos 4 e 5 está na organização dos versos, uma vez que o
+   primeiro obedece a um esquema em que todos os versos rimam entre si, enquanto o segundo
+   obedece a versos mais livres e se distancia, desse modo, de um estilo árcade.
+b) Uma marca do estilo barroco nos Textos 4 e 5 é sua temática, uma vez que ambos retratam uma
+   cena em que o poeta se declara preso, cativo da mulher amada, numa situação sem volta, por parte
+   do eu lírico, que reconhece estar incomodado com a dominação feminina.
+c) Um artifício próprio do estilo barroco pode ser percebido nos Textos 4 e 5 quando ambos lançam
+   apelos a divindades religiosas, uma vez que Gonzaga recorre a Aquiles e Alcides, das culturas
+   greco-romanas, e Rossi tenta dialogar com Deus, da cultura contemporânea.
+d) Um elemento próprio do estilo árcade pode ser percebido nos Textos 4 e 5 quando ambos adotam
+   uma linguagem mais simples, sem inversões e metáforas complicadas, uma vez que essa
+   simplicidade torna a poesia livre dos excessos formais, desnecessários à fluidez das palavras.
+e) Um aspecto próprio do estilo árcade pode ser percebido nos Textos 4 e 5 quando ambos constroem
+   a figura da mulher amada como alguém inalcançável, distante da vida do eu lírico, uma vez que ele
+   acaba aprisionado pelo amor e, por isso, não viverá bem com sua amada.
+
+7. Em ambos os Textos 4 e 5, o eu lírico reconhece sua condição de “escravizado” em relação à
+amada. Esse reconhecimento se evidencia para o leitor, especialmente, nos seguintes trechos:
+
+a) “Eu sou, gentil Marília, eu sou cativo” (Texto 4); “Parece até mentira / Que acabou o encanto” (Texto 5).
+b) “Uma alma sobre todas elevada” (Texto 4); “Mas eu lutava e pedia a Deus (Texto 5).
+c) “À tenra mão do amor” (Texto 4); “Eu te adorando tanto / Eu te amando tanto” (Texto 5).
+d) “Honro a virtude, e os teus dotes amo” (Texto 4); “Ah! Mas agora, que eu me libertei” (Texto 5).
+e) “Eu prezo o cativeiro” (Texto 4); “Eu sinto falta da tua prisão” (Texto 5).
+
+Na arte divulgada na internet, também encontramos muitas situações em que o amor é retratado. No
+Texto 6, a seguir, um poema de Adélia Prado (campo artístico-literário) é reproduzido numa
+postagem do Facebook, gênero do campo da vida pessoal.
+Texto 6
+
+
+
+
+                                 Disponível em: https://www.facebook.com/photo?fbid=719486920348010&set=a.483912827238755
+                                                                                                    Acesso em: 21 jul. 2024.
+
+                                                                                                                          8
+SSA UPE – 1ª FASE                                                                                   1º DIA
+8. O Texto 6 foi postado na página de um grêmio literário, mas qualquer pessoa que tiver acesso a
+essa página pode se apropriar desse texto e dele fazer uma postagem, em sua página pessoal. Sobre
+esse movimento, típico da circulação de textos nas redes sociais, e sobre o Texto 6 em particular,
+assinale a alternativa CORRETA.
+
+a) Na maioria das vezes, postar textos de outros autores indica falta de criatividade de quem faz a
+   postagem. A postagem do Texto 6 em uma página pessoal representa um indício de que a pessoa
+   está vivendo uma grande frustração amorosa e que deseja “pedir socorro” extravasando sua
+   frustração para que todos saibam dela.
+b) Geralmente, quem posta textos de outros autores pretende expressar que se identifica com o
+   conteúdo do texto selecionado. Alguém que, por exemplo, escolher postar o Texto 6 em sua página
+   pessoal transmite a mensagem de que se identifica com um relacionamento amoroso que valoriza
+   os pequenos gestos do cotidiano.
+c) É consensualmente aceito que, nas redes sociais, a prática de repostar textos escritos por
+   outros(as) autores(as) em páginas pessoais contribui para aumentar a circulação de fake news. A
+   publicação do Texto 6, por exemplo, reforça a ideia de que é normal as mulheres serem vítimas de
+   violência, especialmente no trecho “Por hora, dou é grito e susto”.
+d) Nas redes sociais, o movimento de se apropriar de textos escritos por outros(as) é bem-vindo,
+   desde que citada a fonte, para não ser caracterizado como plágio. A repostagem do Texto 6 em
+   uma página pessoal passa para o leitor a informação de que a pessoa está vivendo um
+   relacionamento conturbado e que não sabe como sair dessa situação.
+e) Nas redes sociais, circulam textos de quaisquer autores(as), mas a autoria dos textos que são
+   postados nas páginas pessoais é bastante duvidosa. A autoria do Texto 6, por exemplo, dificilmente
+   pode ser atribuída a Adélia Prado, pois, em sua produção poética, essa autora tematiza o amor
+   sacrificial, no qual a figura feminina se submete à masculina.
+
+9. A obra de Adélia Prado é um exemplo de como pode haver diálogo entre estilos literários. Premiada
+autora contemporânea, ela carrega muitas marcas em sua poesia que remontam a sua história como
+leitora e admiradora de outros escritores. No Texto 6, por exemplo, vemos, no poema Um jeito, alguns
+traços de diálogo com uma estética
+a) barroca, percebida na diferença entre o amor almejado pelo eu lírico e o que ele realmente pratica.
+b) árcade, percebida na ausência de referências filosóficas e religiosas na reflexão feita pelo eu lírico.
+c) barroca, observada na simplicidade com a qual o eu lírico constrói seu relato de amor no cotidiano.
+d) pré-romântica, observada na temática da relação amorosa que nunca será alcançada pelo eu lírico.
+e) árcade, encontrada nas metáforas rebuscadas elaboradas pela autora para descrever o seu amor.
+
+
+O amor também é encontrado nas relações afetivas cotidianas, mas nem sempre vemos o final feliz.
+Às vezes, esse final feliz até chega, mas depois de muitos fatos conturbados. A seguir, você vai ler os
+Textos 7 e 8, que tratam de relações amorosas. Eles são trechos, respectivamente, de uma crônica e
+de um roteiro de peça teatral, ambos do campo artístico-literário.
+
+
+Texto 7
+      Ele continuava a beijá‑la como se fosse sempre a primeira vez. Oferecia‑lhe uma rosa ao
+acordar. Levava‑lhe as torradas à cama com o café e um sumo de laranja. Nunca se esquecia das
+datas importantes. Gostava de cozinhar. Não gostava de futebol. Não bebia. Não dizia palavrões.
+Lavava a louça. Limpava o lavatório depois de fazer a barba. Jogava xadrez com a sogra. Uma noite,
+porém, ela fez as malas e foi‑se embora.
+      A mãe não compreendeu: “O que aconteceu?”. A filha encolheu os ombros: “Posso suportar
+tudo. Menos um mau texto. Pior, um mau texto já muito gasto”. A mãe, coitada, não compreendeu:
+      ─ Que texto?
+
+                                                                                                             9
+SSA UPE – 1ª FASE                                                                                                         1º DIA
+
+      ─ O guião ─ explicou ela. ─ Por exemplo: uma flor para outra flor. Todos os dias ele me
+acordava com a mesma frase, uma flor para outra flor. Ou então, simplesmente, amo-te. Isto todos os
+dias. Está bem soa melhor do que curto-te bué. Mas todos os dias? Sabes o que me disse quando nos
+casámos? Este é o dia mais feliz da minha vida. E quando chegamos ao hotel? Pois, isso mesmo:
+finalmente sós.
+      Ela foi-se embora na noite em que ele disse:
+      ─ Isto nunca aconteceu comigo antes.
+   AGUALUSA, José Eduardo. Isto nunca aconteceu comigo antes. In: AGUALUSA, José Eduardo. A substância do amor e outras crónicas.
+                                                                                 2. ed. Lisboa: D. Quixote, 2003. p. 195. Adaptado.
+
+
+Texto 8
+TEN. GUEDES               Metam bala no homem antes que ele fuja!
+LISBELA                   Não! (Silêncio) Leléu, você não pôde ir?
+LELÉU                     Pude. Estou com dois cavalos aí fora. Mas era grosseria eu não ir com a
+                          senhora.
+LISBELA                   Não precisa continuar me chamando de senhora.
+LELÉU                     Pra mim é o que a senhora há de ser sempre. Chamar “você” é um exagero, não
+                          mereço tanto.
+DR. NOÊMIO                Por que você não foi embora, rapaz? Por que voltou?
+LELÉU                     Por causa de dona Lisbela, Doutor. Pra ficar perto do chão onde ela pisa.
+LISBELA                   Você podia ouvir minhas pisadas junto de você a vida toda. Por que não me
+                          levou?
+LELÉU                     Porque a senhora não merece a incerteza da minha vida. Não tenho eira nem
+                          beira, que trono lhe podia oferecer?
+LISBELA                   Você sabe que eu não me importava. Que eu largava tudo por você.
+        LINS, Osman. Lisbela e o prisioneiro: comédia em 3 atos. [livro eletrônico] 4. ed. São Paulo: Planeta do Brasil, 2023.
+
+10. Os Textos 7 e 8 foram escritos por autores representativos das literaturas angolana e
+pernambucana, respectivamente. Imagine que, numa crítica literária, você precisasse indicar quais
+traços dessas literaturas são percebidos nesses excertos. Que alternativa poderia compor
+CORRETAMENTE essa crítica?
+a) O Texto 7 é próprio da época colonialista das literaturas africanas, pois aborda uma temática
+universal, como as relações amorosas, sem se preocupar ainda com a discussão da exploração
+política.
+b) O Texto 8 é um exemplo de como Osman Lins não debatia temas regionais em sua obra, pois foca
+apenas na história de amor entre a sonhadora Lisbela e o malandro Leléu, de forma cômica.
+c) O Texto 7 constrói uma narrativa ao mesmo tempo humorada e reflexiva, com uma temática pouco
+habitual, mas ainda presente na produção literária africana do período pós-independência.
+d) O Texto 8 é exemplo de como a literatura pernambucana recorre à temática regional para destacar
+o belo em nosso estado, o que é marcado no emprego de expressões típicas de nossa língua.
+e) O Texto 7 mostra como José Eduardo Agualusa recorre a um jogo de oposição para caracterizar
+seus protagonistas – marido e esposa – como dois personagens típicos de uma cultura angolana.
+
+
+11. O tema do amor é tratado de formas distintas nos Textos 7 e 8, no entanto podemos observar
+semelhanças na forma como seus personagens encaram a relação com suas amadas. Sobre esse
+aspecto, assinale a alternativa CORRETA.
+a) Os personagens masculinos, nos dois textos, portam-se como se fossem inferiores à mulher amada.
+b) As protagonistas, em ambos os textos, são as típicas heroínas da literatura, que amam acima de tudo.
+c) O motivo da separação, em ambos os textos, é a linguagem, pelo emprego de certas frases clichês.
+d) O amor narrado, nos dois textos, é marcado pela presença do carinho, mas ausência de emoção.
+e) A abordagem que os textos fazem da separação é semelhante, pois, nos dois, a decisão é unilateral.
+                                                                                                                                10
+SSA UPE – 1ª FASE                                                                                                                1º DIA
+
+12. Observe as figuras a seguir.
+
+
+
+
+        Usina de Arte. Disponível em: https://artsandculture.google.com/asset/bisected-triangle-interior-curve/QgGOZIcvu5j3YA.
+                                                        Acesso em: 05 jul. 2024.
+
+
+
+
+                    Instituto Inhotim. Disponível em: https://pt.foursquare.com/v/usina-de-arte/535182d9498ecdc65b067ff3?
+                                       openPhotoId=6441fd170c9f9f542b96d3ed. Acesso em: 05 jul. 2024.
+
+
+O Instituto Inhotim, localizado no município de Brumadinho - MG, e a Usina de Arte, localizada no
+município de Água Preta – PE, são espaços expositivos de arte.
+Sobre esses espaços, podemos dizer que
+a) ambos foram criados com a intenção de divulgar a arte contemporânea e são equipamentos
+   públicos de grande porte.
+b) ambos são espaços expositivos a céu aberto, galerias de arte contemporânea integradas ao meio
+   ambiente, criadas e mantidas pela iniciativa privada.
+c) a Usina de Arte está localizada em um edifício onde funcionava antigamente uma usina de açúcar,
+   que foi transformada em um museu.
+d) o Instituto Inhotim é um parque artístico-botânico-educativo, especializado em história e cultura
+   material, e integra a Universidade Federal de Minas Gerais.
+e) ambos são espaços expositivos a céu aberto, criados com a intenção proteger e gerir o patrimônio
+   cultural, e por isso mantidos pela iniciativa privada.
+
+                                                                                                                                     11
+SSA UPE – 1ª FASE                                                                                                               1º DIA
+13. O Frevo é uma dança e um gênero musical que se originou no final do século XIX no Recife.
+Caracteriza-se por sua energia vibrante e movimentos acrobáticos dos dançarinos, muitas vezes
+usando pequenas sombrinhas coloridas e uma orquestra que se apresenta em total consonância com
+essa energia musical e de movimentos vibrantes, como representado na imagem a seguir.
+
+
+
+
+  Disponível em: https://www.redebrasilatual.com.br/cultura/orquestra-frevo-capibaribe-faz-o-intercambio-entre-pernambuco-e-sao-paulo/.
+                                                         Acesso em: 05 ago. 2024.
+
+Qual é o principal instrumento musical associado ao Frevo e retratado na imagem?
+a) Atabaque, que apresenta um som africano de batuque que dá ao frevo toda a sua energia vibrante e
+   de natureza extenuante.
+b) Preaca, que traz uma musicalidade marcada com ritmo vibrante caracterizando o frevo no carnaval
+   de Pernambuco.
+c) Violino. que traz ao frevo um tom erudito, marcando sua origem como forma musical frenética e
+   dança das elites.
+d) Trombone, que traz ao frevo um ritmo vibrante e frenético, característico também dos movimentos
+   de sua dança.
+e) Pandeiro, que demarca a música do frevo de forma frenética, com batidas africanas reveladoras de
+   toda a alegria do ciclo carnavalesco.
+
+14. A imagem a seguir é uma obra de arte produzida por Adriana Varejão, uma artista brasileira
+contemporânea.
+                                             Observando-a, podemos afirmar que
+
+                                                                     a) apresenta       traços      característicos   do
+                                                                        Quinhentismo brasileiro, com características
+                                                                        informativas e descritivas.
+                                                                     b) toma como referência o Barroco desenvolvido
+                                                                        no Brasil, ao exagerar nas linhas curvas e
+                                                                        retorcidas.
+                                                                     c) revela, em seus materiais expressivos, a
+                                                                        influência do Arcadismo, conferindo às suas
+                                                                        obras um tom dramático.
+                                                                     d) tem como tema o corpo e o orgânico, usando
+                                                                        insistentemente tons variados de vermelho,
+                                                                        características próprias do Quinhentismo
+                                                                     e) exagera na estilização, e os efeitos decorativos
+                                                                        interagem com a arquitetura, assim como o
+                                                                        Maneirismo.
+
+Disponível em: https://www.artequeacontece.com.br/elementos-chave-
+para-compreender-a-potencia-da-obra-de-adriana-varejao/.
+Acesso em: 06 jul. 2024.
+
+                                                                                                                                          12
+SSA UPE – 1ª FASE                                                                                                                    1º DIA
+
+15. O futebol, como esporte de invasão, tem um histórico
+profundo de inclusão e exclusão racial. No Brasil, jogadores
+negros enfrentaram e ainda enfrentam desafios significativos
+relacionados ao racismo tanto dentro quanto fora dos
+campos, como os que foram reportados recentemente contra
+o jogador da foto.
+
+
+
+
+                                                 Disponível em: https://imagens.app.goo.gl/Un8oXHW1feVaquocA/. Acesso em 23 ago. 2024.
+
+
+Assinale a alternativa que registra CORRETAMENTE a relação entre racismo estrutural e carreira
+profissional de jogadores negros no futebol brasileiro.
+
+a) Pouco influencia, pois o talento é o único fator determinante para o sucesso nesse esporte.
+b) Oferece mais oportunidades de patrocínio e visibilidade, pois a habilidade do jogador é o que conta.
+c) Impõe barreiras adicionais à carreira do jogador, como estereótipos, preconceito e discriminação.
+d) Facilita a entrada em clubes de elite, pois geralmente jogadores negros são mais habilidosos.
+e) Garante tratamento igualitário em todas as etapas da carreira, pois o racismo é algo já superado no país.
+
+
+16. Leia o texto a seguir e observe a imagem.
+
+  Termo de origem estrangeira, me·me |é| (inglês
+  meme, redução do grego mimema, atos,
+  imitação, cópia). A palavra “meme” vem sendo
+  utilizada frequentemente sem o destaque em
+  itálico, como demanda a regra gramatical da
+  língua portuguesa para termos estrangeiros. Isso
+  ocorre devido ao uso corriqueiro do termo,
+  incorporado à linguagem coloquial do contexto
+  brasileiro, o que denota o seu uso cultural. O
+  termo “meme” é empregado como alusão a
+  artefato imagético, para referir-se a uma ideia ou
+  uma unidade de propagação cultural. Sendo a
+  internet seu meio de produção, propagação e
+  recepção, tende a obedecer à lógica do
+  capitalismo informacional, disputando narrativas,
+  espaço e audiência.
+                                                            Disponível em:
+   https://files.cercomp.ufg.br/weby/up/459/o/Tese_Cl%C3%ADcia_Tatiana_
+                                    Alberto_Coelho_-_2021_compressed.pdf.                  Produção de Álvaro Seixas
+                                       Acesso em: 07 jul. 2024. Adaptado.
+                                                                             Disponível em: https://select.art.br/alvaro-seixas-mentalidade-
+                                                                                          sadica/. Acesso em: 06 jul. 2024.
+
+
+
+
+                                                                                                                                               13
+SSA UPE – 1ª FASE                                                                                                            1º DIA
+
+Em termos de possibilidades interpretativas dessa narrativa imagética, podemos concluir que
+
+a) os artistas contemporâneos têm-se apropriado da linguagem dos memes para criar suas obras de arte.
+b) a utilização de ícones da história da arte como base do meme o transforma em um exemplar de arte
+   contemporânea.
+c) os artistas contemporâneos estão resgatando a técnica do desenho ao divulgarem seus trabalhos na
+   internet.
+d) o artista está utilizando-se da linguagem do meme para criticar o sistema institucional de arte.
+e) as mídias sociais e as instituições artísticas estão desenvolvendo uma relação em constante evolução.
+
+
+17. Nas academias e centros de fitness, é comum ver
+a prática de ginástica de condicionamento físico
+voltada para a promoção de exercícios destinados à
+perda de peso e à definição muscular, muitas vezes
+negligenciando a importância da saúde mental e bem-
+estar geral dos praticantes.
+
+
+
+
+                         Disponível em: https://ciaathleticasjc.com.br/tipos-de-ginastica-de-condicionamento/. Acesso em: 23 ago. 2024.
+
+Assinale a alternativa que registra o efeito dessa negligência na vida de seus praticantes.
+
+a) Promove uma imagem corporal positiva e saudável, pois o que importa é se sentir bem.
+b) Reduz a ansiedade relacionada ao exercício, pois, com o corpo mais magro, as pessoas tendem a
+   ser felizes.
+c) Estimula hábitos alimentares equilibrados, pois quem perde muito peso é porque se alimenta bem.
+d) Contribui para a insatisfação corporal e transtornos alimentares, pois a ênfase é dada a um padrão
+   corporal.
+e) Aumenta a diversidade de corpos representados nas academias, pois a perda de peso traz
+   diferenças saudáveis entre as pessoas.
+
+
+18. Leia o texto e observe as imagens a seguir.
+A pichação, ao contrário do que imaginam, também é antiga e tem diversos fins. É um meio de
+comunicação e expressão, que aparece em muitos lugares e épocas diferentes. Há registros dela no
+ano 79 d.C., na cidade de Pompeia, na Itália. Exatamente, já existiam pichações há 2099 anos!
+A antiga Pompeia, abandonada após a erupção de um vulcão, tem escritos em suas paredes textos
+com ofensas, declarações de amor, propaganda política e até horários de lutas de gladiadores. A
+humanidade se transformou, e a pichação também [...] Também o homem contemporâneo utiliza a
+paisagem e seus abrigos para comunicar sua presença, sua passagem, sua permanência, suas
+angústias, suas esperanças, seus protestos, sua sátira, seu erotismo etc. Seus sinais são algumas
+vezes indecifráveis, ou quase, como muitos sinais abstratos dos homens do paleolítico, do neolítico e
+até de épocas recentes, como as pichações.
+            Disponível em: https: //www.ufmg.br/espacodoconhecimento/pixacao-x-pintura-rupestre/. Acesso em: 01 jul. 2024. Adaptado.
+
+
+
+
+                                                                                                                                    14
+SSA UPE – 1ª FASE                                                                                                              1º DIA
+                             Imagem 1                                                       Imagem 2
+
+
+
+
+        Derlon, grafiteiro pernambucano.                                Parede da antiga cidade de Pompeia, na Itália.
+Disponível em: https://www.agendadearteecultura.com.br/derlon-        Disponível em: https://www.ufmg.br/espacodoconhecimento/
+   almeida-a-poesia-visual-do-cordel/. Acesso em: 01 jul. 2024.           pixacao-x-pintura-rupestre/. Acesso em: 01 jul. 2024.
+
+
+                                                                  Imagem 3
+
+
+
+
+            Inscrições rupestres no sítio arqueológico de Pedra Furada, no Parque Nacional da Serra da Capivara,
+                                              em São Raimundo Nonato, no Piauí.
+        Disponível em: https://novaescola.org.br/conteudo/1292/4-curiosidades-sobre-a-serra-da-capivara. Acesso em: 16 ago. 2024.
+
+
+Com base no texto e nas imagens, podemos afirmar que
+
+a) o grafite e a pichação têm a mesma origem, utilizando-se ambos das mesmas técnicas, materiais e
+   suportes.
+b) a pichação e o grafite são duas formas de manifestações juvenis consideradas criminosas em
+   quase todos os países.
+c) a maneira de o homem se comunicar, fazendo uso de superfícies expostas ao “ar livre”, não é de
+   hoje e remonta ao período pré-histórico.
+d) o grafite é uma forma de manifestação adotada por um grupo específico que criou aquele código, e
+   geralmente não conseguimos ler ou saber o significado.
+e) a pichação e o grafite são denúncias daqueles que estão destituídos de cidadania, para chamar
+   atenção da sociedade.
+
+
+
+                                                                                                                                    15
+SSA UPE – 1ª FASE                                                                                                   1º DIA
+
+19. Atente para as imagens e o texto.
+
+                          Imagem A                                                 Imagem B
+
+
+
+
+Disponível em: https://www.blogdosergiosalles.com/2024/02/pre-
+carnaval-multicultural-de-caruaru.html#google_vignette. Acesso em:
+05 jul. 2024.
+
+
+
+                                                                     Foto: Oliviero Toscani/Divulgação Benetton 2018. Disponível
+                                                                     em: https://www.estadao.com.br/emais/moda-e-beleza/nova-
+                                                                     campanha-da-benetton-aborda-tolerancia-e-igualdade-racial/.
+                                                                                       Acesso em: 05 jul. 2024.
+
+
+[...] frequentemente mensagens aparentemente sem intencionalidade nenhuma resultam em
+consequências não esperadas. Alguns argumentam que, ao fazer da tolerância o enfoque dos
+programas educacionais, encobrimos a manutenção de privilégios de raça e de classe, reduzindo o
+multiculturalismo a “gerenciamento de diversidade”, um tipo de multiculturalismo Benetton que não
+ameaça o poder opressivo, mas, em vez disso, mercantiliza a diferença. Frequentemente, nos
+programas multiculturais de arte nas escolas, há um aspecto acrítico de ajuda missionária manifestado
+em vez de crítico. Não percebemos o outro graças a um ato de empatia, e sim ao entendermos o que o
+outro está dizendo, pensando, sentindo e também pela nossa habilidade de conversarmos com o outro
+(BARBOSA, Ana Mae. Arte/educação contemporânea – Consonâncias Internacionais. p. 260).
+
+Relacionando as imagens com as reflexões registradas, é possível inferir que
+a) as imagens A e B estimulam a tolerância à diversidade étnica e cultural, enquanto mercantilizam a
+   diferença, negando os privilégios de raça e de classe.
+b) as imagens A e B são apaziguadoras das desigualdades, negam o poder opressivo e são tolerantes
+   às diferenças, pois estimulam a habilidade de conversar com o outro.
+c) a opressão que incide sobre determinados grupos socioculturais é reduzida à medida que as
+   políticas públicas estimulam a tolerância às suas manifestações culturais.
+d) a imagem B, mesmo sem intencionalidade nenhuma, estimula a empatia e a tolerância à
+   diversidade étnica e cultural, incentivando o aspecto crítico.
+e) a imagem A reflete um multiculturalismo acrítico, demonstrando que, se não há diferenças de raça e
+   de classe, não há mercantilização.
+
+
+
+
+                                                                                                                           16
+SSA UPE – 1ª FASE                                                                               1º DIA
+As questões de 20 a 23 avaliam o conhecimento de língua estrangeira (Inglês ou Espanhol) de
+acordo com a sua opção de idioma indicado no ato da inscrição.
+
+Questões de 20 a 23 (Opção Inglês)
+
+Text 9 (for questions 20, 21, and 22)
+
+              How misinformation on social media has changed news
+
+
+
+
+                                      Misinformation on TikTok can get dangerous.
+
+1 When a tourist submersible lost contact during a dive to view the wreckage of the Titanic last month,
+  the international rescue operation caught the attention of millions around the world. The rescue
+  failed, and on June 25th, a video on TikTok broadcasted the screams of the passengers in their final
+  moments. In just 10 days, the video had 4.9 million viewers who heard the five victims’ last cries.
+
+2 Except they hadn’t. The audio wasn’t from the submersible at all – it was from the video
+  gameseries Five Nights at Freddy’s. But the TikTok went viral fast, and it spread a lot further than
+  the fact-checked truth.
+    On social media, news is entertainment
+3
+    Today, more than 8 in 10 Americans get their news on digital devices – beating out TV, radio or
+    print. Among 18–29-year-olds,social media is the most common news source. They aren’t the only
+    ones turning to platforms for information; 53% of Americans get at least some of their news from
+    social media.Twitter, Facebook, and TikTok have all become pseudo-news platforms.
+
+  When news started migrating to social media, it accelerated some of the changes already underway
+4 in the journalism industry. In the 50s and 60s, TV news in particular was more viewed by
+  broadcasters as a public service. In the 80s, however, entertainment conglomerates began buying
+  up networks and started expecting news networks to turn profits like other entertainment divisions.
+  With the shift to social media, these dynamics have intensified. When anyone can be a journalist,
+5 content is near-endless and easily capable of supplying social media feeds with hundreds of 24-hour
+  news cycles. Instead of opinion sections or dedicated programs for pundits, social feeds mix
+  opinions and facts together. And the more outlandish a story, the better it does.
+    With fast-paced, sensationalized news coverage and opinion-having taken to its extreme, more of
+6
+    what we see online is misinformation – content that simply gets the facts wrong. […]
+
+7
+    Why is there so much misinformation?
+    Anyone with a social media account can become a “news” source. For individuals and outlets
+    posting news, the goal is almost always to get seen by as many people as possible.
+
+
+                                                                                                     17
+SSA UPE – 1ª FASE                                                                                                              1º DIA
+    Researchers at MIT have found that fake news can spread up to 10 times faster than true reporting
+8
+    on social media. When explosive, misinforming posts go viral, their corrections are never as widely
+    viewed or believed. The outrageous “fact” that blasts through audiences is louder, stickier, and more
+    interesting than a follow-up correction. In the race between the false but interesting and the true but
+    boring, the interesting story wins.
+    By
+    Anastasia Micich - Intern, Don't Sell My Data campaign
+    R.J. Cross - Director, Don't Sell My Data Campaign, U.S. PIRG Education Fund
+                       Disponível em: https://pirg.org/edfund/articles/misinformation-on-social-media/ Acesso em: 22 jun. 2024. Adaptado.
+
+
+
+20. Acerca do Text 9, é CORRETO afirmar que
+
+a) defende uma ideia de forma enfática, com pouca atenção a dados, constituindo-se um artigo de
+   opinião.
+b) se organiza a partir de uma cronologia de fatos que compõem uma história verídica e recente.
+c) se baseia em fatos e dados confiáveis sobre um tema atual, constituindo um texto informativo.
+d) apresenta dicas e instruções para combater notícias falsas, sendo, assim, um texto instrucional.
+e) se estrutura a partir de um fato, seguido de vários outros, sendo, portanto, predominantemente
+   narrativo.
+
+21. Entre as afirmações a seguir, assinale a única que encontra respaldo nas ideias do Text 9.
+
+a) Quando as notícias começaram a migrar para as redes sociais, invalidaram algumas regras do
+   universo jornalístico.
+b) Entre uma narrativa falsa, mas interessante, e uma verdadeira, mas enfadonha, a história
+   interessante é a que vence.
+c) Quando postagens explosivas se tornam virais, os profissionais que as produzem nunca são
+   amplamente acreditados.
+d) Os adolescentes são os que mais recorrem às plataformas para obter informações, o que significa
+   53% somente nos EUA.
+e) Pesquisadores da Ásia descobriram que notícias falsas podem se espalhar até 10 vezes mais
+   rápido em fontes confiáveis.
+
+
+22. Sobre o 1º parágrafo do Text 9, considerando o contexto e a gramática da língua inglesa, é
+CORRETO afirmar que
+a) apresenta a maioria dos verbos no Simple Past, pois, nessa passagem do texto, há uma curta
+   narrativa.
+b) há alguns verbos no Simple Present e outros no Simple Past, porque se trata de uma matéria sobre
+   um tema polêmico e atual.
+c) contém vários verbos na Infinitive form, conferindo imparcialidade ao texto jornalístico, mas alguns
+   verbos estão no Simple Past.
+d) destaca características do processo de narrativas falsas, por isso há mais verbos no Simple Present
+   e alguns na infinitive form.
+e) apresenta vários advérbios de tempo, indicando que há uma ênfase em ações do cotidiano ou em
+   fatos recorrentes na sociedade.
+
+
+
+
+                                                                                                                                      18
+SSA UPE – 1ª FASE                                                                                                               1º DIA
+
+Text 10 (for question 23)
+
+                                                                           23. No último quadrinho, percebe-se a mudança
+                                                                           de tom da Lucy, personagem da tira cômica
+                                                                           Peanuts. Nesse sentido, ela deixa transparecer
+                                                                           sua percepção de que
+                                                                           a) nenhuma criança precisa da ajuda dos
+                                                                              adultos para as coisas básicas da vida.
+                                                                           b) é possível tomar decisões por impulso,
+                                                                              mesmo quando se é muito jovem.
+                                                                           c) não é possível acatar todas as ordens, nem
+                                                                              mesmo ela, uma criança tão sábia.
+                                                                           d) não é ainda uma pessoa autossuficiente,
+                                                                              embora ela seja dona da própria vida.
+                                                                           e) ninguém precisa gritar para o mundo que é
+                                                                              autossuficiente, basta saber sê-lo.
+
+ By CHARLES SCHULZ. Disponível em: https://br.pinterest.com/pin/17592254789452327/. Acesso em: 22 jun. 2024.
+
+
+
+Questões de 20 a 23 (Opção Espanhol)
+Texto para las cuestiones 20 y 21
+Texto 9
+Extraña forma de vida (sinopsis)
+Por María Aller
+
+Cuenta la historia de un hombre que cruza a caballo el desierto que le separa de Bitter Creek. Viene a
+visitar al Sheriff Jake. Veinticinco años antes ambos, el sheriff y Silva, el ranchero que cabalga a su
+encuentro, trabajaron juntos como pistoleros a sueldo. Silva viene con el pretexto de reencontrarse con
+su amigo de juventud, y en efecto celebran su encuentro, pero a la mañana siguiente el sheriff Jake le
+dice que la razón de su viaje no es el recuerdo de su vieja amistad…
+El título del mediometraje, que se ha rodado en el poblado que hace cincuenta años construyó Sergio
+Leone para rodar su trilogía del dólar con Clint Eastwood, alude al famoso fado de Amalia Rodrigues,
+cuya letra sugiere que no hay existencia más extraña que aquella que se vive de espaldas a tus propios
+deseos.
+                             Disponible en: https://www.fotogramas.es/noticias-cine/a40439930/pedro-almodovar-ethan-hawke-rodaje-espana/.
+                                                                                                        Acceso en: 09 julio 2024. Adaptado.
+
+20. El mediometraje Extraña forma de vida es el último trabajo del cineasta español Pedro Almodóvar.
+Tras la lectura de la sinopsis (Texto 9), considerando este género textual, elija la opción CORRECTA.
+
+a)   El texto comenta la última película del cineasta Pedro Almodóvar, de manera resumida, y la autora
+     asume, al final, una opinión acerca del tema.
+b)   El texto tiene el objetivo de informar sobre el contenido de la última película de Almodóvar, sin
+     hacer explícitos juicios de valor sobre el tema de la producción.
+c)   El texto es corto y objetiva informar, críticamente, sobre los aspectos más relevantes del asunto de
+     la última película de Almodóvar.
+d)   El texto expone, resumidamente, una visión general de la última película de Almodóvar. La
+     referencia al fado de Amalia Rodrigues concreta, explícitamente, la opinión de la autora.
+e)   El texto, aunque corto, concreta la opinión de la autora. Eso queda claro con el uso de las
+     reticencias al final del primer párrafo.
+                                                                                                                                      19
+SSA UPE – 1ª FASE                                                                                                                      1º DIA
+
+21. En la oración “trabajaron juntos como pistoleros a sueldo”, presente en el primer párrafo del texto, la
+expresión “a sueldo” significa trabajar
+a)     mediante un pago.
+b)     de modo incansable.
+c)     por demanda.
+d)     con seguridad.
+e)     sin garantías salariales.
+
+
+Texto para las cuestiones 22 y 23
+Texto 10
+Estilo Mar del Plata: cuál es el ingrediente que hace irresistibles a las medialunas de la ciudad
+balnearia
+Las medialunas marplatenses tienen un sabor único e irresistible: ¿será el agua?, ¿la manteca? ¿la
+fermentación de sus levaduras? Desde hace más de medio siglo, distintos maestros pasteleros
+desarrollan productos de máxima calidad siguiendo recetas que atesoran secretos y saberes de difícil
+acceso
+
+Si se oye un “qué ricas están” con el sonido del mar de fondo, hay altas probabilidades de que se esté
+hablando de las medialunas de Mar del Plata. La ciudad balnearia esconde uno de los secretos que a
+los argentinos les gustaría develar: por qué las medialunas de allí son tan ricas.
+La medialuna es un panificado dulce, perteneciente a la familia de las masas hojaldradas con levadura,
+al igual que el clásico croissant, el pain au chocolat o la cremona. Un producto que combina la
+capacidad de deshacerse en la boca del hojaldre con la esponjosidad del pan.
+
+Para empezar, todos los expertos consultados coincidieron en que los ingredientes básicos que siempre
+se utilizan en la preparación de las medialunas marplatenses son la manteca, la harina, la levadura, el
+azúcar, la leche, la miel y la vainilla, aunque cada maestro pastelero tiene su toque artesanal.
+     Disponible en: https://foodit.lanacion.com.ar/novedades-y-tendencias/estilo-mar-del-plata-cual-es-el-ingrediente-que-hace-irresistibles-a-las-
+                                                            medialunas-de-la-ciudad-nid29082024. Acceso en: 29 de agosto de 2024. Adaptado.
+
+22. ¿El Texto 10 mantiene su enfoque principal en cuál de los temas indicados a continuación?
+
+a)     El secreto de la gastronomía rioplatense.
+b)     El secreto de las ricas medialunas argentinas.
+c)     El secreto en la preparación de medialunas argentinas.
+d)     El secreto en la preparación de medialunas rioplatenses.
+e)     El secreto en la preparación de medialunas marplatenses.
+
+23. En “La ciudad balnearia esconde uno de los secretos que a los argentinos les gustaría develar: por
+qué las medialunas de allí son tan ricas.”, se puede afirmar que la presencia de palabra destacada allí
+indica que el autor del Texto 10 se encuentra ubicado
+
+a)     En Mar del Plata.
+b)     Cerca de Mar del Plata.
+c)     Próximo a Mar del Plata.
+d)     Lejos de Mar del Plata.
+e)     Un poco lejos de Mar del Plata.
+
+
+
+
+                                                                                                                                              20
+SSA UPE – 1ª FASE                                                                                                         1º DIA
+
+
+CIÊNCIAS HUMANAS E SOCIAIS APLICADAS
+Questões de 24 a 45
+
+24. Analise a imagem a seguir.
+                                                                       Ela foi organizada por Josué de Castro, grande cientista
+                                                                       recifense, que desmistificou o tema da fome no mundo.
+                                                                       Foi publicada no livro Geografia da Fome, que faz um
+                                                                       diagnóstico das causas e consequências da fome no
+                                                                       Brasil. Acerca de sua análise e conhecimento dos
+                                                                       ambientes brasileiros, identifique a alternativa CORRETA.
+                                                                       a) O Meio Norte nordestino, local com a presença da
+                                                                          Mata dos Cocais, é uma área de subnutrição, em
+                                                                          razão da dieta local ser concentrada no babaçu e
+                                                                          carnaúba.
+                                                                       b) O Sertão nordestino corresponde a uma área de
+                                                                          epidemias de fome, mesmo com a presença de rios e
+                                                                          açudes intermitentes e uma floresta úmida densa.
+                                                                       c) O litoral do Sudeste é uma área de subnutrição,
+                                                                          mesmo com o predomínio da savana estépica, com
+                                                                          precipitação em torno de 500mm/ano e terra roxa
+                                                                          abundante.
+                                                                       d) Os pampas sulistas são uma área de subnutrição,
+                                                                          apesar da Mata de Araucárias, dos solos férteis, com
+                                                                          importante produção de arroz e do clima tropical.
+                                                                       e) A Zona da Mata nordestina corresponde a uma área
+                                                                          de fome endêmica, mesmo com a presença da Mata
+                                                                          Atlântica, de uma rica rede hidrográfica e solos férteis.
+Disponível em: https://revistapesquisa.fapesp.br/as-raizes-da-fome/.
+Acesso em: 15 jul. 2024. Adaptado.
+
+
+25. Analise as imagens a seguir.
+
+
+
+
+                          Disponíveis em: https://revistapesquisa.fapesp.br/aquecimento-/. Acesso em: 12 jul. 2024.
+
+
+                                                                                                                                21
+SSA UPE – 1ª FASE                                                                             1º DIA
+Elas revelam alterações ambientais em regiões brasileiras em função de novas dinâmicas da natureza.
+Assinale a alternativa que apresenta CORRETAMENTE a análise dessas alterações.
+a) Observa-se uma redução do clima subúmido seco no Brasil.
+b) Processou-se um avanço do clima semiárido sobre o Norte.
+c) Verifica-se uma expansão da aridez no interior do Nordeste.
+d) Transcorreu o surgimento do clima árido nos Pampas.
+e) Sucedeu uma supressão da semiaridez no Nordeste e Sul.
+
+
+26. A imagem ao lado é da série O Capirotinho, do
+cartunista mineiro Guilherme Infante.
+
+
+Ela ilustra um elemento fundamental à construção
+do conhecimento histórico, a
+
+a) imutabilidade.
+b) heroicização.
+c) mitologização.
+d) efemeridade.
+e) santimônia.
+
+
+
+
+                                                      Disponível em:
+     https://web.facebook.com/Capirotinho/photos/5291071414237621.
+                                            Acesso em: 17 abr. 2023.
+
+
+
+27. Leia o texto a seguir.
+                                                          Eu, Etiqueta
+                                       Em minha calça está grudado um nome
+                                      que não é meu de batismo ou de cartório,
+                                               um nome... estranho.
+                                        Meu blusão traz lembrete de bebida
+                                        que jamais pus na boca, nesta vida.
+                                       Em minha camiseta, a marca de cigarro
+                                         que não fumo, até hoje não fumei.
+                                           Minhas meias falam de produto
+                                              que nunca experimentei
+                                         mas são comunicados a meus pés.
+                                       (Corpo. São Paulo: Companhia das Letras, 2015. p.53)
+
+Esse trecho da poesia de Carlos Drummond reflete uma tendência nos padrões de costumes e valores
+contemporâneos que a globalização econômica e social reforçou como um fenômeno típico da cultura
+a) popular.
+b) dos povos originários.
+c) de massa.
+d) humanística moderna.
+e) clássica ocidental.
+
+                                                                                                  22
+SSA UPE – 1ª FASE                                                                                                             1º DIA
+
+28. Analise o perfil esquemático a seguir.
+
+
+
+
+   Fonte: TABARELLI, M; SANTOS, A. M. M. Uma breve descrição sobre a história natural dos brejos nordestinos. In: Brejos de altitude em
+     Pernambuco e Paraíba: História natural, ecologia e conservação. PORTO, Katia C.; CABRAL Jaime J.P; TABARELLI, Marcelo (Orgs.).
+                                                                                          Brasília: Ministério do Meio Ambiente, 2004.
+
+A área em destaque corresponde a um ambiente importante no interior do Nordeste. São localidades cujo
+aspecto natural favorece o setor turístico com a promoção de festivais, com a capacidade de atração de
+grandes contingentes em razão das suas características climáticas. Acerca das características dessas
+localidades, assinale a alternativa CORRETA.
+a) São áreas de altitude no território, em especial no de Pernambuco e no da Paraíba, pertencentes ao
+   domínio morfoclimático dos mares de morros e com vegetação xerófila.
+b) São áreas de exceção no Agreste, com bolsões florestais úmidos associados à ocorrência de planaltos e
+   chapadas com temperaturas mais baixas durante o inverno.
+c) São áreas anecúmenas em regiões serranas e colinosas, cujos solos férteis e clima ameno favorecem o
+   surgimento de espécies vegetais similares às da Mata Atlântica.
+d) São áreas inóspitas no Planalto da Borborema com uma vegetação adaptada a uma condição climática
+   mais úmida, com rios intermitentes e solos ricos em sais.
+e) São áreas localizadas em pontos altos da Depressão Sertaneja e São Franciscana, onde chove bastante
+   e desenvolve-se com frequência a vegetação esclerófila.
+
+29. Observe a chamada da edição de um jornal espanhol.
+
+
+
+
+        Disponível em: https://www.elconfidencial.com/alma-corazon-vida/2021-10-13/teorias-de-la-conspiracion-aliens-racismo-egipto.
+                                                                                                           Acesso em: 10 jun. 2024.
+
+                                                                                                                                       23
+SSA UPE – 1ª FASE                                                                                                                  1º DIA
+
+O articulista expõe como alguns artefatos antigos são alvo de especulações envolvendo alienígenas, e
+outros, não. Sobre tais alegações, é CORRETO dizer que
+a) a tecnologia construtiva de monumentos como o pártenon ou o coliseu alimentam especulações.
+b) narrativas assim recaem sobre monumentos de culturas não europeias, indicando o preconceito
+   dessas teorias.
+c) a incapacidade da ciência moderna de revelar as tecnologias construtivas da antiguidade torna
+   compreensíveis as alegações.
+d) não há como antigas civilizações terem construído monumentos tão grandes com sua limitada
+   tecnologia.
+e) culturas do hemisfério sul, como a da Nazca, não tinham populações suficientemente grandes para
+   tais empreitadas.
+
+30. Leia o texto a seguir.
+
+O naufrágio de Uluburun (século XIV a.C.) se tornou fonte de uma gigantesca pesquisa e expedição,
+ganhando fama ao longo do tempo por ser um dos navios mais antigos já descobertos. [...] Os
+pesquisadores identificaram sua carga e descobriram que pertencia a sete culturas diferentes:
+micênica, sírio-palestiniana, cipriota, egípcia, cassita, assíria e núbia.
+                                             MATTEO, G. de. (2020). Joias e menção a Nefertit: o valioso naufrágio de Uluburun (adaptado).
+  Disponível em: https://aventurasnahistoria.uol.com.br/noticias/reportagem/joias-e-mencao-a-nefertit-o-valioso-naufragio-do-uluburun.phtml.
+                                                                                                                    Acesso em: 06/05/2024.
+
+A pesquisa sobre esse naufrágio aponta para
+
+a) o relativo isolamento afro-asiático na antiguidade.
+b) a preponderância dos grandes impérios sobre cidades-estados.
+c) o favorecimento do comércio terrestre em detrimento do marítimo.
+d) a existência de redes econômicas de interconexão entre três continentes.
+e) o domínio de estados africanos e asiáticos sobre europeus.
+
+31. Leia o trecho da letra da música a seguir e analise a notícia.
+
+Purificar o Subaé
+
+Purificar o Subaé
+Mandar os malditos embora
+Dona da água doce quem é
+Dourada rainha senhora
+O amparo do Sergimirim
+Rosário dos filtros da aquária
+Dos rios que deságua em mim
+Nascente primária
+
+Os riscos que corre essa gente, morena
+O horror de um progresso vazio
+Matando os mariscos, os peixes do rio
+Enchendo meu canto de raiva e de pena
+
+Compositor: Caetano Veloso
+
+
+
+
+                                                          Disponível em: https://g1.globo.com/bahia/noticia/2014/04. Acesso em: 03 jul. 2024.
+
+                                                                                                                                          24
+SSA UPE – 1ª FASE                                                                                                       1º DIA
+Subaé é um rio que corta o estado da Bahia e nasce no município de Feira de Santana, passa por
+Santo Amaro da Purificação, deságua na Bahia de todos os Santos e tem como um de seus afluentes
+o rio Sergimirim. Ao analisar o que está escrito no trecho da música e na notícia, é CORRETO afirmar
+que
+a)   os riscos referidos na letra da música estão relacionados às enchentes e inundações do rio Subaé.
+b)   a fábrica de chumbo em Santo Amaro da Purificação desenvolve atividades do setor terciário da
+     economia .
+c)   o despejo de chumbo na bacia do Rio Subaé acarretou problemas ambientais, sociais e de saúde
+     pública.
+d)   os “malditos” citados na canção correspondem à população ribeirinha que gera impacto no rio Subaé.
+e)   a mineradora que atuou por 30 anos em Santo Amaro realizou o processo de despoluição da bacia.
+
+32. Rüdiger Safranski, no primeiro capítulo de sua famosa biografia de Heidegger, faz menção a uma
+frase desse reconhecido filósofo contemporâneo que ajuda a explicitar duas características
+importantes da filosofia e da prática filosófica. Heidegger considera que:
+Talvez a filosofia mostre mais insistente e duradouramente como o ser humano é principiante. Filosofar
+em última análise não é senão ser um principiante.
+                            SAFRANSKI, R. Heidegger, um mestre da Alemanha entre o bem e o mal, São Paulo: Geração, 2000. p. 27.
+
+De fato, a ideia de que o filósofo é um principiante nos lembra do caráter aberto e da radicalidade da
+atitude e da prática filosófica que nos educa para
+a) o aprendizado permanente e o compromisso com a investigação dos fundamentos da realidade.
+b) nos tornarmos donos da verdade e defensores do conhecimento produzido pelo senso comum.
+c) o aprendizado e defesa de opiniões e o compromisso com o conhecimento produzido pelo senso
+   comum.
+d) o aprendizado permanente e compromisso com o conhecimento produzido pelo senso comum.
+e) nos tornarmos donos da verdade e comprometidos com a investigação dos fundamentos da
+   realidade.
+
+33. Observe o mapa-múndi a seguir.
+
+
+
+
+             Disponível em: https://educa.ibge.gov.br/images/mapas/pdf/mundo-paises-g20.pdf. Acesso em: 26 jul. 2024.
+                                                                                                                             25
+SSA UPE – 1ª FASE                                                                                                      1º DIA
+
+
+O IBGE, no ano de 2024, lançou um mapa-múndi especial para a reunião do G20 que aconteceu no
+Brasil. Nessa representação especial, percebe-se que a partir da observação desse mapa é CORRETO
+afirmar que
+a)   houve um deslocamento das placas tectônicas da Eurásia.
+b)   é evidente a proximidade entre a Rússia e os Estados Unidos.
+c)   o Brasil se destaca no mapa por sua importância ambiental.
+d)   a projeção cônica é responsável por essa nova representação.
+e)   esse mapa apresenta uma nova representação das fronteiras.
+
+34. O pioneirismo da chegada dos seres humanos ao continente americano tem sido objeto de
+debates há séculos, e o meme a seguir apresenta, ironicamente, três postulações:
+
+
+                                                                               A abordagem irônica do meme reafirma a
+                                          Genovês, 1492:
+                                          Eu descobri a América!               a) narrativa eurocêntrica da descoberta
+                                                                                  da América.
+                                                                               b) teoria do povoamento tendo como via
+                                                                                  as ilhas do Atlântico.
+                                                                               c) primazia     dos     escandinavos na
+                                          Norueguês antigo, 1000:                 chegada à América do Norte.
+                                          E nós aqui?                          d) proposta de Gavin Menzies sobre a
+                                                                                  navegação chinesa.
+                                                                               e) antiguidade milenar da presença
+                                                                                  indígena e dos seus antepassados.
+
+
+
+                                          Protoesquimó, 16.000
+                                          a.C.: Vocês tão de
+                                          brincadeira, né?
+
+      Disponível em: https://web.facebook.com/photo/?fbid=10220879313307469&set=a.3715513481273. Acesso em: 10 jun. 2024.
+
+
+35. Observe a imagem de satélite a seguir.
+
+
+
+
+               Disponível em: https://www.google.com.br/maps/search/foz+do+sao+Francisco. Acesso em: 01 jun. 2024.
+                                                                                                                            26
+SSA UPE – 1ª FASE                                                                                                                  1º DIA
+
+Essa imagem corresponde à foz do Rio São Francisco. Sobre os aspectos geomorfológicos existentes
+nesse recorte, é CORRETO afirmar que a área é composta por
+a)   restinga, ou seja, uma faixa de sedimentos arenosos paralela à linha de praia.
+b)   baía, ou seja, entrada no continente de água do mar cercada por terra em três lados.
+c)   depressão, ou seja, superfície de erosão mais baixa do que as terras vizinhas.
+d)   falésia, ou seja, relevo rochoso a beira mar formado pela erosão marinha.
+e)   planície, ou seja, área pouco elevada formada por acúmulo de sedimentos.
+
+36. Observe a imagem a seguir.
+
+                                                            A obra Um homem ferido, figura presente em diversos
+                                                            manuscritos e livros impressos. Seu “propósito exato
+                                                            permanece um tanto misterioso, mas presumivelmente
+                                                            serviu como um lembrete dos ferimentos aos quais o
+                                                            corpo humano é propenso”. A precisão anatômica do
+                                                            desenho desmente a interpretação vulgar que caracteriza
+                                                            a Idade Média como
+                                                            a)    a Era da Cavalaria.
+                                                            b)    intervalo entre Antiguidade e Modernidade.
+                                                            c)    a Idade das Trevas.
+                                                            d)    o nascimento do Ocidente.
+                                                            e)    a Idade da religião.
+
+
+
+
+Disponível em: https://wellcomecollection.org/works/tp6fppqz/items. Acesso em: 17/04/23.
+
+
+37. Leia a seguir o trecho do artigo Crítica e ideologia em tempos de “pós-verdade”.
+Alguns consideram que o discurso da pós-verdade corresponde a uma suspensão completa da
+referência a fatos e verificações objetivas, substituídas por opiniões tornadas verossímeis apenas à
+base de repetições, sem confirmação de fontes. Penso que o fenômeno é mais complexo que isso.
+Afinal, ele envolve uma combinação calculada de observações corretas, interpretações plausíveis e
+fontes confiáveis em uma mistura que é, no conjunto, absolutamente falsa e interesseira. Não se trata,
+portanto, de pedir ao interlocutor que acredite em premissas extraordinárias ou contraintuitivas, mas
+sim de explorar preconceitos que o destinatário já cultiva e que, gradualmente, nos levam a confirmar
+conclusões tendenciosas.
+                                                                 Por Christian Ingo Lenz Dunker, Blog da Boitempo, 17/5/2017
+                                             Disponível em: https://www.ip.usp.br/site/noticia/critica-e-ideologia-em-tempos-de-pos-verdade/.
+                                                                                                                      Acesso em: 21 abr. 2024
+
+Podemos compreender, após a leitura do texto de Dunker, que, entre as inúmeras causas indutoras do
+fenômeno da pós-verdade, estão
+
+
+
+
+                                                                                                                                          27
+SSA UPE – 1ª FASE                                                                                                                   1º DIA
+
+38. Analise atentamente o mapa a seguir.
+
+
+
+
+                            Disponível em: https://kids.britannica.com/kids/article/Ibn-Battutah/598852. Acesso em: 10 jun. 2034.
+
+
+Ele rastreia os principais trajetos de Ibn Batuta, um viajante marroquino que conheceu boa parte do mundo
+conhecido de então. O mapa revela
+a)
+b)
+c)
+d)
+e)
+
+39. Observe a imagem a seguir.
+                                                      Ela desperta para uma problemática atual relativa à produção e ao
+                                                      consumo de bens. É CORRETO afirmar sobre a questão em pauta,
+                                                      que ela retrata
+                           Teu
+                           smartphone                 a)     as mortes causadas pela extração mineral e guerras pelo controle
+                           está
+                           manchado
+                                                             das minas, geradas pela falta de regulação dos importadores,
+                           de sangue                         além da grande carga de resíduos para um único produto.
+                                                      b)     o desperdício no consumo dos smartphones, que são atualizados
+                                                             anualmente gerando uma grande carga de resíduos para o meio
+                                                             ambiente, provocando a extinção de diversas espécies.
+                                                      c)     o prejuízo econômico que os países da África do Norte sofrem
+     2 anos é o
+                                                             com a exploração irregular de minérios para produção de peças de
+     período                                                 smartphones dentre outros produtos eletrônicos.
+     médio de                                         d)     o impacto ambiental gerado pela comercialização de smartphones
+     sua vida útil
+                     É mochila                               em países da Europa, o que provoca mortes na fauna e destruição
+                     ecológica do teu                        da vegetação nativa de países da África Subsaariana.
+     aparelho
+                     smartphone
+                                                      e)     a injustiça ambiental no processo de produção dos smartphones,
+                                                             que destrói o meio ambiente local, remunera pouco a população
+                                                             empregada no setor e ainda gera refugiados ambientais.
+Disponível em:
+https://www.ihu.unisinos.br/categorias/
+589933-enlazate-por-la-justicia-avisa-seu-
+celular-esta-manchado-de-sangue.
+Acesso em: 14 jul. 2024.
+
+                                                                                                                                        28
+SSA UPE – 1ª FASE                                                                               1º DIA
+
+40. O poema grego Batracomiomaquia (A luta das Rãs contra os Ratos), erroneamente atribuído a
+Homero, satirizava os grandes épicos poéticos da Grécia. Em um de seus trechos, lemos:
+     Havia entre os ratos o Rouba-parte, superior a todos,
+     caro filho do Roedor, irrepreensível Espreita-pão.
+     Indo à casa exortou o filho a entrar na luta.
+     Ele mesmo, de pé, orgulhoso, ia ao lago.
+     Ameaça anular a raça das rãs,
+     rompeu uma casca de noz ao meio, duas partes [...]
+     Homero. Batracomiomaquia, 260-265.
+
+
+Esse trecho do poema satiriza uma das figuras literárias mais importantes da Grécia Antiga:
+a)
+b)
+c)
+d)
+e)
+
+
+41. A compreensão moderna do homem que redimensiona a perspectiva de que ele é o ser que é a
+medida de todas as coisas, seja quanto ao seu ser e a sua verdade, tem a sua base histórico-filosófica
+e sistemática iniciada com o pensamento filosófico de
+a)    Sócrates.
+b)    René Descartes.
+c)    Karl Marx.
+d)    Augusto Comte.
+e)    Theodor Adorno.
+
+
+42. Analise a imagem a seguir.
+                                                             Ela revela uma obra pública voltada para o
+                                                             desenvolvimento    do    Nordeste.    Sua
+                                                             construção trouxe uma série de debates
+                                                             para a região. Acerca dessa obra e dos
+                                                             debates provocados por ela, assinale a
+                                                             alternativa CORRETA.
+
+
+
+                                                             Barragem de Sobradinho – BA
+
+
+a)    Foi uma ação desenvolvida com objetivo de armazenar água e combater a seca no Sertão,
+      gerando prejuízos econômicos para a atividade pesqueira na região.
+b)    Foi uma cooperação interministerial para promover a transposição de águas do rio São Francisco
+      para outras regiões do Nordeste, impactando severamente a vegetação.
+c)    Foi um programa envolvendo os Estados da Bacia do rio Sobradinho, voltado para produção de
+      energia e agronegócio, com prejuízos para a agricultura familiar local.
+d)    Foi um projeto desenvolvido no rio São Francisco, que resultou na inundação de várias cidades,
+      com impactos no ambiente e migração involuntária de milhares de pessoas.
+e)    Foi um produto da engenharia moderna, voltado para armazenar água no semiárido baiano,
+      enquanto produzia energia para as capitais, sem beneficiar as cidades locais.
+
+                                                                                                     29
+SSA UPE – 1ª FASE                                                                                            1º DIA
+
+43. Leia a notícia a seguir.
+
+
+
+                                                                        Sobre o fenômeno noticiado, é CORRETO
+                                                                        afirmar que
+
+                                                                        a) as chuvas que o ocasionaram são resultado
+                                                                           de semeadura de nuvens.
+                                                                        b) Dubai localiza-se em zona de clima
+                                                                           mediterrâneo com fortes chuvas na
+                                                                           primavera.
+                                                                        c) o aumento das temperaturas globais tem
+                                                                           causado furacões no Oriente Médio.
+                                                                        d) as inundações na cidade de Dubai são
+                                                                           reflexo da falta de planejamento urbano.
+                                                                        e) as mudanças climáticas têm ocasionado
+                                                                           tempestades em áreas de clima desértico.
+
+
+
+ Disponível em:https://www.cnnbrasil.com.br/internacional/dubai-fica-
+ debaixo-dagua-apos-registrar-volume-de-chuva-esperado-para-ano-
+ inteiro/. Acesso em: 01 jun. 2024.
+
+
+
+44. Leia o trecho a seguir.
+
+                                             INSCRIÇÃO PARA UMA LAREIRA
+
+                                                  A vida é um incêndio: nela
+                                              dançamos, salamandras mágicas.
+                                                 Que importa restarem cinzas
+                                                  se a chama foi bela e alta?
+                                              Em meio aos toros que desabam,
+                                               cantemos a canção das chamas!
+                                                 Cantemos a canção da vida,
+                                                 na própria luz consumida…
+                                                                        Mario Quintana
+                        (Poesia Completa, Rio de Janeiro: Nova Aguilar, 2005, p. 490)
+
+Podemos identificar uma correlação da compreensão da vida retratada na poesia Inscrição para uma
+lareira, de Mário Quintana, com a cosmovisão do filósofo Heráclito sobre o fogo.
+Assinale a alternativa que registra CORRETAMENTE essa correlação com a simbologia do fogo.
+
+
+
+
+                                                                                                                 30
+SSA UPE – 1ª FASE                                                                                                  1º DIA
+45. Leia o seguinte texto:
+
+Um comentário muito particular aos temores já existentes surgiu no âmbito do gênero profético, um
+produto já tradicional, mas com enorme impacto a partir dos complexos movimentos sociopolíticos [...].
+O ano 700 da criação do mundo, 1492 segundo o cômputo bizantino, era desde há muito assinalado
+com temor ou esperança por judeus e cristãos; e também entre os muçulmanos, que no ano entre
+1494-1495 entrariam no século X da Hégira, apareceu uma predição que, com a queda de Granada,
+viria o fim do mundo.
+                                  Taboada, H. G. H. (2004). La sombra del Islam em la conquista de America, p. 136. Adaptado.
+
+
+O texto mostra que, nas culturas monoteístas medievais, a contagem do tempo
+
+a) funcionava como forma de opor uma determinada cultura às demais.
+b) operava exclusivamente como medida e cálculo da passagem do tempo.
+c) protegia minorias religiosas das perseguições durantes certas épocas.
+d) favorecia os sábios, responsáveis por sua elaboração, cálculo e projeção.
+e) envolvia crenças religiosas e místicas, acentuadas em momentos específicos.
+
+
+
+
+                                                                                                                          31
+SSA UPE – 1ª FASE                                                                            1º DIA
+
+
+
+
+                                   ATENÇÃO!
+
+1.   Abra este Caderno apenas quando o Aplicador de Provas autorizar o início da Prova.
+2.   Observe se o Caderno de Prova está completo. Ele deverá conter 45 (quarenta e cinco) questões
+     de múltipla escolha distribuídas entre as áreas de conhecimento de Linguagens e suas
+     Tecnologias e de Ciências Humanas e Sociais Aplicadas e suas Tecnologias.
+3.   Nas questões da opção de Língua Estrangeira (Inglês ou Espanhol), responda apenas àquelas
+     referentes à língua pela qual você optou. (Consta no seu Cartão de Identificação)
+4.   Se o Caderno de Prova estiver incompleto ou com algum defeito gráfico que lhe cause dúvidas,
+     informe imediatamente ao Aplicador de Provas.
+5.   Uma vez dada a ordem de início da Prova, preencha, nos espaços apropriados, o Nome do
+     prédio e o Número da sala, o seu Nome completo, o Número do Documento de Identificação,
+     o Órgão Expedidor, a Unidade da Federação e o seu Número de Inscrição.
+6.   Para registrar as alternativas escolhidas nas questões da Prova, você receberá um Cartão-
+     Resposta de Leitura Ótica. Verifique se o Número de Inscrição impresso no Cartão coincide com
+     o seu Número de Inscrição.
+7.   As bolhas constantes do Cartão-Resposta referentes às questões de múltipla escolha devem ser
+     preenchidas totalmente com caneta esferográfica azul ou preta.
+8.   Você dispõe de 4 horas para responder à Prova, incluído o tempo destinado ao preenchimento do
+     Cartão-Resposta.
+9.   É permitido, após 3 horas do início da Prova, você retirar-se do prédio conduzindo o seu Caderno
+     de    Prova,    devendo,     no     entanto,    entregar     ao    Aplicador    de    Provas   o
+     Cartão-Resposta preenchido.
+10. Caso você não opte por levar o Caderno de Prova consigo, entregue-o ao Aplicador de Provas,
+    não podendo, sob nenhuma alegação, deixar o Caderno em outro lugar do recinto de aplicação
+    das provas.
+11. Não será permitido, durante a realização das provas,
+      comunicar-se com outros candidatos sob hipótese alguma;
+      levantar-se da cadeira sem a devida autorização do Aplicador de Provas; e/ou
+      consultar anotações ou livros bem como acessar, no recinto, qualquer espécie de aparelho de
+       comunicação, aparelhos celulares (mesmo desligados), equipamentos auxiliares de
+       memória ou outros de qualquer natureza.
+
+
+
+                                       BOA PROVA!
+
+
+
+                                                                                                  32
+

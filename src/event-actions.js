@@ -28,6 +28,7 @@ export function bindEventActions(calendar, onOpen) {
     if (activePointers.size > 1) return;
     const element = event.target.closest?.('.event');
     if (!element || !calendar.contains(element) || !['touch', 'pen'].includes(event.pointerType)) return;
+    if(calendar.classList.contains('touch-range-enabled'))return;
     press = {element, id: event.pointerId, x: event.clientX, y: event.clientY, fired: false};
     element.classList.add('press-pending');
     const current = press;
@@ -66,6 +67,7 @@ export function bindEventActions(calendar, onOpen) {
     if (press?.fired) return;
     const touch = !!press || event.pointerType === 'touch' || event.pointerType === 'pen';
     if (press) { clearTimeout(press.timer); press.fired = true; press.element.classList.remove('press-pending'); }
+    if (touch && calendar.classList.contains('touch-range-enabled')) return;
     if (touch) suppressRelease();
     open(element, event, touch);
   }, {signal});

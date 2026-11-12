@@ -1,0 +1,1182 @@
+ CADERNO DE PROVAS
+            MATEMÁTICA E SUAS TECNOLOGIAS
+CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS
+
+
+                    DADOS DE IDENTIFICAÇÃO DO CANDIDATO
+                  Não deixe de preencher as informações a seguir.
+Prédio                                                                    Sala
+
+
+Nome
+
+
+
+
+Nº de Inscrição            Nº do Documento de Identificação         Órgão Expedidor   UF
+SSA UPE – 1ª FASE   2º DIA
+
+
+
+
+                         2
+SSA UPE – 1ª FASE                                                                                                                         2º DIA
+
+     MATEMÁTICA E SUAS TECNOLOGIAS
+     Questões de 01 a 22
+
+
+1. Leia o texto a seguir.
+
+A taxa de desemprego que fechou o ano de 2023 representa o menor patamar registrado desde 2014
+e uma queda de 1,8 pontos percentuais em relação a 2022 (9,6%). No trimestre encerrado em
+dezembro, a taxa de desocupação chegou a 7,4%, um recuo de 0,3 ponto percentual em comparação
+com o trimestre de julho a setembro. Os dados são da Pesquisa Nacional por Amostra de Domicílios
+Contínua (Pnad Contínua).
+     Disponível em: https://www.gov.br/secom/pt-br/assuntos/noticias/2024/01/taxa-de-desemprego-fecha-2023-em-7-8-menor-patamar-desde-
+                                                                                                 2014. Acesso em: 25 jul. 2024. Adaptado.
+
+Com base nas informações, analise o gráfico a seguir, que apresenta a taxa de desemprego do
+período de janeiro-fevereiro-março de 2023 a novembro-dezembro-janeiro de 2024.
+
+                                         TAXA DE DESEMPREGO POR TRIMESTRE
+
+
+
+
+           Brasil. Instituto Brasileiro de Geografia e Estatística (IBGE). Pesquisa Nacional por Amostra de Domicílios Contínua. Disponível em:
+                                                                      https://www.ibge.gov.br/estatisticas/sociais/trabalho. Acesso em: 25 jul. 2024.
+
+Quais são aproximadamente a média, a mediana e a moda, nessa ordem, de desemprego no período
+apresentado pelo gráfico?
+
+a)     8,5; 7,8; 7,4
+b)     8,3; 7,7; 7,6
+c)     7,9; 7,8; 7,6
+d)     7,7; 7,6; 7,5
+e)     7,6; 7,5; 7,4
+
+
+
+
+                                                                                                                                                   3
+SSA UPE – 1ª FASE                                                                                             2º DIA
+2. Henrique, arquiteto paisagista, utiliza a fórmula a seguir para calcular os seus honorários (H), em
+reais, quando elabora um projeto de tratamento de uma área, em metros quadrados, com detalhes
+como tipos e quantidades de plantas e materiais.
+
+                               H=
+Qual é o valor dos honorários cobrados por Henrique no tratamento de um jardim cuja área mede
+1.600 m2?
+
+     R$ 8.400,00
+     R$ 8.600,00
+     R$ 9.000,00
+     R$ 9.200,00
+     R$ 9.400,00
+
+
+3. Leia o texto a seguir.
+Buraco marinho mais profundo do mundo é descoberto no México
+Na Península Yucatán, no México, próximo ao Sistema Mesoamericano de Barreira de Corais e
+rodeado pelas águas do Caribe, está o maior buraco azul do mundo, o Taam-Ja’. O Taam-Ja’ tem uma
+forma quase cilíndrica que chega a 13.690 m².
+Disponível em: https://www.cnnbrasil.com.br/internacional/buraco-marinho-mais-profundo-do-mundo-e-descoberto-no-mexico.
+                                                                                               Acesso em: 29 jun. 2024.
+
+Considerando a área do círculo formado por esse buraco, qual é a medida aproximada, em metros, do
+raio do Taam-Já’?
+a)   66
+b)   60
+c)   58
+d)   48
+e)   46
+
+
+4. Ana está organizando um sorteio e para isso ela está fazendo experimentações. Em uma urna são
+colocados 1.000 cartões iguais, conforme o exemplo da figura a seguir. Numa primeira vez, Ana retira
+10 cartões da urna; na segunda vez, ela retira 30 cartões; na terceira vez, ela retira 50 cartões, e assim
+por diante. Ana continua aumentando em 20 a quantidade de cartões em cada uma de suas retiradas.
+
+
+
+
+Nesse movimento contínuo, depois de quantas retiradas Ana conseguirá esvaziar a urna?
+a) 18
+b) 16
+c) 14
+d) 12
+e) 10
+
+                                                                                                                     4
+SSA UPE – 1ª FASE                                                                           2º DIA
+
+5. João e José são amigos e costumam jogar bolas de gude quando estão no intervalo da escola.
+Ao término de uma partida, após ganhar, João disse para José: se você me der 1/5 de suas bolas, eu
+ficarei com uma quantidade igual ao dobro de bolas que restará para você. Por outro lado, se eu lhe
+der seis bolas da quantidade que eu tenho, nós ficaremos com a mesma quantidade.
+Quantas bolas de gude possuem João e José, respectivamente?
+
+a)   40 e 32
+b)   42 e 30
+c)   40 e 28
+d)   38 e 26
+e)   36 e 24
+
+
+
+
+6. Um agricultor está experimentando montar cercas quadradas com arame farpado para proteger os
+jardins de sua propriedade dos animais. Ele cortou pedaços de arame farpado de 12 metros em duas
+partes com tamanhos diferentes e construiu, com cada uma delas, cercas com formas de quadrados.
+As imagens a seguir são meramente ilustrativas para dar noção da atividade que o agricultor está
+realizando.
+
+
+
+
+Se a soma das áreas dos quadrados construídos pelo agricultor é de 5 m2, qual é o comprimento, em
+metro, das partes de arames utilizadas para construir as cercas como maior área?
+
+a)
+b)
+
+d)
+e)
+
+
+
+
+                                                                                                  5
+SSA UPE – 1ª FASE                                                                                                 2º DIA
+
+7. Dois pequenos reservatórios d’água R e S, com formas de paralelepípedos retangulares retos, têm
+as dimensões proporcionais cuja constante de proporcionalidade é igual a 3/4.
+Se, no reservatório R, cabem 640 litros de água, qual é a quantidade de água, em litros, que cabe no
+reservatório S?
+
+a) 240
+b) 250
+c) 260                                                          R                                             S
+d) 270
+e) 280
+
+
+
+
+8. A função a seguir, que está definida por mais de uma sentença, é conhecida como função de
+Dirichlet (1805 – 1859):
+
+“Uma função f(x) é tal que: f(x) = 0, se x é racional e f(x) = 1, se x é irracional”
+Pela definição dada, que expressa a correspondência entre duas variáveis e utiliza a teoria de
+conjuntos para expressar tal correspondência, vê-se que, dependendo da natureza do número real
+(racional ou irracional), a sua imagem poderá ser igual a 1 ou igual a 0.
+Considerando a função de Dirichlet, qual é o valor da expressão?
+                                  4 × f(      + 3 × f(2) + 6 × f(1/2) + 10 × f(π)?
+a) 16
+b) 15
+c) 14
+d) 10
+e) 8
+
+
+9. Leia o texto a seguir.
+
+A aparência curvada da trajetória de um Foguete.
+Os lançamentos de foguetes têm uma trajetória aparentemente curvada, porque seu objetivo não é
+apenas alcançar o espaço, mas também entrar na órbita da Terra. Para isso, um foguete precisa
+ganhar uma velocidade horizontal suficiente, paralela à superfície da Terra.
+                            Disponível em: https://terraplana.ws/trajetoria-de-um-foguete Acesso em: 30/07/2024. Adaptado.
+
+Considerando a perspectiva tratada no texto, de um ponto O, do solo, foi lançado um pequeno
+foguete F que descreve uma trajetória parabólica representada pela função quadrática
+         x2
+y            4 x , com x e y com medidas em metros.
+        200
+
+Qual foi a altura máxima atingida por F, em metros?
+
+a) 800
+b) 780
+c) 640
+d) 600
+e) 580
+                                                                                                                        6
+SSA UPE – 1ª FASE                                                                                2º DIA
+
+10. Na construção da sequência formada pelas figuras 1, 2, 3 e 4, que será utilizada como logomarca
+de um evento de matemática numa Universidade, um quadrado é dividido em quatro partes iguais e
+pintam-se duas dessas partes. Isso é feito sucessivamente até chegar à figura 4.
+
+
+ A              B          A              B        A              B        A              B
+
+
+
+
+ D              C          D              C        D              C        D              C
+     Figura 1                  Figura 2                Figura 3                Figura 4
+
+Se a medida da área do quadrado ABCD é de 16 cm2, quanto vale a soma das medidas das áreas dos
+quatro quadrados de cor branca da figura 4?
+
+
+
+
+11. Plano cartesiano é um método criado pelo filósofo e matemático francês, René Descartes, sendo
+utilizado como instrumento de localização. Uma das aplicações que se assemelham à estrutura do
+plano cartesiano é o sistema de coordenadas geográficas, que indica a localização de um ponto sobre
+a superfície terrestre. Num sistema cartesiano ortogonal, os pontos A (1; 1), B (1; 4) e C (5; 1) são os
+vértices de um triângulo ABC.
+
+Importante! Você pode utilizar a malha quadriculada a seguir para traçar os eixos x e y do sistema
+cartesiano ortogonal e desenhar o triângulo ABC para lhe auxiliar na identificação do triângulo e de
+suas respectivas medidas.
+
+                                          Considerando cada quadradinho da malha como unidades de
+                                          área, qual é a medida da área do triângulo ABC?
+
+                                          a) 12
+                                          b) 10
+                                          c) 9
+                                          d) 8
+                                          e) 6
+
+
+
+
+                                                                                                       7
+SSA UPE – 1ª FASE                                                                            2º DIA
+
+12. O reservatório d`água da indústria farmacêutica São Tomé apresentou um vazamento que teve
+início no dia 1º de janeiro de 2024 e se manteve a uma taxa de vazão constante até esvaziar
+totalmente.
+Nos dias 10 e 18 desse mês, os volumes de água no reservatório eram, respectivamente, 310 mil litros
+e 274 mil litros. Se, nesse período, esse reservatório não recebeu qualquer quantidade de água, qual
+era o volume de água existente no início do vazamento?
+
+a) 480 mil litros
+b) 445 mil litros
+c) 450 mil litros
+d) 355 mil litros
+e) 340 mil litros
+
+
+
+
+13. Na reta real representada a seguir, as divisões são em partes iguais. Os pontos A e B têm
+abscissas, respectivamente, iguais a 0 e 2n, sendo n um número real.
+Nessas condições, qual é a abscissa do ponto Q indicado pela seta?
+                                                Q
+            A           B
+                                                                         x
+            0           2n
+
+
+a)
+
+
+b)
+
+
+c)
+
+
+d)
+
+
+e)
+
+
+
+
+                                                                                                   8
+SSA UPE – 1ª FASE                                                                                                             2º DIA
+14. Leia os textos a seguir.
+
+Descoberta primeira molécula fractal da natureza
+Uma equipe internacional de pesquisadores descobriu por acaso o primeiro fractal molecular regular
+da natureza. É uma enzima microbiana - a citrato sintase de uma cianobactéria - que forma
+espontaneamente um padrão conhecido como triângulo de Sierpinski, uma série de triângulos
+compostos de triângulos menores que se repete ao infinito. "Nós tropeçamos nesta estrutura
+completamente por acidente e quase não pudemos acreditar no que vimos quando tiramos imagens
+dela pela primeira vez usando um microscópio eletrônico," disse Franziska Sendker, do Instituto Max
+Planck de Marburg, na Alemanha. "A proteína forma estes lindos triângulos e, à medida que o fractal
+cresce, vemos estes vazios triangulares cada vez maiores no meio deles, o que é totalmente diferente
+de qualquer conjunto de proteínas que já vimos antes."
+                                       Descoberta primeira molécula fractal da natureza. Site Inovação Tecnológica, 2024. Disponível em:
+     https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=descoberta-primeira-molecula-fractal-natureza&id=010125240412.
+                                                                                                               Acesso em: 10 julho 2024.
+
+
+
+
+                        Citrato sintase das cianobactérias, a primeira molécula fractal natural que se conhece.
+                                       [Imagem: Georg Hochberg/MPI f.Terrestrial Microbiology]
+
+O Triângulo de Sierpinski, presente no formato da enzima microbiana, é uma figura geométrica obtida
+através de um processo recursivo. Trata-se de um conjunto autossimilar de um triângulo (na maioria
+das vezes equilátero). Se dividido em quatro outros triângulos congruentes entre si e entre o triângulo
+original, cujos vértices são os pontos médios do triângulo de origem, então os subconjuntos do fractal
+são três cópias escalonadas de triângulos derivados da iterada anterior. A seguir vemos uma figura
+que representa a construção de uma sequência desses triângulos, cujas enzimas descobertas
+apresentam o mesmo padrão.
+
+
+
+
+                          1                            2                          3                        4
+
+
+                                                                                                                                      9
+SSA UPE – 1ª FASE                                                                             2º DIA
+Seguindo-se a ordem da sequência de Triângulos de Sierpinski, a figura 5 será composta por quantos
+triângulos?
+
+a) 315
+b) 157
+c) 121
+d) 94
+e) 52
+
+
+
+
+15. Diante da tragédia que assolou o Rio Grande do Sul em 2024, uma Organização Não
+Governamental (ONG) intensificou seus esforços para dar assistência às vítimas, destacando a
+importância da solidariedade para minimizar os impactos causados pelas chuvas. Essa ONG tinha um
+estoque de alimentos suficiente para servir refeições para 750 desabrigados durante 25 dias. Devido à
+maior incidência de enchentes em algumas regiões, mais 500 pessoas passaram a ser atendidas por
+essa instituição.
+Se a quantidade de alimentos permaneceu a mesma, por quanto tempo essa ONG conseguiu
+alimentar todos os desabrigados atendidos por ela nessa ocasião?
+
+a) 20 dias.
+b) 18 dias.
+c) 17 dias.
+d) 15 dias.
+e) 11 dias.
+
+
+
+
+16. Uma conjectura é uma hipótese que, uma vez provada e cuja demonstração seja aceita pela
+“Comunidade Matemática”, passa a ser denominada de teorema. Uma vez teorema, ela pode ser
+utilizada como base/fundamentação teórica na demonstração de outros teoremas. O matemático russo
+Christian Goldbach (1690 – 1764), estudando o mundo dos números primos, conjecturou que:
+“Se um número par é maior do que 2, ele poderá ser escrito como a soma de dois números
+primos”.
+Mas a conjectura de Goldbach até hoje nunca foi provada. Ciente dessa conjectura, quase aceita como
+um teorema, responda à seguinte situação-problema: Quantos pares de números naturais primos
+existem cuja soma é igual a 24?
+
+a) 5
+b) 4
+c) 3
+d) 2
+e) 1
+
+
+
+
+                                                                                                   10
+SSA UPE – 1ª FASE                                                                                                        2º DIA
+17. Leia o texto a seguir.
+
+Por que a Casa Branca quer que a Lua tenha seu próprio fuso horário
+Devido à intensidade diferente do campo gravitacional, o tempo passa mais rápido na Lua do que na
+Terra.
+A Casa Branca quer que a NASA, a agência espacial americana, desenvolva um novo fuso horário
+para a Lua, chamado Tempo Lunar Coordenado (LTC, na sigla em inglês). Devido à intensidade
+diferente do campo gravitacional na Lua, o tempo passa mais rápido lá do que na Terra — 58,7
+microssegundos a cada dia.
+      Disponível em: https://g1.globo.com/ciencia/noticia/2024/04/04/por-que-a-casa-branca-quer-que-a-lua-tenha-seu-proprio-fuso-
+                                                                                           horario.ghtml. Acesso em: 29 jun. 2024.
+
+
+Com base nas informações do texto, qual é a representação do fuso horário lunar, em segundos, de
+um semestre?
+
+
+
+
+18. Anualmente a Universidade de Pernambuco realiza os jogos internos da UPE, o INTERUPE.
+Visando atender às demandas socioeconômicas dos estudantes em situação de vulnerabilidade, a
+Coordenação de Apoio e Assistência Estudantil (CAAE), por meio de um edital, distribuiu 100 bolsas
+de alimentação para que estudantes nessa condição conseguissem realizar alguma refeição, nos dias
+em que participarem de alguma atividade de jogo.
+Cem estudantes da UPE receberam uma bolsa alimentação para participar do INTERUPE conforme o
+quadro a seguir.
+          Valor da Bolsa (R$)                   Frequência de Estudantes Atendidos
+                 50,00                                          30
+                100,00                                          60
+                150,00                                          10
+
+Buscando entender a variabilidade da distribuição das bolsas para uma melhor distribuição e aumento
+dos recursos no ano seguinte, a CAAE calculou o coeficiente de variação dessa distribuição. Qual foi
+aproximadamente o valor encontrado?
+
+
+
+
+                                                                                                                               11
+SSA UPE – 1ª FASE                                                                                            2º DIA
+
+19. Leia o texto a seguir.
+
+Desperdício de água aumenta pelo sexto ano seguido no Brasil; volume perdido em
+vazamentos abasteceria 30% dos brasileiros por um ano, diz estudo.
+Dados do Instituto Trata Brasil apontam que 40,3% da água tratada no Brasil é desperdiçada devido a
+vazamentos, fraudes e erros de medição. Na região Norte, mais da metade da água captada e tratada
+é perdida. O desperdício de água potável aumentou no Brasil pelo sexto ano seguido, apontam dados
+do Instituto. Os dados apontam que, em 2015, 36,7% da água potável produzida no país foi perdida
+durante a distribuição. Já em 2021, o ano mais recente com os dados disponibilizados, o índice atingiu
+40,3%. Em 2021, 7,3 bilhões de metros cúbicos de água foram captados da natureza e foram tratados,
+mas acabaram não sendo faturados pelas empresas do setor por conta dos problemas citados acima.
+                    Disponível em: https://www.confere.org.br/noticias.php?p=11208. Acesso em: 12 maio 2024. Adaptado.
+
+Com base nas informações, sabendo que as dimensões de uma piscina olímpica são 50 metros de
+comprimento, 25 metros de largura e 3 metros de profundidade, aproximadamente, quantas piscinas
+olímpicas de água tratada foram desperdiçadas diariamente com o volume de água captado e tratado
+em 2021?
+
+a)   80
+b)   850
+c)   853
+d)   85.000
+e)   853.000
+
+
+
+
+20. Um projétil é lançado do solo verticalmente para cima. Desprezando-se a resistência do ar e o
+cano da arma e, admitindo-se que a aceleração da gravidade é conhecida, calculou-se a função que
+relaciona o espaço com o tempo representada pela equação e = 80t – 4t2.
+Nessas condições, qual é o tempo gasto para o projétil voltar ao solo após o disparo?
+
+a) 5s
+b) 10s
+c) 15s
+d) 20s
+e) 25s
+
+
+
+
+                                                                                                                   12
+SSA UPE – 1ª FASE                                                                                                        2º DIA
+
+
+21. Leia os textos a seguir.
+
+
+
+
+*O pixel é a menor unidade de uma imagem. O termo é a contração da expressão picture element.
+Num monitor colorido, a cor de cada pixel é fruto da combinação de três cores básicas: vermelho,
+verde e azul. Megapixel nada mais é do que a junção do prefixo mega com a palavra pixel.
+(O comentário do Romulo no último quadro diz respeito à resolução da foto.)
+Nota do blogger: Mega é a mesma coisa que 10 elevado a 6, ou seja, 1.000.000.
+           Tirinha de Matemática. Humor com Ciência, 2010. Disponível em: https://www.humorcomciencia.com/blog/seu-luiz-o-teimoso/.
+                                                                                                        Acesso em: 10 julho 2024.
+
+
+A partir das informações da tirinha e do texto, quantos Megapixels tem, aproximadamente, uma
+imagem com 3600 pixels de comprimento e 2400 pixels de largura?
+
+a) 8,2
+b) 8,4
+c) 8,6
+d) 8,8
+e) 9,0
+
+
+22. Um jardineiro, a partir de um projeto de paisagismo, está plantando flores num canteiro circular
+com raio de 8 metros. Pelo projeto, no centro ele deve plantar margaridas coloridas e, ao redor desse
+canteiro, ela deve plantar rosas brancas formando uma coroa circular, de maneira que a parte
+destinada às margaridas sofrerá uma redução de 2 metros em seu diâmetro.
+Qual é a medida da área ocupada, em metros, pelas rosas brancas nesse canteiro?
+(utilize = 3,14)
+
+a) 40,82
+b) 43,96
+c) 47,10
+d) 50,24
+e) 56,52
+
+                                                                                                                                13
+SSA UPE – 1ª FASE                                                                                                              2º DIA
+
+  CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS
+  Questões de 23 a 45
+
+
+Nas questões com respostas numéricas, considere o módulo da aceleração da gravidade como
+g = 10,0 m/s2, a densidade da água ρ = 1,0 g/cm3, a constante da gravitação universal como
+G = 6,7 x 10 -11 m3kg-1s-2, a massa da Terra MT = 6,0 x 1024 kg e o número π = 3.
+
+23. Observe os quadrinhos e o contexto da alimentação humana.
+
+
+
+
+    Disponível em: https://ciclovivo.com.br/vida-sustentavel/bem-estar/turma-da-monica-tera-historias-sobre-alimentacao-saudavel-em-gibis/.
+                                                                                                       Acesso em: 30 maio 2024. Adaptada.
+
+Sobre a alimentação saudável representada nos quadrinhos, assinale a alternativa CORRETA.
+
+a) A comida que está na mesa teve vida um dia. Nos seres vivos, há cerca de vinte elementos
+   químicos entre os mais de cem da tabela periódica. Os quatro mais abundantes são oxigênio (O),
+   hidrogênio (H), enxofre (S) e sódio (Na).
+b) A mãe da Mônica destaca a importância de um prato colorido. As cores indicam propriedades de
+   cada alimento. Assim, diversificar equivale a preencher o prato com diferentes minerais e vitaminas
+   fundamentais para o organismo.
+c) Além da cor, há outras maneiras de obter uma variedade de nutrientes na dieta, como prestar
+   atenção ao paladar, o que se percebe na satisfação dos personagens ao comer. Por isso, corantes
+   e temperos artificiais também contam para uma dieta saudável.
+d) Brincar ao Sol, como fazem Cebolinha e Cascão, é uma das principais formas de adquirir a vitamina
+   C. Ela promove a absorção do cálcio dos alimentos ingeridos. Também atua nos ossos, na saúde
+   dos músculos e previne infecções.
+e) Ao beber água, Mônica está ingerindo ácidos nucleicos. Nas comidas provenientes dos vegetais,
+   são encontrados lipídios, glicídios, vitaminas e sais minerais. Nas comidas oriundas dos animais, as
+   proteínas também estão presentes.
+
+                                                                                                                                      14
+SSA UPE – 1ª FASE                                                                             2º DIA
+
+24. Os ovos são classificados de acordo com a quantidade e a forma de distribuição de vitelo. No
+quadro a seguir, assinale a alternativa que associa CORRETAMENTE o tipo de ovo ao animal que o
+apresenta.
+
+        Tipo de ovo                      Animal
+
+
+
+ a)     Telolécito
+
+
+
+
+ b)     Isolécito
+
+
+
+
+ c)     Heterolécito
+
+
+
+
+ d)     Centrolécito
+
+
+
+
+ e)     Oligolécito
+
+
+
+      Disponíveis em: www.google.com.br. Acesso em: 13 set. 2024.
+
+
+25. O Princípio da Equivalência de Einstein é um conceito fundamental na teoria da relatividade geral
+publicada em 1915. A respeito desse princípio, assinale a alternativa CORRETA.
+a) Afirma que a massa gravitacional de um objeto é diferente de sua massa inercial.
+b) Todos os observadores, independentemente de sua velocidade, medem a mesma velocidade da luz
+   no vácuo.
+c) Postula que os efeitos da gravidade podem ser completamente eliminados ao se mover a uma
+   velocidade constante.
+d) Afirma que a força gravitacional entre duas massas diminui com o quadrado da distância entre elas.
+e) Estabelece que não há diferença observável entre os efeitos de uma aceleração uniforme e os
+   efeitos de um campo gravitacional uniforme.
+                                                                                                   15
+SSA UPE – 1ª FASE                                                                                                    2º DIA
+
+26. Embora a ideia de átomo provavelmente tenha origem na escola de Abdera da filosofia clássica
+grega, não podemos associar as espécies pensadas por Leucipo e Demócrito como representações
+reais das partículas que formam a matéria, pois elas tinham formas diferentes e particularidades que
+explicavam o comportamento das substâncias. Até no contexto científico, a ideia de átomo evoluiu com
+o tempo, chegando ao momento de rompimento com a Ciência clássica, buscando explicações na
+emergente Física Moderna, trabalho no qual se destacou Niels Böhr, físico dinamarquês que
+resolveu inconsistências do modelo proposto por Rutherford a partir de quatro postulados.
+Diante do exposto, assinale a alternativa que apresenta CORRETAMENTE um dos postulados
+apontados pelo cientista.
+a)    O elétron se move de formar circular, em órbita ao redor do núcleo atômico, sob influência de
+      forças coulombianas, conforme regido pelas leis da mecânica clássica.
+b)    Um elétron, em um átomo, se movimenta em uma única órbita específica, sendo esta definida pelo
+      seu movimento angular, que corresponde ao produto da constante de Planck (h = 6,63x10-34 J. s-1)
+      pelo número quântico principal.
+c)    A energia do elétron não varia quando em movimento em torno da sua órbita, pois a mesma
+      energia eletromagnética que é liberada é imediatamente absorvida, na forma de um fóton de
+      energia.
+d)    Ao trocar de nível de energia, em movimento de uma órbita mais interna para outra mais externa,
+      o elétron deve liberar energia na forma de fótons, em frequência que corresponde à razão entre o
+      valor da constante de Planck (h = 6,63x10-34 J. s-1) e o comprimento de onda do fóton liberado.
+e)    Ao saltar do nível de energia mais externo o elétron abandona o átomo, e dependendo da energia
+      envolvida no processo pode se transformar em um elétron livre ou em uma radiação beta.
+
+
+27. Avalie a resposta dada à pergunta a seguir.
+
+Por que uns têm alergia e outros não?
+É um grande mistério saber por que uma pessoa se torna alérgica. A alergia é resultado da
+predisposição genética com fatores ambientais, como poluição, alimentação e medicações [...]. A
+pessoa vai então espirrar, tossir, os olhos vão lacrimejar, ter inchaços, vômitos, diarreia, coceiras. O sistema
+imune está na pele, nos olhos, na mucosa respiratória, no aparelho digestivo. Uma vez que esse radar detectou
+algo estranho, ele pode amplificar e ligar toda essa rede de comunicação desde uma reação localizada até uma
+reação que acometa o corpo todo. A intensidade desses sintomas vai depender da quantidade do mediador
+químico que controla as reações alérgicas.
+     Disponível em: https://g1.globo.com/fantastico/noticia/2024/01/26/alergia-o-corpo-em-alerta-saiba-mais-sobre-rotulagem-de-
+                                                                         alimentos.ghtml. Acesso em: 10 de jun. 2024. Adaptado.
+
+Assinale a alternativa que apresenta CORRETAMENTE o tecido, a célula e o mediador químico liberado
+nesse processo.
+a)   Tecido adiposo - plasmócito – heparina
+b)   Tecido conjuntivo - mastócito – histamina
+c)   Tecido epitelial - macrófago – colágeno
+d)   Tecido ósseo - condroblastos – elastina
+e)   Tecido nervoso - micróglia – imunoglobulina
+
+
+
+
+                                                                                                                           16
+SSA UPE – 1ª FASE                                                                             2º DIA
+
+
+28. O primeiro elemento químico de que se tem evidência, formado no Universo, foi o hidrogênio,
+sendo cerca de 90% dos átomos encontrados no cosmos. Uma das evidências da abundância desse
+elemento no Universo são as nuvens de gás, misturadas à poeira, identificadas por telescópios
+espaciais. Um exemplo é a famosa imagem dos Pilares da Criação capturada pela primeira vez pelo
+telescópio Hubble em 1995 e, mais recentemente, pelo telescópio James Webb.
+
+
+
+
+                                     Pilares da Criação (NASA, 2022)
+
+Mesmo sendo o mais abundante no Universo, no planeta Terra o hidrogênio é o nono mais
+encontrado, seja na forma gasosa ou na composição de outras substâncias. Avanços tecnológicos e o
+aumento no investimento em pesquisas têm mostrado como esse elemento pode ser promissor na
+utilização como fonte de energia limpa, contribuindo para um desenvolvimento sustentável.
+Contudo, apesar de promissor, existem alguns entraves no que diz respeito à utilização do hidrogênio
+como combustível em automóveis comuns, por exemplo. Entre esses, é possível afirmar
+CORRETAMENTE que
+a)   o hidrogênio pode ser obtido a partir de reações de neutralização entre um ácido e uma base.
+     Esse tipo de reação, apesar de comum em laboratório, é inviável economicamente se realizada
+     em larga escala.
+b)   o hidrogênio produzido por meio da eletrólise da água requer uma quantidade significativa de
+     energia. Se essa energia não for proveniente de fontes renováveis, o processo pode não ser
+     sustentável.
+c)   o hidrogênio pode ser obtido a partir de uma reação de oxirredução da água. Esse tipo de reação
+     requer o emprego de substâncias provenientes de combustíveis fósseis, o que deixaria o processo
+     não sustentável.
+d)   o hidrogênio, apesar de abundante no Universo, não se encontra em muita quantidade no planeta
+     Terra. O custo associado ao isolamento desse elemento pode ser muito alto, devido à sua
+     raridade na atmosfera terrestre.
+e)   o hidrogênio só pode ser utilizado como combustível em sua forma pura, a qual é impossível de se
+     encontrar na natureza.
+
+
+
+
+                                                                                                   17
+SSA UPE – 1ª FASE                                                                            2º DIA
+
+29. Um jovem de 50 kg percorre a extensão de 2,0 m de uma tábua de 200 kg que flutua na água.
+Desprezando os efeitos de viscosidade da água, determine o recuo da tábua em cm.
+
+
+a) 10,0
+b) 20,0
+c) 30,0
+d) 40,0
+e) 50,0
+
+
+
+30. Na construção civil, são utilizadas plataformas elevatórias em laterais de
+grandes prédios. Considere uma plataforma sustentada por uma polia
+simples que está suspensa em uma viga fixa. Uma corda de aço passa por
+essa polia, com uma de suas extremidades segurando uma plataforma
+onde um homem está de pé. Um motor acoplado à plataforma puxa a outra
+extremidade da corda para se elevar a uma aceleração vertical e para cima
+de módulo 2,0 m/s2. As massas do homem e da plataforma são 60,0 kg e
+20,0 kg, respectivamente.
+Determine a tensão a que a corda de aço está sujeita em newtons.
+a) 240,0
+b) 320,0
+c) 400,0
+d) 480,0
+e) 800,0
+
+
+31. Entre tantas importantes contribuições de Jöns Jacob Berzelius para a Química, está o
+reconhecimento do fenômeno da alotropia, que ocorre quando um mesmo elemento químico dá origem
+a duas ou mais substâncias simples diferentes. O quadro a seguir apresenta um exemplo de grupo
+alotrópico.
+
+
+
+
+Podemos dizer que tal grupo é o conjunto de alótropos do
+a) carbono, sendo apresentados, da esquerda para a direita, os alótropos carbono diamante, carbono
+   grafita e fulereno.
+b) carbono, sendo apresentados, da esquerda para a direita, os alótropos carbono grafita, fulereno e
+   carbono diamante.
+c) oxigênio, sendo apresentados, da esquerda para a direita, os alótropos oxigênio nascente, gás
+   oxigênio e ozônio
+d) fósforo, sendo apresentados, da esquerda para a direita, os alótropos fósforo negro, fósforo
+   vermelho e fósforo branco.
+e) fósforo, sendo apresentados, da esquerda para a direita, os alótropos fósforo branco, fósforo
+   vermelho e fósforo negro.
+                                                                                                  18
+SSA UPE – 1ª FASE                                                                                                           2º DIA
+
+32. Analise o texto e a imagem a respeito do experimento de Charles Darwin, que estudou
+fototropismo com a ajuda de seu filho Francis.
+
+Charles e Francis realizaram pesquisas
+experimentais em aveia e alpiste, por
+notarem que plantas se movem em
+direção à luz. Mas eles também queriam
+saber qual parte da planta “percebe” de
+onde vem a luz. Assim, removeram e
+cobriram a seção da ponta dos caules.
+Isso impediu que eles recebessem luz
+solar. Assim, nenhum movimento foi
+observado na planta. Mas, quando ele
+cobriu a seção central das mesmas
+plantas, as pontas começaram a
+responder à luz solar. A ponta dessas
+plantas se inclinou em direção à luz.
+                                                       Disponível em: https://collegedunia.com/exams/phototropism-biology-articleid-
+                                                                                         3666. Acesso em: 30 maio 2024. Adaptada
+
+
+Sobre a metodologia científica utilizada, assinale a alternativa CORRETA.
+
+a) No experimento, comparou-se cada grupo testando uma variável por vez, assim descobrindo que a
+   luz era percebida no ápice.
+b) No experimento realizado, compararam-se os resultados obtidos em um grupo experimental
+   (momentos 1 e 2) com os obtidos em um grupo controle (momentos 3 e 4).
+c) O grupo de referência ápices recobertos é bem diferente do grupo teste planta normal, porém inclui
+   o aspecto, cujo efeito está sendo testado.
+d) O controle 4 permite prever que o papel escuro cobrindo a base é o responsável pelo
+   comportamento da planta.
+e) Com base nas observações, a hipótese a ser testada foi: qual mecanismo faz ambas as plantas
+   cobertas com papel escuro ou claro se curvarem?
+
+
+33. Leia o trecho a seguir.
+
+Você sabia que suas células têm um arquiteto morando dentro delas? Chamamos esse arquiteto de
+DNA ou ácido desoxirribonucleico. O DNA não é apenas uma forma de identificação, é também onde
+os projetos principais para a síntese de proteínas são traçados. A parte complicada é que o DNA é
+encontrado dentro do núcleo da célula, mas o ribossomo, onde a proteína é produzida, está localizado
+fora do núcleo no citoplasma. Portanto, suas células precisam de uma maneira de levar as
+informações do DNA ao ribossomo. Essa tarefa é realizada pelo RNA ou ácido ribonucleico. O RNA
+vem em diferentes variedades que ajudam o processo durante as duas fases principais da síntese de
+proteínas. A primeira fase do processo é aquela pela qual as informações do gene no DNA são
+copiadas para um novo formato.
+                  Disponível em: https://www.biologianet.com/biologia-celular/sintese-proteica.htm. Acesso em: 10 jun. 2024. Adaptada.
+
+
+Assinale a alternativa que representa CORRETAMENTE esse primeiro passo da expressão gênica.
+
+a) Transcrição            b) Tradução                  c) Replicação                 d) Reparo                 e) Tradução
+
+
+
+                                                                                                                                   19
+SSA UPE – 1ª FASE                                                                                                       2º DIA
+34. Leia o texto a seguir.
+“O bolo solou!”. Gritou da cozinha, desesperada, a minha mãe! “O que eu fiz de errado, meu Deus? Eu
+ajustei a temperatura, eu acertei as proporções, eu não fiquei abrindo o forno... O que aconteceu,
+Jesus?”. Eu só queria assistir televisão, mas o desespero dela estava me atormentando. “Mãe, o que
+aconteceu? Você seguiu a recei...”. Mas fui interrompido por um grito mais alto que todos os outros: “O
+FERMENTO, EU NÃO COLOQUEI O FERMENTO, COMO PODE UMA COISA ASSIM
+ACONTECER!!!!”. E foi assim, desse jeito, que não vi a fusão de Goku e Vegeta. Maldito fermento!!
+O fermento, se tivesse sido adicionado adequadamente à massa do bolo, liberaria gás carbônico
+mediante aquecimento, a partir da reação química entre o bicarbonato de sódio, também conhecido
+como hidrogeno carbonato de sódio, NaHCO3, e o dihidrógeno fosfato de cálcio, Ca(H2PO4)2.
+As substâncias envolvidas na reação química podem ser classificadas como
+a) uma base forte e um sal duplo de hidrólise ácida.
+b) um ácido forte e uma base fraca.
+c) dois ácidos, sendo classificados como forte e fraco, respectivamente.
+d) dois sais de hidrólise básica.
+e) dois sais, de hidrólise básica e ácida, respectivamente.
+
+
+35. Graduandos do curso de Física de Materiais da Escola Politécnica de Pernambuco conquistaram
+um feito notável durante o evento REC n'Play 2023 ao vencerem a competição de robôs seguidores de
+linha, demonstrando conhecimento e criatividade no campo da robótica. O REC n'Play é um evento
+anual que atrai entusiastas de tecnologia, inovação e ciência de toda a região. Competindo com
+equipes de outras instituições de ensino e entusiastas de robótica, a equipe do Robolab Física de
+Materiais se destacou em todas as etapas do desafio Buzz_Line. O projeto vencedor foi uma criação
+que combina elementos de física, circuitos elétricos, sensores e tomadas de decisão. O robô
+desenvolvido pela equipe foi capaz de navegar em um percurso complexo, identificando o trajeto
+desejado e realizando tarefas autônomas em direções e velocidades. A velocidade do robô ao adaptar-
+se a diferentes etapas do percurso sem comprometer a qualidade de execução impressionou os juízes
+e participantes do evento, garantindo o primeiro lugar ao time do Robolab.
+                               Disponível em: https://fis.mat.br/noticias/20-outubro-2023.html. Acesso em: 29 jul. 2024. Adaptado.
+
+
+Considere um robô seguidor de linha que tem uma bateria de
+lítio carregada com 36 Wh. Sabendo que, durante a competição,
+a pista tem um trajeto de 2,4 metros e que o consumo médio de
+energia da bateria para impulsionar o robô já considerando
+efeitos de atrito é igual a 7200 joules por metro de pista
+Buzz_Line, estime a distância da largada em que o robô para
+pela descarga completa da bateria.
+
+a)   20 cm
+b)   50 cm
+c)   100 cm
+d)   120 cm
+e)   140 cm
+
+
+
+
+                                                                                                                               20
+SSA UPE – 1ª FASE                                                                                                        2º DIA
+36. Observe os dados apresentados.
+
+A adolescência é o período entre o fim da infância e o início da vida adulta. Maria tem 16 anos, é muito
+tímida e preferiu fotografar os amigos. Laura (a que está mais à esquerda) e Joana são do 3 º Ano do
+Ensino Médio, e ambas têm 17 anos. Beatriz tem 14 anos e está terminando o Ensino Fundamental, e
+seu primo Luiz, com 20 anos, está na Universidade. Analise o contexto e a conversa entre os amigos.
+
+
+
+
+                       Laura           Joana             Beatriz
+                                                                            Luiz
+                                                      Maria
+           Disponível em: https://supervision-umg-arq-lb.blogspot.com/2021/04/1-como-aumento-mi-productividad-en.html.
+                                                Acesso em: 21 jun. 2024. Adaptada.
+
+
+
+Sobre os indivíduos envolvidos e a adolescência, assinale a alternativa CORRETA.
+
+a) Uma pessoa tímida, em geral, reage fracamente a uma provocação, o que a torna protegida de
+   bullying e brincadeiras de mau gosto. Maria ajuda ao grupo por frear impulsos arriscados, como
+   não postar conteúdos inadequados na internet.
+b) A internet, a TV e outras mídias aumentam a tolerância e diminuem o preconceito racial, religioso e
+   social. Assim, Laura fica segura em emitir suas opiniões sem medo de ser julgada por seus amigos
+   e pela sociedade.
+c) A gordura ajuda o corpo a passar pela puberdade. Mas, se Joana perder muita gordura corporal
+   pode ficar com cabelo danificado e sem vida, dificuldade para ajudar o cérebro a pensar e até
+   mesmo falência de órgãos.
+d) Beatriz desenvolveu mamas após o primeiro pico de crescimento e da menarca, seguidos por
+   acne, pelos nas axilas e púbis. Com a diminuição hormonal, as glândulas sudoríparas aumentaram
+   o suor e o odor agradável da pele.
+e) Nos picos de crescimento, Luiz ingeriu potássio e ferro para ter ossos fortes e saudáveis. Leite,
+   vegetais verdes e peixes são ricos nessas substâncias orgânicas. Dormir, comer e fazer exercícios
+   suavizará efeitos como dores de crescimento.
+
+
+
+
+                                                                                                                             21
+SSA UPE – 1ª FASE                                                                                                 2º DIA
+37. A integração de drones nos processos de inspeção de edifícios revolucionou a forma como os
+problemas estruturais externos são identificados e abordados. Com a sua capacidade de capturar
+imagens de alta resolução, gerar modelos 3D e analisar dados ambientais, os drones capacitam os
+inspetores a realizar avaliações completas de forma rápida e eficiente. Ao aproveitar a tecnologia dos
+drones, os proprietários, gestores e empresas de engenharia podem identificar e mitigar proativamente
+problemas estruturais externos comuns, melhorando, em última análise, a segurança, a longevidade e
+o valor dos seus edifícios.
+                                 Disponível em: https://www.hammermissions.com/post/inspections-with-drones-common-issues.
+                                                                                         Acesso em: 29 jul. 2024. Adaptado.
+
+
+Um drone é utilizado para explorar a estrutura da fachada de um edifício em busca de falhas. O
+operador do drone realiza uma varredura com verificações em subidas e descidas, em que o drone se
+move 5 metros para cima e 3 metros para baixo, e assim sucessivamente até que a fachada tenha sido
+inteiramente percorrida.
+
+Sabendo que, inicialmente, o drone parte do solo e se move 1 metro em 1 segundo em sua exploração
+vertical, determine em quanto tempo o operador atingirá uma falha que está a 15 metros de altura.
+
+a) 10 s
+b) 15 s
+c) 30 s
+d) 45 s
+e) 60 s
+
+
+
+
+38. O aço é um material bastante versátil e, devido à sua dureza e rigidez, é utilizado em vários
+setores da sociedade, como na construção civil, indústria e até na fabricação de utensílios domésticos.
+Sua composição é de aproximadamente 98,5% de Fe (ferro) e 1,5% de C (Carbono).
+Diante dessas informações, é possível afirmar que o aço é
+
+a)   uma mistura formada por uma liga metálica de Fe e C. De acordo com sua composição, 58g de
+     aço possui aproximadamente 57,13g de Fe e 0,87g e C.
+b)   uma mistura formada por uma liga metálica de Fe e C. De acordo com sua composição, 58g de
+     aço possui aproximadamente 47,13g de Fe e 10,87g e C.
+c)   uma substância formada por uma liga metálica de Fe e C. De acordo com sua composição, 58g de
+     aço possui aproximadamente 57,13g de Fe e 0,87g e C.
+d)   considerado como Fe puro, visto a baixa quantidade de C em sua composição.
+e)   considerado um elemento químico devido à impossibilidade de se decompor em seus Fe e C.
+
+
+
+
+                                                                                                                        22
+SSA UPE – 1ª FASE                                                                                                                  2º DIA
+39. Leia o texto a seguir.
+
+A utilização de substâncias para melhorar o desempenho de atletas já acontece há anos. O Brasil
+passou a considerar o uso dos esteroides anabolizantes androgênicos (EAA), por atletas, como
+dopping, na década de 1980. O uso inadequado desses hormônios vem ocorrendo por atletas e não
+atletas, com o objetivo de melhorar a performance atlética ou aumentar a massa muscular com
+finalidades estéticas e sem o devido acompanhamento médico. Essa utilização de maneira
+inapropriada resulta em diferentes alterações patológicas, que dependem da frequência, da dosagem,
+do tipo e do modo de uso. Muitos sistemas são afetados pelos seus efeitos adversos.
+ CISNEIROS et al. O uso de anabolizantes e suas consequências: revisão de literatura. Brazilian Journal of Health Review, Curitiba, v.4, n.6,
+                                                                                                                    2021, p. 27986-27997.
+
+Sobre as implicações dos problemas relatados no texto e, com base nos seus conhecimentos, assinale
+alternativa CORRETA.
+
+a) Há aumento do bom colesterol (HDL) e diminuição do mau colesterol (LDL), o que favorece os
+   problemas cardíacos.
+b) Há mudança da forma da célula e aumento do número de células musculares estriadas
+   esqueléticas e cardíacas, o que lhes confere maior força muscular.
+c) Em mulheres, há aumento do estrogênio e da progesterona, com alteração do ciclo menstrual,
+   amenorreia e aumento da ovulação, podendo provocar a atrofia do útero e dos ovários.
+d) Nos homens, os efeitos psicológicos estão relacionados ao aumento do estrógeno, o que provoca
+   falta de libido, alterações de humor e comportamento passivo e apático.
+e) Nas mulheres, pode ocorrer aumento das características sexuais masculinas como crescimento de
+   pelos na face, queda de cabelos, engrossamento da voz, diminuição dos seios e ciclos menstruais
+   alterados.
+
+
+40. A história da humanidade pode ser didaticamente dividida em “Idades”, nas quais é comum
+destacar um material muito utilizado pelas pessoas à época. Por exemplo: Idade da Pedra Lascada,
+Idade da Pedra Polida, Idade do Cobre, Idade do Bronze e Idade do Ferro. Uma dessas “Idades” foi
+marcada por um material constituído pela combinação de dois elementos químicos. Esse material foi
+muito utilizado para a confecção de instrumentos, ferramentas e armas, caracterizando o século II a.C.
+Os alquimistas costumavam associar os elementos químicos aos corpos celestes conhecidos à época,
+como sendo a “conjunção entre Vênus e Júpiter”.
+
+Assinale a alternativa que apresenta o tipo de interação química presente no material descrito no
+enunciado.
+
+a) Ligação iônica
+b) Ligação metálica
+c) Ligação covalente
+d) Ligação coordenada
+e) Ligação de hidrogênio
+
+
+
+
+                                                                                                                                          23
+SSA UPE – 1ª FASE                                                                                            2º DIA
+41. Considere o movimento do avião durante uma curva de raio r. Quando as asas se inclinam de um
+ângulo ϕ, como mostrado na figura, o avião é sujeito ao próprio peso de módulo P e uma força de
+sustentação de módulo S que é perpendicular à direção formada pelas asas.
+
+
+
+
+                                                          Imagem do artigo “A física do voo na sala de aula” da revista
+                                                          A Física na Escola, v.7, n.1, outubro/2006.
+
+
+No referencial no interior do avião durante a curva com ângulo de inclinação de 60º, a tripulação e os
+passageiros experimentam qual valor efetivo para a aceleração da gravidade, em m/s2?
+
+a) 5,0
+b) 10,0
+c) 20,0
+d) 30,0
+e) 40,0
+
+
+
+
+42. A cal é uma tinta primitiva, conhecida desde a Antiguidade, sendo inclusive mencionada por Jesus,
+numa passagem bíblica: “Os Fariseus são como sepulcros caiados”. Na construção civil, é comum
+“queimar as paredes” usando uma tinta chamada de cal hidratada, Ca(OH)2, que é obtida a partir da
+hidratação da cal virgem, CaO. Formulações mais complexas da cal contêm, além dos dois compostos
+já mencionados, uma mistura de MgO e Mg(OH)2.
+Assinale a alternativa que contém as funções químicas presentes na tinta mencionada.
+
+a)   Sais e Bases
+b)   Sais e Ácidos
+c)   Ácidos e Bases
+d)   Bases e Óxidos
+e)   Ácidos e Óxidos
+
+
+
+
+                                                                                                                    24
+SSA UPE – 1ª FASE                                                                                        2º DIA
+43. Uma jovem ambientalista, dedicada à luta em prol da natureza, tirou férias e viajou para praia em
+busca de descanso e forças para voltar ao trabalho. Sentou-se na areia, respirou e sentiu seus
+pulmões encherem de ar puro. Ficou ali contemplando a linda paisagem, os diferentes ambientes e
+sua biodiversidade. Mas seus pensamentos se voltaram novamente para os problemas e refletiu como
+era importante que os seres humanos pudessem perceber a razão da vida e entender os níveis de
+organização da natureza. O que ela via a sua frente era um exemplo completo de como o ser humano
+pode viver em harmonia com outros animais e plantas.
+
+
+
+
+                      Desenho criado por Inteligência Artificial (https://www.bing.com/images/create/)
+
+
+Baseado na figura ilustrativa e no contexto relatado, podemos dizer que os níveis de organização que a
+jovem percebeu no momento de sua contemplação foram:
+
+a) Órgão: pulmão; Organismo: caranguejo; População: gaivotas; Comunidade biológica: caranguejos-
+   peixes-pescadores; Ecossistema: costão rochoso.
+b) Órgão: visão; Organismo: gaivota; Comunidade tradicional: pescador; Biosfera: oceano.
+c) Sistema: ar; Organismo: jovem ambientalista; População: pescadores; Comunidade: caranguejos e
+   peixes; Ecossistema: oceano.
+d) Tecido: pulmão; Organismo: jovem ambientalista; Comunidade biológica: peixes; Ecossistema:
+   gaivota-peixe-pescador; Biosfera: paisagem.
+e) Ecossistema: ilha; População: peixes-gaivota; Biosfera: paisagem; Tecido: visão: Órgão: pulmão.
+
+
+
+
+                                                                                                             25
+SSA UPE – 1ª FASE                                                                                                 2º DIA
+44. Em 2022, uma equipe de cientistas conseguiu fazer a expedição oceânica mais profunda até
+aquele momento. O submarino dos pesquisadores desceu cerca de 11 quilômetros nas Fossas
+Marianas para coletar amostras de água e rochas, sedimentos e pequenos animais. Foi coletada uma
+pequena água-viva-de-pente que vivia a mais de 10 quilômetros de profundidade. […] Porém, os
+animais nativos do fundo do mar não conseguem sobreviver sem ser sob extrema pressão: seus
+corpos literalmente se desintegram ao chegar à superfície. […] No ambiente abissal em que vivem, a
+pressão é equivalente à sensação de 15 elefantes africanos sentados na palma da sua mão.
+         Disponível em: https://super.abril.com.br/ciencia/como-aguas-vivas-conseguem-sobreviver-a-pressao-extrema-do-mar-
+                                                                               profundo. Acesso em: 18 ago. 2024. Adaptado.
+
+Determine aproximadamente a força média em newtons que atua em uma área de 1,0 cm2 da
+superfície do corpo da água-viva-de-pente na profundidade de 10 km.
+a) 10
+b) 102
+c) 103
+d) 104
+e) 105
+
+
+45. Observe o cartum a seguir.
+
+
+
+
+                      Disponível em: https://www.significados.com.br/charge-e-cartum/. Acesso em: 30 maio 2024.
+
+Ele tematiza a validade das espécies, a função dos seres no ambiente. Sobre esse tema e sua relação
+com a evolução, diversificação e conservação da biodiversidade, assinale a alternativa CORRETA.
+
+a) Darwin e Wallace deram provas científicas e explicaram o mecanismo que torna possível a
+   evolução das espécies: a seleção natural. Todas as espécies do mundo estão ameaçadas de
+   extinção em grande parte por causa da seleção artificial.
+b) A classificação biológica nos permite compreender o processo evolutivo ao longo da história do
+   planeta Terra e identificar quais seres são parentes mais ou menos distantes, mas não auxilia na
+   manutenção da biodiversidade.
+c) A biodiversidade refere-se à variedade de seres vivos em um local, inclui o número de espécies e
+   exclui a diversidade genética entre os organismos. Em locais próximos ao Equador, ocorre maior
+   quantidade de indivíduos em relação aos polos.
+d) Em cada ecossistema, cada espécie tem um papel único, e sua preservação é essencial para a
+   manutenção do equilíbrio ambiental. Assim, o modo de vida de cada espécie constitui seu habitat
+   em estreita associação ao seu nicho ecológico.
+e) Uma das principais formas de proteger os ecossistemas é desenvolver políticas públicas
+   ambientais mais efetivas, com leis mais rígidas contra a degradação ambiental e planejamento
+   focado na proteção contínua e ampla da biodiversidade.
+
+
+                                                                                                                        26
+SSA UPE – 1ª FASE              2º DIA
+
+                    RASCUNHO
+
+
+
+
+                                   27
+SSA UPE – 1ª FASE              2º DIA
+                    RASCUNHO
+
+
+
+
+                                   28
+SSA UPE – 1ª FASE              2º DIA
+                    RASCUNHO
+
+
+
+
+                                   29
+SSA UPE – 1ª FASE              2º DIA
+                    RASCUNHO
+
+
+
+
+                                   30
+SSA UPE – 1ª FASE              2º DIA
+
+                    RASCUNHO
+
+
+
+
+                                   31
+SSA UPE – 1ª FASE                                                                            2º DIA
+
+
+
+
+                                  ATENÇÃO!
+
+1.   Abra este Caderno apenas quando o Aplicador de Provas autorizar o início da Prova.
+2.   Observe se o Caderno de Prova está completo. Ele deverá conter 45 (quarenta e cinco)
+     questões de múltipla escolha distribuídas entre as áreas de conhecimento de Matemática e suas
+     Tecnologias e de Ciências da Natureza e suas Tecnologias.
+3.   Se o Caderno de Prova estiver incompleto ou com algum defeito gráfico que lhe cause dúvidas,
+     informe imediatamente ao Aplicador de Provas.
+4.   Uma vez dada a ordem de início da Prova, preencha, nos espaços apropriados, o Nome do
+     prédio e o Número da sala, o seu Nome completo, o Número do Documento de Identificação, o
+     Órgão Expedidor, a Unidade da Federação e o seu Número de Inscrição.
+5.   Para registrar as alternativas escolhidas nas questões da Prova, você receberá um
+     Cartão-Resposta de Leitura Ótica. Verifique se o Número de Inscrição impresso no Cartão
+     coincide com o seu Número de Inscrição.
+6.   As bolhas constantes do Cartão-Resposta referentes às questões de múltipla escolha devem ser
+     preenchidas totalmente com caneta esferográfica azul ou preta.
+7.   Você dispõe de 4 horas para responder à Prova, incluído o tempo destinado ao preenchimento do
+     Cartão-Resposta.
+8.   É permitido, após 3 horas do início da Prova, você retirar-se do prédio conduzindo o seu Caderno
+     de Prova, devendo, no entanto, entregar ao Aplicador de Provas o Cartão-Resposta preenchido.
+9.   Caso você não opte por levar o Caderno de Prova consigo, entregue-o ao Aplicador de Provas,
+     não podendo, sob nenhuma alegação, deixar o Caderno em outro lugar do recinto de aplicação
+     das provas.
+10. Não será permitido durante a realização das provas:
+      Comunicar-se com outros candidatos sob hipótese alguma;
+      Levantar da cadeira sem a devida autorização do Aplicador de Provas;
+      Consultar anotações ou livros bem como acessar no recinto, qualquer espécie de aparelho de
+       comunicação, aparelhos celulares (mesmo desligados), equipamentos auxiliares de
+       memória ou outros de qualquer natureza.
+
+
+
+
+                                          BOA PROVA!
+
+
+
+
+                                                                                                  32
+

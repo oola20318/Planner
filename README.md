@@ -24,17 +24,26 @@ Acesse a porta 5173 pelo navegador do ambiente ou, em sua máquina, pelo endere�
 
 ## Análise dos anexos
 
-O programa anexado e as quatro provas são do SSA 1. Os PDFs originais estão em `public/provas`, a extração textual em `analysis`, e o registro por questão em `public/data.json`. `analysis/build_data.py` guarda a classificação editorial e permite regenerar o registro com `python analysis/build_data.py`.
+A base reúne **14 cadernos únicos de SSA 1, dos dois dias, com 630 questões**, considerando Inglês nas numerações com opção de língua estrangeira. Uma cópia idêntica do caderno de 2021 do 2º dia foi identificada por SHA-256 e não foi contada novamente. Os originais ficam em `public/provas`; a interface permite conferir cada arquivo, página e número.
 
-Foram identificados **quatro cadernos distintos, totalizando 181 questões** (45 + 45 + 46 + 45). Cada questão tem arquivo, número, página, matéria, conteúdo principal, status e transcrição auxiliar. Hashes SHA-256 diferentes e comparação de sequências/enunciados não indicam cadernos repetidos/equivalentes. Todos correspondem à 1ª etapa; nenhum caderno de outra etapa entrou no ranking.
+São **581 questões classificadas em conteúdos do programa, 48 fora do programa e uma em revisão editorial**. O ranking usa um único conteúdo principal por questão e calcula o percentual sobre as questões classificadas e compatíveis com o programa daquela matéria. Fora de programa, revisões, duplicatas e anulações registradas ficam fora tanto do numerador quanto do denominador. Os tópicos excluídos continuam no registro de auditoria, com motivo. Positivismo e Marxismo de seções antigas de Sociologia foram normalizados em Filosofia, onde estão previstos; tópicos exclusivamente sociológicos e disciplinas técnicas ausentes do programa não entram no ranking.
 
-Os anos **2021, 2022, 2023 e 2025 são inferidos dos metadados de criação dos PDFs**, apoiados nas datas dos enunciados, e não apresentados como identificação oficial confirmada da edição. O nome de um arquivo contém a data de 2025. As capas não explicitam os anos.
+A escolha curricular considera o conhecimento necessário para responder, não apenas o tema do texto: uma questão de compreensão em Inglês sobre biodiversidade é de Inglês. Recursos visuais e relações multissemióticas previstos em Linguagens são incluídos; regras esportivas, técnicas instrumentais, conteúdos de colonização moderna e tópicos matemáticos sem correspondência no programa são excluídos. As opções de Espanhol não são somadas às de Inglês da mesma prova.
 
-O ranking é calculado em tempo de execução a partir das referências individuais, usando **um conteúdo principal por questão**. O percentual é a quantidade desse conteúdo dividida pela base da matéria. A questão 37 do caderno de 2021 foi conferida visualmente na página 25 e classificada em conceitos da análise geográfica (geossistema). Não há questões com classificação pendente nesta versão. Figuras e algumas fórmulas não aparecem na transcrição textual; os links abrem o PDF original na página correspondente.
+Os anos são inferidos de metadados, datas internas e nomes dos arquivos; as capas não confirmam a edição oficial. Os cadernos `novo-2` e `novo-10`, criados em janeiro de 2021 e com referências internas de 2020, são explicitamente identificados como edições não confirmadas e não confundidos com os cadernos de outubro de 2021. Os IDs distinguem os cadernos mesmo quando os anos inferidos coincidem.
 
-**Limitação:** não foram anexados gabaritos definitivos, comunicados de anulação ou identificação oficial das edições. Nenhuma anulação foi presumida. Os percentuais estão explicitamente rotulados como provisórios, calculados sobre a base sem anulações conhecidas. O modelo exclui registros com `status: "annulled"` do denominador e do ranking; devem ser assim registrados quando houver fonte oficial. Não há garantia de frequência futura.
+**Revisão pendente:** Q33 do 1º dia de 2025 (`novo-7`), que compara imagens de divindades de tradições distintas, permanece excluída até a definição editorial de um conteúdo principal inequívoco. As imagens das questões `novo-8/Q2` e `novo-7/Q28` foram conferidas visualmente e suas classificações estão documentadas nos registros. Algumas transcrições omitem texto por codificação de fontes, figuras e fórmulas; o PDF original é a referência.
 
-Português, Literatura, Inglês e Filosofia têm conteúdos do programa, mas nenhuma questão nos cadernos fornecidos, todos do 2º dia. Sociologia aparece no caderno histórico de 2021, sem seção própria no programa atual: a interface identifica isso. Renascimento e Brasil holandês, cobrados no caderno antigo, também estão identificados como temas históricos adicionais.
+**Anulações:** não foram fornecidos gabaritos definitivos. Nenhuma anulação foi presumida; os percentuais permanecem provisórios quanto a essa validação. Registros `annulled` são excluídos do ranking. Frequência observada não é garantia de cobrança futura.
+
+As classificações editoriais das novas provas estão em `analysis/novos/classifications.py`, com extrações em `analysis/novos/extracted.json`. Para regenerar a base de forma determinística, na raiz do projeto:
+
+```bash
+python analysis/build_data.py
+python analysis/expand_data.py
+```
+
+O primeiro comando gera a entrada original em `analysis/base-original.json`; o segundo aplica o programa normalizado, as exclusões e os cadernos novos e escreve `public/data.json`.
 
 ## Verificação
 
@@ -54,7 +63,7 @@ O build usa caminhos relativos, incluindo dados e links para os PDFs, e foi vali
 
 ## Leitura e identidade visual
 
-A marca é C2, mantendo a paleta verde e o estilo tipográfico editorial. A grade usa fontes de 14–18 px para horários, matérias e conteúdos; as linhas ficaram mais altas e a grade semanal usa rolagem horizontal em telas estreitas para preservar a leitura. A chave de armazenamento e o formato de backup anteriores foram preservados, portanto os agendamentos existentes continuam disponíveis. Sincronização e login ainda não foram implementados: esta versão continua usando armazenamento local.
+A marca é C2, mantendo a paleta verde e o estilo tipográfico editorial. A grade usa fontes de 14–18 px para horários, matérias e conteúdos; as linhas usam uma altura compacta (114 px no celular, 116 px no computador) e a grade semanal usa rolagem horizontal em telas estreitas para preservar a leitura. A chave de armazenamento e o formato de backup anteriores foram preservados, portanto os agendamentos existentes continuam disponíveis. Sincronização e login ainda não foram implementados: esta versão continua usando armazenamento local.
 
 ## Ações rápidas e conclusão
 
@@ -63,3 +72,9 @@ Clique com o botão direito em um bloco para abrir suas ações. No celular ou t
 O menu permite concluir todo o bloco, marcar/desmarcar horas individuais, editar ou excluir o bloco inteiro. A exclusão pede confirmação e afeta apenas as horas contíguas daquele bloco naquele dia. A edição de uma única hora continua disponível no editor.
 
 A conclusão parcial mostra a quantidade de horas realizadas e uma barra de progresso. A total exibe um selo e um fundo de conquista. Um resumo do dia permanece visível depois de atualizar a página. Novas conclusões mostram uma mensagem de reconhecimento com uma breve animação, desativada quando o sistema solicita movimento reduzido. A celebração não se repete ao recarregar ou ao salvar novamente uma hora já concluída.
+
+## Segurar e arrastar no celular e tablet
+
+Ative **Selecionar no celular** acima da grade. Segure um horário por cerca de meio segundo, arraste verticalmente no mesmo dia e solte. O editor abre com todas as horas selecionadas; os dados só mudam ao salvar. O modo também funciona sobre blocos agendados e avisa sobre substituições. Perto das bordas da tela, o arraste pode rolar a página para alcançar mais horas. Movimentos antes de completar a espera ou um segundo dedo cancelam a seleção.
+
+Use **Sair da seleção por toque** para voltar à rolagem normal e ao menu de ações por toque longo. O clique e arraste do mouse continua disponível. A preferência de modo por toque vale para a sessão e não altera backups nem agendamentos antigos.

@@ -145,3 +145,56 @@
  .celebration-card { animation: none; }
  .celebration-confetti { display: none; }
 }
+
+/* Grade mais compacta, preservando o tamanho legível das letras. */
+:root { --hour-height: 116px; }
+.calendar-toolbar { padding: 16px 20px; }
+.day-heading { height: 78px; padding: 8px 5px; }
+.selection-settings { padding: 10px 18px; }
+.event { padding: 7px 9px; gap: 3px; margin: 3px 4px; }
+.event strong { font-size: 17px; line-height: 1.2; }
+.event-time { font-size: 14px; }
+.event-topics { font-size: 15px; line-height: 1.25; }
+.completion-badge { padding: 2px 5px; line-height: 1.15; }
+.analysis-overview { display: flex; flex-wrap: wrap; gap: 12px 24px; padding: 18px 22px; border: 1px solid var(--border); border-radius: 10px; background: white; color: #67765e; }
+.analysis-overview span { font-size: 14px; }
+.analysis-overview b { font-size: 21px; margin-right: 5px; color: #315943; }
+.audit-out_of_scope { background: #faf3e8; padding: 9px!important; border-radius: 5px; }
+.audit-review { background: #fff3d1; padding: 9px!important; border-radius: 5px; }
+.day-column.selection-touch-mode { touch-action: none; }
+.selection-touch-mode .event, .selection-touch-mode .empty-slot { touch-action: none; }
+.selection-armed { outline: 2px solid #95ae7e; outline-offset: -2px; }
+@media(max-width:799px) {
+ :root { --hour-height: 114px; }
+ main { padding: 20px 12px 12px; }
+ .sidebar { padding: 12px 16px; }
+ .brand { font-size: 33px; }
+ nav { margin-top: 12px; }
+ .heading { gap: 12px; margin-bottom: 18px; }
+ .heading p { line-height: 1.5; }
+ .eyebrow { margin-bottom: 8px; }
+ .stats { grid-template-columns: 1fr 1fr; gap: 8px; margin-bottom: 16px; }
+ .stats > div { padding: 12px 10px; gap: 8px; align-items: flex-start; }
+ .stats .stat-icon { display: none; }
+ .stats small { font-size: 13px; margin-bottom: 5px; }
+ .stats em { font-size: 13px; display: block; }
+ .calendar-toolbar { padding: 12px; }
+ .calendar-toolbar h2 { font-size: 18px; }
+ .calendar-toolbar small { font-size: 14px; }
+ .calendar.day .day-heading { height: 64px; }
+ .selection-settings { padding: 10px 12px; gap: 8px; }
+ .selection-settings label { font-size: 14px; }
+ .selection-settings span { font-size: 12px; line-height: 1.4; }
+ .event { padding: 7px 9px; gap: 3px; margin: 3px 5px; }
+ .event strong { font-size: 17px; }
+ .event-topics { font-size: 15px; }
+ .event-time { font-size: 14px; }
+ .event small { font-size: 12px; }
+ .achievement-summary { margin-bottom: 16px; padding: 14px; }
+ .legend, .tip { padding: 16px; }
+ .analysis-overview { padding: 15px; gap: 10px 16px; }
+}
+.touch-range-enabled .day-column, .touch-range-enabled .day-column button { touch-action: none; }
+.touch-selection-toggle { font-size: 13px; }
+.touch-selection-toggle[aria-pressed="true"] { background: #315943; border-color: #315943; color: white; }
+.event[data-hours="1"] .event-topics { -webkit-line-clamp: 1; }

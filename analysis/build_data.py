@@ -35,4 +35,4 @@ for exam in ex:
    q['tags']=['Geossistema'];q['note']='Esquema conferido visualmente na página 25: potencial ecológico, exploração biológica e ação social. Conteúdo principal: conceitos da análise geográfica.'
   q['text']=re.split(r'\n\s*RASCUNHO',q['text'])[0].strip()
  out.append(dict(id=id,filename=name,year=year,yearStatus='inferido dos metadados de criação do PDF; edição oficial não confirmada',stage='SSA 1',day=2,sha256=hashlib.sha256(Path('public/provas/'+id+'.pdf').read_bytes()).hexdigest(),questions=exam['questions'],annulmentStatus='Não informado: gabaritos oficiais não foram anexados',duplicateOf=None))
-Path('public/data.json').write_text(json.dumps(dict(subjects=subjects,exams=out),ensure_ascii=False,indent=2))
+Path('analysis/base-original.json').write_text(json.dumps(dict(subjects=subjects,exams=out),ensure_ascii=False,indent=2))

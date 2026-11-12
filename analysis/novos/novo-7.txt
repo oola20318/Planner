@@ -1,0 +1,1357 @@
+         CADERNO DE
+           PROVAS
+LINGUAGENS E SUAS TECNOLOGIAS
+     CIÊNCIAS HUMANAS E SOCIAIS
+             APLICADAS
+
+
+
+         DADOS DE IDENTIFICAÇÃO DO(A) CANDIDATO(A)
+          Não deixe de preencher as informações a seguir.
+Nome
+
+                                          Nº de Inscrição
+
+
+Prédio                                               Sala
+
+
+Nº do Documento de Identificação         Órgão Expedidor    UF
+SSA UPE – 1ª FASE   1º DIA
+
+
+
+
+                             2
+SSA UPE – 1ª FASE                                                                                                        1º DIA
+LINGUAGENS E SUAS TECNOLOGIAS
+Questões de 01 a 23
+
+
+1. Leia o trecho e observe as imagens a seguir.
+
+     O Teatro de Bonecos Popular do Nordeste, ou mamulengo, realizado tradicionalmente por artistas
+populares, está presente em pequenas localidades interioranas dos estados nordestinos, mas também
+em comunidades nos grandes centros urbanos, construindo as identidades e elementos da diversidade
+cultural brasileira.
+     Essa arte teatral e os saberes a ela relacionados vêm sendo recriados e reinterpretados nos locais
+onde se fixou, assumindo configurações diferenciadas ao longo do tempo, inclusive na região Sudeste e
+Centro Sul do Brasil, destacando-se pela renovação estética, a inclusão e a mediação pedagógica,
+através de uma nova geração advinda da educação formal.
+                                                                               Disponível em: https://bcr.iphan.gov.br/bens-culturais/
+            teatro-de-bonecos-popular-do-nordeste-mamulengo-babau-joao-redondo-e-cassimiro-coco/. Acesso em: 5 jun. 2025. Adaptado.
+
+
+
+
+                                     Bonequeiros manipulando seus bonecos
+                               Disponíveis em: https://casamoringa.com.br/. Acesso em: 5 jun. 2025.
+
+
+
+Sobre as imagens ilustrativas dessa arte, podemos afirmar que as semelhanças entre elas se refletem
+no(s)/n
+
+a) artistas: ambos são jovens, usam microfone, o que sugere um formato mais contemporâneo ou
+   adaptado ao público urbano/escolar, pois ambos foram formados dentro da tradição oral popular.
+b) cenário: os dois ambientes são abertos e arborizados, e as apresentações são encenadas em uma
+   estrutura simples com pano florido ao fundo e palco adaptado (provavelmente itinerante).
+c) bonecos: os três bonecos da imagem da direita e os dois da esquerda interpretam uma cena cômica
+   ou crítica social, de cerimônia matrimonial, comum no mamulengo tradicional, comum em metrópoles
+   e na zona rural.
+d) expressividade: os artistas olham para cima, diretamente para os bonecos, totalmente integrados ao
+   ato de manipulação, evidenciando a relação corporal e emocional que ambos mantêm com os
+   bonecos.
+e) contexto: ambos os contextos indicam uma interpretação tipicamente tradicional do mamulengo, com
+   intenções educativas e de valorização da diversidade étnico-racial ou pedagógica, típica de zonas
+   rurais.
+
+
+                                                                                                                                   3
+SSA UPE – 1ª FASE                                                                                              1º DIA
+O texto a seguir, do campo jornalístico-midiático, nos faz um alerta importante. Com base nesse texto,
+responda às questões 2 e 3.
+
+                                     O ChatGPT não é seu terapeuta
+
+     A discussão sobre saúde mental é um dos grandes debates da contemporaneidade, especialmente
+depois da pandemia de COVID-19, quando o confinamento nos obrigou a romper, por um período, com
+as lógicas de sociabilidade no trabalho, na família e nos demais círculos a que estamos acostumados
+cotidianamente. Com a crescente disseminação de ferramentas de inteligência artificial generativa nos
+últimos dois anos, não era difícil de se imaginar que esses dois mundos, aparentemente distantes, se
+cruzariam em algum momento.
+     É exatamente o que está acontecendo com o uso de IA para simular sessões com psicólogos,
+detectado por alguns relatórios e estudos, mostrando que questões psicossociais e máquinas estão
+cada vez mais entranhadas. [...]. Como mostram os estudos, os usos recentes da IA estão mais
+relacionados a padrões comportamentais íntimos do que a questões de produtividade no trabalho. É
+como se as pessoas vissem no ChatGPT uma espécie de terapeuta ou amigo que pode auxiliá-las a
+melhorar o bem-estar, escutando problemas e impulsionando reflexões existenciais.
+     Os dilemas em torno disso são muitos. Um chatbot não tem acesso ao seu histórico e à sua
+bagagem de vida, o que implica diretamente na progressão do tratamento e na escolha de abordagens
+e focos personalizados. Também não observa nuances de expressão facial e postura, como um
+profissional durante uma sessão com seu paciente, e não tem a dimensão ética e o sigilo profissional
+dessa relação. Simplesmente porque estamos falando de máquinas, e não de seres humanos —
+máquinas otimizadas para reagir a nossos sentimentos e promover a sensação de acolhimento, mas
+não para entender de fato o nosso contexto e as dificuldades por que passamos.
+     Há, ainda, questões referentes à própria IA: essas tecnologias podem trazer informações
+enganosas ou inventadas, que reproduzem vieses e discursos bastante problemáticos. Ademais, os
+dados nela inseridos não estão necessariamente protegidos, o que significa que podem ser copiados ou
+vazados. E, se estamos tratando de questões íntimas e sensíveis, a privacidade é fundamental.
+     […] É sabido que o acesso a tratamentos psicológicos é escasso e pode ser demorado no Sistema
+Único de Saúde (SUS). Tratamentos particulares, por sua vez, são caríssimos em um país
+extremamente desigual como o Brasil. A possibilidade de “conversar” gratuitamente a qualquer hora e
+sem julgamentos com “alguém” sobre seus problemas pessoais acaba sendo bastante sedutora para
+muita gente. Mesmo que esse “alguém” seja uma tela em branco.
+     [...] A aparente naturalidade com que essas máquinas dialogam conosco, suas respostas empáticas
+e, mais do que isso, um mercado que as apresenta como humanoides amigáveis ou fofos, convertem-
+se em uma armadilha para os que estão mais vulneráveis. Uma educação digital fortalecedora deve
+lançar um olhar crítico sobre essas tecnologias e como elas funcionam, desconstruindo um imaginário
+que as apresenta como “quase humanas” e evitando os riscos que podem resultar disso.
+                  Mariana Mandelli. Disponível em: https://www.palavraaberta.org.br/artigo/o-chatgpt-nao-e-seu-terapeuta.
+                                                                                      Acesso em: 5 ago. 2025. Adaptado.
+
+2. O texto apresentado, assim como outros do mesmo gênero, tem como uma de suas características
+
+a) a utilização de uma linguagem rebuscada, com organização sintática complexa e excesso de rigor
+   formal e estilístico.
+b) uma flagrante imprecisão estrutural, que não define a introdução, o desenvolvimento e a conclusão,
+   com prejuízo ao gênero textual
+c) a prevalência da subjetividade, com parcialidade na exposição dos fatos e opiniões pessoais
+   tendenciosas.
+d) o foco na expressividade, com emprego de uma linguagem subjetiva, visando transmitir emoções a
+   seu público-alvo.
+e) a abordagem de tema da atualidade, interessante e relevante para o público leitor, a partir de uma
+   perspectiva humana.
+                                                                                                                        4
+SSA UPE – 1ª FASE                                                                               1º DIA
+3. Releia a negativa que está posta no título do texto. Para defender essa negativa, a autora apresenta,
+no texto, alguns argumentos. Um desses argumentos é o de que o ChatGPT
+a) consegue simular com certa maestria sessões com psicólogos, mas não se mostra eficiente para
+   tratar questões psicossociais.
+b) funciona como um terapeuta ou amigo que escuta nossos problemas, porém não é suficiente para
+   melhorar nosso bem-estar.
+c) é uma criação do ser humano e, assim como os humanos, ele também falha em questões como ética
+   e sigilo profissional.
+d) é uma tecnologia que ainda está em aperfeiçoamento, e, por isso, os dados que ela recebe vão
+   necessariamente vazar.
+e) é apenas uma máquina, sendo incapaz, portanto, de compreender a complexidade e as dificuldades
+   do ser humano.
+
+4. Observe, a seguir, a reprodução da capa da obra O Karaíba: uma história do pré-Brasil, de autoria de
+Daniel Munduruku e ilustrada por Mauricio Negro.
+
+
+
+
+De acordo com as ideias da obra, a construção dessa capa apresenta aspectos multissemióticos que
+revelam um discurso combativo ao
+
+a) sugerir uma conexão entre a figura indígena e o colonizador a partir do olhar do primeiro.
+b) apagar as figuras de colonizadores e elementos que pudessem sugerir alguma dominação.
+c) centralizar a figura indígena em destaque e com um olhar fixo direcionado ao colonizador.
+d) empregar traços orgânicos na construção do protagonista retratado em material natural.
+e) transmitir a ideia de ancestralidade por meio de cores com tons terrosos e mais naturais.
+                                                                                                         5
+SSA UPE – 1ª FASE                                                                                                         1º DIA
+5. Observe as imagens a seguir.
+
+
+
+
+            Disponível em: https://clickrec.com.br/2014.                       Disponível em: https://br.freepik.com/
+                     Acesso em: 11 jul. 2025.                                       Acesso em: 11 jul. 2025.
+
+Recife, cidade pernambucana, registra em sua história a origem de uma dança cultural, o frevo do nosso
+povo, repleta de sentidos, significados e possibilidades de movimentação. Sobre essa dança, registrada
+nas imagens, assinale a alternativa CORRETA.
+a) Ela tem a improvisação como uma de suas características em uma sequência coreográfica. Pode ser
+   dançada por uma pessoa ou por um grupo, utilizando-se ou não os mesmos passos.
+b) São poucos os passos catalogados, e todos significam a expressão de um corpo que se move como
+   arte suave, em uma sequência fixa de tempo e execução.
+c) É marcado pela realização de um cortejo que acompanha as batidas fortes de tambores com a
+   realização em sequência dos passos: locomotiva, ferrolho, tesoura.
+d) Expressa uma marca, originária dos últimos 50 anos, de resistência do povo pernambucano, mistura
+   passos ágeis, tem predominância de instrumentos de sopro e vinculação histórica com a Huka-Huka.
+e) Apesar de fazer parte da história de Pernambuco, essa dança ainda não teve seu reconhecimento
+   como manifestação do patrimônio imaterial da humanidade, por isso, em geral, só se faz menção a ela
+   uma vez por ano, durante o carnaval em Pernambuco.
+
+6. No século XVII, na França, foram publicadas postumamente as Cartas Portuguesas, textos
+confessionais escritos pela freira Mariana Alcoforado, nos quais ela relata seu relacionamento amoroso
+com um militar francês. Leia, a seguir, um trecho da quinta carta.
+Forçoso me é confessar que tenho razões para o odiar mortalmente. Ah, eu própria atraí sobre mim
+tanta desgraça! Acostumei-o desde início, ingenuamente, a uma grande paixão, e é necessário algum
+artifício para nos fazermos amar. Devem procurar-se com habilidade os meios de agradar: o amor por si
+só não suscita amor. Como pretendia que eu o amasse, e como havia formado tal desígnio, não houve
+nada que não tivesse feito para o atingir; ter-se-ia decidido mesmo a amar-me, se tal fosse preciso. Mas
+percebeu que o amor não era necessário para o êxito do seu empreendimento, nem dele precisava para
+nada. Que perfídia! Pensa poder enganar-me impunemente? Se por acaso voltar a este país, declaro-
+lhe que o entregarei à vingança da minha família.
+                              Cartas de uma Freira Portuguesa atribuídas à Sóror Mariana Alcoforado. Tradução de Eugénio de Andrade.
+
+Nessa passagem, o tom confessional da carta evidencia o amor retratado na linguagem barroca por
+meio de
+a) críticas e insinuações contra os costumes da sociedade portuguesa seiscentista.
+b) linguagem simplificada típica do discurso religioso nos sermões conceptistas.
+c) perguntas retóricas adotadas como forma de convencer seu amado a retornar.
+d) comparações entre amor espiritual e sensual que causavam dúvidas na freira.
+e) hipérboles e oposições que representam o sentimento de conflito da religiosa.
+
+                                                                                                                                   6
+SSA UPE – 1ª FASE                                                                                                                   1º DIA
+7. Desde a ocupação do território brasileiro pelos colonizadores, a partir do século XVI, a relação entre
+estes e os povos da terra nunca foi verdadeiramente pacífica. O texto a seguir, do campo de atuação na
+vida pública, embora escrito em 2014, trata de uma questão que permanece atual.
+
+Maio de 2014.
+Do Povo Ka’apor para o Brasil
+    “A morte da floresta é a morte de nosso povo” – Ameaças, perseguições e agressões aos
+                        Ka’apor na Terra Indígena Alto Turiaçu, Maranhão
+É com muita tristeza que nós, Ka’apor, da Terra Indígena Alto Turiaçu, continuamos denunciando as
+agressões e invasões de nosso território. Mesmo a gente realizando autovigilância, autofiscalização e
+limpeza dos limites com identificação dos marcos demarcatórios com recursos e esforços próprios, não
+estamos sendo respeitados em nossos direitos. Está sendo difícil realizar o trabalho de proteção com
+tamanha estrutura de armamento e violência que a gente vem sofrendo pelos madeireiros. Após várias
+operações realizadas pela Polícia Federal e Ambiental (do Estado), Exército, Funai e Força Nacional em
+outros territórios indígenas e áreas de proteção no Maranhão, a maioria veio para nossa região para
+retirar madeira. Nossa área é a única no Maranhão que possui uma área extensa de floresta. Esses
+órgãos do governo e funcionários da Funai fazem ações expulsando os agressores, mas não dão
+suporte nem criam postos de vigilância e proteção. Com isso, ficamos mais expostos a ameaças e
+violência pelos agressores. [...] Estão entrando e matando nossa floresta, querendo destruir nossa casa
+e deixar a gente com fome, como as pessoas nas cidades. Desde outubro do ano passado, a gente vem
+realizando esse trabalho de fiscalização e, em janeiro deste ano, nossos pesquisadores indígenas
+iniciaram o trabalho de etnomapeamento de nosso território quando foram recebidos com balas nas
+costas pelos madeireiros. Ninguém tomou providências, e os agressores continuam soltos até hoje. [...]
+Já comunicamos os fatos aos órgãos governamentais, ninguém responde e toma providências que
+possam impedir a continuidade da violência contra nosso povo. Estamos reféns dentro de nossa própria
+casa. Não podemos andar nas cidades da região, não podemos usar os serviços e acessar benefícios.
+Não podemos realizar nossas caçadas e trabalho de roça próximo aos limites que somos ameaçados.
+Não vamos mais aceitar que continuem mandando em nossa terra. […]
+Pela saída imediata dos madeireiros de nosso território.
+Povo Ka’apor da Terra Indígena Alto Turiaçu, Maranhão.
+ Disponível em: https://cartasindigenasaobrasil.com.br/cartas/do-povo-kaapor-da-terra-indigena-alto-turiacu-para-o-brasil-30-de-maio-de-2014.
+                                                                                                          Acesso em: 7 ago. 2025. Adaptado.
+
+Os autores da carta escolheram esse gênero para reivindicar algumas questões. A principal delas é/são
+a) o estrito cumprimento da lei que protege suas terras.
+b) a urgente demarcação legal dos limites de seu território.
+c) uma proteção eficaz contra a venda de terras indígenas.
+d) participações nos lucros auferidos com a venda de madeira.
+e) penas mais duras para os invasores das terras indígenas.
+
+8. Observe a imagem a seguir.
+
+
+
+
+                                                               Disponível em: https://cbginastica.com.br/noticia/2364/agora-e-oficial-rio-de-
+                                                              janeiro-recebera-a-maior- edicao-da-historia-do-mundial-de-ginastica-ritmica.
+                                                                                         Acesso em: 11 jul. 2025.
+                                                                                                                                                7
+SSA UPE – 1ª FASE                                                                                               1º DIA
+Uma das modalidades da ginástica de competição é a ginástica rítmica. Nela, identificam-se
+características que unem movimentos gímnicos, uso de aparelhos, música, dança e é realizada em um
+tablado. Faz parte das olimpíadas apenas com a participação feminina. À luz da imagem e do conteúdo
+do enunciado, analise as afirmativas a seguir e assinale a alternativa CORRETA.
+a) São aparelhos da ginástica rítmica: arco, bola, maça, fita, corda e argola. Esses podem ser usados
+   tanto em apresentações individuais como nas em conjunto.
+b) O tamanho, peso e material dos aparelhos usados nesse tipo de ginástica não devem seguir padrões
+   e, por isso, os árbitros conferem apenas a higiene do material.
+c) As apresentações podem ser do tipo: conjunto ou individual, sendo igual o tempo destinado a elas.
+   Quando em conjunto a harmonia entre as atletas é um elemento que traz estética à apresentação.
+d) Nos Jogos Olímpicos de 2024, em Paris, o Brasil alcançou a melhor campanha individual, até então
+   na ginástica rítmica. Um grande feito para nosso país que já tem reconhecimento no futebol.
+e) As apresentações podem ou não iniciar junto com a música e devem parar com ela. Nos casos em
+   que a(s) atleta(s) continue(m) movimentos após a música concluir há despontuação.
+
+
+9. A seguir, você vai encontrar trechos de dois romances de autores do macrossistema literário em
+língua portuguesa, o caboverdiano Germano Almeida e o brasileiro Machado de Assis.
+
+Bem que ele sempre admitira haver na família uma ancestral sanguinidade que tornava natural uma
+certa inclinação para os negócios. Estava mesmo convencido de haver antepassados judeus na sua
+genealogia até porque se lembrava ainda e perfeitamente de seus avós vendendo pedacinhos de ervas
+para mascar, sem falar do seu próprio pai que ganhou o pão de cada dia catando atrás do balcão de
+uma mercearia de aldeia. E se era verdade que ele fora o único a enriquecer no comércio, não se podia
+dizer que os seus antepassados não tinham escapado a sua vida neste ramo.
+                              ALMEIDA, Germano. O testamento do senhor Napumoceno. São Paulo: Companhia das Letras, 1996.
+
+
+O fundador da minha família foi um certo Damião Cubas [...]. Era tanoeiro de ofício, natural do Rio de
+Janeiro, onde teria morrido na penúria e na obscuridade, se somente exercesse a tanoaria. Mas não;
+fez-se lavrador, plantou, colheu, permutou o seu produto por boas e honradas patacas, até que morreu,
+deixando grosso cabedal a um filho, o licenciado Luís Cubas. Neste rapaz é que verdadeiramente
+começa a série de meus avós — dos avós que minha família sempre confessou —, porque Damião
+Cubas era afinal de contas um tanoeiro, e talvez mau tanoeiro ao passo que o Luís Cubas estudou em
+Coimbra, primou no Estado, e foi um dos amigos particulares do vice-rei Conde da Cunha. Como este
+apelido de Cubas lhe cheirasse excessivamente a tanoaria, alegava meu pai, bisneto do Damião, que o
+dito apelido foi dado a um cavaleiro, herói nas ornadas da África, em prêmio da façanha que praticou,
+arrebatando trezentas cubas aos mouros.
+                                                ASSIS, Machado de. Memórias póstumas de Brás Cubas. São Paulo: Abril, 2010.
+
+
+Na leitura desses dois excertos, é evidente o diálogo temático entre os autores no que diz respeito à
+narração da origem de seus antepassados. Há, no entanto, uma diferença entre suas perspectivas
+narrativas, porque o primeiro
+
+a) censura uma tradição cultural mais autêntica, enquanto o segundo fabrica um mito genealógico.
+b) assume um discurso familiar mais sóbrio e realista, enquanto o segundo é mais irônico e elitista.
+c) tem narração com foco na mensagem (3ª pessoa), enquanto o segundo é no narrador (1ª pessoa).
+d) glamouriza sua linhagem familiar, enquanto o segundo pretende naturalizar suas origens humildes.
+e) expõe a hipocrisia das elites contra o trabalho, enquanto o segundo valoriza a cultura do trabalho.
+
+
+
+
+                                                                                                                         8
+SSA UPE – 1ª FASE                                                                                                                   1º DIA
+O texto e as imagens que se seguem referem-se às questões 10 e 11.
+Arte e Tecnologia – a estética do algoritmo
+Em 2017, a experiência do coletivo francês Obvious, fundado por Hugo Caselles-Dupré e outros dois
+artistas utilizou redes neurais chamadas Redes Geradoras Adversariais (GANs) para criar obras de arte.
+A proposta provocadora da Obvious, que culmina na criação da série La Famille De Belamy, ilustra uma
+nova fronteira entre a arte e a inteligência artificial, trazendo à tona questões éticas e culturais sobre a
+autoria e os limites da criatividade humana, além de noções como autoria, subjetividade e intenção
+estética.
+O algoritmo é programado para aprender com milhares de retratos históricos (do século XIV ao XX),
+identificando padrões e gerando obras inéditas, assinadas com a fórmula matemática do próprio
+algoritmo, rompendo com a assinatura tradicional do artista como sujeito criador.
+Entretanto, questões como a originalidade, intencionalidade artística, valor cultural e a mediação humana
+na curadoria dos dados necessitam de ser abordadas de forma crítica. A imagem final produzida por um
+algoritmo resulta de inúmeras decisões humanas (seleção de dados, parâmetros técnicos, critérios de
+avaliação). Assim, a IA aparece menos como criadora autônoma e mais como ferramenta sofisticada de
+mediação criativa. A escolha pelo gênero retrato, por exemplo: visa facilitar a empatia do público com a
+obra, mas também pode indicar um certo conservadorismo estético que minimiza o potencial inovador da
+IA no campo artístico.
+        Disponível em: https://digartdigmedia.wordpress.com/2022/12/09/a-artistica-inteligencia-artificial/. Acesso em: 10 jun. 2025. Adaptado.
+
+
+
+
+                                                                                       Retratos da família De Belamy, criados
+                                                                                       por IA
+                                                                                       Disponível em:
+                                                                                       https://digartdigmedia.wordpress.com/2022/12/09/a-
+                                                                                       artistica-inteligencia-artificial/. Acesso em: 10 jun. 2025.
+                                                                                       Adaptado.
+
+
+
+10. Com base no texto e nas imagens apresentados, qual das alternativas condiz CORRETAMENTE
+com as informações sobre a interação entre arte e tecnologia no trabalho do coletivo Obvious?
+a) A IA mantém a assinatura tradicional do artista ao gerar obras inéditas, utilizando a fórmula
+   matemática como forma de autoria.
+b) A escolha do gênero retrato, feita pelo coletivo, visa à empatia com o público, mas indica um certo
+   conservadorismo estético.
+c) A imagem final gerada pela IA é totalmente autônoma e dispensa qualquer mediação humana no
+   processo criativo.
+d) A proposta do coletivo evita levantar questões éticas, culturais e estéticas sobre autoria e criatividade.
+e) O uso da IA impede a ampliação do repertório artístico e limita a produção a padrões técnicos
+   repetitivos.
+                                                                                                                                               9
+SSA UPE – 1ª FASE                                                                                                 1º DIA
+11. Ao observar as imagens da série La Famille De Belamy, produzidas por inteligência artificial, assinale
+
+
+a) As obras se distanciam da linguagem do retrato tradicional, recusando qualquer influência do
+   classicismo ou do romantismo.
+b) Os retratos seguem fielmente o modelo clássico europeu, sem alterações nos acabamentos ou nos
+   traços fisionômicos.
+c) As imagens simulam retratos históricos, mas apresentam distorções nos traços e texturas, resultando
+   em uma estética imprecisa e provocadora.
+d) As imagens evitam o uso de convenções como fundo escuro, pose frontal e trajes nobres, típicos da
+   pintura acadêmica.
+e) A série prioriza o hiper-realismo, eliminando qualquer indício de intervenção algorítmica ou desfoque
+   visual.
+
+12. Observe os dois textos a seguir, uma letra de música contemporânea, de autoria de Tavito e Zé
+Rodrix, e um soneto do século XVIII, de autoria de Cláudio Manuel da Costa.
+
+Casa no Campo                                                      Soneto XIV
+         Tavito e Zé Rodrix                                                     Cláudio Manuel da Costa
+
+Eu quero uma casa no campo                                         Quem deixa o trato pastoril, amado
+Onde eu possa compor muitos rocks rurais                           Pela ingrata, civil correspondência,
+E tenha somente a certeza                                          Ou desconhece o rosto da violência,
+Dos amigos do peito e nada mais                                    Ou do retiro a paz não tem provado.
+
+Eu quero uma casa no campo                                         Que bem é ver nos campos transladado
+Onde eu possa ficar do tamanho da paz                              No gênio do pastor, o da inocência!
+E tenha somente a certeza                                          E que mal é no trato, e na aparência
+Dos limites do corpo e nada mais                                   Ver sempre o cortesão dissimulado!
+Eu quero carneiros e cabras pastando
+                                                                   Ali respira Amor sinceridade;
+Solenes no meu jardim
+                                                                   Aqui sempre a traição seu rosto encobre;
+Eu quero o silêncio das línguas cansadas
+                                                                   Um só trata a mentira, outro a verdade.
+Eu quero a esperança de óculos
+E um filho de cuca legal                                           Ali não há fortuna, que soçobre;
+Eu quero plantar e colher com a mão,                               Aqui quanto se observa, é variedade:
+A pimenta e o sal                                                  Oh ventura do rico! Oh bem do pobre!
+                                                                                         COSTA, Cláudio Manuel da. Poemas.
+Eu quero uma casa no campo                                                                          São Paulo: Cultrix, 1966.
+Do tamanho ideal, pau a pique e sapê
+Onde eu possa plantar meus amigos
+Meus discos e livros e nada mais
+            Disponível em: https://www.letras.mus.br/ze-rodrix/.
+                                     Acesso em: 25 jan. 2025.
+
+
+Embora escritos com pelo menos dois séculos de diferença, os textos apresentam assimilações e
+permanências no que diz respeito à presença de uma estética árcade. Com relação aos discursos
+invisibilizados e/ou aos aspectos éticos abordados, o que ambos os textos têm em comum?
+a) Idealizam romanticamente a vida no campo, esquecendo dificuldades reais enfrentadas nesse meio.
+b) Apresentam a vida no campo como moralmente superior, numa crítica ao artifício da vida urbana.
+c) Defendem o trabalho do campo no contato honesto com a vida até seus próprios limites corporais.
+d) Enaltecem o desejo por amizades verdadeiras, sinceras e simples, livres de excessos materiais.
+e) Contrapõem valores como sinceridade e honestidade do campo à corrupção e à falsidade da cidade.
+                                                                                                                          10
+SSA UPE – 1ª FASE                                                                                     1º DIA
+13. Leia o poema a seguir, que tematiza uma importante festa popular.
+
+Carnaval do Recife
+
+Meteram uma peixeira no bucho de Colombina
+que a pobre, coitada, a canela esticou!
+Deram um rabo-de-arraia em Arlequim,
+um clister de sebo quente em Pierrô!
+
+E somente ficaram os máscaras da terra:
+Parafusos, Mateus e Papangus...
+e as Bestas-Feras impertinentes,
+os Cabeções e as Burras-Calus...
+realizando, contentes, o carnaval do Recife,
+o carnaval mulato do Recife,
+o carnaval melhor do mundo!
+
+— Mulata danada, lá vem Quitandeira,
+lá vem Quitandeira que tá de matá!
+
+— Olha o passo do siricongado!
+— Olha o passo da siriema!
+— Olha o passo do jaburu!
+E a Nação-de-Cambinda-Velha!
+E a Nação-de-Cambinda Nova!
+E a Nação-de-Leão-Coroado!
+
+— Danou-se, mulata, que o queima é danado!
+— Eu quero virá arcanfô!
+Que imensa poesia nos blocos cantando:
+"Todo mundo emprega
+grande catatau,
+pra ver se me pega
+o teu olho mau!"
+— Viva o Bloco das Flores! Os Batutas!
+Apois-fum!
+(Como é brasileira a verve desse nome: Apois-fum!)
+E o Clube do Pão Duro!
+(É mesmo duro de roer o pão do pobre!) [...]
+                FERREIRA, Ascenso. Catimbó: cana caiana: xenhenhém. 5. ed. Recife: Nordestal, 1995.
+
+
+Esse poema do pernambucano Ascenso Ferreira é uma exaltação cultural ao Recife, o que é marcado
+nos diversos atos de linguagem que o constituem. Entre esses atos de linguagem de homenagem à
+cultura da cidade, também há registro de um tom humorístico
+
+a) na evocação de personagens típicos do carnaval popular, como os “Parafusos, Mateus e Papangus”.
+b) na valorização das nações de maracatu como a “Cambinda-Velha”, em culto à tradição ancestral.
+c) na celebração de blocos e clubes carnavalescos tradicionais da cidade, como o “Clube do Pão Duro”.
+d) no ritmo e na musicalidade populares adotados no poema, com estilo que imita a cadência do frevo.
+e) no uso de expressões populares da oralidade local, como “Danou-se [...]” e “Eu quero virá arcanfô!”
+
+
+
+                                                                                                           11
+SSA UPE – 1ª FASE                                                                                                               1º DIA
+14. Textos do campo da vida pessoal, como o seguinte, também podem tematizar nossa festa mais
+popular.
+
+
+                                                  Nesse caso, o carnaval é apenas um subtema. O tema mais
+                                                  relevante do texto é, de fato,
+
+                                                  a) a total falta de criatividade das fantasias carnavalescas.
+                                                  b) o empobrecimento de nossas manifestações culturais.
+                                                  c) a dificuldade de comunicação que há, entre pobres e ricos.
+                                                  d) a injusta desigualdade social que permanece em nosso país.
+                                                  e) a hipocrisia que se esconde por trás da alegria do carnaval.
+
+
+
+
+           Disponível em: http://www.arionaurocartuns.com.br/2017/02/charge-carnaval-no-brasil.html. Acesso em: 7 ago. 2025.
+
+
+
+O texto e a imagem que se seguem referem-se às questões 15 e 16.
+
+A Paris Filmes divulgou [...] o cartaz oficial de “Homem com H”, o aguardado filme inspirado na vida de
+Ney Matogrosso. A cinebiografia [...] acompanha a brilhante e intensa trajetória de Ney de Souza Pereira,
+desde sua infância. Ney Matogrosso morava com os pais e irmãos na pequena cidade de Bela Vista
+(MS). Os embates com o pai (Rômulo Braga), que insistia que o menino “virasse homem”, levaram Ney a
+se afastar da família, antes de enveredar para a vida artística.
+Dono de uma voz inconfundível e de performances memoráveis [...] resistindo a toda forma de repressão
+da família e da sociedade, Ney Matogrosso desafiou preconceitos e inaugurou um estilo próprio. No
+longa, Jesuíta Barbosa aparece com os figurinos de referências animalescas de Ney, as maquiagens
+inspiradas no Kabuki – tradicional teatro japonês – e sua inconfundível e arrebatadora presença no palco,
+nas mais diferentes fases de sua carreira.
+Disponível em: https://www.parisfilmes.com.br/paris-filmes-divulga-cartaz-oficial-de-homem-com-h-cinebiografia-sobre-ney-matogrosso/. Acesso
+                                                                                                                 em: 14 ago. 2025. Adaptado.
+
+“Para isso, é fundamental a entrega de Jesuíta Barbosa à complexidade física, emocional e artística de
+Ney. Com os olhos arregalados, os ombros arqueados, o abdômen marcado e o peito estufado, o ator
+deixa claro que foi a escolha certa para dar vida ao ícone...”
+                  Disponível em: https://revistahibrida.com.br/pipoc/homem-com-h-ney-matogrosso-critica/. Acesso em: 12 jul. 2025. Adaptado.
+
+
+
+
+                                             O ator Jesuíta Barbosa interpretando Ney Matogrosso
+             Disponível em/: https://revistahibrida.com.br/pipoc/homem-com-h-ney-matogrosso-critica/. Acesso em 12 jul. 2025.
+                                                                                                                                       12
+SSA UPE – 1ª FASE                                                                              1º DIA
+15. Considerando o texto introdutório e os elementos da linguagem cênica e visual, e da performance
+presentes na imagem, é CORRETO afirmar que
+
+a) a construção cênica de Jesuíta Barbosa incorpora a persona artística de Ney Matogrosso, para
+   ressaltar a resposta crítica às normas de gênero, sexualidade e comportamento.
+b) a maquiagem (rosto pintado de branco, com padrões pretos geométricos) e os adereços corporais
+   (penas e bracelete) servem como elementos decorativos, sem implicações simbólicas ou críticas.
+c) a expressividade corporal de Jesuíta Barbosa valoriza o virtuosismo técnico como principal recurso
+   expressivo da cena, já que a maquiagem é desprovida de intencionalidade política.
+d) a imagem revela uma construção performática em que o corpo se torna linguagem simbólica,
+   incorporando elementos do teatro, da dança e da ancestralidade para reforçar estereótipos
+   convencionais da masculinidade.
+e) a atuação de Jesuíta Barbosa busca inventar outros trejeitos pessoais para Ney Matogrosso, como os
+   olhos arregalados, os ombros arqueados, o abdômen marcado e o peito estufado.
+
+
+16. Considerando os elementos cênicos e visuais da imagem que retrata Jesuíta Barbosa como Ney
+Matogrosso no filme “Homem com H”, assinale a alternativa que interpreta com precisão os efeitos
+expressivos da composição fotográfica.
+a) A iluminação em tons suaves e o olhar introspectivo do personagem atenuam a dramaticidade da cena
+   e destacam sua dimensão cotidiana.
+b) A maquiagem e o figurino seguem padrões convencionais de palco, reforçando a neutralidade estética
+   da cena e apagando traços de teatralidade.
+c) A iluminação dramática, o contraste da maquiagem e o olhar penetrante criam uma atmosfera
+   ritualística, simbólica e crítica.
+d) A encenação visual busca distanciar o espectador do personagem, optando por uma estética
+   naturalista e pouco marcada pelo simbólico.
+e) O uso da maquiagem, dos adereços e da luz frontal tem principalmente função de fidelidade histórica,
+   sem interferir no discurso visual da performance.
+
+17. A existência de parques, praças e de outros ambientes urbanos públicos que possibilitem seu
+usufruto para realização de práticas corporais de aventura urbana favorece a vivência dessas práticas
+como uma forma de lazer. Além da existência do espaço físico, essas práticas precisam ser
+consideradas sobre outros aspectos, como, por exemplo, as relações com o meio ambiente, lazer e
+saúde.
+Assinale a alternativa que apresenta CORRETAMENTE alguns desses outros elementos que precisam
+ser observados.
+
+a) Para prática de skate, apenas a existência de uma pista de skate e de um skate são necessários para
+   que haja segurança do praticante.
+b) A prática do slackline requer, além de materiais como a fita e catracas, o estudo das condições das
+   árvores nas quais a fita será tensionada, pois não são todas as árvores que guardam as devidas
+   condições de segurança para a fixação da fita.
+c) O le parkour traz, em sua prática, associação com os desafios corporais que podem ser expressos,
+   entre outros, por subir paredes, muros, saltar de superfícies com diferentes alturas, se equilibrar em
+   corrimões.
+d) As práticas corporais de aventura urbana podem ser apontadas como uma forma de lazer, expressão
+   corporal da relação do homem com o meio ambiente; são realizadas, apenas, por pessoas que
+   querem cuidar da saúde e preferem atividades com menos interação social.
+e) O usufruto dos espaços públicos para as práticas corporais de aventura urbana de forma consciente
+   implica, somente, análise de riscos para integridade física, observação de limites físicos e
+   potencialidades e cuidado com os equipamentos de segurança individuais.
+                                                                                                     13
+SSA UPE – 1ª FASE                                                                                                         1º DIA
+Para dar aula sobre o planeta Terra, uma professora de Ciências, da Educação Básica, preparou um
+material em Power Point. Alguns slides desse material, apresentados a seguir, servem de base para a
+questão 18.
+                              1                                                                  2
+
+
+
+
+                             3                                                                    4
+
+
+
+
+                                                    Profa. Lilian Larroca. Slides.
+       Disponíveis em: https://aulasemppt.wordpress.com/2012/08/14/a-terra-no-espaco-aula-em-ppt-3. Acesso em: 8 ago. 2025.
+
+
+18. No que se refere a aspectos semânticos de palavras e expressões empregadas pela autora dos
+slides, assinale a alternativa CORRETA.
+
+a) Com a expressão “fotos de satélites” (slide 1), a autora pretendeu informar que ‘satélites’ são os
+   elementos “agentes”, ou seja, os responsáveis pela geração das fotografias.
+b) O enunciado “Atmosfera é a camada de ar que envolve a Terra.” (slide 2) é ambíguo, porque a
+   palavra “Terra” tem mais de um sentido, o que deixa pouco didática a explicação dada.
+c) A partir da explicação fornecida no slide 3, o leitor infere acertadamente que o oxigênio é importante
+   para a respiração dos seres vivos, mas não é classificado como um gás.
+d) Com o termo “solidez”, empregado para descrever uma característica do planeta Terra (slide 4), a
+   autora quis explicar que a Terra está solta, sozinha no espaço sideral.
+e) Com a informação “Temperatura que permite a manutenção da vida”, a autora do material pretendeu
+   dizer “Temperatura suportável para a existência dos seres humanos”.
+
+                                                                                                                               14
+SSA UPE – 1ª FASE                                                                                       1º DIA
+19. Observe, a seguir, a reprodução de uma postagem do Instagram.
+
+
+
+
+                    Disponível em: https://www.instagram.com/p/CNxgThxD7c7/. Acesso em: 25 jan. 2025.
+
+
+Essa postagem foi elaborada com finalidade de provocar o riso no interlocutor. Para isso, além de
+apresentar a charge como texto principal, a página do Instagram
+
+a) desativou a possibilidade de comentários à postagem, para que não houvesse outras interferências
+   na interpretação original do texto visual.
+b) acrescentou um novo efeito de sentido à charge, possibilitando entender que as relações entre fala e
+   escrita na Internet são mais dinâmicas.
+c) ampliou a interpretação do texto original, uma vez que a noção de ortografia deixou de ficar restrita
+   apenas à relação entre letra e som.
+d) reforçou, por meio da legenda, o efeito de sentido provocado pela relação entre o texto verbal do
+   balão e as imagens da escrita pictográfica.
+e) relacionou questões de normatização da língua a um novo contexto antes nunca imaginado, nas
+   relações entre imagem e palavra.
+
+
+
+
+                                                                                                             15
+SSA UPE – 1ª FASE                                                                                                        1º DIA
+As questões de 20 a 23 avaliam o conhecimento de língua estrangeira (Inglês ou Espanhol) de
+acordo com a sua opção de idioma indicado no ato da inscrição.
+Questões de 20 a 23 (Opção Inglês)
+Text 1 (for questions 20 and 21)
+                                      Coral reef ecosystems
+
+
+
+
+                                                Image credit: James Watt
+
+Coral reefs are some of the most diverse ecosystems in the world. Coral polyps, the animals primarily
+responsible for building reefs, can take many forms: large reef building colonies, graceful flowing fans,
+and even small, solitary organisms. Thousands of species of corals have been discovered; some live in
+warm, shallow, tropical seas and others in the cold, dark depths of the ocean. (…)
+Because of the diversity of life found in the habitats created by corals, reefs are often called the
+"rainforests of the sea." About 25% of the ocean's fish depend on healthy coral reefs.
+2 ………………………………………………………
+Shallow water, reef-building corals have a symbiotic relationship with photosynthetic algae
+called zooxanthellae, which live in their tissues. The coral provides a protected environment and the
+compounds zooxanthellae need for photosynthesis. In return, the algae produce carbohydrates that the
+coral uses for food, as well as oxygen. The algae also help the coral remove waste.
+Deep-sea corals live in much deeper or colder oceanic waters and lack zooxanthellae. Unlike their
+shallow water relatives, which rely heavily on photosynthesis to produce food, deep sea corals take in
+plankton and organic matter for much of their energy needs.
+3 ………………………………………………………
+Coral reefs protect coastlines from storms and erosion, provide jobs for local communities, and offer
+opportunities for recreation. They are also a source of food and new medicines. Over half a billion
+people depend on reefs for food, income, and protection. Fishing, diving, and snorkeling on and near
+reefs add hundreds of millions of dollars to local businesses. The net economic value of the world’s coral
+reefs is estimated to be nearly tens of billions of U.S. dollars per year. These ecosystems are culturally
+important to indigenous people around the world.
+4 ……………………………………………………….
+Corals have long been popular as souvenirs, for home decor, and in jewelry, but many consumers are
+unaware that these beautiful structures are made by living creatures. Fewer still realize that corals are
+dying off at alarming rates.
+5 …………………………………………………………
+Unfortunately, coral reef ecosystems are severely threatened. Some threats are natural, such as
+diseases, predators, and storms. Other threats are caused by people, including pollution, sedimentation,
+unsustainable fishing practices, and climate change, which is raising ocean temperatures and causing
+ocean acidification. Many of these threats can stress corals, leading to coral bleaching and possible
+death, while others cause physical damage to these delicate ecosystems. […]
+                          Disponível em: https://www.noaa.gov/education/resource-collections/marine-life/coral-reef-ecosystems#:~:text
+                                                                                                  Acesso em: 20 jul. 2025. Adaptado.
+                                                                                                                                 16
+SSA UPE – 1ª FASE                                                                                               1º DIA
+20. Considerando as informações do Text 1, identifique os tópicos tratados nos trechos/parágrafos
+numerados, assinalando a alternativa que apresenta os subtítulos com a numeração CORRETA.
+a) 2 “Corals are already a gift. Don’t give them as presents.” / 3 “Threats to coral reef ecosystems” /
+   4 “Benefits of coral reef ecosystems” / 5 “Coral characteristics”.
+b) 2 “Coral characteristics” / 3 “Threats to coral reef ecosystems” / 4 “Benefits of coral reef ecosystems” /
+   5 “Corals are already a gift. Don’t give them as presents.”.
+c) 2 “Benefits of coral reef ecosystems” / 3 Threats to coral reef ecosystems / 4 Corals are already a gift.
+   Don’t give them as presents. / 5 Coral characteristics.
+d) 2 “Coral characteristics” / 3 “Benefits of coral reef ecosystems” / 4 “Corals are already a gift. Don’t give
+   them as presents.” / 5 “Threats to coral reef ecosystems.”.
+e) 2 “Benefits of coral reef ecosystems” / 3 “Coral characteristics” / 4 “Threats to coral reef ecosystems” /
+   5 “Corals are already a gift. Don’t give them as presents.”.
+
+21. A partir das informações do Text 1, é CORRETO afirmar que
+a) muitas ameaças podem estressar os corais, desde as naturais (doenças, predadores e tempestades)
+   às causadas pelo homem (poluição, sedimentação, práticas de pesca insustentáveis...) levando-os ao
+   branqueamento e possível morte.
+b) o valor econômico líquido dos recifes de corais do mundo é estimado em centenas de bilhões de
+   dólares no Oceano Pacífico, posto que esses ecossistemas são muito importantes para a economia
+   dos povos indígenas e, sobretudo, para a cultura mundial.
+c) o valor econômico líquido dos recifes de corais do mundo é estimado em quase dezenas de bilhões
+   de dólares, razão pela qual são utilizados em joias e como formas de presentear pessoas no mundo
+   todo, levando os pescadores à extração predatória.
+d) a pesca, o mergulho e o turismo em torno das barreiras de corais do Pacífico vêm causando o
+   fenômeno do branqueamento desses delicados ecossistemas, que não apenas deixarão de existir em
+   breve, mas mudarão o clima de todos os mares e oceanos da Terra.
+e) milhares de espécies de corais foram descobertas recentemente por mergulhadores treinados; sabe-
+   se que algumas desenvolveram formas de vida muito extremas e são encontradas apenas nas
+   profundezas frias e escuras do oceano Pacífico.
+
+Text 2 (for questions 22 and 23)
+
+
+
+
+                 Disponível em: https://x.com/thetoonguy/status/1764847058937385326. Acesso em: 20 jul. 2025.
+                                                                                                                     17
+SSA UPE – 1ª FASE                                                                                                             1º DIA
+22. No cartum (Text 2), o comando dado à Alexa pelo peixe de corais, no último quadrinho, tem o
+propósito de
+a) acalmar o estresse dos corais causado por navios e exploradores de petróleo & gás.
+b) alertar, de forma brincalhona, sobre a situação de risco do ecossitema onde vivem.
+c) comunicar, com alegria, a melhora dos recifes de corais pelo uso do dispositivo instalado.
+d) ouvir uma música de sua preferência com o uso de um aparelho muito potente.
+e) debochar da preferência de mergulhadores e cientistas por músicas de Taylor Swift.
+
+23. Considerando o contexto e o léxico da língua inglesa, a expressão idiomática “WHAT ON EARTH”,
+no 1º quadrinho do cartum, foi usada para
+
+a) mostrar superioridade.
+b) expressar desapontamento.
+c) demonstar surpresa.
+d) expressar hostilidade.
+e) demonstrar empatia.
+
+
+Questões de 20 a 23 (Opção Espanhol)
+
+Texto para las cuestiones 20 y 21.
+Esta infografía se publicó el 11 de marzo del 2022 y trata de la lucha por sobrevivencia de las lenguas
+indígenas en Latinoamérica.
+
+
+
+
+      Disponible en: https://boyaca7dias.com.co/2022/03/11/infografia-lenguas-indigenas-en-latinoamerica-una-lucha-permanente-por-la-
+                                             sobrevivencia/. Adaptado. Acceso en: 26 junio 2025
+
+                                                                                                                                        18
+SSA UPE – 1ª FASE                                                                                                  1º DIA
+20. De acuerdo con la infografía, ¿cómo se puede analizar la presencia de la lengua indígena yagán en
+América Latina?
+a) Esta lengua estuvo presente en todo el territorio chileno hace 6.000 años.
+b) Esta lengua estuvo presente en todo el territorio argentino hace 6.000 años.
+c) 1.600 descendientes de yaganes viven todavía en el archipiélago de Tierra del Fuego.
+d) 1.600 descendientes de yaganes, que viven en Chile, olvidaron la lengua yagán.
+e) Los descendientes yaganes, que todavía están en Chile, no hablan la lengua yagán.
+
+21. De acuerdo con los datos presentados en la infografía, ¿a qué se debe la desaparición de las
+lenguas indígenas en América Latina?
+a) A la imposición de las lenguas española y portuguesa.
+b) A la disminución de pueblos indígenas en Latinoamérica.
+c) A la desaparición de muchas etnias indígenas en Latinoamérica.
+d) A la discriminación que afecta a los pueblos indígenas.
+e) A la pérdida de la memoria colectiva de los pueblos indígenas.
+
+Texto para las cuestiones 22 y 23.
+
+Hablar en la actualidad de pueblos indígenas en Brasil significa reconocer, básicamente, seis
+puntos:
+1. En estas tierras colonizadas por portugueses, donde se formaría un país denominado Brasil, ya
+   existían poblaciones humanas que ocupaban territorios específicos.
+2. Se desconoce exactamente de donde provienen; decimos que son “originarios” o “nativos” porque
+   estaban aquí antes de la ocupación europea.
+3. Ciertos grupos de personas que viven actualmente en el territorio brasileño están históricamente
+   vinculados a esos primeros pueblos.
+4. Los indígenas que están hoy en día en Brasil tienen una larga historia que comenzó a diferenciarse
+   de la historia de la civilización occidental ya en la denominada “prehistoria” (con flujos migratorios del
+   “Viejo Mundo”, en dirección a América, ocurridos hace decenas de miles de años), la historia “de
+   ellos” se reaproximó a “nuestra historia” hace algo así como 500 años (con la llegada de los
+   portugueses).
+5. Como todo grupo humano, los pueblos indígenas tienen culturas que resultan de la historia de las
+   relaciones que se dan entre los propios hombres y entre ellos con el medio ambiente, una historia
+   que – en su caso - fue (y continúa siendo) drásticamente alterada por la realidad de la colonización.
+6. La división territorial en países (Brasil, Venezuela, Bolivia, etc.) no coincide, necesariamente, con la
+   ocupación indígena del espacio; en muchos casos, los pueblos que viven hoy en una región de
+   fronteras internacionales ya ocupaban esa área antes de la creación de las divisiones entre los
+   países; y por eso tiene más sentido decir “pueblos indígenas en Brasil” que “pueblos indígenas del
+   Brasil”.
+                     Disponible en: https://pib.socioambiental.org/es/%C2%BFQui%C3%A9nes_son%3F#Indios_emergentes. Adaptado.
+                                                                                                      Acceso en: 25 junio 2025
+
+22. El texto sobre los indígenas en Brasil indica 6 (seis) puntos que tratan de la situación de estos
+pueblos en la actualidad brasileña. De acuerdo con lo que dice el punto 5 (cinco), se puede afirmar que
+a) la cultura de los indígenas todavía sufre los efectos de la colonización.
+b) la cultura de los pueblos indígenas siempre ha sufrido impactos.
+c) los indígenas tienen culturas que impactan el medio ambiente.
+d) la colonización produjo un cambio en la cultura de los indígenas en Brasil.
+e) la colonización hace parte de la cultura de los indígenas en Brasil.
+
+
+
+
+                                                                                                                           19
+SSA UPE – 1ª FASE                                                                                                            1º DIA
+23. ¿Por qué, según el texto sobre la actualidad de los pueblos indígenas en Brasil, tiene más sentido
+decir “pueblos indígenas en Brasil” y no “pueblos indígenas del Brasil”?
+a) Porque las fronteras internacionales ya existían, en muchos casos, cuando los pueblos originarios se
+   destacaron en el territorio latinoamericano.
+b) Porque los pueblos originarios, en muchos casos, ocupaban el territorio latinoamericano antes de su
+   división en fronteras internacionales.
+c) Porque la división en fronteras internacionales coincide con la ocupación de los pueblos indígenas en
+   América Latina.
+d) Porque los pueblos originarios no aceptan el reconocimiento de las fronteras internacionales.
+e) Porque los pueblos originarios no se organizan según la noción de fronteras internacionales.
+
+
+CIÊNCIAS HUMANAS E SOCIAIS APLICADAS
+Questões de 24 a 45
+
+24. Analise as imagens a seguir.
+
+         Variação percentual da produtividade agrícola dos estados brasileiros em cenários de
+                                         mudança climática
+
+
+
+
+  CUNHA, Denis Antônio. Mudanças climáticas e convivência com o semiárido brasileiro [recurso eletrônico]. Viçosa, MG: IPPDS UFV, 2022.
+
+Ela apresenta cenários de mudança climática para o Brasil no contexto de uma atividade econômica.
+A partir das informações dos mapas, assinale a alternativa CORRETA.
+a) Em um cenário otimista, os estados da região Norte terão mais ganhos de produtividade agrícola do
+   que perdas.
+b) Em um cenário otimista, os estados do Sudeste terão perdas menores que 5% e os estados do Sul
+   terão ganhos pouco maiores que 1%.
+c) Em um cenário pessimista no Centro Oeste, os ganhos de produtividade agrícola serão baixos, exceto
+   para o Mato Grosso do Sul, que terá perda.
+d) Em um cenário pessimista, todos os estados do Nordeste sofrerão perdas, sendo o Maranhão e o
+   Piauí os maiores impactados.
+e) Em um cenário otimista, os estados do Nordeste e Norte terão perdas baixas de produtividade
+   agrícola, exceto o Amapá e o Mato Grosso.
+                                                                                                                                     20
+SSA UPE – 1ª FASE                                                                                              1º DIA
+25. Observe o quadro a seguir.
+
+
+
+
+                                   Disponível em: https://brasil.un.org/pt-br/sdgs. Acesso em: 28 jun. 2025.
+
+
+Ele apresenta um conjunto de objetivos estabelecidos pelas Nações Unidas para alcançarmos a Agenda
+2030 no Brasil. Assinale a alternativa que indica CORRETAMENTE as principais dimensões que esses
+objetivos englobam.
+a) Agropecuária, Indústria e Comércio.
+b) Social, Econômica e Ambiental.
+c) Primário, Secundário e Terciário.
+d) Natural, Financeira e Cultural.
+e) Terra, Atmosfera e Oceano.
+
+26. Observe a imagem a seguir.
+                                               É o autorretrato de Adam Kraft, um dos mais importantes
+                                               escultores alemães do Período Gótico Tardio, encontrado na Igreja
+                                               de São Lourenço, em Nuremberg. Muito embora o fato de
+                                               representar a si mesmo demonstre sua importância, ele está
+                                               ajoelhado; já o brasão de armas de quem o contratou está bem
+                                               próximo ao santuário do tabernáculo, o “túmulo de Cristo”. A
+                                               disposição desses elementos arquitetônicos revela que a
+                                               sociedade da Europa Ocidental desse período
+                                                a) abria-se ao talento e ao trabalho, a despeito das origens
+                                                   sociais.
+                                                b) elevava seus grandes artistas ao status nobiliárquico.
+                                                c) permanecia sob o regime estamental, determinado pelo
+                                                   nascimento.
+                                                d) valorizava o trabalho braçal acima das atividades intelectuais
+                                                   e bélicas.
+                                                e) vedava a representação de não-nobres nos espaços
+                                                   sagrados.
+Disponível em: https://en.wikipedia.org/wiki/Adam_Kraft# Acesso em: 13 maio 2025.
+
+                                                                                                                    21
+SSA UPE – 1ª FASE                                                                                                       1º DIA
+27. A Mitologia e a Filosofia são modos diferentes de pensar, representados a seguir pelas duas
+imagens.
+                           Imagem 1                                                  Imagem 2
+
+
+
+
+   Disponível em: https://pixabay.com. Acesso em: 22 jun. 2025.    Disponível em: https://pixabay.com. Acesso em: 22 jun. 2025.
+
+
+Considerando as principais diferenças entre a Filosofia e a Mitologia, é CORRETO afirmar que
+a) a Imagem 2 representa o uso da metafísica para superar a interpretação simplista da realidade, e a
+   Imagem 1, personagens fictícios dando sentido à existência humana.
+b) a Imagem 2 mostra a busca por compreender a realidade através do uso da razão, e a Imagem 1
+   mostra o uso de narrativas simbólicas, com personagens fictícias.
+c) os distintos modos de pensar representados pela Imagem 2 foram organizados em escolas, e os da
+   Imagem 1 criaram narrativas para conhecer a realidade de modo significativo.
+d) as imagens se distinguem pela narrativa utilizada para interpretar a realidade, sendo que a
+   Imagem 2 é lógica, e a Imagem 1 é irracional.
+e) o campo representado pela Imagem 2 criou uma linguagem para caracterizar o modo de pensar, e o
+   da Imagem 1 utilizou a linguagem popular para ficar conhecida pela sociedade.
+
+
+28. Observe a representação a seguir.
+
+
+                                                                                     Sobre as áreas destacadas em
+                                                                                     laranja, é CORRETO afirmar que
+
+                                                                                     a) têm grande amplitude térmica
+                                                                                        diária.
+                                                                                     b) são formadas por dobramentos
+                                                                                        modernos.
+                                                                                     c) têm      altos  índices   de
+                                                                                        precipitação.
+                                                                                     d) são compostas por florestas
+                                                                                        tropicais.
+                                                                                     e) apresentam     vulcões   em
+                                                                                        atividade.
+
+ Disponível em: https://ensina.rtp.pt/. Acesso em: 11 jun. 2025.
+
+
+
+
+                                                                                                                                  22
+SSA UPE – 1ª FASE                                                                                                                                  1º DIA
+29. Leia os versos de cordel a seguir.
+             Eu começo este cordel                                                       Será mesmo tão difícil
+            perguntando agoniado:                                                        pra gente compreender
+          por que que nossos valores                                                  que quando se ajuda alguém
+            são tão desvalorizados?                                                        o ajudado é você?
+          Quanto vale a honestidade?                                                   Será mesmo que enganar
+           Qual o preço da bondade?                                                       é melhor que ajudar?
+           Quanto custa ser do bem?                                                   Será que não tem mais jeito
+             Vivemos a decadência                                                        de aprender essa lição
+       de um povo que, em sua essência,                                                  consertando o coração
+           só faz o que lhe convém…                                                     que bate no nosso peito?
+                                                                                             (Bráulio Bessa – Valores)
+O autor do cordel fala de desafios éticos que vivemos atualmente. Entre esses desafios, o texto destaca
+a) a ganância e o isolamento.
+b) a falta de solidariedade e de empatia.
+c) o altruísmo e a compaixão.
+d) o individualismo e a falta de solidariedade.
+e) a desonestidade e a corrupção.
+30. Observe as duas imagens a seguir
+                                   Imagem 1                                                 Imagem 2
+
+
+
+
+   Imagem 1: Miroir du Monde. Universal history from the                                    Imagem 2: a atriz Halle Bailey em A Pequena Sereia (2023).
+   Creation to the birth of Christ. Vol. I. MS. Douce 336, fol. 85r. Disponível em:     Disponível em: https://akns-images.eonline.com/eol_images/.
+   https://readingmedievalbooks.wordpress.com/.Acesso em: 28 maio 2025.                                                  Acesso em: 28 maio 2025.
+Em 2023, a escolha, pelos Estúdios Disney, de uma atriz negra para interpretar a Pequena Sereia
+provocou grande celeuma por supostamente fugir à proposta original do personagem. A iluminura
+medieval à esquerda, contudo, mostra que essa figura já foi representada de outras formas. A análise
+dessas imagens denota que
+a) personagens mantêm a aparência, não importa o momento histórico.
+b) momentos históricos diversos elaboram representações diversas.
+c) compromissos com representações pretéritas de figuras fictícias são necessários.
+d) modificações em personagens conhecidos é historicamente criticável.
+e) mudanças em aspectos físicos de personagens os deixa historicamente imprecisos.
+                                                                                                                                                         23
+SSA UPE – 1ª FASE                                                                                                               1º DIA
+31. Observe as informações a seguir.
+
+
+
+
+A discussão ganhou novos contornos com a moda
+das últimas semanas que conquistou milhares de
+usuários da internet: pedir que o ChatGPT crie
+imagens com o estilo do Studio Ghibli e a partir de
+fotos próprias.
+
+"É superdivertido ver as pessoas adorando imagens
+no ChatGPT, mas as nossas GPUs estão
+derretendo. Esperamos que não demore muito. A
+versão gratuita do ChatGPT em breve terá três                                Disponível em: https://www.techtudo.com.br/noticias/2025/03/.
+                                                                                                                 Acesso em: 10 jun. 2025.
+gerações por dia", escreveu o CEO da OpenAI, Sam
+Altman, no X, ao comentar o crescimento repentino
+da demanda.
+Disponível em: https://www.cnnbrasil.com.br/tecnologia/. Acesso em: 10 jun. 2025
+
+
+Acerca do uso de inteligências artificiais para oAcesso em: 10 jun. 2025.
+                                                  desenvolvimento         de ações como a apresentada, assinale
+a alternativa CORRETA.
+a) A criação desses memes é um importante instrumento para a sustentabilidade ambiental.
+b) A inteligência artificial é um recurso relevante para a diminuição das desigualdades socioambientais.
+c) A produção de informações e imagens em larga escala pela IA demanda um grande uso de água e
+   energia.
+d) A agilidade de geração de imagens corrobora com a diminuição da pegada ecológica e a liberação de
+   CO2.
+e) A gratuidade dos sites de Inteligência Artificial se destaca pela sua função social e econômica.
+
+
+32 Em texto do Museu de Arqueologia e Antropologia de Cambridge, somos informados que
+
+      Do final do século XIII ao início do século XIV, o povo Akan, do sudoeste de Gana e do sudeste da
+Costa do Marfim, desenvolveu um sistema de pesos para medir o ouro em pó, sua forma de moeda
+então. Além de seu uso transacional, a importância dos pesos de ouro reside em sua capacidade de
+comunicar as práticas culturais multifacetadas e a visão de mundo do povo Akan, mas também os
+sistemas e estruturas subjacentes que criaram.
+                  Disponível em: https://www.facebook.com/MAACambridge/photos/gm.871846253733605/10160387134959445?_rdc=1&_rdr#
+                                                                                                         Acesso em: 13 maio 2025.
+
+Em boa parte desse período o comércio também floresceu na Europa. Qual alternativa aponta a principal
+característica econômica retratada no período histórico explícito no texto?
+
+a) A validade das transformações econômicas para todas as sociedades durante um mesmo período.
+b) A simples coincidência entre o desenvolvimento comercial na África Ocidental e na Europa Medieval.
+c) A formação de extensas redes comerciais transcontinentais que fomentaram transformações
+   econômicas convergentes.
+d) A evolução financeira na África Ocidental como um acontecimento exclusivo da região, sem paralelos
+   noutros lugares.
+e) O ouro como mera forma de ostentação, sem maior papel na economia dos Akan.
+
+
+
+                                                                                                                                         24
+SSA UPE – 1ª FASE                                                                                                        1º DIA
+33. A conceituação moderna sobre a feminilidade é polarizada: mãe ou prostituta; profissional ou dona
+de casa. Mas, quando observamos essa noção da ‘deusa’ na Antiguidade, percebemos um espectro,
+deusas que reúnem em si qualidades que poderíamos considerar conflitantes. Ao compararmos as
+antigas tradições europeias, médio-orientais e indianas, encontramos o poder sendo expresso por meio
+de divindades femininas. Elas são a origem do poder. Eram deusas da guerra, das armas, da proteção
+às cidades.
+                                               Do filme Goddesses, Gender and the Myth of Matriarchy, do Ashmolean Museum de Oxford.
+                            Disponível em: https://www.ashmolean.org/research/global-gender-and-the-goddess-project#widget-id-4869481.
+                                                                                                   Acesso em: 16 maio 2025. Adaptado
+
+Qual das imagens a seguir confirma a conceituação das deusas expressa no trecho citado?
+
+       a)                                                      b)
+
+
+
+
+            Nossa Senhora de Częstochowa                                      Mater Matuta
+            (ícone cristão, séc. XIV).                                (estátua romana, séc. V a.C.).
+       c)                                                      d)
+
+
+
+
+                 Durga matando demônio                                         Ísis-Afrodite
+             (pintura indiana, séc. XVIII d.C.).                        (estatueta egípcia, séc. II d.C.).
+
+                                          e)
+
+
+
+
+                                                           Mãe e filho
+                                               (estatueta egípcia, Novo Império).
+                                                                                                                                 25
+SSA UPE – 1ª FASE                                                                                                             1º DIA
+34. Observe a imagem a seguir.
+
+
+
+
+  Disponível em: https://www.cbnrecife.com/artigo/governo-federal-anuncia-investimento-de-r-8-milhoes-para-obras-em-encostas-no-recife.
+                                                         Acesso em: 25 jul. 2025.
+
+Sobre a associação entre relevo e vegetação em áreas de encostas como apresentada na imagem,
+assinale a alternativa CORRETA.
+a) A remoção da vegetação da encosta resulta no aumento das taxas de erosão.
+b) A vegetação nativa tem uma influência negativa na estabilidade das encostas.
+c) A utilização de bananeiras é benéfica para a estabilidade das encostas.
+d) As gramíneas intensificam os movimentos de massas em áreas de encosta.
+e) O desmatamento de encostas íngremes reduz o impacto do intemperismo.
+
+35. Observe a imagem e leia o fragmento a seguir.
+
+                                                                Pintura rupestre em arenito no Parque Nacional
+                                                                Serra da Capivara-PI. As condições ambientais do
+                                                                local possibilitam encontrar milhares de registros
+                                                                pré-históricos, como fósseis, pinturas sobre rochas,
+                                                                dentre outros vestígios humanos, como fogueiras
+                                                                etc. A partir de pesquisas na região, Niéde Guidon
+                                                                (1933 – 2025) desenvolveu uma teoria alternativa
+                                                                sobre a ocupação das Américas, tornando-se uma
+                                                                das maiores referências na arqueologia brasileira.
+
+
+
+
+   BUCO, E. Turismo arqueológico. Região do Parque Nacional
+       Serra da Capivara. FUMDHAM, 2013. Adaptado.
+
+Assinale a alternativa que identifica CORRETAMENTE características do tipo de rocha presente no
+ambiente referido.
+a) Formada no interior da Terra por uma série de processos de metamorfismo.
+b) Endurecida na superfície terrestre após ser expelida por fissuras e fraturas.
+c) Originada na superfície terrestre a partir da consolidação de sedimentos.
+d) Desenvolvida por meio do resfriamento de materiais presentes no Manto.
+e) Elaborada sob intenso processo de intemperismo na Zona de Subducção.
+                                                                                                                                      26
+SSA UPE – 1ª FASE                                                                                                                1º DIA
+36. Segundo a professora Marilena Chauí, “a filosofia começa
+dizendo não às crenças e aos preconceitos do dia a dia para que
+eles possam ser avaliados racional e criticamente”.
+                                         (Iniciação à Filosofia, Ática, 2013, p. 18-19)
+
+Com base nesse pressuposto, pode-se dizer que a Filosofia
+
+a) é um questionamento constante da nossa prática a fim de evitar
+   erros desnecessários na vida.
+b) se vale da argumentação constante, pois não há verdade que
+   se sustente com a crítica filosófica.
+c) surge quando questionamos ideias e crenças comuns da
+   realidade, buscando analisá-las em profundidade.
+d) busca a justificação racional e crítica das coisas e das crenças
+   que preenchem o nosso dia a dia.
+e) se ocupa da justificação racional das crenças para que a
+   sociedade saiba a motivação dos preconceitos existentes.
+
+37. Leia o texto a seguir.
+
+Por vezes, pudemos identificar que os espaços citados correspondiam a espaços onde hoje já existem
+sítios arqueológicos identificados e cadastrados pelo Instituto do Patrimônio Histórico e Artístico
+Nacional (IPHAN). [...] entende-se que o fato de o memorando recordar, reconhecer e apontar espaços
+onde existem os sítios de pintura rupestre, ou os sítios onde existem vestígios arqueológicos,
+representa um discurso que reconhece que aqueles espaços foram ocupados antes deles.
+      Mello, S. A.; Castro, V. M. C. de. Memória, identidade e patrimônio arqueológico: um estudo sobre as lembranças dos velhos da Vila do
+                                                    Catimbau, Buíque-PE. Revista Arqueologia Pública, v. 10 n. 3[17] (2016), p. 12. Adaptado.
+
+
+A leitura do texto confirma a
+a) intersecção entre memórias de idosos indígenas e ocupações pré-coloniais.
+b) necessidade imperativa da ciência moderna na atribuição de sentidos ao passado.
+c) indiferença das populações nativas em relação aos vestígios do passado pré-histórico.
+d) função da arqueologia como instância essencial de interpretação do passado.
+e) inutilidade do diálogo entre as ciências humanas e as populações nativas.
+
+
+38. Em 2022, durante entrevista à rede portuguesa RTP, Paulina Chiziane, primeira africana a vencer o
+Prêmio Camões de Literatura, disse
+
+“Vou lhe dar um exemplo muito claro. Quando eu era menina, entre os 6 e os 10 anos, eu estava na
+escola primária, estudava com o catecismo católico. Os anjos eram brancos [...] loiros com olhos azuis.
+Jesus Cristo também. O Diabo era preto, parecido com meu pai, parecido comigo. Então, eu dos 6 aos
+10 anos, eu fui catequizada com uma imagem diabólica que veio do meu povo. As guerras de libertação,
+felizmente, fizeram-me compreender que: África vai ser o diabo por quê? E por que tem que se diabolizar
+esse ser?”
+       Disponível em: https://www.youtube.com/watch?v=7hty6LtCFqw&ab_channel=Eus%C3%A9bioDj%C3%BA. Acesso em: 28 maio 2025.
+
+
+Qual das subáreas do conhecimento histórico lida especificamente com testemunhos dessa natureza?
+a) Nova História
+b) História Econômica
+c) História Política
+d) História Comparada
+e) História Oral
+
+                                                                                                                                          27
+SSA UPE – 1ª FASE                                                                                                            1º DIA
+39. Observe a imagem a seguir.
+
+                                    Perfil topográfico do Estado de Pernambuco
+
+
+
+
+         JATOBÁ, Lucivânio. Relevo. In: ANDRADE, Manuel Correia de Oliveira (coord.). Atlas escolar de Pernambuco.
+                                          João Pessoa: Grafset, 2003. Adaptado.
+
+
+A partir da sua observação, assinale a alternativa que registra as informações CORRETAS.
+a) O Recife está localizado em uma planície flúvio-marinha, com clima seco e quente, o que favorece o
+   turismo na zona litorânea durante o verão.
+b) A Depressão sertaneja corresponde a um ambiente úmido, com predomínio do intemperismo, com
+   importantes áreas de exploração mineral.
+c) O Planalto do Jatobá é uma região de altitude, com predomínio da vegetação de montanha, onde se
+   destacam indústrias de extrativismo vegetal.
+d) A Borborema corresponde a um planalto com rochas cristalinas no Agreste, região onde os brejos
+   são áreas úmidas com forte potencial turístico.
+e) A Chapada do Araripe tem um importante polo de extração da gipsita, um mineral de origem
+   sedimentar formado durante o resfriamento do magma.
+
+
+40. Leia o trecho a seguir.
+[Em 2018], Arqueólogos descobriram um capacete coríntio de bronze no sepultamento de vários
+guerreiros gregos do século V a.C., no sudoeste da Rússia. Esse tipo de capacete, que cobre
+completamente a cabeça e o pescoço, é retratado em estátuas icônicas de figuras como o estadista
+ateniense Péricles e a deusa Atena, mas raramente é encontrado em escavações modernas. O exemplar
+recentemente descoberto foi encontrado em uma necrópole na Península de Taman, que, juntamente
+com partes da Crimeia, formava o território do Reino do Bósforo, um estado grego fundado por volta de
+480 a.C..
+                                                              Hellenistic Helmet Safety. Archaeology Magazine, setembro/outubro de 2018.
+                  Disponível em: https://archaeology.org/issues/september-october-2018/digs-discoveries/trenches-russia-corinthian-helmet.
+                                                                                                                Acesso em: 22 jun. 2025.
+
+A presença desses artefatos gregos na região hoje disputada entre a Rússia e a Ucrânia é um indicativo
+de um importante evento da história grega,
+a) a formação das póleis.
+b) a guerra do peloponeso.
+c) a expansão colonial.
+d) o militarismo espartano.
+e) a hegemonia micênica.
+
+
+
+
+                                                                                                                                     28
+SSA UPE – 1ª FASE                                                                                                      1º DIA
+
+
+41. Analise a imagem a seguir.
+                                  Bryce Cânion, Utah - EUA
+
+
+
+
+                        SALGADO, Sebastião. Gênesis. Taschen GmbH. Colônia, Alemanha, 2013.
+
+
+Ao analisá-la, o observador pode concluir CORRETAMENTE que
+a) a paisagem foi formada por processos erosivos.
+b) a tectônica de placas esculpiu o relevo do território.
+c) a epirogenia é responsável pela modelagem da escarpa.
+d) a orogenia formou maior parte do relevo de cuesta.
+e) a placa de San Andreas modelou a formação no cume.
+
+42. Leia o texto a seguir.
+
+Um tema importante que se fez presente entre os pensadores clássicos foi o da igualdade como uma
+condição necessária da democracia, a circunstância de que todas as vozes fossem ouvidas da mesma
+maneira e todas as ideias e proposições fossem equanimemente consideradas.
+                                                                         Luis Augusto Estrela Faria – Democracia e Liberdade, 2021.
+                                           Disponível em: https://www.ufrgs.br/fce/democracia-e-liberdade/. Acesso em: 22 jun. 2025.
+
+
+Qual alternativa estabelece uma associação CORRETA com as ideias desse texto?
+a) A liberdade é um fator essencial na vida democrática, pois garante que todos os homens serão
+   respeitados em suas ideias, independente do regime vigente.
+b) A democracia só se fará presente quando houver igualdade, e por isso todos devem ser ouvidos e
+   suas ideias consideradas.
+c) Na democracia, a liberdade de expressão é uma das garantias para que a ideias e proposições sejam
+   plenamente consideradas.
+d) Igualdade e democracia são fatores primordiais para o pleno exercício da cidadania, independente do
+   regime em que se vive.
+e) Os pensadores clássicos centravam sua preocupação teórica na condição da democracia vivida como
+   condição para a igualdade entre as pessoas.
+
+
+
+                                                                                                                               29
+SSA UPE – 1ª FASE                                                                                                  1º DIA
+43. Os dilemas morais e éticos surgem quando nos questionamos: o que devo fazer diante de
+determinada situação? Como devo me comportar perante o outro? Tais questionamentos revelam que o
+ser humano é um ser moral e ético. Assim, podemos afirmar que
+
+a) o comportamento ético varia de sociedade para sociedade, pois cada uma tem sua história própria,
+   com seus valores e regras exclusivas.
+b) a prática social deve ser orientada pelas normas expressas da sociedade, favorecendo uma
+   convivência respeitosa e humanitária.
+c) o ser humano deve ser consciente de seus deveres morais, a fim de preservar a harmonia social e o
+   respeito mútuo.
+d) os dilemas morais devem ser considerados na convivência social como elementos essenciais para a
+   vida em sociedade.
+e) a ética se preocupa com os comportamentos sociais, estabelecendo regras de conduta, mesmo sem
+   estarem expressas em normas jurídicas.
+
+44. Um dos textos mais importantes do Antigo Egito se chamava Ensinamentos de Ptah-Hotep, vizir
+durante o Antigo Império. Escrito na forma de máximas (conselhos curtos), algumas das quais são:
+5 - Respeito à Justiça: Se fores um homem que comenda, que controla a atividade de muitos, empenha-
+te em toda boa ação para que tua conduta seja irrepreensível. Boa é a justiça e duradouro seu efeito [...]
+6 - Punição à cobiça: Não trames contra as pessoas, pois o deus pune na mesma medida. [...] Vive então
+em meio à paz e o que eles (os deuses) derem virá por si mesmo.
+21 - Conduta com a esposa: Quando prosperares e construíres teu lar, ama tua mulher com ardor, enche
+seu estômago, veste suas costas [...] Alegra seu coração enquanto viveres, ela é um campo fértil para o
+seu senhor.
+                                           Araújo, Emanuel. Escrito para a Eternidade. Brasília: Editora da UNB, 2000. Adaptado.
+Lendo os trechos, é CORRETO afirmar que
+
+a) há componentes ético-filosóficos na literatura egípcia.
+b) os egípcios preocupavam-se somente com os próprios desejos.
+c) a morte era uma preocupação constante, sempre mencionada.
+d) os elementos filosóficos encontrados no Egito provêm da Grécia.
+e) era uma sociedade proto-mercantil, na qual o ganho financeiro é a norma.
+
+45. Leia o texto a seguir.
+
+Não há espaço, numa sociedade verdadeiramente democrática, para que práticas e falas racistas,
+homofóbicas e misóginas, dentre tantas outras que revelam os traços mais nefastos da nossa
+constituição, enquanto sociedade, sejam toleradas e proferidas, alegando, de forma cínica, o direito à
+liberdade de expressão.
+                                     SANTOS, Marcelo Tadeu dos. Duas palavrinhas sobre Democracia e liberdade de expressão.
+                                              Disponível em: https://noticias.unb.br/artigos-main/6323. Acesso em: 22 jun. 2025.
+
+
+Assim, é CORRETO afirmar que a sociedade democrática
+
+a) supõe o respeito ao outro, independentemente de sua orientação sexual e política, não admitindo falas
+   racistas e homofóbicas.
+b) se constitui pelo respeito a todos, bem como pela liberdade de exprimir quaisquer opiniões políticas e
+   sobre orientações sexuais.
+c) se caracteriza pela convivência de práticas e falas homofóbicas, pois demonstram o respeito à livre
+   expressão de todos.
+d) garante o direito à liberdade de expressão como valor superior à opção política e sexual de cada um
+   dos membros.
+e) se caracteriza pelo combate ao racismo e à misoginia como forma da liberdade de expressão.
+
+                                                                                                                           30
+SSA UPE – 1ª FASE              1º DIA
+
+                    RASCUNHO
+
+
+
+
+                                    31
+SSA UPE – 1ª FASE                                                                      1º DIA
+
+
+
+
+                                 ATENÇÃO!
+1.   Abra este Caderno apenas quando o Aplicador de Provas autorizar o início das Provas.
+2.   Observe se o Caderno de Provas está completo. Ele deverá conter 45 (quarenta e cinco)
+     questões de múltipla escolha distribuídas entre as áreas de conhecimento de Linguagens
+     e suas Tecnologias e de Ciências Humanas e Sociais Aplicadas.
+3.   Nas questões da opção de Língua Estrangeira (Inglês ou Espanhol), responda apenas
+     àquelas referentes à língua pela qual você optou. (Consta no seu Cartão de
+     Identificação)
+4.   Se o Caderno de Provas estiver incompleto ou com algum defeito gráfico que lhe cause
+     dúvidas, informe imediatamente ao Aplicador de Provas.
+5.   Uma vez dada a ordem de início das Provas, preencha, nos espaços apropriados, o seu
+     Nome completo, o seu Número de Inscrição, o Nome do prédio e o Número da sala, o
+     Número do Documento de Identificação, o Órgão Expedidor e a Unidade da Federação.
+6.   Para registrar as alternativas escolhidas nas questões da Prova, você receberá uma
+     Folha-Resposta de Leitura Ótica. Verifique se o Número de Inscrição impresso na
+     Folha-Resposta coincide com o seu Número de Inscrição.
+7.   As bolhas constantes da Folha-Resposta referentes às questões de múltipla escolha
+     devem ser preenchidas totalmente com caneta esferográfica azul ou preta.
+8.   Você dispõe de 4 horas para responder à Prova, incluído o tempo destinado ao
+     preenchimento da Folha-Resposta.
+9.   É permitido, após 3 horas do início das Provas, você retirar-se do prédio conduzindo o seu
+     Caderno de Provas, devendo, no entanto, entregar ao Aplicador de Provas a
+     Folha-Resposta preenchida.
+10. Caso você não opte por levar o Caderno de Provas consigo, entregue-o ao Aplicador de
+    Provas, não podendo, sob nenhuma alegação, deixar o Caderno em outro lugar do recinto
+    de aplicação das provas.
+11. Não será permitido, durante a realização das provas,
+      comunicar-se com outros candidatos sob hipótese alguma;
+      levantar-se da cadeira sem a devida autorização do Aplicador de Provas; e/ou
+      consultar anotações ou livros bem como acessar, no recinto, qualquer espécie de
+       aparelho de comunicação, aparelhos celulares (mesmo desligados), equipamentos
+       auxiliares de memória ou outros de qualquer natureza.
+
+
+
+                                       BOA PROVA!
+
+                                                                                            32
+

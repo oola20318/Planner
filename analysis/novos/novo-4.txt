@@ -1,0 +1,1399 @@
+ CADERNO DE PROVAS
+   LINGUAGENS E SUAS TECNOLOGIAS
+CIÊNCIAS HUMANAS E SOCIAIS APLICADAS
+
+                   DADOS DE IDENTIFICAÇÃO DO CANDIDATO
+                  Não deixe de preencher as informações a seguir.
+Prédio                                                                   Sala
+
+
+Nome
+
+
+
+
+Nº de Inscrição            Nº do Documento de Identificação     Órgão Expedidor   UF
+SSA UPE – 1ª FASE   1º DIA
+
+
+
+
+                         2
+SSA UPE – 1ª FASE                                                                                                         1º DIA
+LINGUAGENS E SUAS TECNOLOGIAS
+Questões de 01 a 23
+
+Você já ouviu falar que vivemos em um país plural, marcado pela diversidade de culturas e lugares? É
+comum dizer que o Brasil tem proporções continentais. Mas você já parou para pensar em como surgiu
+nossa divisão territorial? No Texto 1, do gênero resposta ao leitor e do campo jornalístico-
+midiático, percebemos um pouco dessa história.
+
+Texto 1
+                     Como foi estabelecida a divisão dos estados brasileiros?
+
+1534 – Capitanias hereditárias. Em 1504, os portugueses começaram a dividir as terras que estavam
+sob seu controle em 14 capitanias hereditárias. Nomes como Espírito Santo, Pernambuco, Maranhão e
+Ceará já eram usados na época.
+1789 – Tratado de Madri. Em 1750, com o Tratado de Madri, começa a expansão territorial para o
+interior. São criados Grão-Pará e São Paulo, que posteriormente é dividido e dá origem aos estados de
+Minas Gerais, Goiás e Mato Grosso.
+1822/1889 – Independência e República. Até a Independência, em 1822, havia o contorno de 17
+estados, mais a Cisplatina (atual Uruguai). Com a República, em 1889, o mapa fica ainda mais
+parecido com a configuração atual.
+1943 – Primeira metade do século XX. Em 1904, o Acre é comprado da Bolívia. Em 1942, o governo
+cria os territórios de Roraima [...], Amapá e Fernando de Noronha. Em 1946, é criado o estado de
+Rondônia [...].
+1990 – Transformações recentes. Em 1960, Goiás é desmembrado para abrigar a capital, Brasília.
+Em 1979, um novo desenho dá origem a Mato Grosso do Sul. A Constituição de 1988 define as
+divisões atuais, indicando a criação de Tocantins para 1989.
+As primeiras subdivisões do Brasil ocorreram no século XVI, com a criação das capitanias hereditárias.
+Desde então, decisões políticas orientaram o formato do território nacional até chegarmos aos atuais
+26 estados e o Distrito Federal. Hoje, qualquer alteração nesse sentido deve passar pela aprovação
+popular – em 2011, os eleitores do Pará votaram contra a divisão do estado em mais dois, Tapajós e
+Carajás – e posteriormente pelo Congresso.
+                       Disponível em: https://novaescola.org.br/conteudo/201/como-foi-estabelecida-a-divisao-dos-estados-brasileiros
+                                                                                                  Acesso em: 18 jun. 23. Adaptado.
+
+
+1. O Texto 1 tem por finalidade divulgar um conhecimento historicamente construído sobre a
+organização do nosso país. Ele contribui, portanto, para a manutenção de saberes na sociedade.
+Considerando os recursos linguísticos, esse objetivo está marcado pelas expressões
+
+a) adverbiais de tempo, responsáveis por indicar a progressão dos fatos no texto.
+b) nominais de lugar, responsáveis por situar o leitor no contexto geográfico do texto.
+c) numéricas, responsáveis pelas marcações exatas de tempo decorrido no texto.
+d) nominais de tempo, responsáveis por marcar os fatos históricos relatados no texto.
+e) adjetivas restritivas, responsáveis pela delimitação do tempo histórico do texto.
+
+2. Leia o fragmento da reportagem a seguir, publicada on-line.
+
+Este ano, em comemoração aos 50 anos do surgimento do Movimento Armorial, o Centro Cultural
+Banco do Brasil, no Rio de Janeiro, abriu ao público uma mostra da produção de vários artistas que
+participaram do movimento, muitos ainda em atividade, reconhecidos nacional e internacionalmente.
+[...] o Movimento Armorial abrangeu vários meios de expressão artística.
+                            Disponível em: https://dasartes.com.br/agenda/mostra-movimento-armorial-50-anos-ccbb-rio/.
+                                                                                  Acesso em: 12 jun. 2023. Adaptado.
+
+                                                                                                                                  3
+SSA UPE – 1ª FASE                                                                                                           1º DIA
+A seguir, são apresentadas manifestações artísticas e seu/s mentor/es. Qual delas tem, em sua
+composição, a influência direta do Movimento Armorial?
+
+a) “Big Apple”, escultura em porcelana, feita à mão, de Romero Britto, pintor e escultor pernambucano
+   radicado nos Estados Unidos.
+b) A Companhia de Dança Deborah Colker, no Rio de Janeiro, realizadora de uma integração entre as
+   artes que possibilitam criar relações entre movimento e espaço.
+c) O Tropicalismo, formado no eixo Bahia – Rio, movimento cultural de vanguarda, que envolveu, além
+   da música, outras formas de arte, como cinema, teatro e poesia.
+d) Teatro Escola Brincante, em São Paulo, idealizado por Antônio Nóbrega, multiartista, grande
+   estudioso da música, dança e arte cênica.
+e) Nação Zumbi, banda nascida em Recife, liderada inicialmente por Chico Science, cantor e
+   compositor, além de performer.
+
+Cada Estado brasileiro acaba assumindo uma relação específica com seus lugares e sua gente. Veja,
+por exemplo, o que se percebe no Texto 2, um infográfico, também do campo jornalístico-
+midiático.
+
+Texto 2
+
+
+
+
+ Disponível em: https://g1.globo.com/pe/pernambuco/noticia/2019/04/18/pernambuco-ganha-tres-novos-patrimonios-tombados-pelo-governo-
+                                                                                              estadual.ghtml. Acesso em: 10 jun. 2023.
+
+
+
+
+                                                                                                                                    4
+SSA UPE – 1ª FASE                                                                                1º DIA
+3. Os Textos 1 e 2 revelam algumas funções didáticas do campo jornalístico, uma vez que permitem
+aos leitores o acesso a um conhecimento histórico. Isso é realizado, no entanto, a partir de recursos
+semióticos distintos, diferença que se percebe no/a
+
+a) autoria, já que o Texto 1 foi escrito por um historiador, enquanto o Texto 2 foi escrito por um
+jornalista.
+b) formato, já que o Texto 1 utiliza apenas linguagem verbal, enquanto o Texto 2 usa a linguagem
+mista.
+c) público, já que o Texto 1 foi escrito para o público especialista, enquanto o Texto 2, para qualquer
+um.
+d) conteúdo, já que o Texto 1 aborda os fatos do tempo passado, enquanto o Texto 2 expõe o
+presente.
+e) propósito, já que o Texto 1 atende a uma demanda prévia de leitores, enquanto o Texto 2 é mais
+direto.
+
+4. A valorização ou desvalorização das práticas corporais está relacionada a diversos fatores sociais,
+culturais, econômicos e regionais. Algumas práticas, como as danças de matrizes afro-brasileiras, a
+capoeira, o Le Parkour e a Ginástica Rítmica, são desvalorizadas não apenas nas aulas de Educação
+Física, mas na sociedade de forma geral.
+
+Em relação a esse processo de (des)valorização, é CORRETO afirmar que as questões
+a)   de classe social têm pouco impacto na (des)valorização de determinadas práticas corporais em
+     relação às outras.
+b)   étnico-raciais apresentam influências na (des)valorização de determinadas práticas corporais.
+c)   religiosas e o racismo influenciam timidamente a (des)valorização de algumas práticas corporais.
+d)   de gênero influenciam a (des)valorização das práticas corporais, pois existem práticas para
+     meninos e outras para meninas.
+e)   de sexualidade determinam quais são as práticas corporais para pessoas hétero e para pessoas
+     homossexuais.
+
+Cada região brasileira também assume alguma especificidade no que diz respeito à organização do
+trabalho. Sobre isso, leia o Texto 3, um texto didático, do campo das práticas de estudo e
+pesquisa.
+
+Texto 3
+                          Sobre a divisão territorial do trabalho no Brasil
+     Uma explicação convincente das transformações que permitiram a atual configuração geográfica
+do território brasileiro deve passar pelo processo da produção econômica, cultural e das relações
+sociais de trabalho. A maneira como ocorreu a valorização do território brasileiro pelo trabalho social é
+resultado de processos que se diferenciam através dos tempos. Cada momento, ao invés de
+desaparecer por completo, acabou deixando sua marca nos períodos posteriores, inserindo-se, assim,
+na reprodução das novas relações sociais e no novo espaço constituído.
+     Para exemplificar, deve-se lembrar que até hoje ainda existe a prática do trabalho servil no campo
+e na cidade, como herança das relações sociais da época da Colônia e do Império. Também vale
+lembrar a presença das paisagens urbanas do tempo colonial, encontradas tanto nas antigas áreas
+dominadas pela sociedade da mineração como nas de cana-de-açúcar, verdadeiros patrimônios
+arquitetônicos nacionais e internacionais, heranças históricas que continuam vivas na nossa sociedade
+e que qualquer programa de desenvolvimento deverá preservar como elemento da memória e da
+consciência nacional brasileira.
+     A análise das relações de trocas internacionais permite-nos identificar mecanismos econômicos
+que há muitos séculos se reproduzem e com eles uma tendência a se reproduzirem certos tipos de
+relações sociais [...].
+                                                                                                        5
+SSA UPE – 1ª FASE                                                                                                                     1º DIA
+
+    Vejamos o caso da sociedade da cana-de-açúcar implantada no Nordeste brasileiro desde os
+tempos coloniais. Este guarda de forma muito viva as estruturas sociais e econômicas daqueles
+tempos. Ainda hoje, a região vive a saga dos coronéis. A influência das velhas famílias patriarcais na
+vida do campo e mesmo das cidades pode ser percebida nos relatos de acontecimentos veiculados
+pela mídia: suas disputas para manter privilégios políticos, econômicos e sociais. A casa-grande, o
+engenho e a grande usina representam o símbolo das sociedades tradicionais que resistem a
+desaparecer nessa região.
+ SCARLATO, Francisco Capuano. O espaço industrial brasileiro. In: ROSS, Jurandir L. Sanches (org.). Geografia do Brasil. 6. ed. São Paulo:
+                                                                                                               EdUSP, 2019. p. 338-340.
+
+5. O Texto 3 (texto didático) é um exemplo do que podemos chamar como divulgação do saber
+científico, já que tem como finalidade esclarecer aspectos da organização social do Brasil. Em seu
+conteúdo, ele apresenta exemplos concretos para facilitar a compreensão do leitor. Uma
+exemplificação do texto que ilustra relações de trabalho no país é a
+a) presença de paisagens urbanas da época colonial.
+b) preservação de uma memória arquitetônica brasileira.
+c) observação das relações econômicas internacionais.
+d) disputa veiculada na mídia do patriarcado pelo poder.
+e) simbologia da casa-grande, do engenho e da usina.
+
+A relação entre o homem e a natureza, diferentemente de como é abordado nos textos anteriores,
+pode ser textualizada de maneira mais subjetiva. Observe, por exemplo, como é narrada a relação
+entre o homem e um acidente geográfico, um rio, nos dois trechos de contos que encontramos nos
+Textos 4 e 5, do campo artístico-literário.
+Texto 4
+Ele, meu pai, me escutou. Ficou em pé. Manejou remo n'água, proava para cá, concordado. E eu
+tremi, profundo, de repente: porque, antes, ele tinha levantado o braço e feito um saudar de gesto – o
+primeiro, depois de tamanhos anos decorridos! E eu não podia... Por pavor, arrepiados os cabelos,
+corri, fugi, me tirei de lá, num procedimento desatinado. Porquanto que ele me pareceu vir: da parte de
+além. E estou pedindo, pedindo, pedindo um perdão. Sofri o grave frio dos medos, adoeci. Sei que
+ninguém soube mais dele. Sou homem, depois desse falimento? Sou o que não foi, o que vai ficar
+calado. Sei que agora é tarde, e temo abreviar com a vida, nos rasos do mundo. Mas, então, ao
+menos, que, no artigo da morte, peguem em mim, e me depositem também numa canoinha de nada,
+nessa água que não para, de longas beiras: e eu, rio abaixo, rio a fora, rio a dentro – o rio.
+      ROSA, João Guimarães. A terceira margem do rio. In: ROSA, João Guimarães. Primeiras estórias. Rio de Janeiro: Nova Fronteira, 1985. p. 37.
+
+
+Texto 5
+E o avô saltou para a margem, me roubando o peito no susto. O avô pisava os interditos territórios?
+Sim, frente ao meu espanto, ele seguia em passo sabido. A canoa ficou balançando, em
+desequilibrismo com meu peso ímpar. Presenciei o velho a alonjar-se com a discrição de uma nuvem.
+Até que, entre a neblina, ele se declinou em sonho, na margem da miragem. [...] Foi então que deparei
+na margem, do outro lado do mundo, o pano branco. Pela primeira vez, eu coincidia com meu avô na
+visão do pano. Enquanto ainda me duvidava foi surgindo, mesmo ao lado da aparição, o aceno do
+pano vermelho do meu avô. Fiquei indeciso, barafundido. Então, lentamente, tirei a camisa e agitei-a
+nos ares. E vi: o vermelho do pano dele se branqueando, em desmaio de cor. Meus olhos se
+neblinaram até que se poentaram as visões. Enquanto remava um demorado regresso, me vinham à
+lembrança as velhas palavras de meu velho avô: a água e o tempo são irmãos gêmeos, nascidos do
+mesmo ventre. E eu acabava de descobrir em mim um rio que não haveria nunca de morrer. A esse rio
+volto agora a conduzir meu filho, lhe ensinando a vislumbrar os brancos panos da outra margem.
+                  COUTO, Mia. Nas águas do tempo. In: COUTO, Mia. Estórias abensonhadas. Rio de Janeiro: Nova Fronteira, 1996. p. 13.
+
+
+
+
+                                                                                                                                              6
+SSA UPE – 1ª FASE                                                                                                1º DIA
+6. Os Textos 4 e 5 estabelecem um diálogo evidente na própria construção de cada trecho.
+Observando seus temas globais, eles permitem a abordagem
+
+a) da preservação do meio ambiente.
+b) dos conflitos nas relações familiares.
+c) das incertezas entre a vida e a morte.
+d) da importância de gestos e atitudes.
+e) da manutenção de valores sociais.
+
+7. No Texto 5, percebem-se claramente algumas marcas estilísticas da obra de Mia Couto. Uma delas
+é a criação de palavras novas, como ocorre em
+
+a) “interditos”, que faz referência ao entrecruzamento de falas na narrativa.
+b) “desequilibrismo”, que faz referência ao estado mental do personagem.
+c) “alonjar-se”, que faz referência ao fato de o velho estar muito distraído.
+d) “barafundido”, que faz referência à decisão firme tomada pelo personagem.
+e) “poentaram”, que faz referência ao movimento do Sol quando ele se põe.
+
+8. Leia o trecho de uma notícia e observe a imagem que segue.
+
+A OBA DX é uma orquestra de música popular criada
+em 2011 pelo músico e capoeirista Dainho Xequerê,
+que vem desenvolvendo um trabalho para mostrar a
+riqueza harmônica e melódica dos berimbaus.
+Pensando nisso, a orquestra interpreta canções de
+domínio público entoadas em rodas de capoeira e
+composições autorais e de artistas renomados, a partir
+de arranjos especiais criados para o instrumento.
+Disponível em: https://www.jamnomam.com.br/noticias/tem-jam-
+no-mam-nesse-sabado-22-12. Acesso em: 9 jun 2023.
+
+
+
+
+                                            Apresentação da OBADX - Orquestra de Berimbaus Afinados Dainho Xequerê
+              Disponível em: https://br.linkedin.com/in/orquestra-berimbaus-afinados-dainho-xequer%C3%AA-4118b777
+                                                                                              Acesso em: 28 jul. 2023.
+
+A partir da análise do texto e da imagem, podemos concluir que o berimbau utilizado pela orquestra
+
+a)   é um instrumento de uma corda só, portanto executa um número limitado de sons.
+b)   tem uma cabaça, e sua caixa de ressonância é responsável pela exatidão das notas.
+c)   precisa ser auxiliado por outros instrumentos de percussão para adquirir precisão sonora.
+d)   é confeccionado em alumínio com corda de piano e executa melodias mais extensas e
+     tradicionais.
+e)   é um instrumento musical improvisado, mas ainda assim é capaz de emitir várias sonoridades.
+
+
+
+
+                                                                                                                         7
+SSA UPE – 1ª FASE                                                                                                        1º DIA
+9. As práticas corporais de aventura urbana envolvem
+atividades que exploram espaços urbanos ao mesmo
+tempo em que desafiam corporalmente os seus
+praticantes. O skate, como uma de suas
+manifestações, surgiu nos Estados Unidos da
+América, especificamente no estado da Califórnia, nos
+anos 1960. O contexto de seu surgimento remete a
+uma relação com outro esporte, na época, já praticado
+nesse local.
+                                                                      Imagem extraída de: https://multiurso.com.br/esporte/
+                                                                      a-diferenca-entre-o-skate-street-park-bowl-e-vertical/
+
+Considerando o contexto histórico retratado e a imagem, é CORRETO afirmar que o Skate surgiu como
+a)   alternativa criada por grupos de surfistas para dias em que não havia ondas no mar.
+b)   uma alternativa de substituição ao basquete, por ser um esporte mais acessível a todos.
+c)   alternativa ao futebol americano, tendo sido criado por adolescentes da periferia da Califórnia.
+d)   forma de resistir ao racismo contido no atletismo, sendo criado pelas autoridades norte-americanas.
+e)   alternativa para o patins, sendo criado por professores na escola por ser de uma fácil construção.
+
+Há também formas de associar os usos da língua às diversas regiões que formam nosso país. É o que
+podemos ver no Texto 6, uma declaração, do campo de atuação na vida pública.
+
+Texto 6
+                    DECLARAÇÃO UNIVERSAL DOS DIREITOS LINGUÍSTICOS
+
+                                                TÍTULO PRÉVIO
+                                                   Conceitos
+Artigo 1º
+1. Esta Declaração entende por comunidade linguística toda a sociedade humana que, radicada
+   historicamente num determinado espaço territorial, reconhecido ou não, se identifica como povo e
+   desenvolveu uma língua comum como meio de comunicação natural e de coesão cultural entre os
+   seus membros. A denominação língua própria de um território refere-se ao idioma da comunidade
+   historicamente estabelecida neste espaço.
+2. Esta Declaração parte do princípio de que os direitos linguísticos são simultaneamente individuais e
+   coletivos e adota, como referência da plenitude dos direitos linguísticos, o caso de uma comunidade
+   linguística histórica no respectivo espaço territorial, entendendo-se este não apenas como a área
+   geográfica onde esta comunidade vive, mas também como um espaço social e funcional
+   indispensável ao pleno desenvolvimento da língua. [...]
+5. Esta Declaração considera como grupo linguístico toda a coletividade humana que partilhe uma
+   mesma língua e esteja radicada no espaço territorial de outra comunidade linguística, mas não
+   possua antecedentes históricos equivalentes, como é o caso dos imigrantes, dos refugiados, dos
+   deportados, ou dos membros das diásporas.
+                               Disponível em: http://www.dhnet.org.br/direitos/deconu/a_pdf/dec_universal_direitos_linguisticos.pdf
+                                                                                               Acesso em: 10 jun. 2023. Excertos.
+
+
+10. O Texto 6 é o trecho de um documento normativo de âmbito universal que versa sobre questões
+linguísticas. Como parte de um texto normativo, que função exerce o Art. 1º?
+
+a) Explicitar as noções legislativas adotadas pela Declaração.
+b) Registrar o alcance universal de atuação da lei instituída.
+c) Explicar as noções teóricas empregadas no documento.
+d) Dispor as medidas necessárias para implementar a norma.
+e) Especificar os direitos instituídos pelo documento normativo.
+                                                                                                                                 8
+SSA UPE – 1ª FASE                                                                                      1º DIA
+Os usos da língua são múltiplos, como se pôde perceber no texto anterior. Veja, por exemplo, uma
+representação geográfica publicada no Texto 7, uma postagem de Instagram, do campo da vida
+pessoal.
+
+Texto 7
+
+
+
+
+                                                       Disponível em: https://www.instagram.com/p/B8JjdGIJrsT/.
+                                                                              Acesso em: 29 jun. 2023. Adaptado.
+
+
+
+11. A postagem da página Recife Ordinário (Texto 7) divulga uma classificação para os dialetos
+brasileiros, fruto de uma pesquisa realizada pelo grupo The Fools. Percebe-se que dois comentários
+feitos à postagem discordam em relação às áreas dialetais registradas no mapa. O que justifica essa
+discordância?
+
+a) O fato de a pesquisa divulgada apresentar alguns equívocos em seus resultados, uma vez que o
+   dialeto sertanejo (área 10), por exemplo, diz respeito a variedades empregadas no Nordeste.
+b) A falta de detalhamento dos procedimentos metodológicos da pesquisa, que pode ter levado a
+   algumas confusões nos resultados, como a divisão de dialetos número 7 e 16, que não existe.
+c) O processo de pesquisa científica, que produz recortes da realidade a partir de métodos específicos,
+   o que ajudou a diferenciar, por exemplo, o falar mineiro (área 6) do baiano (área 3).
+d) A falha na coleta de dados que resultou na pesquisa divulgada, já que a divisão entre as áreas 5 e
+   10, por exemplo, não levou em conta a produção de textos escritos nessas localidades.
+e) A escolha inadequada dos instrumentos da pesquisa, que deveria ter adotado a entrevista com os
+   falantes do português para perceber, por exemplo, a inexistência do dialeto da área 14.
+
+
+
+
+                                                                                                              9
+SSA UPE – 1ª FASE                                                                                         1º DIA
+12. Radicado nos Estados Unidos, Vik Muniz é um artista plástico brasileiro que ficou famoso por criar
+obras de arte com materiais inusitados, como chocolate, açúcar, ketchup, geleia, e até diamantes.
+Entre 2007 e 2008, Vik Muniz desenvolveu um projeto artístico com sete catadores de material
+reciclado do aterro sanitário do Jardim Gramacho, bairro da periferia de Duque de Caxias, no Rio de
+Janeiro, que se tornou um documentário, “Lixo Extraordinário” ou “Waste Land”. Coprodução brasileira
+e britânica, ganhou vários prêmios nacionais e internacionais. O processo de criação das obras
+consistiu em tirar fotografias dos catadores e depois reproduzi-las em grande escala compondo as
+imagens com os materiais recicláveis coletados por eles. As imagens de algumas dessas obras são
+reproduzidas a seguir:
+
+
+
+
+     Cena do documentário “Lixo Extraordinário” (2011)      A Morte de Marat (releitura) – 2008
+           Disponível em: https://istoe.com.br/             Disponível em: https://istoe.com.br/
+
+
+
+
+                                                         Quatro dos trabalhos produzidos durante o documentário
+                                                         “Lixo Extraordinário” (2008)
+                                                         Disponível em: https://extra0rdinarios.wordpress.com/
+
+Ao longo da produção dessas obras, transformações acontecem na vida e nas visões de mundo dos
+sete catadores participantes do projeto.
+Associando as imagens e analisando as informações, é CORRETO afirmar que
+a) a utilização do próprio lixo para compor as obras estimula outros trabalhos como esse, diminuindo
+a quantidade de material reciclável na natureza, além de contribuir para a preservação do meio
+ambiente e para a inclusão social.
+b) as obras retratam os catadores como personagens famosos já representados anteriormente na
+história da arte, dissociando os catadores do lixo, estimulando neles a reflexão sobre a função social
+da sua atividade e resgatando a dignidade dessas pessoas.
+c) os materiais valiosos utilizados por Vik Muniz nessas obras conseguiram transformar a realidade
+de pessoas excluídas e conscientizar sobre o problema do lixo no mundo, ao criar um contraste entre o
+lixo descartável e a arte.
+d) a reciclagem associada ao poder transformador inerente à arte pode contribuir para a preservação
+do meio ambiente e para a inclusão social, criando um contraste entre o lixo e a arte, entre o
+descartável e o valioso, entre o invisível e o visível.
+e) a visibilidade conseguida com o documentário tornou a atividade dos catadores mais valorizada,
+na medida em que eles se reconheceram como artistas, mesmo ganhando pouco e dependendo da
+venda dos recicláveis para viver.
+                                                                                                                  10
+SSA UPE – 1ª FASE                                                                                        1º DIA
+Os modos como os autores do campo artístico-literário abordam os lugares do país também são
+bastante peculiares. Veja, por exemplo, no Texto 8, um poema, como a cidade de Salvador é
+retratada.
+Texto 8
+PONDO OS OLHOS PRIMEYRAMENTE NA SUA CIDADE CONHECE, QUE OS MERCADORES SÃO
+O PRIMEYRO MOVEL DA RUINA, EM QUE ARDE PELAS MERCADORIAS INUTEIS, E
+ENGANOSAS.
+Triste Bahia! Ó quão dessemelhante
+Estás, e estou do nosso antigo estado!
+Pobre te vejo a ti, tu a mi empenhado,
+Rica te vejo eu já, tu a mi abundante.
+A ti trocou-te a máquina mercante,
+Que em tua larga barra tem entrado,
+A mim foi-me trocando, e tem trocado
+Tanto negócio, e tanto negociante.
+Deste em dar tanto açúcar excelente
+Pelas drogas inúteis, que abelhuda
+Simples aceitas do sagaz Brichote.
+Oh se quisera Deus, que de repente
+Um dia amanheceras tão sisuda
+Que fora de algodão o teu capote!
+                                       MATOS, Gregório. Poesias selecionadas. 3. ed. São Paulo: FTD, 1998. p. 141.
+
+13. O Texto 8 é um dos poemas de Gregório de Matos Guerra declamado no filme Gregório de Mattos
+(2003), da diretora Ana Carolina. Ao lado do texto, é retratada a cena do filme em que esse poema é
+declamado, num momento de crítica às mudanças que tornaram a Bahia um(a)
+a) local mais comercial.
+b) cidade mais abastada.
+c) lugar de muito pecado.
+d) vila menos romântica.
+e) canto mais religioso.
+
+14. A dança, como tema da cultura corporal, é uma forma de expressão artística que pode refletir as
+características de uma determinada cultura, podendo ser classificada como danças populares, danças
+teatrais, danças da mídia, danças de salão, entre outras formas. Em relação especificamente às danças
+populares pernambucanas, elas são inerentes à cultura popular do estado e, entre suas diversas
+características, representam os costumes, as festividades e apresentam sua classificação organizada
+em ciclos (carnavalesco, junino, afro e natalino).
+Assim, com relação às danças populares de Pernambuco, assinale a alternativa CORRETA.
+a)   A dança do ventre é uma dança originária de antes da escrita, considerada um tipo de dança
+     urbana brasileira com influências europeias.
+b)   O xote é um exemplo de dança popular muito presente nas festas juninas e não apresenta relação
+     com o forró.
+c)   O frevo é uma dança popular do Brasil, originária de Pernambuco e atualmente reconhecida como
+     patrimônio cultural imaterial da humanidade.
+d)   O funk é uma dança teatral brasileira, historicamente de matriz indígena, nascida na época do
+     Brasil Colônia, em Pernambuco.
+e)   O coco de roda é uma dança do ciclo carnavalesco que representa historicamente os costumes das
+     populações indígena e europeia.
+                                                                                                               11
+SSA UPE – 1ª FASE                                                                                                                1º DIA
+Numa interface entre os campos artístico-literário, jornalístico-midiático e da vida pessoal,
+encontramos o exemplo do Texto 09, webstories da Página Quatro cinco um que descrevem a vida
+de um poeta símbolo do Recife, Miró da Muribeca (1960-2022).
+Texto 09
+
+
+
+
+                                              Disponível em: https://webstories.quatrocincoum.com.br/quem-foi-miro-da-muribeca/
+                                                                                                         Acesso em: 10 jun. 23.
+
+15. O Texto 09 explica um pouco da vida de Miró da Muribeca, poeta da literatura pernambucana
+contemporânea, caracterizado no webstory como um poeta performático. No trecho de poema também
+apresentado no texto, essa performatividade é marcada na crítica que se percebe na
+a) personificação da figura de Deus.
+b) recorrência a elementos musicais.
+c) utilização do verso com rima livre.
+d) dúvida estabelecida na estrofe.
+e) presença da cultura recifense.
+Entrelaçando os campos de atuação na vida pessoal e o campo artístico-literário, há outras
+formas cômicas de retratar uma cidade e seu povo, como é feito no Texto 10, uma tira.
+
+Texto 10
+
+
+
+
+       Disponível em: https://newtonfoot.com.br/cartas-chilenas-uma-historia-do-tempo-da-inconfidencia/. Acesso em: 10 jun. 23
+
+                                                                                                                                     12
+SSA UPE – 1ª FASE                                                                                                                  1º DIA
+16. Na tirinha (Texto 10), apresenta-se uma crítica a um costume social, o endividamento financeiro
+das pessoas. O texto é construído a partir de relações intertextuais explícitas com a obra Cartas
+Chilenas, da Tomás Antônio Gonzaga, que também tece críticas nesse estilo à sociedade mineira da
+época em que o poema foi escrito. Além da temática, a relação intertextual entre a tira e a obra de
+Gonzaga é explicitada pelo uso
+a) do jogo de palavras entre o verbo ‘jurar’ e o substantivo ‘juro’.
+b) das diferentes expressões faciais para marcar os personagens.
+c) da menção ao destinatário das Cartas, o ‘amigo Doroteu’.
+d) da crítica expressa no trecho ‘não existe povo mais endividado’.
+e) do cenário que faz remissão ao tempo da literatura colonial.
+17. As três imagens a seguir são exemplos de arte mural, ramo/gênero de expressão artística que
+inicia nos primórdios da História da Arte e segue até a contemporaneidade.
+                    Imagem 1                                                                    Imagem 2
+
+
+
+
+Sitio Arqueológico da Pedra Pintada – Acervo: Instituto Estrada Real   “Del porfirismo a la revolución”. David Alfaro Siqueiros (Mural, 1954)
+Disponível em: https://balcaonews.com.br/ Acesso em: 27/04/23.         Disponível em: definicionesyconceptos.com/ Acesso em: 02/04/23.
+
+
+                       Imagem 3                               Observe o que se afirma das imagens e assinale a
+                                                              alternativa CORRETA.
+                                                              a) A pintura rupestre produzida pelos homens
+                                                              pré-históricos e o grafite utilizam-se de detalhes, baixos
+                                                              e altos relevos e irregularidades do suporte, para
+                                                              incorporá-los na composição das imagens e dos
+                                                              materiais (pigmentos e instrumentos).
+                                                              b) O muralismo mexicano é uma forma de arte pública
+                                                              como o grafite, tendo ambos estreita relação com a
+                                                              arquitetura, podendo explorar o caráter plano de uma
+                                                              parede ou criar o efeito de uma nova área de espaço.
+                                                              c) A arte mural utiliza como suporte grandes espaços
+                                                              em duas dimensões, geralmente fixos, de grandes
+                                                              proporções, podendo ser paredes, pisos e tetos, de
+Disponível em: https://www.anf.org.br/grafiteiras-e-          pedra, concreto, cerâmica ou outros materiais.
+grafiteiros-do-recife-se-reunem-em-ultimo-mutirao-de-         d) A arte mural promove uma exposição permanente
+2019-no-bairro-do-toto/. Acesso em: 2 abr. 2023.
+                                                              de obras artísticas, e essa interação com o público
+                                                              desperta a consciência crítica de um contingente
+                                                              significativo de pessoas.
+                                                              e) A temática social, assim como o registro do
+                                                              cotidiano, são temas comuns encontrados em pinturas
+                                                              em quadros, expostos em paredes, galerias e museus e
+                                                              na arte mural, o que promove uma democracia social de
+                                                              acesso à arte.                                           13
+SSA UPE – 1ª FASE                                                                                                                   1º DIA
+Também entrelaçando os campos de atuação na vida pessoal e o campo artístico-literário, há
+formas mais líricas de retratar uma cidade, como é feito no Texto 11, um guia turístico da cidade de
+Olinda, escrito por Gilberto Freyre.
+Texto 11
+                                                               O Nome
+     Diz-se que foi assim: que “hum Gallego criado de Duarte Coelho [...] andando com outros por
+entre o mato buscando o sítio em que se edificasse [a vila], achando este que he em hum monte alto,
+disse com exclamação de alegria, Olinda”. Foi esta a tradição que Frei Vicente do Salvador recolheu
+nas notas de História do Brasil que acabou de escrever em 1627.
+     Outro frade, o beneditino Dom Domingos de Loreto Couto e, depois dele, o inglês Southey,
+afirmam, em seus escritos, que foi o próprio Duarte Coelho, primeiro donatário de Pernambuco, que
+exclamou diante do monte: “Ó linda situaçam para se fundar huma villa” Oh! linda teria se aquietado
+em Olinda.
+     Mas veio Varnhagen, com seus cuidados de quem quer a História uma horta burguesa, limpa de
+toda imaginação poética e de toda tradição popular e sugeriu que o nome Olinda talvez fosse o de
+alguma quinta, casa ou burgo de Portugal que o primeiro senhor da Nova Lusitânia quisera perpetuar
+no Brasil. Olinda, lembrou ainda mestre Varnhagen, era o nome de uma das belas damas da novela
+Amadis de Gaula, cuja leitura estava muito em voga em Portugal nos primeiros tempos da colonização
+do Brasil.
+     Alfredo de Carvalho reforçou anos depois os argumentos do mestre de Sorocaba recordando que
+perto de Lisboa existem lugares com os nomes de Linda-a-Pastora e Linda-a-Velha. Pesquisadores
+portugueses mais novos vão além: sugerem que o nome Olinda talvez seja árabe.
+     Qualquer das origens sugeridas para o nome de Olinda me parece que tem seu quê de poético –
+mesmo a que oferece o prosaico Varnhagen. Afinal, dar-se ao lugar onde se vai levantar uma vila no
+Brasil de 1500 o velho nome de uma freguesia, de uma casa ou de uma quinta de Portugal é prova de
+muito bom sentimento e de apego saudoso à casa antiga ou ao sítio pequeno que se deixou em busca
+de fortuna ou glória nos ermos da América.
+               FREYRE, Gilberto. Olinda: 2º guia prático, histórico e sentimental de cidade brasileira. 6. ed. São Paulo: Global, 2007. p. 23.
+
+18. O Texto 11 apresenta algumas versões da origem do nome de Olinda, cidade vizinha da capital
+pernambucana. Uma das teses registradas, de caráter literário, é a de que
+a) o criado de Duarte Coelho teria se encantado com o local.
+b) o próprio Duarte Coelho teria se impressionado com a vila.
+c) uma quinta, casa ou burgo de Portugal já tivesse esse nome.
+d) uma personagem de novela teria sido a inspiração do nome.
+e) a descoberta mais recente é que o nome tem origem árabe.
+19. Leia a seguir o resumo de um trabalho de pesquisa, de título Artivismo Indígena e Indigenista.
+Esta pesquisa realiza uma revisão da construção cultural da imagem do “índio”, por meio tanto das
+Artes Visuais como dos usos e apropriações das culturas indígenas, dos processos da colonização
+portuguesa, até o romantismo indianista e a antropofagia modernista, que seguem vigentes na era
+contemporânea. Também trata de como os processos de globalização econômica e cultural trouxeram,
+mediante fenômenos híbridos, novas realidades interculturais que nos permitem repensar a noção de
+identidade dos povos e das culturas indígenas, imersas hoje em processos de afirmação identitária
+mediante a presença da chamada Cibercultura. Ainda defende que, em razão dos discursos pós-
+modernos, surge um tipo de arte que pode ser denominado Artivismo (Arte + Ativismo). Ou seja, são
+obras de arte que representam um questionamento político-histórico-cultural sobre o racismo, o
+classismo ou o sexismo. Nessas obras, os artistas utilizam-se da liberdade artística para questionar o
+poder e gerar novos modelos de diálogo; debatem ativismo político e reflexão crítica a favor das
+culturas marginais. Nesse caso, a ideia de Artivismo Indígena e Indigenista faz referência tanto às
+obras de arte que se envolvem politicamente com a representação indígena dentro da sociedade
+hegemônica brasileira como às suas lutas político-culturais em voga.
+   QUESADA, Luis Roberto Andrade. Artivismo indígena e indigenista. Disponível em: repositorio.unesp.br/ Acesso em: 10/06/23. Adaptado.
+
+                                                                                                                                           14
+SSA UPE – 1ª FASE                                                                                                  1º DIA
+Tomando como base o texto, qual das obras descritas a seguir contribui para a desconstrução da
+imagem e identidade de “índio” vigentes na era contemporânea e que vão ao encontro da ideia de
+Artivismo Indígena?
+
+a)                                                                       “Pajé-Onça Hackeando a 33a Bienal de Artes
+                                                                         de São Paulo”. Performance de Denilson
+                                                                         Baniwa (2018). Em um videoperformance de
+                                                                         15 minutos postado nas redes sociais, o artista
+                                                                         indígena faz um discurso-manifesto sobre a
+                                                                         arte e a cultura indígena atual.
+
+
+      Fonte: https://www.pipaprize.com/denilson-baniwa/paje-onca-
+          hackeando-a-33a-bienal-de-artes-de-sao-paulo-1-2/
+
+b)                                                                       “Descobrimento do Brasil”. Óleo sobre tela,
+                                                                         26 x 34,2 cm, de Cândido Portinari (1956).
+                                                                         Portinari foi um pintor brasileiro, o principal
+                                                                         tema das suas obras foram os problemas
+                                                                         sociais, com as quais denunciava as
+                                                                         desigualdades sociais.
+
+
+
+
+           Fonte: http://juarezribeiroa.blogspot.com/2018/08/o-
+                  descobrimento-do-brasil-candido.html
+
+c)                                                                       “A Missão”. Filme dirigido por Roland Joffé
+                                                                         com Robert De Niro, Jeremy Irons (1986). Um
+                                                                         jesuíta entra em contato com os nativos da
+                                                                         região sul do Brasil, conseguindo se aproximar
+                                                                         deles por meio da música. Ganhou o Oscar de
+                                                                         melhor fotografia.
+      Fonte: https://amenteemaravilhosa.com.br/a-missao-exemplo-
+                       construcao-de-personagens/
+
+d)                                                                       “Caboclinhos”, dança/ folguedo popular do
+                                                                         Nordeste; o primeiro registro data de 1584.
+                                                                         Reconhecido como Patrimônio Cultural
+                                                                         Imaterial do Brasil pelo Instituto do Patrimônio
+                                                                         Histórico e Artístico Nacional (Iphan).
+
+
+
+     Fonte: http://www.terrabrasileira.com.br/folclore2/e09cabocl.html
+
+e)                                                                       “Dança dos Tapuias”. Óleo sobre tela,
+                                                                         168×294 cm, de Albert Eckhout, século XVII. A
+                                                                         grande dimensão da tela para a época e os
+                                                                         corpos nus retratados contrariaram a cultura
+                                                                         europeia renascentista.
+
+
+              Fonte: https://enciclopedia.itaucultural.org.br/
+                 obra14525/danca-dos-tarairiu-tapuias
+
+                                                                                                                        15
+SSA UPE – 1ª FASE                                                                                            1º DIA
+As questões de 20 a 23 avaliam o conhecimento de língua estrangeira (Inglês ou Espanhol) de
+acordo com a sua opção de idioma indicado no ato da inscrição.
+
+Questões de 20 a 23 (Opção Inglês)
+
+Text 12 (for question 20)
+
+                                     A Giant Telescope Grows in Chile
+
+
+
+
+                                                             Photograph by Marcos Zegers.
+
+
+LAS CAMPANAS OBSERVATORY, Chile – To walk among the observatory domes of the Atacama
+Desert is to brush your hair with the stars.
+
+The Atacama, on a plateau high in the Chilean Andes, is one of the driest and darkest places in the
+world. During the day one can see to Bolivia, far to the east, where clouds billow into thunderstorms
+that will never moisten this region. At night, calm, unruffled winds off the Pacific Ocean produce some
+of the most incredible stargazing conditions on Earth.
+One evening in late January the sky was so thick with stars that the bones of the constellations blurred
+into the background. The Milky Way, our home galaxy, was rolling straight overhead, and the Large and
+Small Magellanic Clouds, satellite galaxies of our own, floated alongside like ghosts. The Southern
+Cross, that icon of adventure and romance, loomed unmistakably above the southern horizon.
+In the last half-century, astronomers from around the world have flocked to Chile and its silky skies, and
+now many of the largest telescopes on Earth have taken root along a sort of observatory alley that runs
+north-south for some 800 miles along the edge of the Atacama.
+By Dennis Overbye
+                    Disponível em: https://www.nytimes.com/2023/04/18/science/astronomy-telescopes-magellan-chile.html
+                                                                                    Acesso em: 15 jun. 2023. Adaptado.
+
+20. Com base nas informações do Texto 12, assinale a alternativa CORRETA.
+
+a) Os ventos fortes vindos do Oceano Pacífico produzem, no deserto do Atacama, as condições
+   perfeitas para a observação de estrelas raras de nossa galáxia.
+b) Astrônomos do mundo inteiro decidiram explorar o deserto do Atacama para descobrir as melhores
+   condições de observação até a metade deste século.
+c) O Atacama, situado num planalto dos Andes chilenos, é um dos lugares mais secos e escuros do
+   mundo, mas durante o dia é possível avistar a Bolívia ao leste.
+d) É possível fazer observações sem uso de telescópio durante o mês de janeiro, e qualquer um pode
+   identificar as constelações mais românticas de nossa galáxia.
+e) O Chile costuma receber grandes telescópios e os astrônomos mais requisitados do mundo para
+   darem palestras e fazerem experiências sob o céu do Atacama.
+
+                                                                                                                   16
+SSA UPE – 1ª FASE                                                                                                1º DIA
+Text 13 (for question 21)
+
+21. Leia o cartum a seguir.
+
+
+
+
+Disponível em: https://www.ba-bamail.com/humor/20-hilarious-comics-filled-with-wit-humor-and-fun/ Acesso em: 14 abr. 2023.
+
+Assinale a alternativa que registra CORRETAMENTE o sentido humorístico do cartum. Nele, o autor
+
+a)   ilustra a falta de entendimento de certos colegas, que querem se reunir on-line, porém em dias
+     diferentes.
+b)   critica as dificuldades que certas pessoas têm de usar as tecnologias quando estão no espaço
+     doméstico.
+c)   ironiza os usuários que não conseguem definir as coisas mais simples quando estão em reunião
+     on-line.
+d)   sugere que algumas pessoas assumem um comportamento antissocial e autoritário quando
+     trabalham on-line.
+e)   ilustra, com exagero, que os funcionários estão trabalhando on-line, mas ficam desconectados do
+     tempo social.
+
+
+Text 14 (for questions 22 and 23)
+
+
+
+
+        Disponível em: https://www.msn.com/en-us/entertainment/comics/hagar-the-horrible-by-chris-browne/ss-
+        AA193IUQ#image=8 Acesso em: 19/05/2023.
+
+                                                                                                                       17
+SSA UPE – 1ª FASE                                                                               1º DIA
+22. Na tira cômica, o sentido humorístico é produzido pela reação de Hagar, no 2º quadrinho, deixando
+transparecer que ele
+a)   ignora os conselhos e, com sua habitual rebeldia, desafia o religioso a acompanhá-lo até a velha
+     taverna.
+b)   rejeita ser tratado como “irmão” pelo religioso e responde com ironia aos conselhos, agindo à
+     moda dos vikings.
+c)   supõe que está agindo mal e inventa algo para despistar o sacerdote, a fim de chegar logo à sua
+     taverna favorita.
+d)   compreende o que lhe diz o sacerdote e despede-se dele, mostrando-lhe que está bem perto de
+     sua residência.
+e)   entende a fala do religioso apenas no sentido denotativo e mostra que conhece bem o caminho da
+     taverna.
+
+23. No 1º quadrinho da tira, ao dizer “Hagar, my brother, I fear (...)”, o propósito comunicativo do
+sacerdote é
+a)   expressar alívio.
+b)   exprimir satisfação.
+c)   mostrar-se severo.
+d)   expressar receio.
+e)   manifestar confiança.
+
+
+
+
+Questões de 20 a 23 (Opção Espanhol)
+
+
+Texto 12
+
+               Cuando reciclar plásticos no es suficiente: ¿qué más hay por hacer?
+Los científicos vienen denunciando desde hace tiempo la amenaza que representa la economía de los
+plásticos para el planeta. Más de tres cuartas partes de los desechos marinos en los mares del mundo
+son de plástico y la mayoría proviene de fuentes terrestres.
+De continuar con el comportamiento actual, no solo los residuos de plástico que acabarán en los
+océanos se triplicarán para 2040, sino que será imposible afrontar de manera eficaz la triple crisis que
+vive el planeta: la climática, pérdida de biodiversidad por contaminación y proliferación de desechos.
+En síntesis, “la economía de los plásticos es fuente de una contaminación sin límites: asfixiando los
+ecosistemas; calentando el clima; dañando nuestra salud”, dice Inger Andersen, directora ejecutiva del
+Programa de las Naciones Unidas para el Medio Ambiente (Unep, por sus siglas en inglés).
+Para hacer frente al desafío, con repercusiones económicas, sociales y medioambientales, la
+Asamblea de Naciones Unidas para el Medio Ambiente, que reúne a 193 Estados, puso en marcha el
+año pasado un Comité Internacional de Negociación con el objetivo de diseñar un instrumento
+jurídicamente vinculante que aborde la contaminación plástica a través de acciones urgentes e
+intervenciones eficaces a lo largo de todo el ciclo de vida del material.
+
+
+
+
+                                                                                                      18
+SSA UPE – 1ª FASE                                                                                              1º DIA
+No basta con reciclar
+
+En la plenaria convocada para avanzar hacia un tratado que sea histórico, Inger Andersen fue
+insistente en su discurso: “Para salir de este lío no basta con reciclar. La infraestructura de reciclado es
+incapaz de hacer frente a los volúmenes actuales. Invertir simplemente en botes más grandes y en
+más personal para que lo transporten no solucionará el problema”.
+Andersen afirmó que eliminando con determinación el plástico innecesario, rediseñando
+completamente los productos que envolvemos en este material y trasformando totalmente el mercado
+para reducir drásticamente el flujo de plásticos vírgenes, la comunidad internacional podrá hacer frente
+a esta problemática.
+“Una transformación total que reduzca la excesiva dependencia de la sociedad del plástico. Una
+transformación que cree nuevos modelos de negocio y oportunidades de mercado, porque no se trata
+de luchar contra los beneficios, sino contra la contaminación”, subrayó Inger Andersen.
+      Adaptado de https://www.eltiempo.com/vida/medio-ambiente/reciclar-plasticos-no-es-suficiente-que-mas-hacer-780339
+                                                                                          Acceso en 26 de junio de 2023.
+
+
+
+Todas las preguntas a continuación se refieren al texto 12
+
+20. ¿La economía de los plásticos en el ecosistema puede resultar en cuál de los problemas indicados
+a continuación?
+a)   Deforestaciones.
+b)   Contaminación del aire.
+c)   Daños a la salud humana.
+d)   Desaparecimiento de ríos.
+e)   Desaparecimiento de océanos.
+
+21. Indique una acción que puede contribuir para la disminución de plásticos en el ecosistema.
+a)   Consumir productos reutilizables.
+b)   Consumir menos industrializados.
+c)   Consumir productos artesanales.
+d)   Evitar consumos en exceso.
+e)   Evitar productos industrializados.
+
+22. ¿Por qué reciclar no es la única solución posible para frenar la contaminación plástica?
+a)   La población no contribuye con las acciones de reciclado porque no es estimulada.
+b)   Reciclar es una acción que todavía no está incorporada a la rutina de la población.
+c)   Reciclar es una acción poco estimulada y por eso pocos la incluyen en su rutina.
+d)   No hay políticas públicas adecuadas para la infraestructura de reciclado.
+e)   La infraestructura de reciclado no es suficiente para los altos volúmenes de plástico.
+
+23. En “Una transformación que cree nuevos modelos de negocio y oportunidades de mercado, porque
+no se trata de luchar contra los beneficios, sino contra la contaminación”, la palabra sino indica una
+relación de adversidad que permite comprender que Inger Andersen
+a)   niega los beneficios del plástico.
+b)   rechaza los beneficios del plástico.
+c)   resiste en aceptar los beneficios del plástico.
+d)   defiende la lucha contra la contaminación plástica.
+e)   defiende la lucha por los beneficios del plástico.
+
+
+
+                                                                                                                     19
+SSA UPE – 1ª FASE                                                                                                  1º DIA
+CIÊNCIAS HUMANAS E SOCIAIS APLICADAS
+Questões de 24 a 45
+
+
+24. Analise as informações a seguir.
+Eles são construídos (e descontruídos) dentro de escalas. Podem ter um caráter permanente, mas
+também podem ter uma existência periódica, cíclica. Não obstante essa riqueza de situações, não
+apenas o senso comum, mas também a maior parte da literatura científica, tradicionalmente reduziu o
+território à sua forma mais grandiloquente e carregada de carga ideológica: o território nacional.
+SOUZA, M. J. L. O território: sobre o espaço e poder, autonomia e desenvolvimento. In: Geografia: conceitos e temas. 13. ed.
+                                                                                 Rio de Janeiro: Bertrand, 2010. Adaptado.
+Assinale a alternativa cuja temática demanda uma análise do suporte científico do conceito em
+questão.
+a)    De acordo com o projeto do Marco Temporal, se a comunidade indígena não estava presente no
+      local antes de 1988, independentemente da causa, a terra não poderá ser reconhecida como
+      tradicionalmente ocupada.
+b)    Após uma solicitação para a abertura do processo junto ao Conselho Estadual de Preservação do
+      Patrimônio Cultural, o reisado agora é oficialmente considerado Patrimônio Cultural Imaterial de
+      Pernambuco.
+c)    A triste história do desaparecimento dos Saltos de Sete Quedas para construção da Usina
+      Hidrelétrica de Itaipu trouxe também um indesejável impacto ao aspecto cênico, afetando o
+      cotidiano dos nativos e o turismo.
+d)    Por reivindicação da população, durante a realização de uma série de fóruns, justificados pela
+      pouca identidade entre os municípios (cultural, política, etc.), e, por sugestão de deputados, foi
+      criada a 11ª RD do Sertão Central.
+e)    Todos apontaram que é preciso conectar diversas instituições de apoio para viabilizar e fortalecer
+      o atendimento às mulheres vítimas de violência. Um dos equipamentos integrantes dessa
+      estrutura é a Casa da Mulher Brasileira.
+
+25. No século XX, a revolução historiográfica ampliou o conceito de fonte histórica. Vejamos um trecho
+de um dos mais importantes livros desse século, Primavera Silenciosa, escrito pela bióloga
+norte-americana Rachel Carson em 1962:
+     [Na] medida em que o ser humano avança rumo ao seu objetivo de conquistar a natureza, ele vem
+     escrevendo uma deprimente lista de destruições, dirigidas não só contra a Terra em que ele habita
+     como também contra os seres vivos que a compartilham com ele (p. 83).
+
+Sobre esse texto, é CORRETO afirmar que
+a)   foi pioneiro em tratar da Crise Ambiental, assunto não concernente à ciência histórica.
+b)   poderia ser uma fonte histórica, mas documentos históricos precisam ser mais antigos.
+c)   retrata o tempo em que foi escrito, e por isso pode ser analisado como fonte histórica.
+d)   não está devidamente qualificado para ser fonte histórica por ser um texto de biologia.
+e)   foi escrito por alguém que não era profissional de história, por isso não convém à área.
+
+
+
+
+                                                                                                                         20
+SSA UPE – 1ª FASE                                                                                                        1º DIA
+26. Leia os textos a seguir.
+
+O racismo é uma forma de violência simbólica que se manifesta na exclusão, na discriminação e na
+inferiorização de grupos humanos com base em critérios arbitrários de diferença. A filosofia, como
+atividade crítica e reflexiva, tem o papel de questionar e denunciar as formas de racismo presentes na
+sociedade, bem como de contribuir para a construção de uma cultura de respeito à diversidade e aos
+direitos humanos.
+                                          SILVA, T. T. da. Racismo e antirracismo na educação. São Paulo: Selo Negro, 2003. p. 11.
+A filosofia ocidental é marcada por uma concepção eurocêntrica que tende a ignorar ou desvalorizar
+as contribuições de outras tradições filosóficas, especialmente as oriundas da África, da Ásia e da
+América Latina. Essa concepção é uma forma de racismo epistêmico que nega a pluralidade e a
+riqueza do pensamento humano. Para superar essa limitação, é preciso reconhecer e valorizar a
+diversidade filosófica como um patrimônio da humanidade.
+                                                             SANTOS, B. S. Epistemologias do Sul. São Paulo: Cortez, 2010. p. 15.
+
+Com base nos textos, assinale a alternativa que apresenta uma relação correta entre filosofia e
+racismo.
+a) A filosofia é uma forma de racismo, pois impõe uma visão eurocêntrica e elitista do conhecimento.
+b) A filosofia é indiferente ao racismo, pois se ocupa apenas de questões abstratas e universais.
+c) A filosofia é uma aliada do racismo, pois justifica teoricamente as diferenças biológicas e sociais
+   entre as raças.
+d) A filosofia é uma opositora do racismo, pois denuncia as contradições e as injustiças que ele
+   produz.
+e) A filosofia é uma vítima do racismo, pois sofre com a censura e a perseguição dos grupos
+   dominantes.
+
+
+27. Leia a notícia a seguir.
+
+
+
+
+ Disponível em: https://www.estadao.com.br/internacional/fumaca-de-incendios-florestais-no-canada-atinge-a-noruega-e-
+                                 ainda-afeta-os eua/. Acesso em: 15 de junho de 2023.
+
+Assinale a alternativa CORRETA em relação ao fenômeno a que esse fato está associado.
+
+a)   Maritimidade, que direciona o movimento das massas de ar.
+b)   Movimento de rotação, que exerce influência na direção dos ventos.
+c)   Ondas de leste, que amenizam a temperatura e a umidade do oceano.
+d)   Pressão atmosférica, que intensifica a amplitude térmica local.
+e)   Efeito estufa, que amplia a concentração da fumaça das queimadas.
+
+
+
+                                                                                                                               21
+SSA UPE – 1ª FASE                                                                                                       1º DIA
+28. Observe os quadrinhos a seguir, início de uma história de Maurício de Sousa:
+
+
+
+                                                                          A postura de Cebolinha, criticada por Mônica,
+                                                                          representa uma visão de mundo muito presente
+                                                                          em certas correntes historiográficas, que é a
+
+                                                                          a) monogenia humana.
+                                                                          b) superioridade étnico-cultural.
+                                                                          c) nobreza hereditária.
+                                                                          d) dominação dos meios de produção.
+                                                                          e) sociedade estamental.
+
+
+
+
+ Disponível em: https://scontent.frec341.fna.fbcdn.net/. Acesso em: 17/04/23.
+
+
+29. Leia o texto a seguir.
+
+O machismo é uma forma de opressão que afeta as mulheres e também os homens, pois impõe
+padrões de comportamento e de identidade que limitam a liberdade e a diversidade de todos. O
+machismo se manifesta em diversas esferas da vida social, como na família, na escola, no trabalho,
+na política, na cultura e na religião. O machismo também está relacionado com outras formas de
+discriminação, como o racismo, a homofobia, a transfobia e a xenofobia.
+                                                                                Ruth Manus, Guia Prático Antimachismo, p. 15.
+
+Sobre a relação entre machismo, política e ética, é correto afirmar que o machismo é um problema
+
+a) exclusivamente privado e não tem relação com a política ou a ética.
+b) cultural, que pode ser combatido por meio de políticas públicas que promovam a igualdade de
+   gênero e a educação ética.
+c) natural, que não pode ser mudado por meio de políticas públicas ou de educação ética.
+d) político, que pode ser resolvido por meio de leis que punam os agressores e protejam as vítimas.
+e) ético, que pode ser superado por meio de uma mudança de valores e atitudes individuais.
+
+
+
+
+                                                                                                                                22
+SSA UPE – 1ª FASE                                                                                                       1º DIA
+
+30. Observe a figura a seguir.
+
+                                   Sismos ocorridos no Brasil de 1767 a 2006
+
+
+
+
+          TESSINARI, C. C. G.; DIAS NETO, C. M. Tectônica global. In: TEIXEIRA, W.; FAIRCHILD, TOLEDO.; M. C. T.; TAIOLI, F.
+                             (orgs).Decifrando a Terra. 2. ed. São Paulo: Companhia Editora Nacional, 2009.
+
+
+Interpretando as informações da figura, assinale a alternativa CORRETA.
+a)   O Norte concentra a maior porção de atividade sísmica, principalmente no Acre, devido ao limite
+     convergente das placas.
+b)   A colisão da placa oceânica com a placa continental americana é o que provoca os abalos no
+     litoral do Sudeste.
+c)   Os eventos registrados no Nordeste são antigos, intraplaca e têm sua origem na ativação de
+     falhas geológicas.
+d)   As movimentações das placas, originadas pela reativação tectônica, são registradas com menor
+     profundidade no Centro-Oeste.
+e)   O contato frontal estabelecido entre os limites conservativos das placas operam em todo país, com
+     menor magnitude no Sul.
+
+31. Pesquisas arqueológicas realizadas na comunidade São Bento, na cidade do Crato, Ceará, têm
+revelado muitos fatos sobre a presença indígena na região.
+
+Restos de fogueiras apontam para essa presença há cerca de 2.400 anos. Nas escavações, foi
+encontrada uma importante diversidade de fragmentos e vasilhas em cerâmica, ricamente decoradas.
+Entre outros artefatos, também foram encontradas peças que compunham a estrutura de fusos,
+evidenciando a prática da tecelagem.
+                                        Disponível em: https://www.blognegronicolau.com.br/2021/10/. Acesso em: 17/04/23.
+
+Nesse texto, temos registrada a
+a)   presença indígena concentrada nas zonas litorâneas, mais úmidas.
+b)   guerra como uma ocorrência constante entre essas populações.
+c)   pecuária de gado miúdo que ocorria de forma limitada.
+d)   ocupação territorial que se deu com o advento dos colonizadores.
+e)   invenção de tecnologias de sobrevivência apropriadas ao ambiente.
+                                                                                                                               23
+SSA UPE – 1ª FASE                                                                                 1º DIA
+
+32. Observe a imagem e trecho a seguir.
+
+Surtsey, na Islândia, formou-se em três anos e meio
+
+
+
+
+                                                               Formada entre 1963 e 1967, ela
+                                                               tem servido como um laboratório
+                                                               natural para estudos geológicos,
+                                                               geomorfológicos, da flora e da
+                                                               fauna.
+
+
+
+
+Disponível em: https://surtsey.is/. Acesso em: 15 jun. 2023.
+
+
+Acerca desse contexto, pode-se afirmar CORRETAMENTE que
+
+a) o magma expelido do interior da Terra é responsável pela formação de morfoesculturas
+   sedimentares nas ilhas.
+b) as erupções vulcânicas, originadas nas cadeias meso-oceânicas, são a causa da formação desse
+   tipo de morfoestrutura.
+c) os arcos de ilhas são resultados de ações das dinâmicas exógenas da Terra, desde os processos
+   do manto terrestre.
+d) os ejetólitos vulcânicos predominam no solo das ilhas, uma vez que são base da formação do seu
+   processo orgânico.
+e) os fluxos piroclásticos são processos endógenos da Terra de mais impacto na formação das ilhas
+   vulcânicas.
+
+
+33. Na música Reconvexo (1989), o compositor Caetano Veloso escreveu:
+
+Eu sou a chuva que lança a areia do Saara
+Sobre os automóveis de Roma
+Eu sou a sereia que dança, a destemida Iara
+Água e folha da Amazônia
+Eu sou a sombra da voz da matriarca da Roma Negra
+Você não me pega, você nem chega a me ver
+Meu som te cega, careta, quem é você?
+
+A "Roma Negra" mencionada refere-se a Salvador. Essa comparação entre as duas cidades evoca
+
+a)   a presença abundante de pessoas negras em Roma.
+b)   os ritmos musicais soteropolitanos, de origem latina.
+c)   o duplo expansionismo, conquista da Itália e do Recôncavo.
+d)   o passado escravocrata compartilhado por ambas.
+e)   a significativa influência cultural exercida por ambas.
+
+                                                                                                      24
+SSA UPE – 1ª FASE                                                                                              1º DIA
+
+34. Analise os dados a seguir.
+
+                               Proporção de área desmatada no Brasil em 2022
+
+
+
+
+           Relatório anual de desmatamento no Brasil 2022 – São Paulo, Brasil. MapBiomas, 2023. 125 páginas.
+                Disponível em: https://alerta.mapbiomas.org/relatorio. Acesso em: 16 jun. 2023. (Adaptado)
+
+Os gráficos trazem informações de grande impacto de ordem ambiental, com repercussões
+significativas para a sociedade brasileira em todo território nacional. A análise dos dados e o
+conhecimento do assunto permitem responder CORRETAMENTE que,
+
+a)   na Caatinga, ocorrem desmatamentos em maior proporção nas formações campestres, cuja
+     madeira é usada na indústria madeireira e em carvoarias do Sertão.
+b)   no Brasil, predominam os desmatamentos nas formações florestais, seguidos da formação
+     savânica, sendo a Mata dos Cocais um exemplo recorrente.
+c)   nos biomas da Caatinga e Cerrado, localizados no mesmo domínio morfoclimático, ocorre alta
+     proporção de desmatamento na sua formação savânica.
+d)   nos biomas do Pantanal e Pampa, ocorre desmatamento semelhante ao da formação campestre,
+     o que é causado pelo impacto da extração mineral.
+e)   nos biomas Amazônia, Mata Atlântica e Pampa, predomina o desmatamento em formações
+     florestais, como é o caso da Mata de Araucárias na Região Sul.
+
+35. Leia o texto a seguir.
+
+[Interseccionalidade é] uma conceituação do problema que busca capturar as consequências
+estruturais e dinâmicas da interação entre dois ou mais eixos da subordinação. Ela trata
+especificamente da forma pela qual o racismo, o patriarcalismo, a opressão de classe e outros
+sistemas discriminatórios criam desigualdades básicas que estruturam as posições relativas de
+mulheres, raças, etnias, classes e outras.
+            CRENSHAW, Kimberlé. A interseccionalidade na discriminação de raça e gênero. In: CRENSHAW et al. (orgs.).
+          Interseccionalidade: uma abordagem essencial para a igualdade de gênero. Brasília: ONU Mulheres Brasil, 2019.
+
+
+                                                                                                                     25
+SSA UPE – 1ª FASE                                                                                           1º DIA
+
+O que é interseccionalidade e qual é a importância dela para a compreensão das desigualdades
+sociais?
+
+a) A análise das diferentes formas de discriminação que afetam as minorias sociais, considerando os
+   aspectos de raça, gênero, classe, entre outros que se cruzam e se potencializam. É importante
+   para reconhecer a diversidade das experiências sociais e propor políticas públicas mais efetivas.
+b) A união das diferentes lutas sociais contra as opressões de raça, gênero, classe, entre outras que
+   atingem as minorias sociais, buscando uma transformação radical da sociedade. É importante para
+   fortalecer os movimentos sociais e criar alianças entre os grupos marginalizados.
+c) A superação das diferenças entre as minorias sociais, que devem se unir em torno de uma
+   identidade comum baseada na humanidade. É importante para promover a paz social e a tolerância
+   entre os diferentes grupos.
+d) A negação das categorias de raça, gênero, classe, entre outras que dividem as minorias sociais,
+   defendendo que todos são iguais perante a lei e a sociedade. É importante para evitar o vitimismo e
+   o ressentimento entre os diferentes grupos.
+e) A valorização das diferenças culturais entre as minorias sociais, que devem preservar suas
+   tradições e costumes diante da homogeneização da sociedade. É importante para garantir o direito
+   à diversidade e à autonomia dos diferentes grupos.
+
+36. Leia a definição de meme elaborada por Ton Torres (2016):
+
+     [...] no contexto da internet [...] é uma mensagem quase sempre de tom jocoso ou irônico que
+     pode ou não ser acompanhada por uma imagem ou vídeo e que é intensamente compartilhada
+     por usuários nas mídias sociais.
+                                                 Disponível em: http://cienciaecultura.bvs.br/. Acesso em: 17/04/23.
+
+
+
+
+                               Disponíveis em: https://web.facebook.com/. Acesso em: 17/04/23.
+
+Conforme a definição, os memes reproduzidos satirizam a(s)
+a)   imposição do monoteísmo no Egito.
+b)   práticas comerciais fenícias no Mediterrâneo.
+c)   expansão egípcia na região do Mar Vermelho.
+d)   introdução da moeda pelos gregos no Egito.
+e)   presença núbia no Egito durante a XXV Dinastia.
+
+                                                                                                                  26
+SSA UPE – 1ª FASE                                                                                               1º DIA
+
+37. Observe a fotografia a seguir.
+
+
+
+
+                       Mulheres buscam roupas usadas em meio a descarte no deserto do Atacama,
+                                      em Alto Hospicio — Foto: Martin Bernetti/AFP
+ Disponível em: https://g1.globo.com/pop-arte/moda-e-beleza/noticia/2022/01/28/lixo-do-mundo-o-gigantesco-cemiterio-de-
+                        roupa-usada-no-deserto-do-atacama.ghtml. Acesso em 14 de junho de 2023.
+
+Sobre a problemática apresentada na fotografia, assinale a alternativa CORRETA.
+a)    O deserto do Atacama é o local mais apropriado para o descarte de roupas por ser o maior
+      deserto frio do planeta, com cerca de 1000 km de extensão.
+b)    O descarte de roupas seminovas pelas empresas multinacionais nos lixões legalizados no Chile
+      tem contribuído para a redução da desigualdade de renda no país.
+c)    O Chile é o maior exportador de roupa usada na América do Sul, recebendo 90% desse tipo de
+      mercadoria na região, e a maior parte é alocada no Alto Hospício.
+d)    O clima seco e alta incidência de radiação no Chile contribuem para prática sustentável de
+      reciclagem, pois favorece uma rápida decomposição dos tecidos.
+e)    O depósito de expressiva quantidade de roupas no deserto do Atacama, todos os anos, tem
+      provocado a contaminação do solo por microplástico do poliéster.
+
+38. Observe a imagem a seguir.
+                                                         É uma imagem de Nossa Senhora do Paraíso (sécs.
+                                                         XIII-XIV), da Catedral de Évora, em Portugal. Essa
+                                                         imagem representa um importante elemento do
+                                                         Cristianismo medieval, bastante criticado pela Reforma
+                                                         Protestante na Idade Moderna,
+
+                                                         a) a infalibilidade papal.
+                                                         b) o politeísmo.
+                                                         c) a transubstanciação.
+                                                         d) a mariolatria.
+                                                         e) o centralismo papal.
+
+
+
+     Disponível em: http://gothicivories.courtauld.ac.uk/. Acesso em: 17/04/23.
+
+                                                                                                                      27
+SSA UPE – 1ª FASE                                                                                                   1º DIA
+39. Observe a imagem, que corresponde à área referente ao projeto da transposição do Rio São
+Francisco.
+
+
+
+
+      Disponível em: https://ambientes.ambientebrasil.com.br/agua/artigos_agua_doce/transposicao_e_revitalizacao_
+                                   do_rio_sao_francisco.html Acesso em: 22 jun. 2023.
+
+Acerca da transposição do Rio São Francisco, é CORRETO afirmar que
+
+a)   as barragens de Sobradinho e Itaparica representam juntas os maiores investimentos em toda
+     obra.
+b)   o eixo leste da transposição atende municípios de Alagoas, de Pernambuco e da Paraíba.
+c)   as adutoras correspondem aos leitos dos rios secundários receptores das águas da transposição.
+d)   a transposição do Rio São Francisco abrange, em sua totalidade o território correspondente ao
+     sertão nordestino.
+e)   o eixo norte é o maior em extensão, o que abrange mais estados e o que foi necessário construir
+     mais adutoras.
+
+
+40. Leia os textos a seguir.
+
+A ética é a teoria ou ciência do comportamento moral dos homens em sociedade. Ou seja, é ciência
+de uma forma específica de comportamento humano. [...] A moral é o comportamento concreto,
+real, do homem; é o conjunto de normas que ele segue em sua vida cotidiana. [...] A moral é um
+fato; a ética é uma reflexão sobre esse fato.
+                                         VÁSQUEZ, Adolfo Sánchez. Ética. Rio de Janeiro: Civilização Brasileira, 2002.
+
+A política é a arte de conquistar, manter e exercer o poder, o governo. [...] O poder político é o
+poder do homem sobre outro homem. [...] A política é uma atividade necessária à convivência
+humana. [...] A política é uma atividade essencialmente ética.
+                           BOBBIO, Norberto. Dicionário de política. Brasília: Editora da Universidade de Brasília, 1998.
+
+
+
+
+                                                                                                                            28
+SSA UPE – 1ª FASE                                                                                           1º DIA
+Comparando os textos, é CORRETO dizer que eles apresentam conceitos
+a)   distintos de ética e política, mas ambos reconhecem a importância dessas áreas para a
+     organização da sociedade.
+b)   semelhantes de ética e política, pois ambos defendem que o comportamento humano deve ser
+     guiado por normas morais universais.
+c)   opostos de ética e política, pois o primeiro afirma que a ética é uma ciência, e o segundo afirma
+     que a política é uma arte.
+d)   complementares de ética e política, pois o primeiro explica o que é a moral, e o segundo
+     explica o que é o poder.
+e)   contraditórios de ética e política, pois o primeiro nega que a moral seja um fato, e o segundo
+     nega que a política seja uma atividade ética.
+
+41. Na peça As Troianas, apresentada em 415 a.C., o dramaturgo Eurípides pôs na boca de Hécuba,
+rainha deposta de Troia, o seguinte texto:
+     Quantas razões eu tenho — ai de mim! —
+     para chorar nesta calamidade
+     a perda de meus filhos, meu marido,
+     minha querida pátria… Ai de mim!…
+     Dourado fausto antigo em que vivi,
+     meu fim me faz saber que nada eras!
+     Convém calar? Talvez falar… Chorar…
+     Um peso imenso oprime os meus cansados,
+     sofridos membros nesta posição,
+     caída aqui no chão desconfortável.
+                         (As Troianas, 140-149).
+
+Muito embora esteja situada no passado mitológico grego, essa peça retrata uma situação bastante
+presente para os atenienses que a assistiram pela primeira vez:
+a) a ascensão do Império Persa na Grécia Oriental.
+b) as chacinas atenienses durante da Guerra do Peloponeso.
+c) a tirania de Dionísio I na ilha de Siracusa.
+d) as duras legislações de Drácon e Sólon.
+e) o governo do primeiro tirano ateniense, Pisístrato.
+
+42. Leia o cartoon e o trecho da obra de Marx a seguir.
+
+
+
+
+O trabalhador se empobrece cada vez mais à medida que produz mais riqueza, à medida que sua
+produção aumenta em poder e extensão. O trabalhador se torna uma mercadoria ainda mais barata à
+medida que cria mais mercadorias. Com a valorização do mundo das coisas aumenta em proporção
+direta a desvalorização do mundo dos homens. O trabalho não produz somente mercadorias; ele
+produz a si mesmo e ao trabalhador como uma mercadoria – e isto na proporção em que produz
+mercadorias em geral.
+                                           MARX, Karl. Manuscritos econômico-filosóficos. São Paulo: Boitempo, 2004.
+                                                                                                                  29
+SSA UPE – 1ª FASE                                                                                               1º DIA
+A alienação é CORRETAMENTE compreendida como um(a)
+a)   fenômeno exclusivo do modo de produção capitalista, que impede os trabalhadores de
+     reconhecerem sua condição de explorados e de se organizarem politicamente para transformar a
+     sociedade.
+b)   processo histórico que afeta todas as esferas da vida humana, desde o trabalho até a cultura, e
+     que se manifesta como uma perda de autonomia, criatividade e consciência crítica dos indivíduos.
+c)   característica inerente à natureza humana, que faz com que os homens busquem sempre se
+     adaptar às condições materiais impostas pela sociedade e pela história.
+d)   forma de libertação dos homens das amarras da tradição e da religião, que permite o
+     desenvolvimento das forças produtivas e da ciência.
+e)   consequência inevitável do progresso técnico e científico, que torna os homens cada vez mais
+     dependentes das máquinas e dos meios de comunicação.
+
+43. Observe a imagem a seguir.
+                Temperatura da Superfície do Mar para junho-julho-agosto/2023.
+
+
+
+
+                    Disponível em: https://portal.inmet.gov.br/. Acesso em: 16 de junho de 2023.
+
+Assinale a alternativa que indica CORRETAMENTE as consequências do fenômeno registrado.
+a)   Aumento da temperatura da água do Oceano Pacífico.
+b)   Aumento do nível médio do Oceano Índico.
+c)   Aumento da seca no semiárido brasileiro.
+d)   Aumento da pluviosidade na Região Norte do Brasil.
+e)   Aumento do número de geadas na Região Sul do Brasil.
+
+44. Sobre as populações ciganas no Oriente Médio islâmico, o autor Jacob Schimoni escreveu:
+Eles se vestem como os árabes das aldeias e os beduínos, mas suas esposas usam ainda mais joias
+e enfeites do que as mulheres árabes. Em seus ofícios [...] são funileiros, latoeiros, gravadores. Mas
+entre os árabes eles são considerados ladrões. Alguns são dançarinos e cantores; eles oferecem
+entretenimentos como shows de animais nas ruas das cidades e nas proximidades das aldeias,
+principalmente durante festividades como casamentos e outras ocasiões de “fantasia”. De resto,
+muitos deles são mendigos que andam de porta em porta. Suas tendas são pobres e miseráveis.
+                           Disponível em: https://oldwebsite.palestine-studies.org/jq/fulltext/77986 Acesso em: 17/04/23.
+
+Que aspectos da comunidade cigana descritos no texto são semelhantes aos das comunidades
+ciganas historicamente presentes no Brasil?
+a)   São perfeitamente integradas, sem problemas de assimilação.
+b)   Ambas usam vestes árabes e beduínas.
+c)   A religião predominante das comunidades é o Islam.
+d)   São caracterizadas pela riqueza dos seus membros.
+e)   O estigma de ladrões os acompanha nas duas sociedades.
+
+                                                                                                                       30
+SSA UPE – 1ª FASE                                                                                       1º DIA
+45. Leia os seguintes trechos.
+
+O homem é por natureza um animal político. E aquele que por natureza e não por mero acidente é
+sem cidade, é um ser vil ou superior ao homem; é como aquele personagem infame que Homero
+condena por levar uma vida isolada, sem lei e sem lar.
+                                                                                        Aristóteles, Política.
+
+A política é a arte de conquistar, manter e exercer o poder, o governo. O poder político é o poder do
+homem sobre o homem. [...] A política é uma atividade necessária à convivência humana. [...]
+A política é uma atividade permanente. Não há sociedade sem política.
+                                                                         Marilena Chauí, Convite à filosofia.
+
+Com base nos trechos, é CORRETO afirmar que a pólis grega e o Estado moderno são formas de
+organização política
+
+a)   semelhantes, pois ambos se baseiam na ideia de cidadania e democracia.
+b)   opostas, pois o primeiro valoriza a participação direta dos cidadãos e o segundo, a
+     representação por meio de partidos políticos.
+c)   distintas, pois o primeiro se refere a uma cidade-Estado autônoma e o segundo, a um Estado-
+     nação soberano.
+d)   complementares, pois o primeiro se inspira na tradição filosófica grega e o segundo, na
+     racionalidade científica moderna.
+e)   equivalentes, pois ambos se originam de processos históricos de unificação territorial e cultural.
+
+
+
+
+                                                                                                                 31
+SSA UPE – 1ª FASE                                                                            1º DIA
+
+
+
+
+                                   ATENÇÃO!
+
+1.   Abra este Caderno apenas quando o Aplicador de Provas autorizar o início da Prova.
+2.   Observe se o Caderno de Prova está completo. Ele deverá conter 45 (quarenta e cinco) questões
+     de múltipla escolha distribuídas entre as áreas de conhecimento de Linguagens e suas
+     Tecnologias e de Ciências Humanas e suas Tecnologias.
+3.   Nas questões da opção de Língua Estrangeira (Inglês ou Espanhol), responda apenas àquelas
+     referentes à língua pela qual você optou. (Consta no seu Cartão de Identificação)
+4.   Se o Caderno de Prova estiver incompleto ou com algum defeito gráfico que lhe cause dúvidas,
+     informe imediatamente ao Aplicador de Provas.
+5.   Uma vez dada a ordem de início da Prova, preencha, nos espaços apropriados, o Nome do
+     prédio e o Número da sala, o seu Nome completo, o Número do Documento de Identificação,
+     o Órgão Expedidor, a Unidade da Federação e o seu Número de Inscrição.
+6.   Para registrar as alternativas escolhidas nas questões da Prova, você receberá um Cartão-
+     Resposta de Leitura Ótica. Verifique se o Número de Inscrição impresso no Cartão coincide com
+     o seu Número de Inscrição.
+7.   As bolhas constantes do Cartão-Resposta referentes às questões de múltipla escolha devem ser
+     preenchidas totalmente com caneta esferográfica azul ou preta.
+8.   Você dispõe de 4 horas para responder à Prova, incluído o tempo destinado ao preenchimento do
+     Cartão-Resposta.
+9.   É permitido, após 3 horas do início da Prova, você retirar-se do prédio conduzindo o seu Caderno
+     de    Prova,    devendo,     no     entanto,    entregar     ao    Aplicador    de    Provas   o
+     Cartão-Resposta preenchido.
+10. Caso você não opte por levar o Caderno de Prova consigo, entregue-o ao Aplicador de Provas,
+    não podendo, sob nenhuma alegação, deixar o Caderno em outro lugar do recinto de aplicação
+    das provas.
+11. Não será permitido, durante a realização das provas,
+      comunicar-se com outros candidatos sob hipótese alguma;
+      levantar-se da cadeira sem a devida autorização do Aplicador de Provas; e/ou
+      consultar anotações ou livros bem como acessar, no recinto, qualquer espécie de aparelho de
+       comunicação, aparelhos celulares (mesmo desligados), equipamentos auxiliares de
+       memória ou outros de qualquer natureza.
+
+
+
+
+                                          BOA PROVA!
+
+
+                                                                                                  32
+
