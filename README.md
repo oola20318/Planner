@@ -1,4 +1,4 @@
-# Compasso · Planner SSA 1
+# C2 · Planner SSA 1
 
 Aplicação em português, sem cadastro e sem backend. Node.js 22 ou 24 e npm são suficientes.
 
@@ -16,6 +16,7 @@ Acesse a porta 5173 pelo navegador do ambiente ou, em sua máquina, pelo endere�
 
 - O plano vai de **11/11/2026** (data de criação desta sessão no fuso de São Paulo) até **01/12/2026 inclusive**. São 21 dias e 12 horários por dia, das 7h às 19h.
 - Clique em um horário ou em **Agendar estudo**, selecione matéria/atividade, conteúdos, observação e conclusão. Expanda a opção de outros horários para preencher várias horas.
+- A opção **Selecionar horários ao arrastar** permite clicar e arrastar verticalmente com o mouse no mesmo dia. Ao soltar, o editor abre com todas as horas marcadas; revise e salve para aplicar. Arrastar de baixo para cima também funciona. Use **Esc** ou **Cancelar** para desistir. A preferência de ativar/desativar é salva neste navegador. No celular, toque em uma hora e selecione as demais no formulário.
 - Matérias e atividades iguais em horas contíguas se unem visualmente. Abra o bloco e escolha a hora específica para alterar ou apagar; conteúdos por hora aparecem no editor. Conclusões parciais usam ◐, totais usam ✓.
 - **Matérias e incidência** permite pesquisar, conferir referências e PDFs e levar um conteúdo ao agendamento.
 - A visualização inicial é diária no celular, semanal no computador. Use as setas, o seletor de data ou **Hoje**. Hoje usa o fuso America/Sao_Paulo; fora do período, é exibida a data permitida mais próxima.
@@ -50,3 +51,7 @@ O executável de Chromium pode ser ajustado em `playwright.config.js` em outro s
 ## Publicação em hospedagem estática
 
 O build usa caminhos relativos, incluindo dados e links para os PDFs, e foi validado no Chromium sob `/Planner/`. A pasta `dist` é a raiz a publicar. Para GitHub Pages, mantenha um arquivo `.nojekyll` na raiz publicada. O código-fonte fica na branch `main`; a versão estática publicada fica na branch `gh-pages`. O GitHub Pages deve usar `gh-pages` e `/ (root)`. Para atualizar o site, execute os testes e `npm run build`, publique o conteúdo de `dist` na branch `gh-pages` e acompanhe a execução de Pages no GitHub Actions. O endereço do site é `https://oola20318.github.io/Planner/`.
+
+## Leitura e identidade visual
+
+A marca é C2, mantendo a paleta verde e o estilo tipográfico editorial. A grade usa fontes de 14–18 px para horários, matérias e conteúdos; as linhas ficaram mais altas e a grade semanal usa rolagem horizontal em telas estreitas para preservar a leitura. A chave de armazenamento e o formato de backup anteriores foram preservados, portanto os agendamentos existentes continuam disponíveis. Sincronização e login ainda não foram implementados: esta versão continua usando armazenamento local.
