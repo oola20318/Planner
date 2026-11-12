@@ -78,3 +78,9 @@ A conclusão parcial mostra a quantidade de horas realizadas e uma barra de prog
 Ative **Selecionar no celular** acima da grade. Segure um horário por cerca de meio segundo, arraste verticalmente no mesmo dia e solte. O editor abre com todas as horas selecionadas; os dados só mudam ao salvar. O modo também funciona sobre blocos agendados e avisa sobre substituições. Perto das bordas da tela, o arraste pode rolar a página para alcançar mais horas. Movimentos antes de completar a espera ou um segundo dedo cancelam a seleção.
 
 Use **Sair da seleção por toque** para voltar à rolagem normal e ao menu de ações por toque longo. O clique e arraste do mouse continua disponível. A preferência de modo por toque vale para a sessão e não altera backups nem agendamentos antigos.
+
+## Conclusão dos assuntos
+
+Em **Matérias e incidência**, marque a caixa ao lado do nome de um conteúdo para registrá-lo como concluído. A linha ganha um selo, destaque visual e uma breve celebração. Desmarque para voltar a pendente. O progresso é separado por matéria, funciona com a pesquisa e é salvo no mesmo armazenamento local dos agendamentos, no campo opcional `completedTopics`.
+
+Essas marcações são independentes das conclusões por hora no planner e não alteram contagens ou percentuais de incidência. Os assuntos concluídos continuam disponíveis para agendar revisões. A marcação permanece após recarregar e é incluída nos backups JSON. Backups antigos, sem esse campo, continuam aceitos e restauram zero assuntos concluídos. A animação respeita a preferência de movimento reduzido do sistema.

@@ -198,3 +198,31 @@
 .touch-selection-toggle { font-size: 13px; }
 .touch-selection-toggle[aria-pressed="true"] { background: #315943; border-color: #315943; color: white; }
 .event[data-hours="1"] .event-topics { -webkit-line-clamp: 1; }
+
+/* Conclusão dos assuntos: independente das horas agendadas e da incidência. */
+.topic-progress { padding: 16px 18px; margin: 4px 0 14px; border: 1px solid #d3dec3; background: #f3f7ed; border-radius: 9px; }
+.topic-progress > div:first-child { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 9px 18px; }
+.topic-progress strong { font-size: 15px; color: #355b39; }
+.topic-progress span { font-size: 14px; color: #506d47; }
+.topic-progress small { display: block; margin-top: 8px; line-height: 1.5; font-size: 12px; }
+.topic-progress-track { height: 5px; border-radius: 5px; overflow: hidden; background: #e1e8d6; margin-top: 12px; }
+.topic-progress-track i { display: block; height: 100%; border-radius: inherit; background: #7d9b5c; }
+.rank-topic-heading { display: flex; align-items: flex-start; gap: 12px; cursor: pointer; min-height: 44px; padding: 6px 0; }
+.rank-topic-heading input { width: 23px; height: 23px; flex-shrink: 0; accent-color: #426d42; margin: 0; }
+.rank-topic-heading input:focus-visible { outline: 3px solid #a6bb7f; outline-offset: 3px; }
+.rank-topic-heading strong { display: block; line-height: 1.5; overflow-wrap: anywhere; }
+.rank-topic-heading > span { min-width: 0; }
+.rank-row.topic-is-complete { background: linear-gradient(100deg,#edf5e9,#fbf8eb); border-left: 3px solid #88a56e; border-radius: 7px; padding-left: 12px; padding-right: 12px; }
+.topic-is-complete .rank-topic-heading strong { color: #355b39; }
+.topic-complete-badge { display: inline-flex; align-items: center; gap: 6px; color: #54713a; font-size: 12px; font-weight: 600; margin-top: 6px; }
+.topic-complete-badge > span { color: #a18131; }
+.topic-just-completed { animation: topic-conquest .55s ease-out; }
+.celebration-card > div { min-width: 0; overflow-wrap: anywhere; }
+@keyframes topic-conquest { from { opacity: .45; transform: translateY(5px); } to { opacity: 1; transform: translateY(0); } }
+@media(max-width:799px) {
+ .topic-progress { padding: 14px; }
+ .rank-topic-heading { gap: 10px; }
+ .rank-topic-heading strong { font-size: 16px; }
+ .rank-row.topic-is-complete { padding: 15px 10px; }
+}
+@media(prefers-reduced-motion:reduce) { .topic-just-completed { animation: none; } }
