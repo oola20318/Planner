@@ -1,0 +1,1125 @@
+ CADERNO DE PROVAS
+     MATEMÁTICA E SUAS TECNOLOGIAS
+CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS
+
+                    DADOS DE IDENTIFICAÇÃO DO CANDIDATO
+                  Não deixe de preencher as informações a seguir.
+Prédio                                                                   Sala
+
+
+Nome
+
+
+
+
+Nº de Inscrição            Nº do Documento de Identificação     Órgão Expedidor   UF
+SSA UPE – 1ª FASE   2º DIA
+
+
+
+
+                         2
+SSA UPE – 1ª FASE                                                                                                     2º DIA
+
+   MATEMÁTICA E SUAS TECNOLOGIAS
+   Questões de 01 a 22
+
+1. A galáxia de Andrômeda é uma galáxia espiral localizada a cerca de 2,54 milhões de
+anos-luz de distância da Terra, na direção da constelação de Andrômeda. É a galáxia espiral
+mais próxima da Via Láctea, e seu nome é derivado da constelação onde está situada, que,
+por sua vez, tem o nome derivado da princesa mitológica Andrômeda.
+
+
+
+
+                                                Fonte: Info-Escola
+
+Sendo o ano-luz a medida da distância percorrida pela luz, no vácuo, em um ano, cujo valor é
+de aproximadamente 9,5 × 1012 km, qual é o valor que mais se aproxima da distância da
+galáxia de Andrômeda até a Terra?
+a) 2,41 × 1019 km
+b) 2,01 × 1018 km
+c) 2,50 × 1019 km
+d) 2,24 × 1018 km
+e) 2,31 × 1019 km
+
+2. O filme Querida, encolhi as crianças, do diretor Joe Johnston e lançado em 1989, apresenta
+a história fictícia de um cientista que cria uma máquina capaz de comprimir as dimensões de
+objetos e, acidentalmente, encolhe os próprios filhos.
+Em uma cena na qual seus filhos, já encolhidos, estão no quintal da residência tentando voltar
+para casa, o personagem Nick faz a seguinte observação:
+“[...] estamos a 20 metros de casa, é o equivalente a 5 quilômetros e 100 metros. É um longo
+caminho, mesmo para um homem da ciência”.
+                       Querida, encolhi as crianças. Direção: Joe Johnston. Walt Disney Pictures. Estados Unidos, 1989 (93 min).
+                                                                                                         Disponível no Disney +.
+
+Supondo estarem corretas as estimativas realizadas por Nick, qual escala foi adotada pelo
+personagem?
+a) 1:350
+b) 1:255
+c) 1:300
+d) 1:20
+e) 1:5
+                                                                                                                               3
+SSA UPE – 1ª FASE                                                                             2º DIA
+
+3. O gerente de uma loja verificou que o gasto mensal com energia elétrica tem sido mais irregular do
+que o esperado. Por essa razão, consultou, na conta de energia elétrica, o consumo mensal, em kWh,
+dos últimos 12 meses, conforme a figura a seguir.
+
+                                       Histórico de Consumo
+
+
+
+
+                                         Fonte: Dados fictícios.
+
+Em seguida, calculou o consumo médio nesses últimos 12 meses, registrando os meses cujo consumo
+de energia elétrica foi superior à média, para investigar as possíveis causas desse alto consumo.
+Quais foram os meses registrados pelo gerente?
+a) janeiro/2023, abril/2023.
+b) dezembro/2022, junho/2023, setembro/2023.
+c) dezembro/2022, fevereiro/2023, junho/2023, setembro/2023.
+d) dezembro/2022, fevereiro/2023, maio/2023, junho/2023, setembro/2023.
+e) dezembro/2022, janeiro/2023, fevereiro/2023, abril/2023, maio/2023, junho/2023, setembro/2023.
+
+
+4. Brincando com números e operações matemáticas básicas, Gabriele, aluna do 9º Ano do Ensino
+Fundamental, elaborou a seguinte situação de lógica para desafiar seus colegas de sala na aula de
+Matemática. Veja a explicação de Gabriele sobre o desafio:
+“Em cada número da primeira coluna da tabela abaixo, são efetuadas horizontalmente três operações
+matemáticas até chegar ao resultado na quarta coluna.”
+
+                    Número                                Resultado
+                      2           8            24            12
+                      4           16           48            24
+                      3           12           36            18
+                      6           24           72            36
+                      5           20           60            30
+                      n           ?             ?            96
+
+Analisem cuidadosamente a tabela e descubram qual é o valor do número n que levou ao
+resultado 96.
+
+
+
+                                                                                                    4
+SSA UPE – 1ª FASE                                                                                                          2º DIA
+
+Os colegas de Gabriele que responderam corretamente ao desafio encontraram um número n cuja
+soma dos seus dígitos é igual a:
+a) 12
+b) 10
+c) 9
+d) 8
+e) 7
+
+
+05. Segundo o site MelhorPlano.net, para fazer adesão a um plano de telefonia móvel, o usuário deve
+entender seu padrão de consumo, devendo separar suas 3 últimas contas de celular e anotar as
+recargas dos últimos 3 meses. Observando os dados de consumo anteriores, é possível ter uma média
+do quanto se usa de internet e ligações.
+                    Disponível em: https://melhorplano.net/planos-de-celular/como-escolher-plano-de-celular/ Acesso em: 24 jul. 2023.
+
+Analise a situação a seguir.
+A empresa Conecta de telefonia oferta dois tipos de planos para uso de celular:
+Plano Liga Bem: Ligações ilimitadas para qualquer telefone e região do país mais 5 GB de internet.
+Plano Ligue Quando Precisa: 45 minutos de ligações para qualquer telefone e região do país mais
+5 GB de internet.
+
+O Plano Liga Bem tem um custo de R$64,20 por mês, e o Plano Ligue Quando Precisa custa por mês
+R$9,60, sendo cobrado R$1,20 a cada minuto que o cliente exceder o tempo de ligação do seu pacote.
+
+Com base nas duas propostas de plano de telefonia, o Plano Liga Bem passa a ser mais econômico
+que o Plano Ligue Quando Precisa a partir de quantos minutos de ligações mensais?
+
+a) 46 minutos
+b) 55 minutos
+c) 78 minutos
+d) 83 minutos
+e) 91 minutos
+
+
+
+
+                                                                                                                                   5
+SSA UPE – 1ª FASE                                                                           2º DIA
+
+
+
+06 . A Escola São Paulo irá promover um campeonato de Futsal no final do segundo semestre
+de 2023 e, portanto, contratou um carpinteiro para construir um pódio de madeira, como o da
+figura a seguir, para fazer a premiação das três primeiras equipes classificadas. Ele é formado
+por três blocos retangulares independentes, cada um com seis faces, incluindo o fundo.
+
+
+
+
+Qual é a medida de capacidade, em metros cúbicos, do bloco central em que se apresentará o
+representante da equipe classificada em primeiro lugar?
+a) 0,08 m3
+b) 0,09 m3
+c) 0,04 m3
+d) 0,06 m3
+e) 0,03 m3
+
+
+7. Roberto pratica caminhada diariamente. Ele instalou no seu celular um aplicativo que registra o
+horário da caminhada, o percurso e o tempo gasto. O aplicativo dispõe de um sistema de notificações
+que acessa os registros com os horários do início das caminhadas nos últimos 10 dias, determina a
+moda desses valores e programa uma notificação 20 minutos antes desse horário, para lembrar o
+usuário de realizar a caminhada. A tabela a seguir indica os horários de acesso ao aplicativo nos
+últimos 10 dias anteriores ao dia de hoje.
+
+  Dia        Dia 1   Dia 2   Dia 3    Dia 4     Dia 5    Dia 6    Dia 7    Dia 8   Dia 9   Dia 10
+ Horário     7h50    7h35    7h40     7h30      7h50     7h30     7h15     7h50    7h40     7h20
+
+Que horas o aplicativo notificará o usuário, hoje, lembrando-o de sua caminhada?
+a) 7h20
+b) 7h25
+c) 7h30
+d) 7h40
+e) 7h50
+
+
+
+
+                                                                                                    6
+SSA UPE – 1ª FASE                                                                             2º DIA
+
+
+
+8. Uma sinuosidade infinita foi construída da seguinte forma: a partir de uma semicircunferência AB,
+construiu-se a semicircunferência BC, cujo diâmetro mede 80% da medida do diâmetro de AB. Em
+seguida, a partir da semicircunferência BC, construiu-se a semicircunferência CD, cujo diâmetro mede
+80% da medida do diâmetro de BC. O mesmo processo se repetiu infinitamente, obtendo infinitas
+semicircunferências, conforme a figura a seguir.
+
+
+
+
+Qual foi a medida do comprimento total da sinuosidade infinita assim obtida?
+
+a) O comprimento total da sinuosidade não pode ser calculado, uma vez que ela é infinita.
+b) O comprimento total da sinuosidade é 6 vezes o comprimento da semicircunferência AB.
+c) O comprimento total da sinuosidade é 5 vezes o comprimento da semicircunferência AB.
+d) O comprimento total da sinuosidade é 4 vezes o comprimento da semicircunferência AB.
+e) O comprimento total da sinuosidade é 3 vezes o comprimento da semicircunferência AB.
+
+
+9. O número de diagonais radiais (que passam pelo centro) de um polígono regular pode ser expresso
+pela seguinte função,
+
+
+
+
+na qual   é o número de lados do polígono, com         e       ,e   é o número de diagonais radiais.
+
+Qual é o valor de                                                      ?
+
+a) 134
+b) 104
+c) 1340
+d) 1300
+e) 1274
+
+
+
+
+                                                                                                       7
+SSA UPE – 1ª FASE                                                                               2º DIA
+
+10. O supermercado Pague e Leve está com a seguinte promoção na compra dos chocolates Cacau
+Intense:
+                                           OFERTA
+                Chocolate Cacau Intense                  Leve 4 e Pague 3
+
+
+
+
+                      R$7,73 cada                  Nessa promoção, cada unidade
+                                                          sai por: R$5, 80
+
+Sofia gostou da promoção e comprou quatro chocolates Cacau Intense de sabor Mix de Nuts. Quanto
+ela economizou nessa compra?
+
+a) R$9,81
+b) R$9,70
+c) R$8,56
+d) R$7,93
+e) R$7,72
+
+
+11. A família Sousa gasta 30% de sua renda mensal com aluguel, 10% com despesas educacionais e
+20% com alimentos e materiais de limpeza, restando R$1.800,00 para outras despesas do mês. Qual é
+a renda mensal da família Sousa?
+
+a) R$3.820,00
+b) R$4.500,00
+c) R$4.700,00
+d) R$5.200,00
+e) R$5.400,00
+
+
+12. Um relógio inteligente dispõe de uma interessante nova tecnologia: ele registra diariamente o
+horário em que você dorme e o horário em que você acorda, gerando uma tabela com esses horários.
+Essa tecnologia permite ao usuário inspecionar se está dormindo um número adequado de horas
+diárias. A tabela a seguir apresenta esses registros para sete noites de sono consecutivas.
+                                                  HORAS DE SONO
+                 Dom./Seg.    Seg./Ter.    Ter./Qua. Qua./Qui. Qui./Sex.    Sex./Sáb.   Sáb./Dom.
+            D       24h         23h          23h         22h       23h        22h          22
+            A       7h           8h           7h          4h       6h          6h          10
+
+                  D: dormir   A: acordar
+
+Qual a mediana do número de horas dormidas por esse usuário nessas sete noites de sono?
+a) 16,0
+b) 23,0
+c) 7,0
+d) 7,5
+e) 8,0
+                                                                                                     8
+SSA UPE – 1ª FASE                                                                                          2º DIA
+
+
+13. Na construção das casas de um bairro, foram construídos dois tipos de reservatórios de água, e
+cada casa só tem um dos tipos. A razão entre os volumes internos do primeiro tipo de reservatório e do
+segundo é de 3 para 5, e a soma desses volumes é 16 m³. Qual é o valor absoluto obtido da diferença
+entre as capacidades desses dois reservatórios, em litros?
+
+a)   2.000
+b)   4.000
+c)   6.000
+d)   8.000
+e)   10.000
+
+
+14. As Microempresas podem ser definidas segundo o seu faturamento, que não pode passar de
+R$360 mil por ano, segundo o Portal da Indústria.
+                                       Disponível em: https://www.portaldaindustria.com.br/ Acesso em: 24 jul. 2023.
+
+Uma microempresa faturou R$148.000 no primeiro ano, R$146.000 no segundo ano, R$144.000 no
+terceiro ano, e assim por diante. Mantendo esse padrão, quanto deverá faturar durante uma década?
+
+a)   R$ 1.280.000
+b)   R$ 1.390.000
+c)   R$ 1.410.000
+d)   R$ 1.500.000
+e)   R$1.670.000
+
+
+15. Um grupo de acadêmicos de um curso de Física,
+em atividades experimentais, criou um pequeno
+foguete F e o lançou de um ponto O do solo. O
+foguete descreveu uma trajetória parabólica cuja
+equação foi y = - x2 + 80x e retornou ao solo a 80
+metros do ponto O, após alguns segundos. Qual foi a
+altura máxima alcançada pelo foguete F?
+
+a)   6 400 m
+b)   4 800 m
+c)   1 800 m
+d)   1 600 m
+e)     400 m
+
+
+
+
+                                                                                                                  9
+SSA UPE – 1ª FASE                                                                                                          2º DIA
+
+
+16. O texto a seguir traz uma curiosa história sobre o matemático francês De Moivre.
+Há uma lenda interessante envolvendo a morte de De Moivre. Segundo ela, De Moivre teria revelado,
+certa ocasião, que daí para a frente teria que dormir, em cada dia, quinze minutos mais do que no dia
+precedente. E quando essa progressão aritmética atingiu 24 horas ele de fato teria morrido.
+                      EVES, Howard. Introdução à história da matemática. Tradução: Hygino H. Domingues. Campinas, SP:
+                                                                                            Editora da UNICAMP, 2004.
+
+Supondo que, após a revelação de De Moivre, tenham-se passado x dias até a sua morte, quantas
+horas ele havia dormido no dia em que fez tal revelação?
+
+a)
+b)
+c)
+d)
+e)
+
+
+17. Roman Opalka
+
+Artista francês de origem polaca, num dia de 1965 iniciou uma série de pinturas de números. Escreveu
+o número 1 no canto superior esquerdo do quadro, depois o 2, etc, obstinado a escrever todos os
+números até o infinito, ou até onde conseguisse chegar em sua vida. Pintou 233 quadros, usando
+sempre telas de mesmo tamanho, e números em traços idênticos. Cada quadro continuava onde o
+anterior tinha terminado. Começou a pronunciar os números pintados e gravar, em 1972, e sempre
+tirava uma foto em frente ao quadro pintado, para registrar o contraste entre o crescente dos números
+e o envelhecimento do artista. O número final que ele pintou foi o 5.607.249, segundo a Wikipedia.
+                                          GUNZI, Arnaldo. Os segredos do infinito. Ideias esquecidas, 2022. Disponível em: <
+                                https://ideiasesquecidas.com/2022/07/10/os-segredos-do-infinito/>. Acesso em: 09 jun. 2023.
+
+De acordo com as informações do texto, qual foi o número total de algarismos pintados por Roman
+Opalka nos 233 quadros do projeto em questão?
+a) 38.139.619
+b) 38.139.639
+c) 38.255.739
+d) 39.455.549
+e) 39.455.679
+
+
+18. Partículas elementares e as forças da natureza.
+
+[...] a força eletromagnética entre dois elétrons é cerca de um milhão de milhões de milhões de milhões
+de milhões de milhões de milhões de vezes maior do que a força gravitacional.
+           HAWKING, Stephen. Uma breve história do tempo. Tradução Cássio de Arantes Leite. Rio de Janeiro: Intrínseca, 2015 (p. 96).
+
+A partir do exposto, a razão entre a força eletromagnética entre dois elétrons e a força gravitacional é
+cerca de
+a)
+b)
+c)
+d)
+e)
+                                                                                                                                  10
+SSA UPE – 1ª FASE                                                                             2º DIA
+
+19. Na entrada do parque de uma cidade, foi posto um imenso portal em formato de parábola. Com
+incríveis 18 m de altura e 6 m de base, o portal recebeu uma placa com 4 m de base, na qual estava
+escrito “Bem-vindo”, a uma altura h. A figura a seguir apresenta um esquema do portal, assim como a
+sua representação em um plano cartesiano.
+
+
+
+
+                             -                            -
+                        -                            -
+
+
+
+
+A que altura h, em metros, foi colocada a placa de “Bem-vindo” no portal?
+a)   9,5
+b)   9,6
+c)   9,8
+d)   10,0
+e)   10,3
+
+
+20. O “peso” P de um objeto, a uma altura h acima do nível do mar, satisfaz a seguinte equação:
+
+
+
+em que P0 é o “peso” do objeto ao nível do mar e R é o raio da Terra. Se um objeto com “peso” P está
+a uma altura h cujo valor é 3 vezes o raio da Terra, qual é o valor da razão P/Po?
+
+a) 1/4
+b) 1/6
+c) 1/8
+d) 1/10
+e) 1/16
+
+
+
+
+                                                                                                   11
+SSA UPE – 1ª FASE                                                                      2º DIA
+
+
+21. Lucas tirou nota 2,0 na primeira prova de Matemática da primeira unidade. Mas ele sabe
+que, se tirar 10,0 em cada uma das outras provas dessa unidade, conseguirá obter média 8,0.
+Quantas provas de Matemática foram realizadas na unidade?
+
+a) 7
+b) 6
+c) 5
+d) 4
+e) 3
+
+
+22. Na Escola São Pedro, as turmas têm entre 20 e 35 alunos. Para o trabalho de construções de
+sólidos geométricos com uma de suas turmas, Marcelo resolveu montar grupos com os alunos. No
+entanto, o professor encontrou um problema:
+“Se ele formar grupos de 2 alunos sobra um aluno sem grupo; se ele formar grupos de 3 alunos
+também sobra um e, inacreditável, se ele formar grupos de 4 também sobra um aluno”.
+
+Afinal, quantos alunos tem essa turma?
+
+a)     20
+b)     25
+c)     24
+d)     30
+e)     35
+
+
+
+
+                                                                                            12
+SSA UPE – 1ª FASE                                                                                  2º DIA
+     CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS
+     Questões de 23 a 45
+
+Nas questões com respostas numéricas, considere o módulo da aceleração da gravidade como
+g = 10,0 m/s2, densidade da água ρ = 1,0 g/cm3, a constante da gravitação universal como G =
+6,7 x 10 − 11 m3kg− 1s−2, massa da Terra MT = 6,0 x 1024 kg, raio da Terra RT = 6,4 x 106 m, utilize
+π = 3 e 1 pé = 0,30 metros. 1 kcal = 4200 J. sen(30º) = 0,5 e cos(30º) = 0,87.
+23. Na peça Oxigênio, de Roald Hoffmann, o comitê do Prêmio Nobel decide dar um prêmio retroativo
+ao descobridor do elemento que batiza a obra, reunindo Lavoisier, Priestley e Scheele, visando
+determinar quem é o autor oficial da façanha. Vamos supor que tal comitê tenha uma ideia semelhante
+e decida homenagear alguns propositores de modelos atômicos, que chegam à festa na ordem
+apresentada na figura a seguir, sendo o cientista mais à esquerda o primeiro a chegar e o cientista
+mais à direita, o último.
+
+
+
+
+                                 Disponível em: www.japaquimica.com.br. Adaptado.
+
+Como cada um levou a representação da sua proposta para a festa, podemos determinar que a ordem
+de chegada dos convidados foi:
+a)    Dalton, Thomson, Rutherford, Böhr e Schrödinger.
+b)    Thomson, Dalton, Rutherford, Böhr e Schrödinger.
+c)    Thomson, Schrödinger, Böhr, Dalton e Rutherford.
+d)    Rutherford, Dalton, Schrödinger, Thomson e Böhr.
+e)    Schrödinger, Böhr, Dalton, Rutherford e Thomson.
+
+24. Quando engolimos algo sólido ou líquido, a epiglote se fecha para que o alimento escorregue direto
+e não vá parar nos pulmões. Mas se comermos muito rápido, a epiglote pode falhar e o alimento
+desvia para a laringe, bloqueando a passagem de ar para os pulmões. Como reflexo, o corpo ativa
+uma tentativa de desobstrução, sendo liberado um jato de ar ocasionando o engasgo. Se a obstrução
+for total, a pessoa pode sentir um desconforto respiratório, tossir, restringir a fala ou até mesmo evoluir
+para uma parada cardiorrespiratória. A primeira reação do observador é ligar para o SAMU, mas na
+ausência de um pronto atendimento médico, se a vítima estiver consciente ainda, o procedimento
+CORRETO é
+a) ficar por trás da vítima, colocar uma mão fechada um pouco acima da cicatriz umbilical, colocar a
+   outra mão aberta por cima da fechada, realizar compressões para dentro e para cima. Repetir esse
+   movimento até a vítima expelir o objeto.
+b) deixar a vítima de barriga para cima, com as pernas dobradas. Empurrar o joelho em direção aos
+   pulmões, repetindo até que a vítima consiga tossir. Abrir a boca da vítima e introduzir dois dedos na
+   garganta para pinçar o objeto.
+c) deitar a vítima no chão de barriga para baixo e posicionar os braços na lateral do corpo. Com as
+   duas mãos juntas, com as palmas abertas, pressionar o tórax e segurar até 10 segundos. Repetir
+   por três vezes até o objeto ser expelido.
+d) ficar em frente da vítima. Levantar seus braços, e enquanto levantado, pressionar o abdômen por 10
+   vezes. Baixar os braços e repetir a operação por três vezes até o objeto ser expelido.
+e) Colocar a vítima ajoelhada e introduzir um dedo em sua boca, fazendo uma ligeira pressão na parte
+   de trás da língua, na região onde começa a garganta, até provocar vômito. Após expelir o objeto,
+   levantá-la devagar para recuperar a respiração.
+                                                                                                         13
+SSA UPE – 1ª FASE                                                                                                    2º DIA
+
+25. Em junho de 2023, o submersível Titan sofreu uma falha grave em uma expedição ao fundo do
+mar, implodindo violentamente devido à pressão em grandes profundidades. O submersível,
+pertencente à OceanGate Expeditions, utilizado para visitar o local dos destroços do Titanic, poderia
+ter "vulnerabilidades", disse o ex-comandante de submarino, David Marquet, capitão aposentado da
+Marinha dos Estados Unidos, que comandou o submarino nuclear Santa Fe. Ele disse, destacando o
+projeto do submarino Titan e os materiais usados para construí-lo: "tem uma grande janela, e isso é
+uma vulnerabilidade. Não há janelas em submarinos militares, por uma razão”. De acordo com a
+investigação, o submersível foi projetado para atingir profundidades de 4000 metros, mas David
+Lochridge, ex-diretor de operações marítimas da OceanGate, disse que o ponto de vista do
+passageiro (janela), com aproximadamente 50 cm de diâmetro, só foi certificado para profundidades
+de até 1300 metros. Ele alegou que a OceanGate não pagaria ao fabricante para construir uma janela
+de observação que suportasse a pressão em 13300 pés de profundidade. Esse é um fator crítico, diz
+Marquet, devido à pressão no submersível naquela expedição.
+       Disponível em: https://www.ctvnews.ca/world/titan-could-have-vulnerabilities-due-to-large-window-materials-former-sub-
+                                                         commander-1.6451582. Adaptado. Acesso em: 24 de junho de 2023.
+
+Com base nas informações do texto e em conceitos fundamentais da hidrostática, assinale a
+alternativa CORRETA.
+
+a) A janela utilizada no submersível Titan era capaz de suportar 380 vezes a pressão atmosférica.
+b) A pressão em uma profundidade de 13300 pés é aproximadamente igual a 400 Pa.
+c) A janela deveria ter suportado a pressão uma vez que 1300 metros são equivalentes a 400 pés de
+   profundidade.
+d) A força média da pressão exterior sobre a janela em 13300 pés de profundidade é de
+   aproximadamente 300 x 105 N.
+e) Se a área de observação fosse aumentada, seria possível diminuir a força média externa exercida
+   sobre a janela em grandes profundidades.
+
+
+26. A amônia (NH3), também chamada de gás amoníaco, tem importância industrial considerável,
+sendo um exemplo de aplicação à síntese do ácido nítrico (HNO3), uma das substâncias químicas mais
+produzidas e comercializadas no mundo, utilizado na fabricação de fertilizantes. O processo ocorre em
+várias etapas, sendo simplificado na equação global a seguir:
+
+                                           NH3 (g) + O2 (g) → HNO3(g) + H2O(g)
+
+     Dados: Massas Atômicas – H = 1u; N = 14u; O = 16u. Volume Molar (considerando CNTP = 22,4L)
+
+
+Qual é a massa aproximada de ácido nítrico obtida, em um processo industrial, que parte de um
+volume inicial de 8960 m3 do gás amoníaco, em abundância de oxigênio?
+
+a)    4,0 toneladas
+b)    8,2 toneladas
+c)    9,5 toneladas
+d)    2,5 toneladas
+e)    5,0 toneladas
+
+
+
+
+                                                                                                                           14
+SSA UPE – 1ª FASE                                                                                           2º DIA
+
+27. Ressaca e a biologia do corpo humano: Churrasco, diversão, bares, cerveja, paquera, balada,
+vodka e cachaça...depois dor de cabeça, enjoo, tontura... Nos hepatócitos, células do fígado, principal
+órgão responsável em metabolizar as substâncias tóxicas que são lançadas na corrente sanguínea,
+são ricas em organelas especializadas em promover a quebra do álcool em substâncias menos
+nocivas à nossa saúde. Nessa condição, uma certa organela sofre hipertrofia e passa a sintetizar em
+grande quantidade enzimas, como a álcool desidrogenase, que transformam o álcool em acetaldeído e
+a aldeído desidrogenase, que transforma o acetaldeído em acetato, evento que aumenta a tolerância
+ao álcool.
+               Disponível em: Ressaca e a biologia do corpo humano - Estado de Minas. 08 de junho de 2023. Adaptada.
+
+Assinale a alternativa que apresenta a organela responsável pela maior parte da degradação do álcool
+na desintoxicação e pela síntese de enzimas citadas no texto.
+
+a)   Mitocôndrias
+b)   Lisossomos
+c)   Retículo endoplasmático não granuloso
+d)   Ribossomos
+e)   Complexo de Golgi
+
+
+28. O gráfico ao lado ilustra a dependência da
+aceleração com o tempo de um pequeno drone que se
+move ao longo de um trajeto linear horizontal. Sabendo
+que o veículo parte do repouso em t = 0, obtenha uma
+estimativa para sua velocidade em t = 30 s.
+a) 10 m/s
+b) 20 m/s
+c) 30 m/s
+d) 60 m/s
+e) 90 m/s
+
+
+29. Em uma aula de História da Química, a professora realiza um interessante experimento, colocando
+dois pratos de mesma massa, presos, por um cordão de mesmo comprimento e mesmo material, às
+extremidades de um cabide, criando uma balança rudimentar. Ao colocar no prato da esquerda 30g de
+carvão mineral (C, Z=6) e, no prato da direita, a mesma massa de magnésio (Mg, Z=12), a balança
+estabelece um equilíbrio. Posteriormente, a professora queima a amostra presente no prato da direita
+e pede atenção aos estudantes para explicar o que aconteceu.
+Usando seus conhecimentos de Química, é possível afirmar que, após a combustão da amostra no
+prato da direita, a balança
+
+a) pende para o lado esquerdo, uma vez que a queima do magnésio diminui a massa da amostra, pela
+   liberação de um gás.
+b) permanece em perfeito equilíbrio, uma vez que, em uma reação de combustão, a massa se
+   conserva.
+c) pende para o lado direito, uma vez que a queima do magnésio aumenta a massa da amostra,
+   devido à formação de um sal inorgânico.
+d) pende para o lado direito, uma vez que a queima do magnésio aumenta a massa da amostra,
+   devido à formação de um óxido.
+e) pende para o lado esquerdo, uma vez que a queima do magnésio diminui a massa da amostra, pela
+   incorporação do flogisto ao sistema.
+                                                                                                                  15
+SSA UPE – 1ª FASE                                                                                          2º DIA
+
+
+30. Leia o texto a seguir sobre ISTs.
+A Organização Mundial da Saúde (OMS) estimou a ocorrência de mais de um milhão de casos de
+Infecções Sexualmente Transmissíveis (IST) por dia no planeta, tais como HPV, gonorreia, sífilis e
+tricomoníase. Dados do Ministério da Saúde mostram que a população entre 25 e 39 anos é a mais
+suscetível a contrair as enfermidades transmitidas pelo sexo. A despeito das campanhas e dos alertas
+dos médicos, um pouco mais da metade dos jovens entre 15 e 24 anos usa preservativo na relação
+com parceiros eventuais. Os outros partem para o risco e podem ser infectados pelo HIV e
+papilomavírus. Quanto à Aids, o índice de contágio dobrou entre jovens de 15 a 19 anos e houve
+aumento significativo dos casos de sífilis adquirida e congênita, além dos casos de Hepatite C.
+                      Disponível em: Número de Infecções Sexualmente Transmissíveis (IST) aumenta (febrasgo.org.br).
+                                                                        Acesso em: 03 de junho de 2023. Adaptado.
+
+Sobre as ISTs e formas de prevenção e tratamento, assinale a alternativa CORRETA.
+
+a)   Entre as ISTs apresentadas no texto, apenas a Aids, a Hepatite C e o HPV são as preveníveis
+     com o uso de preservativos ou camisinhas durante o ato sexual.
+b)   Quando os jovens se vacinam contra tricomoníase, sífilis e HPV é eliminado o risco de contrair a
+     doença, uma vez que, com as vacinas, adquirem-se anticorpos contra essas doenças.
+c)   A sífilis e a hepatite C são reconhecidas há séculos, no entanto os métodos de diagnóstico atuais
+     e as medidas de prevenção provocaram redução do número de casos, pois a população jovem e
+     ativa sexualmente está mais cautelosa.
+d)   Uma jovem gestante, caso vacinada contra a gonorreia, não oferece risco ao feto se adquirir a
+     doença, enquanto grávidas não vacinadas podem transmiti-la ao feto, que desenvolverá a doença
+     congênita.
+e)   O acesso ao serviço público de saúde, o atendimento multiprofissional, a indicação de profilaxias,
+     a indicação e manejo de terapia antirretroviral, além do respeito, aos pacientes, são medidas
+     importantes no trato das ISTs.
+
+
+31. Enquanto se move com velocidade constante em uma pista                                             Bola
+plana, um ciclista hábil lança uma bola verticalmente para cima.
+Se a bicicleta continuar se movendo em velocidade constante, a
+bola volta para o ciclista. Quando o ciclista aciona o freio da
+bicicleta, essa bola cai à frente dele. Suponha que a resistência
+do ar atuando na bola seja desprezível.
+Assinale a alternativa CORRETA, acerca do princípio físico a que
+o texto acima se refere.
+
+a) Princípio da velocidade média
+b) Primeira lei de Newton
+c) Princípio da conservação da energia
+d) Segunda lei de Newton
+e) Princípio da estabilidade da bicicleta
+
+
+
+
+                                                                                                                 16
+SSA UPE – 1ª FASE                                                                                      2º DIA
+
+32. O dia 23 de outubro é importante para os químicos, pois é o dia do mol. A data foi escolhida em
+referência ao número de Avogadro, 6,02x1023, pois, em inglês, a data é apresentada na forma 10/23. A
+palavra é originária do latim mole, que significa quantidade, e foi proposta pelo químico alemão
+Wilherm Ostwald. Visando à comemoração da data, uma sociedade científica brasileira propôs um
+concurso entre estudantes, que deveriam criar frases associadas ao conceito em destaque. Assim, em
+uma turma do Primeiro Ano do Ensino Médio de uma escola pernambucana, a professora recebeu
+cinco contribuições para a disputa.
+     Vamos ajudá-la, escolhendo a frase que apresenta, de forma CORRETA, o conceito de mol.
+
+a)    É um número fixo, chamado número de Avogadro (6,02x1023), utilizado pelos químicos, de forma
+      eficiente, para realizar operações matemáticas em reações químicas.
+b)    É uma unidade básica de medida na Química, que corresponde a 6,02x1023 entidades
+      elementares, sendo este número escolhido de forma arbitrária no Congresso Internacional de
+      Karlsruhe, na Alemanha.
+c)    É a quantidade de matéria presente em exatamente um quilograma de qualquer substância
+      química, em qualquer estado físico, que corresponde a exatamente 6,02x1023 entidades
+      elementares, de acordo com o número de Avogadro.
+d)    É a massa de um determinado volume de um gás que é necessariamente igual para todos os
+      gases, 6,02x1023 kg, quando não existe variação de temperatura.
+e)    É a grandeza associada à quantidade de matéria, representando 6,02x1023 entidades
+      elementares, número fixado a partir da Lei de Avogadro.
+
+
+33. As figuras a seguir representam tipos de junções celulares. Observe-as.
+
+                         Figura 1                                      Figura 2
+
+
+
+
+                          Figura 3                                      Figura 4
+
+
+
+
+           Disponível em: https://www.pinterest.co.uk/pin/337558934570892853/. Acesso em 15/08/2023.
+
+
+
+
+                                                                                                           17
+SSA UPE – 1ª FASE                                                                                2º DIA
+
+Assinale a alternativa que descreve CORRETAMENTE o tipo de junção representada e sua função.
+a) A figura 1 corresponde à zona de oclusão, frequente em células dos tecidos epitelial e muscular.
+Organiza-se como um cinturão de actina e miosina na face interna desses tipos de células.
+b) A figura 2 representa um desmossomo, junção constituída por duas placas circulares de proteínas,
+entre membranas de células vizinhas, de onde partem filamentos proteicos, conferindo forte adesão
+mantendo as células firmemente unidas.
+c) A figura 3 representa uma junção Gap, rede de proteínas que une fortemente células vizinhas
+impedindo o fluxo de moléculas mesmo de pequeno tamanho, muito comum entre células epiteliais do
+intestino delgado.
+d) A figura 4 representa um plasmodesmo, junção especialmente encontrada em células de vegetais e
+algas, no qual as membranas ficam muito próximas por pontes de conexina, que impedem fluxo de
+moléculas e íons.
+e) As figuras 1, 2 e 4 constituem o citoesqueleto celular, são constituídas por queratina por isso
+conferem forte adesão mecânica entre células epiteliais e conjuntivas, além de permitirem livre trânsito
+de íons e pequenas moléculas.
+
+
+34. Em um ensaio de resistência veicular, um carro de testes de massa 1000 kg se move com
+velocidade constante em linha reta de 24 m/s até colidir inelasticamente com um objeto de massa M
+desconhecida, inicialmente em repouso em sua trajetória. Se a colisão ocorrer em t = 0, o módulo da
+velocidade do sistema após a colisão pode ser aproximado pela relação temporal v = 8/(1 + 3t), em
+que t é o tempo em segundos. Então, a massa M desconhecida é, em quilogramas, igual a
+a) 800
+b) 1500
+c) 2000
+d) 3800
+e) 4400
+
+
+35. Nem todas as propriedades das substâncias químicas são fixas. A água, por exemplo, entra em
+ebulição em temperaturas diferentes, dependendo de parâmetros como a pressão, que varia com a
+temperatura. Isso explica porque a água ferve, em La Paz, capital de Bolívia, em temperatura menor,
+87º C. Uma outra propriedade que varia é o comportamento como ácido ou base, que depende do
+meio reacional. Sobre tal comportamento, considere as seguintes equações químicas:
+
+                                                               (Equação 1)
+                                                             (Equação 2)
+                                                                (Equação 3)
+
+Sobre essas equações, assinale a alternativa que apresenta a afirmativa CORRETA.
+a)   Na equação química 1, a água se comporta como uma base de Lewis, pois atua como doadora de
+     prótons.
+b)   Nas equações químicas 2 e 3, a água se comporta como um ácido de Brönsted-Lowry, pois atua
+     como doadora de prótons.
+c)   Nas equações químicas 1 e 3, a água se comporta como um ácido de Brönsted-Lowry, pois atua
+     como doadora de par eletrônico.
+d)   Nas equações químicas 1 e 3, a água se comporta como uma base de Brönsted-Lowry, pois atua
+     como doadora de prótons.
+e)   Na equação química 2, a água se comporta como um ácido de Lewis, pois atua como receptora
+     de prótons.
+                                                                                                      18
+SSA UPE – 1ª FASE                                                                                            2º DIA
+
+36. Sempre é bom aprender Ciência de forma lúdica. Uma professora da rede pública propôs uma
+atividade aos alunos com o tema “Origem da Vida” a partir de uma peça de teatro em que o ator
+principal era o cientista que desenvolveu uma teoria ou hipótese, e o roteiro baseava-se na sua
+experimentação. Sugeriu aos grupos alguns nomes e experimentos, registrados na tabela a seguir.
+
+      Cientista              Teoria/hipótese                                    Experimento
+
+A - Aristóteles             I - Biogênese              a – Caldo nutritivo exposto a micro-organismos
+                                                          suspensos no ar sofre fermentação.
+B - Pasteur                 II - Abiogênese            b – Ratos produzidos a partir de uma camisa suada e
+                                                          suja, colocada com grãos de trigo.
+C - Redi                    III - Biogênese            c – Pedaços de carne em dois potes, um aberto e outro
+                                                          fechado.
+D - Helmont                 IV - Abiogênese            d – Observações de seres vivos originando-se
+                                                          espontaneamente da matéria bruta.
+
+Observando o enredo dos grupos, assinale a alternativa em que houve uma correspondência
+CORRETA.
+
+a) Grupo 1 -   A, IV, c;      Grupo 2 -   B, II, a;        Grupo 3 -   D, I, b;       Grupo 4 -   C, IV, d
+b) Grupo 1 -   A, II, d;      Grupo 2 -   B, III, a;       Grupo 3 -   C, I, c;       Grupo 4 -   D, IV, b
+c) Grupo 1 -   B, II, c;      Grupo 2 -   A, III, b;       Grupo 3 -   C, IV, d;      Grupo 4 -   D, I, a
+d) Grupo 1 -   D, I, d;       Grupo 2 -   C, II, b;        Grupo 3 -   A, III, d;     Grupo 4 -   B, IV, c
+e) Grupo 1 -   C, III, a;     Grupo 2 -   B, IV, d;        Grupo 3 -   D, II, b;      Grupo 4 -   A, I, c
+
+
+
+37. Rayssa Leal, a fadinha do skate, se notabilizou aos 13 anos de idade na modalidade skate de rua
+nos Jogos Olímpicos de 2020 de Tóquio, no Japão, em 2021, ganhando a medalha de prata. Foi
+também medalhista de ouro nos X-Games e campeã mundial em 2022 nessa modalidade. Uma
+manobra consiste em deslizar o skate se equilibrando sobre um corrimão de 4,0 m de comprimento e
+inclinação de 30º com a horizontal. O movimento começa na parte superior do corrimão com velocidade
+inicial de 2,5 m/s, e o arrasto do skate sobre o corrimão produz um coeficiente de atrito cinético de 0,3.
+Quanto tempo, aproximadamente, em segundos, Rayssa gastou nessa manobra?
+
+a) 0,1
+b) 0,3
+c) 0,5
+d) 0,8
+e) 1,0
+
+
+
+
+                                                                                                                 19
+SSA UPE – 1ª FASE                                                                                2º DIA
+
+38. Entre as opções atuais de dieta para redução do
+peso corporal, que deve sempre ser acompanhada por
+um profissional nutricionista responsável, muitas
+pessoas têm recorrido às chamadas dietas low carb,
+que, como o nome já aponta, consiste em um plano
+alimentar em que se reduz o consumo de carboidratos,
+principalmente os simples, fazendo com o que o corpo
+busque outro tipo de fonte de energia para seu
+funcionamento.
+
+
+
+                                                                          Fonte: Folha de São Paulo (2021)
+
+Pensando no funcionamento do corpo humano nesse regime alimentar, assinale a alternativa
+CORRETA.
+a) Em uma dieta low carb, não devem ser consumidos, em grande quantidade, carboidratos simples,
+   como amido e glicogênio, que são de fácil absorção pelo corpo, por isso engordam.
+b) A diminuição de carboidratos simples no organismo de um adepto de dieta low carb faz o corpo
+   buscar energia na queima dos lipídios, presentes no tecido adiposo.
+c) A diminuição de carboidratos simples no organismo de um adepto de dieta low carb faz o corpo
+   buscar energia no amido, reserva energética principal dos animais.
+d) A ingestão de carboidratos complexos em um adepto de dieta low carb é recomendada em qualquer
+   quantidade, pois o corpo humano não consegue absorver tais substâncias.
+e) A ingestão de óleos e gorduras não é recomendada para adeptos de dieta low carb, pois, a partir da
+   ação de enzimas, se transformam em diferentes carboidratos simples, principalmente a glicose.
+
+39. Todas as células do organismo têm que construir um ambiente favorável e apto para sobreviver e
+praticar suas atividades orgânicas. Para tal, existem mecanismos intrínsecos capazes de controlar o
+ambiente interno das células em relação ao meio externo (plasma).
+
+
+
+
+                                Transporte pelas Membranas - Racha Cuca
+
+A figura ilustra um tipo de transporte. Assinale a alternativa que o define CORRETAMENTE.
+
+a)   Transporte ativo, pois as moléculas se movem contra o gradiente de concentração, o que não
+     requer gasto de ATP.
+b)   Osmose, uma vez que as moléculas estão se movendo do meio mais concentrado para o meio
+     menos concentrado, e ela requer ATP e proteínas permeases.
+c)   Difusão simples, pois ocorre da região menos concentrada para a de maior concentração, com
+     gasto energético, pois as membranas são permeáveis.
+d)   Difusão facilitada, pois ocorre a favor do gradiente de concentração, mas utiliza proteínas
+     carreadoras.
+e)   Exocitose, pois as moléculas estão sendo eliminadas por meio dos lipídios.
+                                                                                                       20
+SSA UPE – 1ª FASE                                                                               2º DIA
+
+40. Um estudante com boa habilidade manual construiu um “roi roi”, que é um brinquedo sonoro
+composto de um copo acústico de papelão, com um cordão de sisal ou barbante de tamanho 20 cm de
+massa desprezível e um pedaço de madeira com a ponta coberta por uma resina conhecida por breu.
+O atrito do nó frouxo do barbante com o breu na ponta da madeira, quando colocado para girar,
+produz o som “roi roi”, que ressoa no copo acústico, o qual funciona como amplificador. Se ele girar o
+“roi roi”, num ângulo  de 30o com o plano horizontal, qual é a velocidade angular do copo acústico,
+em rad/s?
+
+
+a) 1,0
+b) 5,0
+c) 10,0
+d) 50,0
+e) 100,0
+
+
+
+
+41. Um explorador está tentando vender, para um colecionador, um papiro egípcio que contém
+algumas informações coerentes sobre a Ciência em Kemet (nome original do país africano) e, segundo
+o vendedor, tem a mesma idade do papiro de Ahmes, ou seja, datada de por volta de 1700, antes da
+Era Cristã. O colecionador resolve testar a veracidade do artefato, obtendo do laboratório um resultado
+informando que a percentagem, em massa, de Carbono-14 do material inicial havia decaído 3%.
+       (Dados: Tempo de meia-vida do Carbono-14 = 5730 anos)
+Com base na informação, o colecionador pode atestar que o artefato é potencialmente
+
+a)   verdadeiro, pois o resultado comprova que o artefato tem a mesma idade do papiro de Ahmes.
+b)   verdadeiro, pois o resultado comprova que o artefato é consideravelmente mais antigo que o
+     papiro de Ahmes.
+c)   falso, pois o resultado comprova que o artefato é mais recente que o papiro de Ahmes, estando
+     situado entre os anos 300 e 400 depois da Era Cristã.
+d)   falso, pois o resultado comprova que o artefato é mais recente que o papiro de Ahmes, estando
+     situado entre os anos 1400 e 1500 depois da Era Cristã.
+e)   verdadeiro ou falso, sendo necessário realizar testes adicionais, uma vez que o teste de Carbono-
+     14 é efetivo apenas para matéria orgânica, o que não é o caso do material analisado.
+
+
+
+
+                                                                                                     21
+SSA UPE – 1ª FASE                                                                                                             2º DIA
+
+42. Santa Catarina tem maior apreensão de barbatanas no mundo com 10 mil tubarões mortos. O
+Ibama apreendeu quase 30 toneladas de barbatanas de tubarão em Santa Catarina e São Paulo que
+seriam exportadas de forma ilegal para a Ásia, na maior apreensão em origem já registrada no mundo,
+afirmou o órgão ambiental nesta segunda-feira. As barbatanas são de tubarões das espécies Azul e
+Anequim, também conhecidos como Mako, segundo o Instituto Brasileiro do Meio Ambiente e dos
+Recursos Naturais Renováveis (Ibama). A autarquia estima a morte de pelo menos 10 mil tubarões,
+sendo 4.400 tubarões Azul e 5.600 Anequim.
+     Disponível em: https://noticias.uol.com.br/ultimas-noticias/reuters/2023/06/19/ibama-apreende-quase-30-toneladas-de-barbatanas-de-
+                                           tubarao-10-mil-animais-foram-mortos.htm?cmpid=copiaecola. Acesso em: 10/08/2023. Adaptado.
+
+
+
+
+     Disponível em: https://www.metropoles.com/brasil/sc-maior-apreensao-mundial-de-barbatanas-revela-morte-de-10-mil-tubaroes.
+                                                        Acesso em: 10/08/2023
+
+
+
+Essa notícia assustou a comunidade científica e os ambientalistas, pelo fato de que tubarões são
+importantes para a manutenção dos ecossistemas costeiros e marinhos e para o equilíbrio do oceano.
+Sobre sua importância é CORRETO afirmar que os tubarões
+a) flutuam nos diferentes níveis tróficos e são controlados por espécies de topo de cadeia, equilibrando
+   os fluxos de energia e matéria no oceano.
+b) ocupam o topo da cadeia alimentar, controlando populações de diferentes níveis tróficos,
+   equilibrando a transferência de matéria e energia nos ecossistemas.
+c) dominam diferentes níveis tróficos e quanto menos tubarões, mais decompositores e produtores,
+   impactando o balanço de oxigênio e gás carbônico no oceano.
+d) ocupam a base da cadeia alimentar, a diminuição da população afeta drasticamente os níveis
+   tróficos superiores, desencadeando um desequilíbrio nos ecossistemas.
+e) consomem espécies que ocupam os níveis tróficos secundários ou quaternários, e a diminuição da
+   população afeta o aumento de produtores, causando acidificação do oceano.
+
+
+
+
+                                                                                                                                    22
+SSA UPE – 1ª FASE                                                                               2º DIA
+43. Na canoagem de velocidade individual, modalidade C1-1000, o atleta fica agachado com um dos
+joelhos no barco usando um remo e impulsiona a canoa para frente usando apenas a força muscular
+para cobrir uma distância de 1.000 m. O primeiro colocado nessa modalidade foi o brasileiro Isaquias
+Queiroz, que conquistou o ouro olímpico em Tóquio em 2021 com o tempo aproximado de 4 minutos e
+4 segundos. A força média de impulsão exercida pelo atleta se dá essencialmente para vencer a
+resistência produzida pela água, que é de 240 N. Considere que a canoa atinja rapidamente uma
+velocidade constante. Qual foi a potência muscular média aproximada, em watts, desenvolvida pelo
+atleta para sua conquista olímpica?
+
+a) 540
+b) 984
+c) 1200
+d) 1454
+e) 2064
+
+
+44. No romance Ahsoka, de E. K. Johnson, parte integrante do universo Star Wars, a padawan
+encontra-se em uma pequena lua na Orla Exterior, escondida do império galáctico. Prezando pela sua
+segurança, decide criar um esconderijo nas cavernas que circundam os campos de plantação e
+encontra um espaço adequado para esconder seus pertences da época em que seguia os preceitos
+Jedi. A caverna é repleta de estalactites e estalagmites, e, no seu interior, existe um espaço adequado
+para esconder os materiais, mas ele precisa ser planificado.
+
+
+
+
+                                       Fonte: Amazon Books (2022).
+
+
+Qual das substâncias a seguir é a mais recomendada para que Ahsoka consiga eliminar formações
+que impedem o uso do esconderijo?
+
+a) Água (H2O), pois as estalactites e estalagmites são formadas por um sal inorgânico polar e,
+   portanto, solúvel em água.
+b) Ácido Sulfúrico (H2SO4), pois as estalactites e estalagmites são formadas por uma base, que reage
+   com ácidos formando sal e água.
+c) Hidróxido de Sódio (NaOH), pois as estalactites e estalagmites são formadas por um ácido, que
+   reage com a base formando sal e água.
+d) Água (H2O), pois as estalactites e estalagmites são formadas por um sal inorgânico apolar e,
+   portanto, solúvel em água.
+e) Ácido Sulfúrico (H2SO4), pois as estalactites e estalagmites são formadas por um sal inorgânico
+   polar, que reage com ácidos formando sal e água.
+
+                                                                                                     23
+SSA UPE – 1ª FASE                                                                                           2º DIA
+
+45. Observe as figuras e o texto a seguir.
+
+                       Figura A                                                Figura B
+
+
+
+                                                                                               1
+
+                                                                                                     4
+                                                              3
+
+                                                                          2
+
+
+
+
+                                     Pin em Enfermagem Ilustrada (pinterest.com)
+
+    A traqueostomia é um dos procedimentos cirúrgicos mais antigos e foi documentada em artefatos
+    egípcios já em 3600 a.C. É um procedimento delicado, o paciente precisa estar sob anestesia
+    geral, um corte irá expor os anéis de cartilagem da traqueia, onde a cânula será introduzida, de
+    maneira que a parte externa e o meio se comuniquem, que ajuda a respirar.
+       Disponível em: https://www.megacurioso.com.br/saude-bem-estar/121491-traqueostomia-6-fatos-essenciais-sobre-
+                                                            este-procedimento.htm. Acesso em: 22 de junho de 2023.
+
+O tecido cartilaginoso e seus constituintes estão numerados de 1 a 4 na figura B.
+
+Assinale a correspondência CORRETA entre o constituinte do tecido, sua função ou característica.
+a) É um tipo especializado de tecido conjuntivo, rico em células como fibroblastos e fibrócitos
+   (1 e 2 ), importantes na regeneração do tecido.
+b) É um tecido rico em vasos sanguíneos (4), assim se regenera bem de lesões, independentemente
+   da idade.
+c) É um tecido rígido, constituído por colágeno e elastina (4), o que lhe confere propriedades de
+   extensão, elasticidade e resistência à tração.
+d) É um tecido cuja matriz cartilaginosa (3) é rica em nervos, o que justifica as dores causadas pelas
+   lesões.
+e) É constituído por condroblastos e condrócitos (1 e 2). Os condrócitos têm baixa atividade
+   metabólica, o que justifica a lentidão ou dificuldade de regeneração.
+
+
+
+
+                                                                                                                  24
+SSA UPE – 1ª FASE              2º DIA
+                    RASCUNHO
+
+
+
+
+                                   25
+SSA UPE – 1ª FASE              2º DIA
+
+                    RASCUNHO
+
+
+
+
+                                   26
+SSA UPE – 1ª FASE              2º DIA
+                    RASCUNHO
+
+
+
+
+                                   27
+SSA UPE – 1ª FASE              2º DIA
+
+                    RASCUNHO
+
+
+
+
+                                   28
+SSA UPE – 1ª FASE              2º DIA
+
+                    RASCUNHO
+
+
+
+
+                                   29
+SSA UPE – 1ª FASE              2º DIA
+                    RASCUNHO
+
+
+
+
+                                   30
+SSA UPE – 1ª FASE   2º DIA
+
+
+
+
+                        31
+SSA UPE – 1ª FASE                                                                            2º DIA
+
+
+
+
+                                   ATENÇÃO!
+
+1.   Abra este Caderno apenas quando o Aplicador de Provas autorizar o início da Prova.
+2.   Observe se o Caderno de Prova está completo. Ele deverá conter 45 (quarenta e cinco)
+     questões de múltipla escolha distribuídas entre as áreas de conhecimento de Matemática e suas
+     Tecnologias e de Ciências da Natureza e suas Tecnologias.
+3.   Se o Caderno de Prova estiver incompleto ou com algum defeito gráfico que lhe cause dúvidas,
+     informe imediatamente ao Aplicador de Provas.
+4.   Uma vez dada a ordem de início da Prova, preencha, nos espaços apropriados, o Nome do
+     prédio e o Número da sala, o seu Nome completo, o Número do Documento de Identificação, o
+     Órgão Expedidor, a Unidade da Federação e o seu Número de Inscrição.
+5.   Para registrar as alternativas escolhidas nas questões da Prova, você receberá um Cartão-
+     Resposta de Leitura Ótica. Verifique se o Número de Inscrição impresso no Cartão coincide com
+     o seu Número de Inscrição.
+6.   As bolhas constantes do Cartão-Resposta referentes às questões de múltipla escolha devem ser
+     preenchidas totalmente com caneta esferográfica azul ou preta.
+7.   Você dispõe de 4 horas para responder à Prova, incluído o tempo destinado ao preenchimento do
+     Cartão-Resposta.
+8.   É permitido, após 3 horas do início da Prova, você retirar-se do prédio conduzindo o seu Caderno
+     de    Prova,    devendo,     no     entanto,    entregar     ao    Aplicador    de    Provas   o
+     Cartão-Resposta preenchido.
+9.   Caso você não opte por levar o Caderno de Prova consigo, entregue-o ao Aplicador de Provas,
+     não podendo, sob nenhuma alegação, deixar o Caderno em outro lugar do recinto de aplicação
+     das provas.
+10. Não será permitido durante a realização das provas:
+      Comunicar-se com outros candidatos sob hipótese alguma;
+      Levantar da cadeira sem a devida autorização do Aplicador de Provas;
+      Consultar anotações ou livros bem como acessar no recinto, qualquer espécie de aparelho de
+       comunicação, aparelhos celulares (mesmo desligados), equipamentos auxiliares de
+       memória ou outros de qualquer natureza.
+
+
+
+
+                                          BOA PROVA!
+
+
+
+                                                                                                  32
+

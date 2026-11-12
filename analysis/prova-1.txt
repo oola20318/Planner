@@ -1,0 +1,1162 @@
+                   CADERNO DE PROVAS
+      MATEMÁTICA E SUAS TECNOLOGIAS
+  CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS
+
+
+                      DADOS DE IDENTIFICAÇÃO DO CANDIDATO
+                    Não deixe de preencher as informações a seguir.
+Prédio                                                                Sala
+
+
+Nome
+
+
+Nº de Identidade                              Órgão Expedidor         UF
+
+
+Nº de Inscrição
+SSA UPE – 1ª FASE   2º DIA
+
+
+
+
+                         2
+SSA UPE – 1ª FASE                                                                                                                             2º DIA
+
+
+
+
+   MATEMÁTICA E SUAS TECNOLOGIAS
+   Questões de 01 a 22
+
+
+01. Interessados em um procedimento para medir o volume de corpos materiais pequenos, um grupo de
+técnicos equipou um aquário de vidro com uma régua milimetrada na sua altura e, em seguida, inseriu água até
+uma altura de 10 cm, conforme a figura a seguir.
+
+
+
+
+Esses técnicos modelaram uma função real com a qual é possível calcular a medida do volume de um corpo
+material mergulhado nesse aquário, desde que ele fique totalmente submerso. Essa função associa cada altura
+registrada na régua milimetrada, em cm, ao volume V do objeto mergulhado no aquário, em ml.
+Qual foi a lei de formação da função V(h), com 10 < h ≤ 30, obtida por esses técnicos?
+
+
+a) V(h) = 8000h - 800
+b) V(h) = 800h - 800
+c) V(h) = 800h - 8000
+d) V(h) = 800h
+e) V(h) = 8000h
+
+
+
+
+02. Leia o texto a seguir:
+
+Todo mundo que já fez suco de laranja sabe a quantidade de cascas e bagaços que vai para o lixo. Agora
+imagine o descarte realizado em uma indústria de sucos. De acordo com o Departamento de Agricultura dos
+Estados Unidos, o Brasil é o maior produtor de suco de laranja do mundo, tendo uma safra de mais de um
+milhão de toneladas em 2020, cerca de quatro vezes a dos EUA, segundo lugar na lista.
+                   Disponível em https://medievalimago.org/2017/11/09/uta-von-ballenstedt-a-misteriosa-beleza-do-medievo-saxonico/ Acesso em 07/01/2022
+
+
+
+
+                                                                                                                                                          3
+SSA UPE – 1ª FASE                                                                                   2º DIA
+
+
+De acordo com os dados informados no texto, qual foi aproximadamente a safra de laranja nos EUA em 2020,
+em quilogramas?
+
+
+a) 2,5 ·104
+b) 2,5 ·105
+c) 2,5 ·108
+d) 4,0 ·106
+e) 4,0 ·109
+
+
+
+03. O Índice de Massa Corporal (IMC) de uma pessoa permite situá-la em diferentes categorias em relação ao
+seu peso. Esse índice, que depende da massa (kg) e da medida da altura (m), pode ser calculado pela seguinte
+relação matemática:
+
+
+
+
+O quadro a seguir apresenta as categorias de uma pessoa em função do valor do seu IMC.
+
+                                    Categoria                   IMC
+
+                                  Abaixo do peso              IMC < 20
+
+                                   Peso normal            20 ≤ IMC < 25
+
+                                    Sobrepeso               25 ≤ IMC < 30
+
+                                  Obesidade leve            30 ≤ IMC < 35
+
+                               Obesidade moderada           35 ≤ IMC < 40
+
+                               Obesidade mórbida              IMC ≥ 40
+
+
+
+Considerando os dados apresentados, qual é a medida aproximada da massa de Renata, que tem 1,50 m de
+altura e está na categoria sobrepeso com IMC igual a 28?
+
+a) 63 kg
+b) 68 kg
+c) 72 kg
+d) 76 kg
+e) 80 kg
+
+                                                                                                           4
+SSA UPE – 1ª FASE                                                                                                      2º DIA
+
+
+04. Quando estudava equações exponenciais, Bernardo resolveu a equação                             , obteve a solução (raiz) e
+substituiu na potência             . Se Bernardo não cometeu erros, qual foi o valor que ele obteve para essa
+potência?
+
+a) 81
+b) 27
+c) 9
+d) 1
+e) 1/3
+
+
+
+05. Três quadrados com áreas medindo 64 cm2, 36 cm2 e 16 cm2 são colados no interior de um retângulo ABCD,
+como indicado na figura a seguir.
+
+
+
+
+Quais são as medidas, respectivamente, da área e do perímetro do hexágono hachurado?
+
+a) 32 cm2 e 30 cm
+b) 28 cm2 e 32 cm
+c) 28 cm2 e 28 cm
+d) 32 cm2 e 32 cm
+e) 32 cm2 e 28 cm
+
+
+
+06. Leia o texto a seguir.
+
+
+As substâncias tóxicas que permanecem por décadas no nosso corpo
+O pesticida clordano foi proibido no Reino Unido em 1981, um ano antes que eu nascesse. Uma vez no corpo,
+ele é metabolizado em oxiclordano [...]. Mas a "meia-vida" dessa substância – o tempo que ela leva para
+chegar à metade da concentração no meu sangue – é de cerca de 30 anos. Portanto, ela não apenas foi
+passada para mim no útero de minha mãe, como provavelmente terei inadvertidamente transmitido esse
+legado tóxico para os meus dois filhos.
+                             Disponível em: https://www.bbc.com/portuguese/vert-fut-61801636. Acesso em: 22 de julho de 2022.
+
+
+
+                                                                                                                                5
+SSA UPE – 1ª FASE                                                                                     2º DIA
+
+
+
+
+Uma vez no sangue, a concentração de oxiclordano decresce lentamente ao longo dos anos, podendo ser
+transmitido por gerações. Após quantos anos, no mínimo, a concentração de oxiclordano será 6,25% daquela
+inicialmente presente no sangue?
+
+a) 60
+b) 90
+c) 100
+d) 120
+e) 150
+
+
+
+07. Latas de conserva nos tamanhos pequeno, médio e grande estão acomodadas em três prateleiras, como
+aparece representado na figura a seguir. Numa avaliação do peso contido em cada prateleira, Alice concluiu que
+tem 1,8 kg na primeira, 2,2 kg na segunda e 1,7 kg na terceira prateleira.
+
+
+
+                   Prateleira 1
+
+
+
+
+                   Prateleira 2
+
+
+
+
+                   Prateleira 3
+
+
+
+
+Qual é a massa, em gramas, da lata de conserva de tamanho médio?
+
+a) 250 g
+b) 300 g
+c) 350 g
+d) 400 g
+e) 450 g
+
+
+
+
+                                                                                                             6
+SSA UPE – 1ª FASE                                                                                        2º DIA
+
+
+
+08. Uma companhia artística adquiriu um terreno no qual será construído um teatro. Devido ao formato
+triangular desse terreno, a disposição das poltronas terá uma configuração diferente: a partir de uma fileira com
+apenas três poltronas, cada fileira seguinte terá duas poltronas a mais em relação a anterior, conforme pode ser
+visto em parte do croqui desse teatro.
+
+
+
+
+O projeto do teatro pede que sejam colocadas, no mínimo, 960 poltronas. Portanto, qual será a quantidade
+mínima de fileiras que esse teatro terá?
+a) 20
+b) 22
+c) 25
+d) 28
+e) 30
+
+09. A área A(x) do retângulo representado a seguir pode ser expressa pela função quadrática A(x) = ax2 + bx + c,
+sendo a, b e c números reais, com a ≠ 0.
+
+
+
+
+Qual é o valor da soma dos coeficientes a, b e c da função quadrática?
+a) 10
+b) 15
+c) 30
+d) 40
+e) 50
+                                                                                                                7
+SSA UPE – 1ª FASE                                                                                       2º DIA
+
+
+10. O gráfico a seguir apresenta alguns dados sobre o número de leitos de UTI infantil em Campinas, São Paulo,
+relativos ao número total de leitos existentes e ao número de leitos ocupados, durante alguns dias do mês de
+abril de 2022.
+
+
+
+
+   Disponível em: https://g1.globo.com/sp/campinas-regiao/noticia/2022/05/04/campinas-tem-utis-pediatricas-
+   lotadas-pelo-3o-dia-e-volta-a-registrar-maior-fila-de-criancas-a-espera-de-leitos-de-enfermaria.ghtml. Acesso
+                                                                            em: 22 de julho de 2022. (Adaptado)
+
+
+De acordo com o gráfico, qual é a mediana do número de leitos não ocupados, nos dias considerados?
+a) 8,5
+b) 11,0
+c) 91,0
+d) 95,5
+e) 98,5
+
+
+
+
+                                                                                                              8
+SSA UPE – 1ª FASE                                                                                      2º DIA
+11. Em Pernambuco, a Lei Estadual no 14.838/2012 dispõe sobre a obrigatoriedade da afixação de cartaz, nos
+postos revendedores de combustíveis, com informação sobre a relação percentual entre os preços da gasolina e
+do etanol. É por conta dessa lei que os postos de combustíveis têm afixadas em suas bombas de abastecimentos
+um cartaz tal como o modelo a seguir e, a cada variação nos preços desses combustíveis, a gerência do posto faz
+a atualização do percentual.
+
+
+
+                                          Lei Estadual no 14.838/2012
+                                       Gasolina                Etanol
+                                      R$ 5,60               R$ 4,60
+
+
+                                                       82%
+
+
+
+
+Na verdade, essa é uma lei em defesa do consumidor, para alertá-lo de que só é vantagem, economicamente,
+abastecer com o combustível etanol quando o preço do etanol for menor do que 70% do preço da gasolina.
+Considerando os preços expostos no cartaz e mantido o preço da gasolina, quantos centavos, no mínimo, é
+preciso diminuir no preço do etanol para que seja vantagem o abastecimento com esse combustível?
+
+a) 60 centavos
+
+b) 64 centavos
+
+c) 65 centavos
+
+d) 68 centavos
+
+e) 69 centavos
+
+
+
+12. A altitude influencia o clima, uma vez que a temperatura decresce à medida que a altitude aumenta (isso
+ocorre até aproximadamente 15 000 metros). Sabendo disso, um alpinista mediu a temperatura em algumas
+paradas durante a subida de uma montanha, conforme a tabela a seguir.
+                                   Parada    Temperatura (°C) Altitude (m)
+                                Nível do mar     23,84              0
+                                      A          22,68             200
+                                      B          21,52             400
+                                      C          20,36             600
+                                      D          19,58             800
+                                      E          18,04            1 000
+
+Considerando que a variação da temperatura nesses intervalos de medição foi constante em todas as paradas,
+em qual das paradas o alpinista anotou incorretamente a medição realizada?
+
+a) A             b) B          c) C             d) D              e) E
+                                                                                                             9
+SSA UPE – 1ª FASE                                                                                         2º DIA
+13. Lucas tirou nota 4,0 na primeira prova de Matemática da I unidade. Mas ele sabia que haveria outras provas
+nessa unidade e que, se tirasse 10,0 em cada uma das outras provas, ele conseguiria obter média (aritmética)
+igual a 8,0 na I unidade. Quantas provas de Matemática são realizadas na I unidade?
+
+a) 6
+b) 5
+c) 4
+d) 3
+e) 2
+
+
+
+
+14. Um produtor rural está prestes a iniciar uma nova colheita de milho e, a fim de aumentar a sua renda,
+pretende começar a aproveitar as palhas do milho para investir em artesanato. Para isso, adquiriu uma placa
+metálica retangular com 24 metros de comprimento e 1,5 metros de largura. Com essa placa metálica, formará a
+superfície lateral de um paralelepípedo retangular reto que será um depósito, com 1,5 metros de profundidade,
+para armazenar as palhas do milho. A placa não será cortada, apenas dobrada. A figura a seguir mostra uma das
+possibilidades de se fazer isso (a placa metálica não está representada com as reais proporções entre os lados).
+
+
+
+
+Para otimizar o espaço de armazenamento, ele aproveitará a placa metálica de forma que a capacidade do
+depósito seja máxima. Qual será a capacidade desse depósito, em m³?
+
+a) 54
+b) 36
+c) 30
+d) 216
+e) 180
+
+
+
+
+                                                                                                               10
+SSA UPE – 1ª FASE                                                                                          2º DIA
+
+
+
+15. O professor Odilon, de Educação Física, fez um levantamento das massas aproximadas dos alunos do 8° Ano
+A da Escola Santa Tereza no início do ano letivo 2022. A tabela a seguir apresenta os resultados obtidos pelo
+professor Odilon.
+
+                  Massa (kg)          46        48        50      54       55        60        65
+                 No de alunos          2         4        6       5        3          3        2
+
+
+Assinale a alternativa que indica, respectivamente, o número de alunos cuja massa era inferior a 54 quilogramas
+e a moda das massas dos alunos da turma, no início do ano.
+
+a) 17 e 54 kg
+b) 12 e 50 kg
+c) 13 e 50 kg
+d) 12 e 54 kg
+e) 12 e 55 kg
+
+
+
+
+16. A reta r, representada na figura a seguir, é o gráfico da função afim f(x) = - 2x + 6, e B e C são os pontos de
+intersecção da reta r com os eixos x e y, respectivamente.
+
+
+
+
+Qual é a medida da distância entre os pontos B e C?
+
+a) 9
+b) √
+c) √
+d) √
+e) √
+
+
+
+                                                                                                                11
+SSA UPE – 1ª FASE                                                                                          2º DIA
+17. Na figura a seguir, os vértices A e B do triângulo isósceles ABO pertencem à parábola que representa
+graficamente a função quadrática f(x) = - x2 +8.
+
+
+
+
+Se o ponto C tem coordenadas (0, 4), qual é a medida da área do triângulo ABO?
+
+a) 4
+b) 5
+c) 6
+d) 7
+e) 8
+
+
+18. Um pequeno recipiente de forma cúbica, com aresta medindo 6 cm, está completamente cheio d’água. Essa
+água será totalmente despejada num recipiente em forma de paralelepípedo retângulo com dimensões 8 cm, 9
+cm e 10 cm, conforme a figura representada a seguir. A figura está fora de escala.
+
+
+
+
+Qual é o nível H que a água atinge nesse recipiente?
+
+a) 2 cm
+b) 3 cm
+c) 4 cm
+d) 5 cm
+e) 6 cm
+                                                                                                               12
+SSA UPE – 1ª FASE                                                                                                             2º DIA
+
+
+
+19. Leia o texto a seguir, que descreve algumas das habilidades de voo de Ikaris, personagem da Marvel Comics
+criado por Jack Kirby e membro dos Eternos.
+
+ Ikaris pode levitar, manipulando mentalmente os grávitons
+ (partículas subatômicas que carregam a força da atração
+ gravitacional entre os átomos) em torno de si. Ele também pode
+ levitar outras pessoas e objetos, mesmo enquanto se levita
+ simultaneamente. Ikaris é capaz de voar por autolevitação a
+ aproximadamente 850 milhas por hora (1,1 vezes a velocidade do
+ som), uma velocidade que a maioria dos outros Eternos não pode
+ igualar.
+
+                                          Disponível em: https://pt.wikipedia.org/wiki/Ikaris. Acesso em: 22 de julho de 2022. (Adaptado)
+
+
+No filme Eternos, lançado em 2021, Ikaris voa da Terra em direção ao Sol. Considerando as informações
+disponíveis sobre as habilidades de voo do personagem, ainda que impressionantes, elas não lhe permitiriam tal
+feito em menos de alguns bons anos.
+Sendo a velocidade máxima de voo de Ikaris o equivalente a voar, aproximadamente, 20 mil milhas em um dia e
+sabendo que a distância média da Terra ao Sol é de aproximadamente 93 milhões de milhas, o tempo que Ikaris
+levaria para chegar ao Sol está entre
+
+a) 6 e 8 anos.
+b) 8 e 10 anos.
+c) 10 e 12 anos.
+d) 12 e 14 anos.
+e) 14 e 16 anos.
+
+
+
+20. A soma dos n primeiros termos da progressão aritmética (3; 7; 11; 15; ...) é dada pela expressão S n = an2 +
+bn, sendo a e b inteiros positivos. Qual é o valor da soma a + b?
+
+a) 6
+b) 5
+c) 4
+d) 3
+e) 2
+
+                                                                                                                                      13
+SSA UPE – 1ª FASE                                                                                      2º DIA
+
+
+
+21. Para uma campanha de conscientização ambiental, um botânico irá reproduzir réplicas de folhas de árvore
+utilizando um papel ecológico, biodegradável e que pode ser picado e plantado, do qual nascerão diversas
+espécies de flores. Essas réplicas serão recortadas de quadrados com lados medindo 7 cm, conforme a figura a
+seguir.
+
+
+
+
+No interior do quadrado ABCD, há dois arcos AC, um tomado da circunferência de centro B e outro da
+circunferência de centro D.
+Qual será a medida da área, em cm², de cada folha de árvore?
+Considere
+
+a) 21
+b) 28
+c) 35
+d) 37
+e) 40
+
+
+
+22. Em uma aula de química, um grupo de estudantes está interessado em determinar o grau de dissociação
+iônica        de um ácido, que está em uma solução com molaridade igual a 0,03 mol/L. Para isso, decidiram
+utilizar a lei da diluição de Ostwald para eletrólitos muito fracos, que é particularizada por
+
+
+na qual      é a molaridade da solução,   é a constante de ionização e            .
+Após consultar os manuais do laboratório e deduzir que a constante de ionização desse ácido é igual a
+        , os estudantes calcularam corretamente que o grau de dissociação iônica do ácido em questão, em termos
+percentuais, é igual a
+
+a) 30%.
+b) 40%.
+c) 2%.
+d) 3%.
+e) 4%.
+                                                                                                             14
+SSA UPE – 1ª FASE                                                                                                            2º DIA
+
+
+     CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS
+     Questões de 23 a 45
+
+
+
+Nas questões com respostas numéricas, considere o módulo da aceleração da gravidade
+como g = 10,0 m/s2, densidade da água ρ = 1,0 g/cm3 e utilize π = 3.
+
+23. Até agora, apenas alguns estudos sobre contaminação por micropartículas de água mineral engarrafada
+foram publicados. O menor tamanho de partícula analisado foi de 5,0 μm. No entanto, devido a razões
+toxicológicas, especialmente micropartículas menores que 1,5 μm são discutidas criticamente. Portanto, no
+presente estudo, 32 amostras de água mineral engarrafada foram investigadas quanto à contaminação por
+microplásticos, pigmentos e partículas de aditivos. Devido à aplicação de filtros de membrana de policarbonato
+revestido de alumínio e espectroscopia micro-Raman, um menor tamanho de partícula analisado de 1 μm foi
+alcançado. Microplásticos foram encontrados na água de todos os tipos de garrafas: em garrafas descartáveis e
+reutilizáveis feitas de poli (Politereftalato de etileno) (PET), bem como em garrafas de vidro. A quantidade média
+de microplásticos na água mineral variou de 2649 por litro em garrafas PET de uso único até 6292 por litro em
+garrafas de vidro.
+                  Fonte: Small-sized microplastics and pigmented particles in bottled mineral water, Barbara E. Oßmann et. al. Adaptado.
+
+
+Com base no texto, qual é, aproximadamente, a quantidade de partículas de microplásticos ingerida por uma
+pessoa que bebe dois litros de água por dia, acondicionada em garrafas PET, durante 80 anos?
+
+
+a)    103
+b)    105
+c)    108
+d)    109
+e)    1011
+
+
+
+24. Entre os meses de maio e junho deste ano (2022), a Região Metropolitana do Recife foi atingida por chuvas
+de moderadas a fortes, segundo a Agência Pernambucana de Águas e Clima (APAC). Elas provocaram
+alagamento e deslizamento de terra em barreiras e encostas dos morros provocando uma tragédia anunciada. A
+maioria desses eventos ocorre nas encostas que têm inclinação angular média de 30o, onde existem rochas ou
+casas apoiadas em solos relativamente arenosos. Chuvas fortes ou moderadas, porém constantes, podem mudar
+o coeficiente de atrito de estático para cinético de certas encostas, provocando deslizamentos.
+Um estudante curioso e observador, com boa habilidade manual, fez um plano inclinado de madeira com ângulo
+ajustável simulando a inclinação de uma encosta e usou um pequeno bloco retangular, também de madeira,
+para “imitar” uma rocha, a partir das considerações do texto. Qual é o maior valor do coeficiente de atrito
+estático, entre o bloco e o plano inclinado, que deixará o bloco na iminência de movimento nas condições
+descritas nessa situação?
+
+a)    (3)1/2              b)(2)1/2               c)1/2                        d)(2)-1/2                         e) (3)-1/2
+
+
+
+                                                                                                                                    15
+SSA UPE – 1ª FASE                                                                                      2º DIA
+
+25. A figura a seguir ilustra uma partícula de massa m = 0,5 kg que está conectada a um fio ideal de comprimento
+0,5 m e preso ao ponto O. No ponto mais alto da trajetória, a partícula é impulsionada com velocidade linear de
+módulo v = 5,0 m/s. Qual é, então, a maior tensão experimentada pelo fio ideal em N?
+
+a)   10
+b)   20
+c)   30
+d)   40
+e) 50
+
+
+
+
+26. A localização geográfica de qualquer lugar na superfície da Terra,
+em qualquer momento, pode ser feita pelo Sistema de Posicionamento
+Global (GPS). Tal sistema é constituído por uma constelação de
+satélites, composto de 24 satélites, distribuídos em 6 planos orbitais
+circulares, não mostrados na figura ao lado. Cada plano orbital tem 4
+satélites. Cada satélite, munido por um relógio atômico e um
+transceptor que se comunicam com um receptor GPS na Terra por
+sinais de micro-onda. Cada satélite realiza duas revoluções orbitais em
+24h em torno da Terra a uma altitude h de 21300 km, acima do raio da
+superfície da Terra RT de 6400 km, de modo que, qualquer ponto na
+superfície da Terra esteja visível por pelo menos quatro satélites.
+Disponível em: http://www.ime.unicamp.br/~apmat/o-sistema-gps/. Acesso em 21/07/2022. Adaptada
+
+
+
+Baseado no texto, qual é a velocidade orbital aproximada em km/h de cada satélite da constelação do GPS?
+
+a) 340
+b) 1250
+c) 11000
+d) 13850
+e) 20215
+
+
+
+
+                                                                                                             16
+SSA UPE – 1ª FASE                                                                                                    2º DIA
+
+
+
+27. Um submarino ou um navio pode flutuar porque o peso da água que ele desloca é igual ao peso da
+embarcação. Esse deslocamento da água cria uma força ascendente chamada força de empuxo e age em
+oposição à gravidade, o que puxaria o navio para baixo. Ao contrário de um navio, um submarino pode controlar
+sua flutuabilidade, permitindo que ele afunde e emerja à vontade. Para manter o nível do submarino em
+qualquer profundidade definida, o submarino mantém um equilíbrio de ar e água nos tanques de compensação
+para que sua densidade total seja igual à água circundante (flutuabilidade neutra).
+ Disponível em: https://science.howstuffworks.com/transport/engines-equipment/submarine1.htm. Acesso em 05 de setembro de 2022.
+
+Considerando as informações do texto, assinale a alternativa que descreve CORRETAMENTE a operação de
+submarinos e navios em alto mar.
+
+a) Para submergir, um submarino permite a entrada de ar em seus tanques de compensação, produzindo
+    movimento de mergulho.
+b) Durante a flutuabilidade neutra, a densidade total do submarino é similar à do óleo diesel que ele carrega em
+    seus tanques de combustível.
+c) A fim de manter uma correta navegação, um navio deve ser projetado para ter uma densidade maior do que a
+    água que o cerca.
+d) Um submarino emerge se a relação entre ar e água nos tanques de compensação diminuir sua densidade total
+    em relação à das águas circundantes.
+e) Um navio é capaz de flutuar se ele for projetado para que a força gravitacional não atue sobre ele, controlando
+    sua flutuabilidade.
+
+
+28. Molas de compressão de aço martensítico apresentam dureza elevada e
+maior resistência à corrosão e são utilizadas em diversos setores da
+indústria. O gráfico ao lado ilustra o comportamento da força restauradora
+versus a deformação de uma dessas molas de compressão. Um experimento
+de conservação de energia foi realizado para verificar o funcionamento da
+mola. Nesse experimento, inicialmente um veículo de massa 4000 kg
+comprime a mola em 40 cm quando preso à parede por uma corda. Ao
+cortar-se a corda, qual é o módulo da velocidade adquirida pelo veículo, v,
+desprezando os atritos e considerando a mola ideal?
+
+a) 1,0 m/s
+b) 2,0 m/s
+c) 4,0 m/s
+d) 8,0 m/s
+e) 10,0 m/s
+
+
+
+
+                                                                                                                           17
+SSA UPE – 1ª FASE                                                                                      2º DIA
+
+
+
+
+29. Em um experimento de conservação de momento linear, uma partícula de massa m = 0,1 kg colide com um
+disco de raio R = 10 cm e massa M = 2,0 kg a uma velocidade de módulo v = 100,0 m/s. Após a colisão, o disco se
+move com velocidade de módulo w, conforme ilustra a figura a seguir.
+
+
+
+
+Sabendo que θ = 45°, qual é, então, aproximadamente a intensidade de w?
+
+a)   1,3 m/s
+b)   2,5 m/s
+c)   7,1 m/s
+d)   8,4 m/s
+e)   9,2 m/s
+
+
+
+
+30. “A vida que se desenvolveu na Terra reflete a natureza do nosso planeta”, relatam os biólogos Sônia Lopes e
+Sérgio Rosso (2013). Um conjunto de condições incrivelmente raras permitiu que a vida surgisse em nosso
+planeta a partir de moléculas orgânicas e reações químicas. Todos os organismos vivos que conhecemos são
+compostos de biopolímeros como proteínas, ácidos nucleicos, polissacarídeos e lipídeos.
+A teoria da origem da vida por evolução química foi elaborada de maneira independente na década de 1920 por
+Aleksander Ivanivich Oparin e John Burdon Sanderson Haldane. Entretanto, a hipótese da evolução só foi
+testada em 1953 por Stanley L. Miller e Harold C. Urey.
+Para se chegar à hipótese da formação de moléculas orgânicas, os cientistas criaram em laboratórios condições
+de uma atmosfera primitiva e dos processos nela desencadeados. Quais seriam as condições ideais, segundo
+esses cientistas?
+
+a) Amônia, metano, hidrogênio e vapor d’água aquecidos e resfriados, além de submetidos a descargas elétricas.
+b) Grande quantidade de vapor d’água diluindo moléculas orgânicas numa atmosfera aquecida e eletrificada.
+c) Vapor d’água, gás carbônico e óxido nitroso reagindo e precipitando-se sob forte pressão atmosférica.
+d) Diferentes moléculas orgânicas se combinando catalisadas por descargas elétricas e temperaturas baixas.
+e) Gases do efeito estufa e partículas submetidas à radiação infravermelha, sob forte pressão atmosférica.
+                                                                                                             18
+SSA UPE – 1ª FASE                                                                                                                          2º DIA
+
+31.Leia o texto a seguir.
+
+Desde a antiguidade, os seres humanos utilizam a fermentação como forma de conservar e obter
+prolongamento da qualidade dos alimentos; a personagem principal envolvida no processo: as bactérias láticas.
+Na indústria alimentícia, esse processo ganha visibilidade nos produtos derivados do leite e nos embutidos
+fermentados, apesar de também ter destaque nos alimentos com apelo probiótico. Para realizar esta
+fermentação, as bactérias láticas utilizam o substrato do meio em que serão inseridas. Nos produtos lácteos, é
+comum não haver a adição de outros açúcares. Então, a própria lactose presente no leite será consumida pelos
+microrganismos. As bactérias são homofermentativas, que produzem como único ou principal composto o ácido
+lático, e heterofermentativas, que conseguem, além do ácido lático, produzir outros compostos como o dióxido
+de carbônico (CO2), o etanol e o ácido acético.
+                                        Disponível em: Entenda sobre utilização de bactérias láticas na indústria de alimentos - Afrebras. (Adaptado).
+                                                                                                                      Acesso 1º de setembro de 2022.
+
+O texto trata da fermentação. Analise as alternativas que abordam esse processo e assinale a CORRETA.
+a)   É um processo de obtenção de energia realizado por organismos anaeróbicos pela degradação incompleta
+     de moléculas orgânicas do alimento, com ganho energético igual ao da respiração aeróbica. Esse tipo de
+     processo é utilizado apenas por fungos e bactérias.
+b)   Na fermentação realizada por levedos como fungos e bactérias, anaeróbicos facultativos, o ácido pirúvico
+     perde elétrons e H+ do NADH, transformando-se em ácido láctico e gás carbônico, pois vivem em
+     ambientes pobres em oxigênio.
+c)   Na parte final da fermentação, o ácido pirúvico é transformado em ácido lático, ou em etanol e gás
+     carbônico, o que consiste em uma reação de oxirredução, uma vez que o ácido pirúvico atua como aceptor
+     final de elétrons e dos H+ liberados na glicólise e captados pelo NAD+.
+d)   O iogurte é um fermentado derivado do leite, produzido pela fermentação desse líquido por bactérias do
+     ácido láctico, da espécie Lactobacillus. Esses microrganismos convertem os açúcares como a lactose e a
+     frutose presentes no leite em ácido láctico, estabilizando o pH, modificando seu sabor e textura.
+e)   O sabor azedo destes alimentos, ligeiramente ácido, é devido ao acúmulo de ácido láctico que faz o pH
+     aumentar; o pH alto provoca a coagulação das proteínas do leite e a formação de um coalho solidificado,
+     típico dos iogurtes e coalhadas.
+
+32. Observe os quadrinhos a seguir.
+
+
+
+
+        Disponível em: @piadasnerds. Acesso 10/09/2022
+                                                                                                                                                   19
+SSA UPE – 1ª FASE                                                                                                 2º DIA
+
+Algumas citações dos quadrinhos referem-se aos eventos que caracterizam os processos de divisão celular.
+Assinale a alternativa cuja citação está CORRETAMENTE relacionada às fases dos processos referenciados.
+
+a)   “Tenho trabalhado duplicado”: refere-se à duplicação do DNA, do centrossomo e dos centríolos na fase S da
+     interfase, cada cromossomo passa a ser formado por duas cromátides, unidas pelo centrômero, chamadas
+     de cromátides-irmãs, constituídas por uma única molécula de DNA.
+b)   “Tenho me sentido tão pesada, condensada até”: relaciona-se à condensação dos cromossomos ocorre na
+     prófase da mitose e na prófase da meiose I, quando estes se tornam longos e finos, e cada fibra
+     cromossômica enrola-se sobre si mesma por ação da condensina.
+c)   “Estão nos separando. Segure meu braço”: faz referência à separação dos cromossomos ocorre na anáfase
+     tanto da mitose quanto da meiose, quando microtúbulos cromossômicos unidos aos cinetócoros encurtam
+     e puxam os cromossomos para polos opostos.
+d)   “Adeus meu amor, levo comigo uma parte tua”: caracteriza o final do leptóteno e início do zigóteno, da
+     prófase I, na meiose II, há troca de partes entre os cromossomos homólogos, o que colabora para que haja
+     recombinações gênicas no processo de crossing over ou permutação gênica.
+e)   “Serás sempre meu homólogo”: está relacionado ao zigóteno, na prófase I, quando os cromossomos estão
+     emparelhados, cada um com o seu par correspondente, o homólogo, contendo a mesma sequência gênica,
+     em um fenômeno chamado de sinapse cromossômica.
+
+
+33. Observe as figuras a seguir. Elas tratam dos anexos embrionários em animais vertebrados.
+
+
+                                                                                                          I
+                  A                                         B
+
+
+
+
+                                                                                                         II
+
+
+
+
+                                                                                                         III
+
+
+
+
+                                                  Disponível em: http: bioug.blogspot.com. Acesso em 15 de setembro de 2022
+
+
+
+
+                                                                                                                        20
+SSA UPE – 1ª FASE                                                                                                                       2º DIA
+
+A partir das figuras, analise as proposições que tratam dos anexos embrionários.
+
+     I-   O número 1 na figura B corresponde à placenta, encontrada em mamíferos placentários como
+          o animal III.
+     II- O embrião na figura A pode ser do animal II, pois apresenta a vesícula vitelínica bem desenvolvida
+          apontada no número 2.
+     III- O número 3 nas figuras A e B corresponde ao alantoide, que, nos animais I e III, tem a função de
+          armazenar excreções embrionárias e promover trocas gasosas.
+     IV- O número 4 corresponde ao âmnio, que forma o saco amniótico, protege e hidrata o embrião. Os
+          animais I, II e III, portanto, são amnióticos.
+     V- O número 5 corresponde ao cório, membrana que envolve o embrião, é encontrada em animais como II
+          e III e localiza-se sob a casca.
+
+Estão CORRETAS apenas as assertivas
+
+a)        I e III.
+b)        I, II e IV.
+c)        II e V.
+d)        II e IV.
+e)        II, IV e V.
+
+
+34. As colunas I, II e III apresentam os modelos esquemáticos de tecidos e de suas imagens ao microscópio
+óptico. Analise as figuras correspondentes nelas presentes.
+
+            Desenho                       I                                    II                                        III
+          esquemático
+
+
+
+
+          Imagem por                      I                                    II                                        III
+          microscopia
+            óptica
+
+
+
+
+     Disponível em: http:// maestrovirtuale.com/ acesso em 16 de setembro de 2022. http://profasolangeribas.blogspot.com/ acesso em 16 de setembro
+     de 2022. O Incrível Pontinho Azul. www.youtube.com/Acesso em 29 de agosto de 2022.
+
+
+
+
+                                                                                                                                               21
+SSA UPE – 1ª FASE                                                                                                                2º DIA
+
+Assinale a alternativa CORRETA quanto às características das células e dos tecidos apontadas nas duas
+representações.
+
+a)    O tecido em I é muscular estriado esquelético, cujas células são denominadas miócitos, são alongadas e
+      cilíndricas. Contém no citoplasma vários núcleos e miofibrilas que percorrem toda a célula
+      longitudinalmente.
+b)    O tecido em II é epitelial simples, uma vez que é constituído por uma só camada de células e é encontrado
+      revestindo a traqueia e o esôfago. A origem embrionária do tecido I e II é o ectoderma, enquanto o tecido
+      III deriva do mesênquima.
+c)    As células do tecido II são prismáticas ou cúbicas. Têm como função o revestimento e a proteção, além da
+      absorção por meio das invaginações presentes na superfície livre das células, a exemplo da bexiga
+      urinária.
+d)    O tecido III é um tipo especializado de tecido conjuntivo, o tecido ósseo. Em sua matriz, rica em fibras
+      colágenas e fosfato de cálcio, encontram-se os osteócitos e osteoclastos, apontados na seta.
+e)    No tecido III, a seta aponta para os osteônios ou sistemas Haversianos, formados por camadas
+      concêntricas da matriz mineralizada depositadas ao redor do canal central e por células do tipo
+      osteoblastos. Sua origem embrionária é a mesma do tecido II.
+
+
+35. O Nordeste é a região com maior ocorrência de acidentes com escorpião. No primeiro semestre de 2022, o
+Centro de Informação e Assistência Toxicológica de Pernambuco (CIATox-PE) registrou mais de 300 casos no
+estado. No Brasil, entre as 100 espécies nativas, 3 são de interesse médico: escorpião-amarelo, escorpião-marron
+e escorpião-do-nordeste. A espécie de escorpião-amarelo que causa mais acidentes é a Tityus serrulatus, e sua
+distribuição e abundância tem se expandido em diversas cidades. É uma espécie sinantrópica, e o conhecimento
+de sua biologia é importante para o controle e a redução de acidentes. Nesse sentido, são ações de prevenção ao
+aparecimento de escorpiões
+
+a) usar inseticida nos locais infestados e lavar as roupas com água quente.
+b) fechar bem os sacos de lixo e pendurá-los em locais arejados.
+c) manter a casa e o quintal limpos e examinar roupas e calçados antes de se vestir.
+d) colocar iscas para insetos e manter os locais de ocorrência iluminados.
+e) trocar os lençóis e fronhas da cama diariamente e fechar os vasos sanitários.
+
+36. Leia o texto a seguir.
+
+Os cigarros eletrônicos caíram nas graças dos adolescentes e adultos
+jovens. Após décadas de campanhas elucidando os problemas de saúde
+que os cigarros convencionais podem causar e de ações de combate ao
+fumo, o número de fumantes diminuiu vertiginosamente entre as
+gerações mais novas. No entanto, nos últimos anos, vimos aumentar a
+taxa de usuários dos dispositivos eletrônicos para fumar (DEFs),
+conhecidos como cigarros eletrônicos, em especial entre os jovens. O
+relatório Covitel (Inquérito Telefônico de Fatores de Risco para
+Doenças Crônicas não Transmissíveis em Tempos de Pandemia),
+divulgado em abril deste ano, mostra que 1 a cada 5 jovens de 18 a 24
+anos fuma o dispositivo.
+                                  Disponível em: https://drauziovarella.uol.com.br/drogas-licitas-e-ilicitas/tabagismo. Acesso em 19/09/2022
+
+
+
+
+                                                                                                                                         22
+SSA UPE – 1ª FASE                                                                                     2º DIA
+
+
+Se os jovens buscassem informações sobre esse assunto, em sites com conteúdos baseados na ciência,
+tomariam a seguinte decisão:
+
+a) fumariam em menor frequência, pois não está comprovada a dependência química nos usuários.
+b) não fumariam, pois têm mais chance de terem um infarto do que aqueles que não fazem uso do produto.
+c) fumariam, pois não faz tão mal à saúde quanto o cigarro convencional, por não ter nicotina.
+d) não fumariam, pois há altas concentrações de tanino que podem levar a algumas doenças neurológicas.
+e) fumariam, pois é um tratamento para os que pretendem se livrar do cigarro convencional, pela presença do
+    sal de nicotina.
+
+37. Em 2022 o Brasil registra uma das maiores taxas de desmatamento da Amazônia em toda sua história.
+Segundo o Instituto do Homem e Meio Ambiente da Amazônia (Imazon), o desmatamento acumulado chegou a
+quase 8 mil km² em apenas oito meses, sendo o maior dos últimos 15 anos. Somente em agosto foram
+derrubados 1.415 km² de floresta, uma área quatro vezes maior do que a de Belo Horizonte. Outro problema foi
+a degradação florestal, causada pela extração de madeira e pelas queimadas, que cresceu 54 vezes na região em
+relação ao mesmo mês do ano passado. A área degradada passou de 18 km² em agosto de 2021 para 976 km²
+em agosto de 2022, uma alta de 5.322%.
+Paralelo a esse fato citado, há dois anos e meio, o mundo assistia ao início daquela que seria uma das maiores
+pandemias da sua história, a covid-19. Em poucas semanas, o novo coronavírus se espalhou pelo planeta,
+usando nossos corpos como meio de dispersão. Isso acendeu um alerta em toda sociedade, e multiplicaram-se
+os estudos da relação do aumento do risco de transmissão com a redução da biodiversidade em regiões
+desmatadas.
+
+Qual seria a hipótese mais provável, segundo os cientistas para justificar essa relação?
+
+a) O aumento de pragas favorece o surgimento de zoonoses transmissíveis tanto pela flora quanto pela fauna.
+b) O desequilíbrio da cadeia alimentar eleva a taxa de natalidade de espécies predadoras de topo, diminuindo
+    populações de níveis tróficos inferiores.
+c) A ausência de predadores em áreas desmatadas favorece o crescimento da população de espécies exóticas de
+    mamíferos, transmissoras de doenças aos humanos.
+d) O desequilíbrio das populações que favorece o aumento na densidade de algumas espécies, reservatórios
+    naturais de vírus, elevando o risco de contato e transmissão ao ser humano.
+e) Os vírus que circulam nas florestas sem causar danos às populações sofrem mutações pela ausência de
+    hospedeiros naturais e se proliferam ao ar livre, elevando o risco de transmissão ao ser humano.
+
+
+38. Um fazendeiro do semiárido nordestino encontrou duas vacas mortas em seu quintal e chamou um
+veterinário para fazer o laudo, que constatou ser o bebedouro abastecido por um curso d’água contaminada por
+cianotoxinas. Sugeriu, então, a higienização do reservatório com detergentes e desinfetantes de usos
+específicos, aplicados de maneira correta, com indicação técnica. Porém, recomendou ao agricultor que
+eliminasse a fonte de compostos nitrogenados e fosfatados que levam à eutrofização. Agindo adequadamente, o
+fazendeiro, então,
+
+a) cobriu o bebedouro com uma palhoça para evitar a entrada de água de chuva.
+b) plantou espécies de ervas medicinais ao longo do curso d’água.
+c) recolheu o esterco do terreno e cobriu a nascente para protegê-la da seca.
+d) colocou desinfetante em toda a extensão do curso d’água.
+e) manteve o curso de água isolado da presença de gado e outros animais de criação.
+
+                                                                                                           23
+SSA UPE – 1ª FASE                                                                                      2º DIA
+
+39. O carbonato de cálcio, num certo processo industrial, só poderá ser utilizado como matéria-prima se tiver
+pureza igual ou superior a oitenta por cento em massa. Uma amostra de 2,00 g de carbonato de cálcio foi
+analisada usando ácido clorídrico em excesso e recolhendo o gás carbônico produzido em condições normais de
+temperatura e pressão. A equação a seguir descreve o processo:
+
+                        CaCO3 + 2 HCl                    CaCl2 +       H2O + CO2
+
+Sabendo que foram recolhidos 336 mL de gás carbônico, assinale a alternativa que apresenta CORRETAMENTE a
+pureza do carbonato de cálcio analisado e a conclusão do analista quanto ao seu emprego no processo industrial
+mencionado.
+                   Dados: Massas molares (g/mol) – H = 1; C = 12; O = 16; Cl – 35,5; Ca = 40
+                                      Volume molar (CNTP) = 22,4 L/mol
+
+a) 50%, sendo negado seu emprego no processo industrial.
+b) 60%, inadequado como matéria-prima no processo descrito.
+c) 75%, reprovado no controle de qualidade para o processo mencionado.
+d) 85%, aprovado para ser utilizado no processo industrial citado.
+e) 95%, podendo ser utilizado na indústria mencionada.
+
+40. Uma das formas de fazer a datação de achados arqueológicos é a partir do decaimento radioativo do isótopo
+14 do carbono (C-14), que tem tempo de meia-vida de 5700 anos. Um fóssil de réptil foi encontrado num sítio
+arqueológico, com atividade radioativa de C-14 corresponde a 6,25% da atividade de quando a espécie viveu na
+região.
+
+Assinale a alternativa que apresenta a idade CORRETA do fóssil encontrado.
+
+a) 11400 anos
+b) 17100 anos
+c) 22800 anos
+d) 34200 anos
+e) 57000 anos
+
+
+41. O cabelo humano é constituído, em grande parte, por proteínas, que são macromoléculas constituídas por
+sequências de aminoácidos conectados por ligações peptídicas. As interações entre esses aminoácidos
+determinam, em última análise, a apresentação e funcionalidade da proteína. No caso do cabelo, os cachos
+podem ser definidos a partir de ligações dissulfeto entre os aminoácidos presentes na estrutura. Essas ligações
+podem ser quebradas e reconstituídas, visando dar forma ao cabelo, nos salões de beleza.
+Assinale a alternativa que apresenta CORRETAMENTE o aminoácido que, segundo o enunciado, é responsável
+pelo cacheado.
+
+        a)                    b)                   c)                        d)                 e)
+
+        O                      O                     O                        O                       O
+
+             OH       HO           OH     H2N            OH       HS              OH                       OH
+     NH2                     NH2                  NH2                     NH2                        NH2
+
+
+
+                                                                                                                24
+SSA UPE – 1ª FASE                                                                                     2º DIA
+
+
+
+42. A cocaína é uma droga ilícita que pode ser apresentada em diferentes formas, entre elas o cloridrato de
+cocaína, que é um sal, ou na forma conhecida como “crack”, que contém a base livre de cocaína e outros
+excipientes. Saber a forma de apresentação ajuda na investigação policial. Duas amostras que foram
+previamente identificadas como cocaína em pó foram encaminhadas para o laboratório, visando a outros
+ensaios analíticos. A amostra I foi insolúvel em água e solúvel em solventes apolares, apresentando um pequeno
+corpo de fundo, enquanto a amostra II foi solúvel em água, e a solução aquosa obtida foi ácida.
+Considerando as propriedades dos compostos, assinale a alternativa que identifica CORRETAMENTE as amostras
+analisadas.
+
+a) I é cloridrato de cocaína, pois é apolar, enquanto II é “crack”, pois é polar e tem caráter ácido.
+b) I é “crack”, enquanto II é cloridrato de cocaína, pois essas substâncias têm momentos dipolo diferentes.
+c) I e II são formas distintas de “crack” que apresentam solubilidade diferentes por causa da granulometria
+   dos pós.
+d) I é cloridrato de cocaína, enquanto II é “crack”, pois essas substâncias têm polaridades diferentes.
+e) I e II são formas distintas de cloridrato de cocaína que apresentam solubilidade diferentes devido à
+   granulometria dos pós.
+
+43. Observe a charge a seguir.
+
+
+
+
+                                  Fonte: Revista Galileu, ilustração de Bernardo França
+
+Com base no modelo atômico apresentado na imagem, quem é a personagem representada?
+
+a) Albert Einstein
+b) John Dalton
+c) Ernest Rutherford
+d) George Paget Thomson
+e) Niels Bohr
+
+
+
+
+                                                                                                            25
+SSA UPE – 1ª FASE                                                                                               2º DIA
+
+
+Texto para as questões 44 e 45.
+
+O ácido nítrico, também conhecido como água-forte, é um ácido forte, corrosivo e produzido industrialmente
+pelo processo de Ostwald. É uma substância bastante importante para a indústria, especialmente na fabricação
+de explosivos e na obtenção de fertilizantes. Ainda, é demasiadamente utilizado para obtenção de ésteres, a
+partir da reação de esterificação. Podemos representar o ácido nítrico pela estrutura a seguir, na qual as esferas
+vermelhas correspondem a átomos de oxigênio, a azul é um átomo de nitrogênio, e o átomo de hidrogênio é
+representado pela esfera branca.
+
+
+
+
+44. No processo de Ostwald, citado no texto, as equações que representam as etapas da síntese são
+   apresentadas, a seguir, de forma simplificada e não balanceadas.
+
+
+                                       NH3(g) + O2(g) → NO(g) + H2O(l)
+                                            NO(g) + O2(g) → NO2(g)
+                                      NO2(g) + H2O(g) → HNO3(g) + NO(g)
+
+
+Qual é a massa aproximada de amônia utilizada por uma indústria para a obtenção de 12000 kg do ácido nítrico,
+destinado à produção de explosivos?
+
+                              Dados: Massa molar (g/mol) – H = 1; N = 14 O = 16
+
+a) 3400 kg
+b) 4800 kg
+c) 7200 kg
+d) 8500 kg
+e) 9600 kg
+
+
+45. Considerando as ligações químicas presentes na estrutura do ácido nítrico, apresentada junto ao texto, é
+afirmar que ele é uma substância                                                                               CORRETO
+a) iônica polar, que apresenta duas ligações duplas na estrutura.
+b) iônica apolar, que apresenta uma ligação dupla na estrutura.
+c) covalente apolar, que apresenta apenas ligações simples na estrutura.
+d) covalente polar, que apresenta apenas ligações simples na estrutura.
+e) covalente polar, que apresenta ligações simples e dupla na estrutura.
+
+
+                                                                                                                    26
+SSA UPE – 1ª FASE              2º DIA
+
+                    RASCUNHO
+
+
+
+
+                                   27
+SSA UPE – 1ª FASE              2º DIA
+
+                    RASCUNHO
+
+
+
+
+                                   28
+SSA UPE – 1ª FASE              2º DIA
+
+                    RASCUNHO
+
+
+
+
+                                   29
+SSA UPE – 1ª FASE              2º DIA
+
+                    RASCUNHO
+
+
+
+
+                                   30
+SSA UPE – 1ª FASE              2º DIA
+
+                    RASCUNHO
+
+
+
+
+                                   31
+SSA UPE – 1ª FASE                                                                            2º DIA
+
+
+
+
+                                   ATENÇÃO!
+
+
+1.   Abra este Caderno quando o Aplicador de Provas autorizar o início da Prova.
+2.   Observe se o Caderno de Prova está completo. Ele deverá conter 45 (quarenta e cinco)
+     questões de múltipla escolha distribuídas entre as áreas de conhecimento de Matemática e suas
+     Tecnologias e de Ciências da Natureza e suas Tecnologias.
+3.   Se o Caderno de Prova estiver incompleto ou com algum defeito gráfico que lhe cause dúvidas,
+     informe imediatamente ao Aplicador de Provas.
+4.   Uma vez dada a ordem de início da Prova, preencha, nos espaços apropriados, o Nome do
+     prédio e o Número da sala, o seu Nome completo, o Número do Documento de Identidade, o
+     Órgão Expedidor, a Unidade da Federação e o seu Número de Inscrição.
+5.   Para registrar as alternativas escolhidas nas questões da Prova, você receberá um Cartão-
+     Resposta de Leitura Ótica. Verifique se o Número de Inscrição impresso no Cartão coincide com
+     o seu Número de Inscrição.
+6.   As bolhas constantes do Cartão-Resposta referentes às questões de múltipla escolha devem ser
+     preenchidas totalmente com caneta esferográfica azul ou preta.
+7.   Você dispõe de 4 horas para responder à Prova, incluído o tempo destinado ao preenchimento do
+     Cartão-Resposta.
+8.   É permitido, após 3 horas do início da Prova, você retirar-se do prédio conduzindo o seu Caderno
+     de    Prova,    devendo,     no     entanto,    entregar     ao    Aplicador    de    Provas   o
+     Cartão-Resposta preenchido.
+9.   Caso você não opte por levar o Caderno de Prova consigo, entregue-o ao Aplicador de Provas,
+     não podendo, sob nenhuma alegação, deixar o Caderno em outro lugar do recinto de aplicação
+     das provas.
+10. Não será permitido, durante a realização das provas,
+      comunicar-se com outros candidatos sob hipótese alguma;
+      levantar-se da cadeira sem a devida autorização do Aplicador de Provas; e/ou
+      consultar anotações ou livros bem como acessar, no recinto, qualquer espécie de aparelho de
+       comunicação, aparelhos celulares (mesmo desligados), equipamentos auxiliares de
+       memória ou outros de qualquer natureza.
+
+
+
+
+                                           BOA PROVA!
+
+                                                                                                  32
+

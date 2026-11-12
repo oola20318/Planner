@@ -1,0 +1,471 @@
+                            MATEMÁTICA E SUAS TECNOLOGIAS
+1. NÚMEROS E ÁLGEBRA
+1.1. Números reais: conceitos, subconjuntos, significados, representações e operações, reta
+real. Sistema cartesiano ortogonal. Razão e proporção: taxas, índices, proporcionalidade
+direta e inversa..
+1.2. Expressões algébricas e equações: valor numérico, equações e sistemas de equações do
+1º e do 2º grau e
+respectivas representações geométricas.
+1.3. Funções: conceito (relação entre grandezas), representações (algébrica, gráfica, tabular,
+verbal e etc.), lei de
+formação que determina o comportamento das variáveis, domínio, imagem, crescimento e
+decrescimento,
+taxa de variação, função inversa e função definida por uma ou mais sentenças.
+1.4. Função polinomial do 1º grau: função afim, raízes ou zeros, proporcionalidade e
+representações
+gráficas,relações entre coeficientes e representações gráficas.
+1.5. Função Polinomial do 2º grau: função quadrática, raízes ou zeros, representações
+gráficas, pontos de máximo
+e de mínimo, relações entre coeficientes e representações gráficas.
+1.6. Função Exponencial: conceito, domínio e imagem, representações algébrica e gráfica,
+equações exponenciais.
+1.7. Progressão Aritmética (PA): conceito, representações, fórmulas do termo geral e da
+soma de n termos.Relações entre a progressão aritmética e a função afim.
+1.8. Progressão Geométrica (PG):conceito, representações, fórmulas do termo geral e da
+soma e produto de n termos. Soma dos termos de uma PG decrescente e infinita. Relações
+entre a progressão geométrica e a função exponencial.
+
+2. GEOMETRIA E MEDIDAS
+2.1. Grandezas e medidas: conversão de unidades de medidas inseridas ou não no Sistema
+Internacional (SI): comprimento, massa, capacidade, volume, peso, som, temperatura,
+pressão e outras (velocidade, aceleração, força, etc.) e suas respectivas unidades. Grandezas
+determinadas pela razão ou pelo produto de outras. Notação científica para representar
+grandezas diversas,ordem de grandeza e algarismos significativos e duvidosos.
+2.2. Área e perímetro: cálculos das medidas de áreas e perímetros de figuras planas
+limitadas por segmentos de reta e/ou arcos de circunferência.
+2.3. Volume: cálculo da medida do volume de paralelepípedo retangular reto.
+
+3. PROBABILIDADE E ESTATÍSTICA
+3.1. Análise estatística: Gráficos, Infográficos e Tabelas.
+3.2. Medidas de tendência central: média, moda e mediana.
+3.3. Medidas de dispersão: amplitude, variância e desvio padrão.
+
+
+
+
+                                                                                            1
+                       CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS
+
+1. Metodologia Científica: importância, etapas e resolução de situações problema.
+
+2. Bioquímica
+    ●​ Composição molecular e função da Água e dos Sais Minerais.
+    ●​ Composição molecular, classificação e função de: Carboidratos, Lipídios, Proteínas e
+       Ácidos Nucleicos.
+    ●​ Vitaminas: fontes naturais e avitaminoses.
+
+3. Origem da Vida
+    ●​ Hipóteses e teorias.
+    ●​ Surgimento dos primeiros seres vivos.
+    ●​ Evolução e diversificação biológica.
+    ●​ Características e níveis de organização dos seres vivos.
+
+4. Citologia
+    ●​ Estruturas e funções celulares em procariotos e eucariotos: Organelas e suas
+        interações; Membranas e envoltórios externos à membrana plasmática
+        (permeabilidade celular, endocitose e exocitose).
+    ●​ Metabolismo energético: Fotossíntese, Respiração, Quimiossíntese e Fermentação.
+    ●​ Processos de divisão celular: Binária, Mitose, Meiose.
+    ●​ Metabolismo de controle gênico celular: Replicação, Transcrição, Código Genético e
+        Tradução.
+
+5. Reprodução e Embriologia Animal
+    ●​ Reprodução Assexuada e Sexuada.
+    ●​ Fecundação.
+    ●​ Segmentação, blastulação, gastrulação e organogênese.
+
+6. Histologia
+    ●​ Tecidos animais – tecidos epiteliais, tecidos conjuntivos propriamente ditos e de
+        sustentação e transporte, tecidos musculares e tecido nervoso.
+
+7. Aspectos Sociais da Biologia:
+    ●​ Transtornos alimentares (anorexia, bulimia, entre outros).
+    ●​ Transtornos psicológicos (ansiedade, depressão, síndrome do pânico, entre outros).
+    ●​ Uso de drogas lícitas e ilícitas (álcool, cigarros, remédios, esteroides, entre outros).
+    ●​ Infecções sexualmente transmissíveis (HIV, sífilis,outras ISTs).
+    ●​ Puberdade e sexualidade na adolescência.
+    ●​ Diversidade sexual (orientação sexual e identidade de gênero).
+    ●​ Primeiros socorros: importância e ação em acidentes (manutenção de sinais vitais,
+       desobstrução de vias aéreas, mal súbito, choque elétrico, picadas de animais,
+       envenenamento, entre outras).
+
+
+
+                                                                                             2
+8. Ecologia e Meio Ambiente
+    ●​ Interação entre populações de uma comunidade (intraespecífica e interespecífica).
+    ●​ Estrutura dos ecossistemas, fluxo de energia e ciclo da matéria. Ciclos
+        biogeoquímicos. Cadeia e teia alimentar. Níveis tróficos.
+    ●​ Ações antrópicas sobre o ambiente natural. Poluição ambiental e seu impacto sobre
+        a biota. Tipos de poluição. Eutrofização, bioacumulação e biomagnificação.
+        Mudanças climáticas e o impacto sobre os ecossistemas e as cidades. Espécies
+        exóticas e invasoras.
+    ●​ Desenvolvimento Sustentável. Uso racional dos recursos naturais. Manejo de
+        ecossistemas, fauna e flora.
+    ●​ Conservação da biodiversidade. Ambientalismo. Energia limpa. Água potável e
+        saneamento.
+
+9. Propriedades da Matéria
+    ●​ Estados físicos e mudanças de estado,conceito de energia, corpo, objeto.
+    ●​ Transformações químicas e físicas.
+    ●​ Átomos e elementos químicos(isótopos). Modelos atômicos de Dalton, Thomson,
+       Rutherford E Bohr.
+    ●​ Classificação periódica dos elementos.
+    ●​ Substâncias simples e compostas.
+    ●​ Substância pura e misturas. Alotropia.
+    ●​ Ligações químicas (Iônica, covalente e metálica).
+    ●​ Fórmulas químicas. Fórmula estrutural (representação estrutural de compostos
+       orgânicos).
+    ●​ Misturas e separação de misturas.
+    ●​ Funções químicas (ácidos, bases, sais e óxidos). Conceito de ácidos e bases
+       (Brönsted- Lowry e de Lewis).
+    ●​ Propriedades dos materiais, sua disponibilidade, usos, degradação,
+       reaproveitamento e reciclagem, na perspectiva da sustentabilidade. Lixo e Meio
+       Ambiente (Tratamento de resíduos sólidos, líquidos e gasosos; tratamento d’água e
+       de resíduos hospitalares).
+    ●​ Ciclos biogeoquímicos (carbono, nitrogênio, oxigênio, enxofre, fósforo, cálcio e
+       hidrogênio).
+    ●​ Radioatividade – isótopos radioativos, tempo de meia-vida, datação por carbono-14.
+
+10. Transformações Químicas
+    ●​ Reações e equações químicas. Balanceamento de equações. Quantidade de
+       matéria(mol) e cálculo estequiométrico.
+    ●​ Pureza e rendimento. Cálculo estequiométrico envolvendo gases (CNTP e Volume
+       molar).
+    ●​ Polímeros naturais e sintéticos – propriedades, usos e impacto ambiental.
+       Reciclagem de polímeros.
+    ●​ Química e a Vida – carboidratos, aminoácidos e proteínas (estrutura primária,
+       secundária e terciária), lipídeos; açúcares, sais minerais e vitaminas; Importância da
+       água para a vida. Fármacos.
+    ●​ Contraceptivos e planejamento familiar;
+                                                                                           3
+   ●​ Hormônios e anabolizantes; drogas lícitas e ilícitas; mediadores químicos – endorfina,
+      dopamina, serotonina e ocitocina;
+   ●​ Biossíntese e Fotossíntese
+
+11. Conhecimentos Básicos Fundamentais da Física:
+    ●​ Ordem de grandeza e notação científica;
+    ●​ Sistema Internacional de Unidades;
+    ●​ Escalas e gráficos;
+    ●​ Grandezas escalares e vetoriais;
+    ●​ Operações básicas com vetores.
+
+12. Cinemática:
+    ●​ Movimento e repouso: posição, tempo e velocidades, movimento uniforme e
+       movimento uniformemente variado;
+    ●​ Lançamento Vertical;
+    ●​ Movimento no plano: movimento relativo, movimento parabólico (lançamento
+       horizontal e oblíquo),movimento circular, movimento circular uniforme, velocidade
+       tangencial e angular, aceleração centrípeta, movimento circular uniformemente
+       acelerado, aceleração tangencial e aceleração resultante.
+
+13. Dinâmica:
+    ●​ As leis de Newton;
+    ●​ Noção de sistemas de referência inerciais e não inerciais;
+    ●​ Força de atrito, força peso, força normal de contato, tração e força centrípeta.
+
+14. Gravitação Universal:
+    ●​ Leis de Kepler;
+    ●​ Lei da atração dos corpos, satélites naturais e artificiais;
+    ●​ Teoria geral da relatividade de Einstein (aplicada à aceleração da gravidade).
+
+15. Hidrostática:
+    ●​ Pressão hidrostática e manômetros;
+    ●​ Teorema de Stevin;
+    ●​ Experimento de Torricelli e Pressão Atmosférica;
+    ●​ Vasos Comunicantes, Teorema de Pascal, Prensa Hidráulica;
+    ●​ Teorema de Arquimedes, flutuação e estabilidade.
+
+16. Matéria e Energia:
+    ●​ Trabalho de uma força e conceito de energia;
+    ●​ Potência;
+    ●​ Energia cinética;
+    ●​ Energia potencial elástica e gravitacional;
+    ●​ Forças conservativas e dissipativas;
+    ●​ Conservação da energia mecânica;
+    ●​ Dissipação de energia;
+    ●​ Centro de massa;
+                                                                                          4
+   ●​ Quantidade de movimento; Conservação da quantidade de movimento;
+   ●​ Teorema do Impulso;
+   ●​ Choques mecânicos.
+
+                          CIÊNCIAS HUMANAS E SOCIAIS APLICADAS
+1. Introdução aos estudos históricos/Surgimento da humanidade
+    ●​ O Ser Humano como produtor de História e usos do passado.
+    ●​ As diversas fontes históricas: escritas, imagéticas, audiovisuais, orais, artísticas.
+    ●​ Tempos e calendários válidos nos diversos contextos históricos.
+    ●​ Pré-História: evolução biológica e cultural do ser humano.
+    ●​ O povoamento das Américas: teorias e percursos.
+    ●​ Povos indígenas do atual território brasileiro.
+    ●​ A Revolução Neolítica: agricultura, cidades, estado, religiões.
+    ●​ O Egito: civilização mediterrânica e africana.
+    ●​ O antigo Oriente Médio.
+
+2. Civilização Grega e Civilização Romana
+    ●​ O Mediterrâneo e os contatos entre África, Europa e Ásia.
+    ●​ Arte, política e pensamento na Civilização Clássica.
+    ●​ Sociedades e religiosidades no Mundo Clássico.
+    ●​ Gregos e romanos na África.
+
+3. Europa entre os séculos IV aos XV.
+    ●​ O fim do Mundo Clássico e a Tardo-Antiguidade.
+    ●​ Arte, política e pensamento na Europa Medieval.
+    ●​ Sociedades e religiosidades na Idade Média. Cidades e comércio, na Europa e na
+       Afro-Ásia.
+
+4. Império Muçulmano
+    ●​ Origens do mundo slâmico: fatores culturais, sociais e teológicos.
+    ●​ Sociedades islâmicas na Idade Média.
+    ●​ Os viajantes na Idade Média: uma era de descobrimentos mútuos.
+    ●​ Relações islâmicas com culturas não-islâmicas.
+
+5. Introdução aos estudos geográficos
+    ●​ A Geografia e o estudo da formação das paisagens naturais e culturais.
+    ●​ Os princípios clássicos da Geografia e sua aplicação aos estudos da Natureza e da
+        Sociedade.
+    ●​ Os aspectos gerais do objeto de estudo da Geografia. A pesquisa geográfica e sua
+        aplicação ao conhecimento da natureza e da sociedade.
+    ●​ Dinâmicas socioespaciais e espaço geográfico.
+    ●​ As principais correntes do pensamento geográfico.
+    ●​ A sustentabilidade ambiental em suas diferentes relações como agentes produtores
+        do espaço.
+    ●​ Os Serviços Ecossistêmicos ou ambientais com o suporte à compreensão dos
+        processos de produção e consumo estabelecidos na relação da sociedade e natureza.
+                                                                                               5
+6. Aspectos gerais dos conceitos fundamentais da análise geográfica
+    ●​ Espaço Geográfico
+    ●​ Território
+    ●​ Região
+    ●​ Paisagem
+    ●​ Lugar
+    ●​ Relações Natureza e Sociedade
+    ●​ Geossistema
+    ●​ Escala geográfica Impacto ambiental
+    ●​ Riscos e desastres naturais e sociais
+    ●​ Patrimônio Material e Imaterial do planeta
+    ●​ Biodiversidade
+    ●​ Políticas e instrumentos de gestão ambiental
+    ●​ Desenvolvimento sustentável
+
+7. Linguagens cartográficas aplicadas aos estudos geográficos
+    ●​ As coordenadas geográficas
+    ●​ Os componentes e tipos de mapas e cartas na análise geográfica. As escalas
+        cartográficas, as projeções cartográficas e a legenda de mapas e cartas.
+    ●​ O sensoriamento remoto aplicado aos estudos geográficos. Imagens de satélite e
+        imagens de radar. A representação tridimensional das paisagens naturais.
+    ●​ Instrumentos, modelos e ferramentas tecnológicas livres e de acessos restritos para a
+        representação de territórios e paisagens.
+
+8. Relações Terra-Sol
+    ●​ Movimentos principais da Terra, aspectos gerais e suas consequências geográficas.
+    ●​ A energia solar, seus efeitos e consequências sobre a superfície terrestre.
+    ●​ A energia solar como fonte alternativa para a sustentabilidade ambiental.
+
+9. Temas principais estudados pela Geografia da Natureza
+    ●​ A estrutura interna do planeta. As principais características das geosferas. A
+       dinâmica das placas litosféricas e suas consequências.
+    ●​ A compartimentação do relevo terrestre. Morfoesculturas e morfoestruturas
+       principais. O relevo submarino.
+    ●​ As influências do relevo terrestre no processo de ocupação do espaço geográfico.Os
+       aspectos gerais dos domínios da natureza.
+    ●​ A formação e a caracterização das rochas e solos. O uso econômico desses
+       componentes das paisagens. A conservação dos solos.
+    ●​ As condições climáticas ambientais. Tempo e clima. A tipologia dos climas e suas
+       características. As mudanças e oscilações climáticas globais e locais. Os climas
+       urbanos.
+    ●​ A poluição atmosférica.
+    ●​ Os recursos hídricos. Os elementos principais de uma bacia hidrográfica. A utilização
+       de rios, lagos e lagunas. A dinâmica dos oceanos e mares. As influências dos oceanos
+
+                                                                                           6
+      sobre a atmosfera terrestre. As águas subterrâneas. A preservação e a conservação
+      dos recursos hídricos.
+   ●​ A Biosfera. Os biomas e as formações vegetais. Os fatores responsáveis pela
+      distribuição da vegetação na superfície terrestre. A preservação e a conservação das
+      formações vegetais.
+   ●​ As relações entre condições climáticas e formações vegetais.
+   ●​ Os principais impactos naturais, socioeconômicos e culturais sobre os biomas e as
+      formações vegetais.
+   ●​ Instrumentos para gestão, controle e fiscalização dos biomas.
+
+10. Introdução à Filosofia, conceitos básicos, origens da filosofia e campos de atuação da
+filosofia.
+    ●​ Filosofia: origem e contexto histórico, conceitos/características/problemas
+        filosóficos.
+    ●​ Filosofia, Mito, Ciência e Senso Comum.
+    ●​ Os Pré-Socráticos e a Filosofia da natureza. Filosofia Grega:Sócrates,Platão e
+        Aristóteles.
+    ●​ Ética, Valores e Sociedade.Trabalho, Cultura e Natureza.
+    ●​ Cidadania, Democracia e Liberdade.
+    ●​ Ética, Democracia e Cidadania.
+
+11. Filosofias Modernas e Contemporâneas.
+    ●​ O Renascimento: Filosofia, paradigmas e rupturas.
+    ●​ O Empirismo(Locke) e o Racionalismo(Descartes): Pensamento e Rupturas.
+    ●​ Positivismo: ideias, paradigmas e rupturas.
+    ●​ Iluminismo: ideias, paradigmas e rupturas.
+    ●​ Marxismo: ideias, paradigmas e rupturas.
+    ●​ Escola de Frankfurt/Teoria Crítica: origem, conceitos e problemas.
+    ●​ Cultura: Indústria Cultural e Cultura de Massa.
+    ●​ Ética do Discurso e Razão Comunicativa X Cientificismo e Razão Instrumental.
+    ●​
+12. Filosofia e questões contemporâneas.
+    ●​ Mídias, Sociedade e Cidadania.
+    ●​ Dilemas Ético-políticos na Contemporaneidade.
+    ●​ Mídias Digitais e Produção de Verdades (Fake News).
+    ●​ Trabalho, Ideologia e Alienação.
+    ●​ Neoliberalismo, Globalização e Cidadania.
+    ●​ Ciência, Tecnologia/Informação e Mundo do Trabalho.
+    ●​ Dilemas Ético-políticos na Contemporaneidade.
+    ●​ Identidade, autonomia e ancestralidade/encantamentos.
+
+
+
+
+                           LINGUAGENS E SUAS TECNOLOGIAS
+
+                                                                                        7
+1. Leitura e análise linguística/semiótica de textos do campo jornalístico-midiático
+1.1 Especificidades do campo de atuação e dos gêneros que nele circulam: condições de
+produção, circulação e recepção de discursos e atos de linguagem; recursos linguísticos,
+estilísticos, semióticos, multissemióticos e efeitos de sentido.
+1.2 Leitura crítica de mídias: autor, formato, público, conteúdo e propósito de cada texto;
+marcadores, estratégias e recursos discursivos pertinentes aos gêneros digitais.
+1.3 Procedimentos de checagem de fatos noticiados e fotos publicadas.
+1.4 Visões de mundo e ideologias veiculadas por textos e atos de linguagem.
+1.5 Fenômenos de efeito bolha e de manipulação de terceiros na internet.
+1.6 Processos humanos e automáticos de curadoria em redes sociais e outros domínios da
+internet: comparação de feeds de diferentes páginas de redes sociais.
+
+2. Leitura e análise linguística/semiótica de textos do campo da vida pessoal
+2.1 Funcionamento de práticas das culturas juvenis (como oficinas, clubes, batalhas de
+poesia - Slams, intervenções urbanas e outras) e a defesa dos Direitos Humanos.
+2.2 Manifestações de linguagem para compartilhar gostos e interesses, denunciar, expor
+uma problemática ou promover a reflexão-ação.
+2.3 Manifestações de linguagem para fins de compartilhamento de preferências,
+identificação de afinidades, fomento à participação de comunidades responsáveis pela
+produção de informações e conhecimentos.
+
+3. Leitura e análise linguística/semiótica de textos do campo de atuação na vida pública
+3.1 Formas não institucionalizadas de participação social e formas de expressão típica das
+culturas juvenis que pretendam expor uma problemática ou promover uma reflexão/ação.
+3.2 Textos de documentos legais e normativos de âmbito universal, nacional, local ou
+escolar: definição de direitos e deveres; contextos de produção; possíveis motivações e
+finalidades.
+
+4. Leitura e análise linguística/semiótica de textos do campo das práticas de estudo e
+pesquisa
+4.1 Especificidades dos gêneros que divulgam o saber científico: contexto de produção,
+circulação, divulgação e recepção; organização tópica; hierarquização das informações;
+aspectos multissemióticos; diferentes mídias e suportes; fontes (não) confiáveis; enfoques
+tendenciosos ou superficiais; marcas linguísticas e enunciativas; organização composicional.
+4.2 Marcas do discurso reportado e de citações.
+4.3 Procedimentos de pesquisa: tipos e processos de pesquisa; coleta e análise de dados;
+leitura de gráficos; tratamento e análise de conteúdo; referências e índices de
+confiabilidade, coincidências, complementaridades, contradições, erros ou imprecisões
+conceituais e de dados.
+5. Leitura e análise linguística/semiótica de textos do campo artístico-literário
+5.1 Especificidades dos gêneros literários (contos, crônicas, fábulas, poemas): funções da
+linguagem; figuras de linguagem, aspectos estilísticos e estéticos; contexto de produção e
+circulação; intertextualidade e interdiscursividade; marcas de pluralidade cultural.
+5.2 Aspectos linguísticos, semânticos e multissemióticos na construção de discursos
+combativos.
+
+                                                                                          8
+5.3 O texto literário e a relação com outras linguagens (teatro, dança, cinema,
+curta-metragem): especificidades, estrutura, contextos de produção e recepção;
+estereótipos presentes na sociedade; respeito à diversidade cultural, étnica, linguística, de
+gênero e condição física.
+5.4 Expressões da literatura popular e regional e sua interligação com literatura brasileira,
+indígena, africana e portuguesa: condições de produção, circulação e recepção; relação
+entre textos, atos de linguagem e discursos.
+5.5 Literatura de autoria pernambucana: contrapontos entre autores consagrados e não
+consagrados da literatura canônica a popular, em diferentes épocas (especificidades
+linguísticas, semânticas e multissemióticas).
+5.6 Literatura de autoria pernambucana contemporânea: contextos de produção, circulação
+e recepção; características estéticas, estilísticas e efeitos de sentido.
+5.7 Macrossistema literário em língua portuguesa: apreciação da literatura africana em
+língua portuguesa e da literatura brasileira (diálogos cultural e temático presentes nos
+textos).
+5.8 Assimilações, rupturas e permanências, discursos de invisibilização, recursos estilísticos,
+éticos e estéticos presentes em múltiplos textos nos quais se percebem as estéticas barroca
+e árcade, em diferentes autores, gêneros, obras, épocas, lugares.
+
+
+    A partir deste ano, não será mais indicada uma lista de autores para cada escola literária.
+ Em conformidade com a BNCC e o Currículo vigente em Pernambuco, o foco da
+ abordagem são os temas, os diálogos e as marcas de estilo de determinadas estéticas
+ literárias em múltiplos textos, de diversos formatos, tempos e autorias, conforme indicado
+ nos itens do bloco 5. Para o 1º Ano do Ensino Médio, as estéticas em destaque são a
+ barroca e a árcade, além das africanas e da pernambucana. Para maior aprofundamento
+ em autores e obras, o foco será a lista de títulos indicada.
+6. Leitura e análise linguística/semiótica de textos de qualquer um dos campos de atuação,
+ou mesmo que transitem em mais de um campo.
+6.1 Estudo de elementos lexicais: aspectos semânticos de palavras (campo semântico) e
+efeitos de sentido; ordenação, combinação e contraposição de palavras; relação do verbal
+com outras semioses; marcas de humor e ironia (criticidade e intencionalidade).
+6.2 Especificidades do texto argumentativo: tese; tipos de argumentos; composição dos
+parágrafos; estratégias de convencimento.
+6.3 Relações de multimodalidade: efeitos de sentido decorrentes de escolhas e composição
+das imagens e de sua sequenciação; relação com o verbal; semioses em textos da cultura
+digital e das culturas juvenis.
+6.4 Aspectos linguísticos relativos ao português brasileiro: dimensões regional, histórica,
+social, situacional, ocupacional, etária etc. na descrição dos diferentes níveis da língua
+(fonético-fonológico, lexical, sintático, semântico e estilístico-pragmático); preconceito
+linguístico.
+6.5 Comparações entre o tratamento dado pela gramática normativa e os usos sociais da
+língua na descrição do PB: regras gerais e específicas de concordância verbal e nominal,
+regência verbal e regência nominal.
+
+7. Leitura e Compreensão de Textos em Língua Inglesa
+                                                                                                  9
+Compreender e analisar processos de produção e circulação de discursos para fazer escolhas
+fundamentadas ao ler textos em Língua Inglesa; Estabelecer relações entre as partes do
+texto, considerando a construção composicional e o estilo do gênero, reconhecendo
+adequadamente elementos e recursos coesivos que contribuam para sua melhor
+compreensão, tendo em vista as relações lógico-discursivas envolvidas(causa/efeito ou
+consequência; problema/solução; definição/exemplos etc.); Analisar, em textos de
+diferentes gêneros, marcas que expressam a posição do enunciador, a saber: o uso de
+diferentes modalidades e de diferentes recursos gramaticais que operam como
+modalizadores (verbos modais, tempos e modos verbais, expressões modais, adjetivos,
+advérbios, pronomes, tendo em vista a compreensão dos diferentes textos em Língua
+Inglesa, considerando os contextos de produção). Selecionar informações, dados e
+argumentos nos textos em Língua Inglesa; Inferir o sentido de palavras e expressões,
+considerando texto e contexto, assim como sua estrutura morfológica; Identificar as ideias
+principais e ideias secundárias nos textos em Língua Inglesa.
+
+8. Conhecimento gramatical: reflexão e análise linguística nos textos em Língua Inglesa
+Identificar elementos estruturais de textos – recursos lexicais, morfossintáticos, recursos que
+marcam variedades linguísticas, entre outros, tendo em vista os diferentes suportes textuais.
+    ●​ Cognates/False cognates;
+    ●​ Plural of Nouns;
+    ●​ Personal Pronouns (subject and object);
+    ●​ Verb be–Present, Past And Future;
+    ●​ Affirmative, negative, and interrogative forms;
+    ●​ Interrogative Pronouns (what,who,where,when,why...);
+    ●​ Present Simple;
+    ●​ Adverbs of frequency;
+    ●​ Present Continuous;
+    ●​ Possessive Adjectives;
+    ●​ Possessive Pronouns;
+    ●​ Possessive Case(’s);
+    ●​ There+be(there is /there are), There was/ there were);
+    ●​ Past Simple (regular verbs/irregular verbs);
+    ●​ Past Continuous;
+    ●​ Future with going to;
+    ●​ Future with will;
+    ●​ Modal verbs (Can, could, may, might, shall, should, ought to,will, would...);
+    ●​ Usos e funções de conectores (but, however, although, yet, if...); Prepositions (in, on,
+        under, at, behind, beside...);
+    ●​ Indefinite pronouns(some,any,no);
+    ●​ Quantifiers: much, many, some, any, (a)little, (a)few, less, most etc. Present Perfect
+        tense;
+    ●​ Phrasal verbs;
+    ●​ Comparisons
+
+
+
+
+                                                                                            10
+

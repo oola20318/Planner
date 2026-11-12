@@ -1,0 +1,1219 @@
+                         CADERNO DE PROVAS
+
+
+
+
+         DADOS DE IDENTIFICAÇÃO DO(A) CANDIDATO(A)
+          Não deixe de preencher as informações a seguir.
+Nome
+
+                                          Nº de Inscrição
+
+
+Prédio                                               Sala
+
+
+Nº do Documento de Identificação         Órgão Expedidor    UF
+SSA UPE – 1ª FASE   2º DIA
+
+
+
+
+                             2
+SSA UPE – 1ª FASE                                                                              2º DIA
+
+  MATEMÁTICA E SUAS TECNOLOGIAS
+  Questões de 01 a 22
+
+1. Uma empresa de comércio eletrônico registrou o número de vendas on-line e o número de acessos
+ao seu website durante os três primeiros meses do ano. Os dados estão apresentados no quadro a
+seguir.
+
+
+
+
+A empresa utiliza um indicador de eficiência de vendas, que é a razão entre o número de vendas e o
+número de acessos ao website em um determinado mês.
+Com base nos dados apresentados, qual das seguintes afirmações está CORRETA?
+
+a) O indicador de eficiência de vendas foi constante durante os três meses.
+b) A maior taxa de vendas por acesso ocorreu no mês de janeiro.
+c) De fevereiro para março, o número de vendas aumentou em uma proporção maior que o número de
+   acessos.
+d) Se a tendência de proporcionalidade direta entre acessos e vendas se mantivesse de março para
+   abril, com 250 mil acessos em abril, o número de vendas seria de 8.000 unidades.
+e) A taxa de vendas por acesso em fevereiro foi de 20 vendas por mil acessos.
+
+
+2. Com o aumento do uso de aplicativos de navegação, muitas pessoas passaram a confiar totalmente
+nos cálculos de distância fornecidos por esses sistemas. Em uma caminhada ecológica, uma equipe de
+estudantes utilizou um aplicativo que mostrava as trilhas por meio de coordenadas em um sistema
+unidimensional, ou seja, uma reta real, onde cada ponto representa uma posição medida em
+quilômetros a partir do ponto de partida.
+Durante o percurso, três pontos de parada foram definidos nas coordenadas -2,               e 3 km. Para
+analisar o deslocamento entre os pontos, um estudante decidiu ordenar os pontos na reta real e calcular
+a distância total percorrida se o trajeto fosse feito do menor para o maior valor de coordenada.
+
+Considerando que        ≈ 1,41, qual a distância total percorrida, aproximadamente, em quilômetros,
+seguindo esse critério?
+
+a) 4,82
+b) 5,00
+c) 5,12
+d) 5,59
+e) 6,00
+
+
+
+
+                                                                                                        3
+SSA UPE – 1ª FASE                                                                             2º DIA
+
+Uma artista está projetando um painel decorativo retangular para a fachada de um edifício. Para criar
+um padrão visual interessante, ela dividiu o painel, formado pelo retângulo ABCD, em oito retângulos
+menores de dimensões iguais, conforme ilustrado na figura ao lado. Da esquerda pra para direita, foram
+traçadas as diagonais dos quatro últimos retângulos menores e ela planeja pintar uma área específica
+desse painel com uma cor contrastante. A figura hachurada representa essa área.
+
+
+
+
+Com base nessas informações, responda às questões 03 e 04.
+
+
+3. Qual é a razão entre a medida da área da figura hachurada do painel e a medida da área do
+retângulo ABCD?
+
+a) 1/8
+b) 3/8
+c) 1/4
+d) 5/4
+e) 1/3
+
+
+
+
+4. Se o retângulo ABCD do painel tem comprimento 32 cm e altura 12 cm, qual é a medida do perímetro
+da figura hachurada?
+
+a) 60 cm
+b) 58 cm
+c) 50 cm
+d) 40 cm
+e) 48 cm
+
+
+
+
+                                                                                                       4
+SSA UPE – 1ª FASE                                                                               2º DIA
+
+5. Em um quadrado mágico, a soma dos três números de cada linha (fila horizontal), coluna (fila vertical)
+ou nas diagonais é sempre a mesma. Veja, como exemplo, um quadrado mágico 3 x 3 preenchido com
+números 1, 2, 3, 4, 5, 6, 7, 8 e 9. A soma mágica S, nesse caso, é igual a 15.
+
+
+
+
+Trata-se de um bom quebra-cabeça matemático assim como os triângulos mágicos. Agora, analise o
+quadrado mágico abaixo e descubra a sua soma mágica. Em seguida, assinale a alternativa que
+corresponde à soma X + Y.
+
+a) 29
+b) 24
+c) 20
+d) 18
+e) 16
+
+
+
+
+6. Maria, preocupada com seu futuro, decidiu iniciar um plano de poupança mensal para seus estudos.
+Em janeiro, ela depositou R$ 500,00 na sua conta corrente aberta especificamente para esse fim. A
+partir de fevereiro, ela planeja aumentar o valor depositado em R$ 100,00 a cada mês, de forma
+constante.
+Maria estabeleceu uma meta de economizar, no mínimo, R$ 20.000,00 para um curso de idiomas.
+
+Em qual mês, a partir do início de sua poupança (janeiro sendo o 1º mês), Maria atingirá ou
+ultrapassará pela primeira vez seu objetivo financeiro?
+
+a) 15º mês
+b) 16º mês
+c) 18º mês
+d) 20º mês
+e) 21º mês
+
+
+
+
+                                                                                                         5
+SSA UPE – 1ª FASE                                                                                2º DIA
+
+7. Num laboratório de Química, a estagiária Olívia despejou no recipiente (vazio) representado a seguir,
+em forma de prisma de base retangular, toda a água destilada de dois recipientes (cheios) de forma
+cúbica com arestas medindo 5 cm. Qual é o nível H que a água atinge nesse recipiente,
+aproximadamente?
+
+a) 6,0 cm
+b) 5,0 cm
+c) 4,0 cm                                                                                10 cm
+d) 3,5 cm
+e) 2,5 cm
+
+                                                                H                     9 cm
+                                                                        8 cm
+
+8. Uma equipe de urbanismo está projetando a curva decorativa de um canteiro central em uma
+avenida. A altura y (em metros) da borda curva em função da distância x (em metros)
+a partir da extremidade esquerda do canteiro é modelada por uma função quadrática
+y = ax2 + bx + c.
+
+Na etapa de medição, a borda apresenta as seguintes alturas: no ponto inicial x = 0, a altura é 222 m; a
+1 metro da extremidade, a altura é 111 m; e a 2 metros, volta a ser 222 m. Assim, a curva passa pelos
+pontos (0,2), (1,1) e (2,2). Para facilitar o entendimento do projeto, foi construída a figura a seguir no
+eixo cartesiano.
+
+
+
+
+Qual é o valor da soma dos coeficientes a, b e c dessa função quadrática?
+a) 5
+b) 4
+c) 3
+d) 2
+e) 1
+
+                                                                                                          6
+SSA UPE – 1ª FASE                                                                          2º DIA
+
+9. A média harmônica é um tipo de média calculada a partir do inverso dos valores de um conjunto de
+dados. É especialmente útil quando se lida com grandezas inversamente proporcionais, como taxas ou
+velocidades. Em termos simples, é o inverso da média aritmética dos inversos dos valores. A média
+harmônica (MH) de dois números naturais a e b, não nulos, pode ser calculada por meio da fórmula:
+
+
+
+
+Se a soma de dois números naturais é igual a 15 e o produto é igual a 54, qual é o valor da média
+harmônica desses números?
+
+a) 6,5
+b) 7,0
+c) 7,2
+d) 8,5
+e) 8,6
+
+
+
+
+10. Uma arquiteta paisagista está desenvolvendo o projeto de um novo monumento circular para uma
+praça pública. Ela propôs que as medidas numéricas do raio (R) da base do monumento, do
+comprimento da sua circunferência (C), e da área da sua base (A), quando expressas em metros,
+devem formar, nessa ordem, uma Progressão Geométrica (PG). Qual deve ser a medida do raio (R)
+desse monumento circular, em metros?
+
+a) 2
+b) 4
+c) π
+d) 2π
+e) 4π
+
+
+
+11. Durante a pandemia de COVID-19, a disseminação do vírus foi muitas vezes explicada por meio de
+funções exponenciais, devido ao crescimento acelerado do número de casos quando não há medidas
+de controle. Suponha que em uma cidade o número de infectados seja modelado pela função:
+                                          f (t) = 500 . 2t
+
+em que t representa o número de dias após o primeiro registro e f(t) indica a quantidade de pessoas
+infectadas.
+Com base nessa situação, é CORRETO afirmar que
+
+a) o domínio da função é o conjunto dos números reais negativos, já que não faz sentido tempo
+   positivo.
+b) a imagem da função é o conjunto dos números inteiros positivos menores que 500.
+c) após três dias, o número de infectados será 4000 pessoas.
+d) o gráfico dessa função é uma reta crescente de inclinação 500.
+e) resolver a equação 500⋅2t =16.000 implica descobrir em que mês do ano haverá 16.000 infectados.
+
+
+
+
+                                                                                                    7
+SSA UPE – 1ª FASE                                                                          2º DIA
+
+12. Se uma pessoa tem “peso” Po, ao nível do mar, o seu “peso” P a uma altura h acima da superfície
+terrestre satisfaz a relação
+
+
+
+em que R é o raio da Terra que mede cerca de 6.400 km.
+
+Em que altitude, aproximadamente, uma pessoa teria “um quarto” do seu “peso” em relação ao nível do
+mar?
+
+a) 9,0 × 103 km
+b) 8,5 × 103 km
+c) 8,4 × 103 km
+d) 6,5 × 103 km
+e) 6,4 × 103 km
+
+
+
+13. Uma empresa de alimentos monitora a qualidade das máquinas de enchimento de garrafas com 500 ml
+de suco. Para garantir a consistência do produto, são utilizadas duas máquinas de envase, Máquina A
+e Máquina B. Para decidir qual máquina oferece maior precisão no volume envasado, foram coletadas
+amostras aleatórias de cinco garrafas de cada máquina. Os volumes registrados (em ml) foram:
+
+ Máquina A: 495, 500, 505, 498, 502
+ Máquina B: 490, 510, 500, 485, 515
+
+A empresa considera que a máquina com menor desvio padrão no volume de enchimento é a que
+apresenta maior consistência e, portanto, a mais adequada para a produção em larga escala.
+
+Com base nos dados apresentados, e desconsiderando a pequena variação de amostra para população
+no cálculo da variância, qual afirmação a seguir está CORRETA em relação à consistência das
+máquinas?
+
+a) A Máquina A apresenta maior consistência, com um desvio padrão aproximado de 5,4 ml, enquanto
+   a Máquina B tem um desvio padrão de aproximadamente 11,4 ml.
+b) A Máquina B é mais consistente, pois seu desvio padrão de aproximadamente 3,4 ml é menor que o
+   desvio padrão da Máquina A, que é de cerca de 11,4 ml.
+c) Ambas as máquinas têm a mesma consistência, uma vez que a média do volume envasado é
+   idêntica para as duas.
+d) A Máquina A é mais consistente, com um desvio padrão aproximado de 3,4 ml, enquanto a Máquina
+   B tem um desvio padrão de aproximadamente 11,4 ml.
+e) A Máquina B apresenta maior consistência, com um desvio padrão aproximado de 2,3 ml, enquanto
+   a Máquina A tem um desvio padrão de cerca de 5,4 ml.
+
+
+
+
+                                                                                                    8
+SSA UPE – 1ª FASE                                                                             2º DIA
+14. Brincando com números e operações matemáticas básicas, Maria Eduarda, aluna do 1o ano
+do Ensino Médio, elaborou uma situação-problema para desafiar seus colegas no início da
+aula de Matemática como havia combinado com o professor Lucas no final da aula anterior.
+Veja a explicação de Maria Eduarda sobre o desafio:
+“Em cada número da primeira coluna da tabela abaixo, são efetuadas horizontalmente três
+operações matemáticas até chegar ao resultado na quarta coluna.”
+
+                            Número                             Resultado
+                               2           8          24          12
+                               3           12         36          18
+                               4           16         48          24
+                               5           20         60          30
+                               6           24         72          36
+                              ...          ...        ...         ...
+                               n                                  96
+
+Analisem cuidadosamente a tabela e descubram qual é o valor do número n que levou ao
+resultado 96 disse ela para seus colegas de turma.
+Os colegas de Maria Eduarda que responderam CORRETAMENTE ao desafio, encontraram
+um número n cuja soma dos seus dígitos é igual a:
+
+a) 7
+b) 11
+c) 13
+d) 15
+e) 16
+
+
+
+
+15. Em um experimento científico, um pesquisador observa o crescimento de uma colônia de bactérias.
+Inicialmente, existem 200 bactérias, e a cada hora a quantidade triplica. Um estudante de Ciências
+Biológicas afirma que esse crescimento pode ser descrito de duas formas:
+
+I. Como uma progressão geométrica (PG), em que o termo geral é dado por an = a1 . rn-1, com a1 = 200 e
+razão r = 3
+II. Como uma função exponencial, em que a quantidade após t horas é f(t) = 200 ⋅ 3t
+
+Com base nessa situação, assinale a alternativa CORRETA.
+
+a) A progressão geométrica e a função exponencial descrevem fenômenos distintos e não podem ser
+   usadas para o mesmo problema.
+b) A PG descreve a situação apenas em valores fracionários de tempo, enquanto a função exponencial
+   só pode ser aplicada em valores inteiros de tempo.
+c) O primeiro termo da PG corresponde ao valor f(0) da função exponencial.
+d) A razão da PG é obtida pela soma entre o valor inicial e a taxa de crescimento.
+e) Tanto a PG quanto a função exponencial indicam crescimento linear, pois aumentam em razão
+   constante.
+
+
+
+                                                                                                       9
+SSA UPE – 1ª FASE                                                                           2º DIA
+16. Invertendo-se os algarismos A e B do número 1AB5, forma-se um número com 90 unidades a
+menos. Se o produto A × B é igual a 56, qual é o valor da soma dos quadrados de A e B?
+
+a) 113
+b) 184
+c) 156
+d) 148
+e) 116
+
+
+
+
+17. Uma empresa de telemarketing avalia o desempenho de duas equipes de vendas (Equipe A e
+Equipe B) com base na pontuação de satisfação do cliente, atribuída em uma escala de 0 a 10 ao final
+de cada atendimento. Durante uma semana, para fins de análise de desempenho "típico", foram
+registradas as pontuações diárias médias de cada equipe:
+
+ Equipe A: 8, 9, 7, 10, 8, 9, 8
+ Equipe B: 5, 10, 6, 10, 7, 9, 10
+
+A gerência busca identificar qual equipe apresenta um desempenho mais representativo da sua
+performance "típica" e, dentro dessa representatividade, qual delas se destaca. Para isso, ela deve
+analisar as medidas de tendência central: média, moda e mediana.
+Considerando essas informações e a interpretação mais adequada das medidas de tendência central
+para um desempenho "típico" em dados como esses, qual das afirmativas a seguir é a CORRETA?
+
+a) A Equipe A possui a maior média aritmética, o que por si só indica que seu desempenho "típico" é
+   superior.
+b) A mediana da Equipe B é superior à da Equipe A, sugerindo que pelo menos metade dos dias da
+   Equipe B teve desempenho acima da Equipe A.
+c) A Equipe A apresenta uma distribuição de pontuações mais concentrada em torno de seu valor
+   modal e mediano, sendo ambos iguais a 8, o que a torna a equipe de desempenho "típico" mais
+   consistente.
+d) A Equipe B, por ter a moda em 10, demonstra que seu desempenho "típico" é mais alto,
+   independentemente de suas outras pontuações.
+e) Apesar das diferenças nas pontuações diárias, ambas as equipes demonstram um desempenho
+   "típico" similar, pois suas médias e medianas estão muito próximas.
+
+
+
+
+                                                                                                  10
+SSA UPE – 1ª FASE                                                                              2º DIA
+18. Uma empresa de tecnologia desenvolve algoritmos complexos para processamento de dados em
+nuvem. A eficiência (E) de um novo algoritmo e o tempo de resposta (T) de outro algoritmo são
+modelados por expressões algébricas que dependem da quantidade de dados processados (x) e da
+complexidade da tarefa (y).
+As expressões para a eficiência e o tempo de resposta são dadas, respectivamente, por:
+ Eficiência (E):
+ Tempo de Resposta (T):            , sendo.
+Para otimizar o desempenho geral do sistema, os engenheiros precisam calcular um Índice de
+Produtividade Combinada (IPC), que é definido pela seguinte relação:  .
+Para a Eficiência, o Tempo de Resposta e para o Índice de Produtividade, temos que m e n são
+números reais e      .
+Considerando que x e y são números reais positivos, qual é a expressão simplificada que corresponde
+ao Índice de Produtividade Combinada (IPC)?
+
+
+a)                  b)              c)                 d)                 e)
+
+
+
+19. Uma empresa de jardinagem foi contratada para instalar uma cama de flores em formato de meio
+círculo acoplado a um terreno retangular, como mostrado no esquema da figura a seguir.
+
+
+
+
+O terreno retangular tem 12 metros de comprimento e 8 metros de largura, e sobre um dos lados
+menores foi delimitada uma área em formato de semicírculo com diâmetro de 8 metros para instalação
+da cama de flores.
+
+O jardineiro precisa calcular a área total da cama de flores (para estimar a quantidade de terra adubada
+necessária) e o perímetro externo (para definir o comprimento da cerca de madeira que contornará a
+cama). Quais são, aproximadamente, as medidas da área total e do perímetro externo da cama de
+flores? Use π = 3,14.
+
+a) Área = 140,30 m²; Perímetro = 38,12 m
+b) Área = 140 m²;    Perímetro = 50,5 m
+c) Área = 121,12 m²; Perímetro = 44,56 m
+d) Área = 220,12 m²; Perímetro = 50,56 m
+e) Área = 220 m²;    Perímetro = 38,3 m
+
+
+                                                                                                      11
+SSA UPE – 1ª FASE                                                                            2º DIA
+20. Uma Organização Não Governamental (ONG) lançou uma campanha de incentivo ao alistamento
+eleitoral de jovens, visando aumentar a participação cívica na próxima eleição. O número acumulado de
+novos eleitores cadastrados, N(d), em função do número de dias d desde o início da campanha, pode
+ser modelado por uma função polinomial do 1º grau. Os dados coletados indicam que no 5º dia de
+campanha (d = 5), foram registrados acúmulo de 120 novos eleitores. No 15º dia de campanha (d = 15),
+o total acumulado de novos eleitores atingiu 320. A organização tem como meta cadastrar um total de
+600 novos eleitores. Se a tendência de crescimento linear se mantiver, em quantos dias a partir do
+início da campanha (dia d = 0) a meta de 600 novos eleitores será atingida?
+
+a) 25 dias
+b) 28 dias
+c) 29 dias
+d) 30 dias
+e) 32 dias
+
+
+
+
+21. Em uma região metropolitana que enfrenta severos desafios hídricos, um bairro com 15.000
+residências implementa um plano emergencial de distribuição de água. Cada residência tem garantido
+um limite de consumo diário de 150 litros de água potável para atender às necessidades básicas de
+seus moradores. A distribuição é feita por uma frota de caminhões-tanque, cada um com capacidade
+máxima de transporte de 15 metros cúbicos de água. Para assegurar o abastecimento contínuo e
+igualitário, a prefeitura deve organizar a logística para cobrir a demanda total do bairro.
+Considerando o consumo diário estabelecido para cada residência, o número mínimo de caminhões-
+tanque necessários para abastecer todo o bairro por 10 dias é de:
+
+a) 1.200
+b) 1.500
+c) 1.800
+d) 2.000
+e) 2.250
+
+
+
+
+                                                                                                   12
+SSA UPE – 1ª FASE                                                                                                               2º DIA
+22. Leia o texto a seguir.
+
+
+          Trajeto para o trabalho: quanto custa ida e volta de Neymar de helicóptero
+                                        para o Santos?
+De carro, Neymar demoraria cerca de 6 horas para sair de sua mansão em Mangaratiba, no Rio de
+Janeiro, para o Centro de Treinamento Rei Pelé, em Santos, na Baixada Santista, onde trabalha agora.
+Mas, sem depender de vale transporte, o jogador escolheu fazer o trajeto diário em um helicóptero
+particular, diminuindo o tempo de deslocamento,nas viagens de ida, para aproximadamente 50 minutos.
+Segundo cálculos feitos pelo portal GE, considerando que os tempos de ida e volta são os mesmos, os
+deslocamentos de ida e volta custam cerca de R$ 7 mil por dia apenas de combustível. A estimativa é
+que sejam gastos de 240 a 350 litros de combustível em cada trecho. Fora isso, há que se contabilizar
+ainda os custos de manutenção da aeronave e da equipe da tripulação.
+No Santos, Neymar receberá um salário de R$ 1 milhão por mês, além de 90% dos seus direitos de
+imagem. Ou seja, há uma boa margem para faturamento com publicidade. Mas, considerando apenas o
+salário, é como se o jogador ganhasse mais de R$ 33 mil por dia do mês, sobrando dinheiro para
+muitos voos de helicóptero.
+   Disponível em: https://www.terra.com.br/esportes/santos/trajeto-para-o-trabalho-quanto-custa-ida-e-volta-de-neymar-de-helicoptero-para-o-
+                                         santos,a067dc8531c31d23cb90e8e09d5eae1a9y9rsgdw.html. Acesso em: 12 maio 2025. Adaptado.
+
+
+Com base no texto, considerando cinco idas e voltas por semana (dias de treino), qual é,
+aproximadamente, o tempo economizado semanalmente por Neymar ao optar pelo helicóptero em vez
+do carro?
+
+a) 52 horas
+b) 48 horas
+c) 44 horas
+d) 38 horas
+e) 36 horas
+
+
+
+
+                                                                                                                                         13
+SSA UPE – 1ª FASE                                                                                                                  2º DIA
+
+  CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS
+  Questões de 23 a 45
+
+23. O Sol é um objeto celestial bastante comum. É uma estrela de dimensões comuns e de brilho
+comum. Mas para os observadores na terra, o Sol continua sendo um objeto de proporções magníficas.
+Essa bola ardente de hidrogênio superaquecido e gases de hélio contém 99,9 % de toda a matéria do
+Sistema Solar, e um milhão de Terras podem caber dentro do Sol, com espaço de sobra. Na tabela a
+seguir, apresentamos algumas das informações essenciais do Sol. Achamos que você também pode
+ficar impressionado com nossa magnífica estrela.
+
+                                                            DISTÂNCIAS
+            Distância média da Terra                                                        1,5 x 108 km
+          Variação na distância ao longo
+                                                                                               +/- 1,5%
+                     do ano
+                                                            DIMENSÕES
+                                                               1,4 x 106 km (ou 110 vezes o diâmetro da Terra e
+                      Diâmetro
+                                                                         9,8 vezes o diâmetro de Júpiter)
+                                                                1,4 x 1033 cm3 (ou 1,3 milhão de vezes o volume
+                        Volume
+                                                                                    da Terra)
+                                                                             30
+                                                                    2,0 x 10 kg (ou 333.000 vezes a massa
+                        Massa
+                                                                                    da Terra)
+                             Disponível em: https://solar-center.stanford.edu/vitalstats.html. Acesso em: 28 jun. 2025. Traduzido e adaptado.
+
+
+Considerando as informações disponíveis, podemos estimar que a razão entre as densidades do Sol e
+da Terra, respectivamente, são de qual ordem?
+
+a) 10−2
+b) 10−1
+c) 100
+d) 10+1
+e) 10+2
+
+
+24. Leia os textos a seguir.
+   Texto 1
+   Há mais de 20 anos, a Santa Casa BH conta com um Ambulatório Especializado para tratar a
+   Esclerose Múltipla (EM). Dia 30 de agosto é lembrado o Dia Nacional de Conscientização Sobre a
+   EM, doença autoimune e inflamatória do Sistema Nervoso Central, que tem caráter “desmielinizante”,
+   ou seja, a mielina do cérebro e da medula espinhal é comprometida e os impulsos nervosos deixam
+   de ser transmitidos para o restante do corpo.
+      Disponível em: www.santacasabh.org.br/esclerose-múltipla-atinge-cerca-de-40-mil-brasileiros-a-maioria-das-pessoas-e- diagnosticada-
+                                                                                 entre-as-idades-de-20-e-40-anos/ Acesso em: 9 jul. 2025.
+
+   Texto 2
+  Conforme o neurologista Marcílio Oliveira, do Hospital Pelópidas Silveira (PE), os sintomas iniciais da
+  EM são: fraqueza, alteração no equilíbrio, visão embaçada, espasmos e rigidez muscular.
+  O paciente precisará passar por uma mudança no estilo de vida, com alimentação saudável, sono
+  adequado, correção de deficiência de vitaminas, principalmente D e B12. A hipervitaminose, ou seja,
+  doses elevadas de vitaminas, não é indicada.
+      Disponível em: https.www.diariodepernambuco.com.br/noticias/vidaurbana/2024/08/hospital-pelopidas-silveira-reforca-conscientizacao-sobre-
+                                                                                                        esclerose.html. Acesso em: 9 jul. 2025.
+
+                                                                                                                                            14
+SSA UPE – 1ª FASE                                                                                                      2º DIA
+
+
+Considerando o funcionamento do Sistema Nervoso e o que ocorre na EM, além das informações dos
+textos 1 e 2, assinale a alternativa CORRETA.
+
+a) No Sistema Nervoso Periférico (SNP), as neurofibras mielinizadas se originam do conjunto de
+   camadas concêntricas das membranas dos oligodendrócitos e são ricas em mielina, que é
+   degenerada pela doença, o que interfere na propagação do impulso nervoso.
+b) Neurônios sensitivos ou aferentes são os afetados pela doença, sendo os responsáveis por
+   conduzirem os impulsos nervosos do SNC para os órgãos que efetuam a resposta como os
+   músculos e os epitélios.
+c) A medula espinal e o cérebro constituem o Sistema Nervoso Central (SNC), desses partem gânglios
+   que se ramificam e atingem todas as regiões do nosso corpo para a propagação do impulso nervoso.
+   Alterações elétricas, ausência da vitamina D e do cálcio comprometem a velocidade dos impulsos.
+d) A mielina atua como isolante, evitando que o impulso nervoso se propague entre neurofibras
+   adjacentes, além de aumentar a velocidade de propagação dos impulsos nervosos pelo neurônio.
+   Com a desmielinização, os impulsos nervosos não são transmitidos, o que justifica a fraqueza e a
+   rigidez muscular.
+e) Dentre as causas da EM está a falta da vitamina B12 (tiamina), essencial para a síntese de
+   nucleotídeos, pois combate distúrbios neuromusculares. Uma forma de tratá-la é o uso de doses
+   elevadas dessa vitamina bem como a ingestão de frutas cítricas e folhas verdes.
+
+
+
+
+25. Leia o texto a seguir.
+
+A síntese de estruturas moleculares de carbono na forma de C₆₀ e outros fulerenos estimulou um
+intenso interesse nas estruturas acessíveis às folhas de grafite. Aqui, relato a preparação de um novo
+tipo de estrutura finita de carbono composta por tubos semelhantes a agulhas. Produzidas usando um
+método de evaporação por descarga de arco, semelhante ao usado para a síntese de fulerenos, as
+agulhas crescem no eletrodo negativo usado para a descarga de arco. A microscopia eletrônica revela
+que cada agulha é composta por tubos concêntricos de folhas de grafite, variando em número de 2 até
+cerca de 50. Em cada tubo, os átomos de carbono estão organizados de maneira helicoidal ao redor do
+eixo da agulha. O passo helicoidal varia de agulha para agulha e de tubo para tubo dentro de uma única
+agulha. Parece que essa estrutura helicoidal pode ajudar no processo de crescimento.
+                                  IIJIMA, Sumio. Helical microtubules of graphitic carbon. Nature, v. 354, n. 6348, p. 56-58, 1991.
+
+
+O trecho é do artigo do professor Sumio Iijima, em que ele descreve como nanotubos de carbono foram
+sintetizados pela primeira vez na história. Com base no trecho apresentado, é possível afirmar que
+
+a) o produto descrito é uma forma alotrópica do carbono.
+b) a síntese de fulerenos se dá por um método semelhante à sublimação.
+c) a síntese de fulerenos desestimulou outras pesquisas.
+d) a síntese descrita é uma mudança de estado físico da matéria.
+e) o produto descrito é uma substância composta.
+
+
+
+
+                                                                                                                                15
+SSA UPE – 1ª FASE                                                                                2º DIA
+
+26. Observe a charge a seguir.
+
+
+
+
+                            Disponível em: https://br.pinterest.com. Acesso em: 22 jun. 2025.
+
+
+A “conversa” entre os elementos do quadrinho refere-se aos eventos que caracterizam funções de
+certas células. Assinale a alternativa cuja afirmação está CORRETAMENTE relacionada às funções e
+características desses elementos.
+a) As hemácias ou eritrócitos são células do tecido sanguíneo, discoidais, ricas em hemoglobina, que é
+   responsável pela captura de oxigênio nos pulmões e seu transporte para todos os tecidos do corpo,
+   por isso a hemácia “está com todo gás”.
+b) As plaquetas ou trombócitos são células anucleadas tais como as hemácias, sendo agentes
+   importantes na coagulação do sangue. “Nada a coagular no momento”, pois são ativadas quando há
+   um ferimento liberando trombina que inicia a formação do coágulo.
+c) CD4 ou linfócito T auxiliar é um tipo de linfócito que “fagocita corpo estranho”, atuando nos processos
+   alérgicos e parasitários, liberando substâncias como a histamina.
+d) O macrófago é um tipo de leucócito granulócito, surge por diferenciação de células
+   mesenquimatosas da medula óssea vermelha, sua principal função é fagocitar corpo estranho
+   “fazendo um bom trabalho” defendendo nosso corpo.
+e) O macrófago é uma célula encontrada nos tecidos conjuntivos enquanto hemácia e plaqueta derivam
+   de megacariócitos na medula óssea vermelha e são encontradas dentro de vasos sanguíneos.
+
+                                                                                                        16
+SSA UPE – 1ª FASE                                                                        2º DIA
+27. As figuras A, B e C representam experimentos com base nas teorias e nas hipóteses acerca da
+origem dos seres vivos.
+
+                                                  A
+
+
+
+
+                         B                                              C
+
+
+
+
+Sobre tais experimentos, identifique a alternativa CORRETA.
+
+a) Os experimentos em C demonstraram que o surgimento de microrganismos em caldos nutritivos se
+   dava pela contaminação por germes provenientes do ambiente externo e não por geração
+   espontânea.
+b) Segundo os experimentos em A, os seres vivos surgiram em um passado remoto e, desde então,
+   evoluíram, dando origem aos seres atuais.
+c) Os experimentos em B justificam a crença na geração espontânea, teoria segundo a qual os seres
+   vivos surgiram espontaneamente a partir da matéria não viva.
+d) Segundo os experimentos A e B, a geração espontânea ocorria apenas para seres pequenos como
+   os sapos em A e as moscas em B.
+e) Os experimentos B e C foram fundamentais para consolidar a teoria da abiogênese a qual afirmou
+   que os seres vivos surgem pela reprodução de seres vivos de sua própria espécie.
+
+
+
+
+                                                                                               17
+SSA UPE – 1ª FASE                                                                                 2º DIA
+28. Durante uma viagem de carro pelas ruas do Recife, em uma manhã fria do mês de julho, indo ao
+seu trabalho, Antônio percebeu que os vidros do carro começaram a embaçar por dentro, formando
+pequenas gotículas de água, dificultando a visibilidade. Sabendo que o embaçamento é causado pela
+diferença de temperatura entre o interior e o exterior do carro, assinale a alternativa que descreve o que
+Antônio precisa fazer para resolver o problema.
+a) Como dentro do carro está mais frio, as gotículas são formadas na parte interior do veículo, a partir
+   do processo de condensação do vapor d’água presente no ambiente. Para resolver o problema,
+   Antônio precisa ligar o ar-condicionado na posição quente, pois, assim ajudará a evaporar as
+   gotículas formadas.
+b) Como dentro do carro está mais quente, as gotículas são formadas na parte interior do veículo, a
+   partir do processo de condensação do vapor d’água presente no ambiente. Para resolver o problema,
+   Antônio precisa ligar o ar-condicionado na posição quente, pois, assim ajudará a evaporar as
+   gotículas formadas.
+c) Como dentro do carro está mais quente, as gotículas são formadas na parte interior do veículo, a
+   partir do processo de condensação do vapor d’água presente no ambiente. Para resolver o problema,
+   Antônio precisa ligar o ar-condicionado na posição frio, de forma a equilibrar a temperatura no interior
+   do carro com a temperatura externa, impedindo a condensação do vapor d’água.
+d) Como dentro do carro está mais frio, as gotículas são formadas na parte interior do veículo, a partir
+   do processo de condensação do vapor d’água presente no ambiente. Para resolver o problema,
+   Antônio precisa ligar o ar-condicionado na posição frio, de forma a equilibrar a temperatura no interior
+   do carro com a temperatura externa, impedindo a condensação do vapor d’água.
+e) Como dentro do carro está mais quente, as gotículas são formadas na parte interior do veículo, a
+   partir do processo de condensação do vapor d’água presente no ambiente. Para resolver o problema,
+   Antônio precisa ligar o ar-condicionado na posição frio, de forma a diminuir a energia cinética das
+   partículas, desacelerando a condensação.
+
+
+
+
+29. Um experimento de lançamento oblíquo é realizado a fim de determinar os efeitos da velocidade de
+lançamento no alcance dos projéteis arremessados. A figura a seguir ilustra a montagem com um
+ângulo de lançamento θ = 30° em relação à horizontal. Na realização A, o projétil é arremessado com
+uma velocidade de módulo 10 m/s e alcança a distância horizontal RA. Na realização B, o projétil é
+arremessado com uma velocidade de módulo 20 m/s e alcança a distância horizontal RB. Então, o
+aumento de alcance foi igual a quanto?
+
+Dados: Aceleração da gravidade g = 10,0 m/s2
+
+
+a) 400%
+b) 200%
+c) 100%
+d) 50%
+e) 25%
+
+
+
+
+                                                                                                         18
+SSA UPE – 1ª FASE                                                                                                         2º DIA
+30. Sabemos que Magali, personagem de Mauricio de Souza, adora comer de tudo. A seguir,
+encontramos um esquema com os diversos alimentos consumidos por essa personagem.
+
+
+
+
+       Disponível em: tmjmelhores.blogspot.com/2014/14/10/Magali_completa_50anos_valorizando.html. Acesso em: 10 jul. 2025.
+
+
+
+Sobre os alimentos que ela costuma ingerir, sua composição e importância, assinale a alternativa
+CORRETA.
+
+a) Nível 1: o pão, os biscoitos e a macaxeira são ricos em amido, um glicídio do tipo monossacarídio,
+   fonte de energia para animais, fungos e vegetais. Além da função energética, esse glicídio também
+   dá sustentação ao corpo e constitui a parede celular de fungos e de plantas e o exoesqueleto de
+   artrópodes.
+b) Nível 2: a maçã e a melancia são frutas cítricas ricas em vitamina C, que atua na síntese de
+   colágeno por células como fibroblastos e macrófagos. A deficiência dessa vitamina pode causar
+   anemia e escorbuto.
+c) Nível 2: a cenoura e o mamão são ricos em carotenoides, precursor da vitamina A. Essa vitamina é
+   importante para a nossa visão, pois atua na síntese de pigmentos da retina, previne a cegueira
+   noturna, além de auxiliar na renovação de epitélios.
+d) Nível 3: carnes vermelhas, peixes, leite e seus derivados, a exemplo do queijo, são excelentes fontes
+   de vitamina B9 (tiamina). Essa vitamina previne a má-formação do sistema nervoso, pois auxilia na
+   formação do tubo neural na fase de mórula.
+e) Nível 4: a margarina e o óleo são ácidos graxos saturados essenciais, fontes de reserva de energia
+   dos seres vivos, ficando armazenados nas células adiposas. Dietas ricas em ácidos graxos deste tipo
+   podem contribuir para o surgimento das doenças cardiovasculares como aterosclerose.
+
+
+
+                                                                                                                               19
+SSA UPE – 1ª FASE                                                                                                      2º DIA
+31. Observe as figuras a seguir.
+
+A figura A mostra a representação esquemática de um tipo de movimento celular que ocorre durante a
+gástrula em animais, e a figura B mostra os animais.
+
+                                                          Figura A
+
+
+
+
+                                                         Figura B
+        1                                    2                                          3
+
+
+
+
+                      4                                            5
+
+
+
+
+                 Disponível em: https://pt.slideshare.net/aula-embrio-111-1| PPT. Acesso em: 10 jul. 2025. Adaptado.
+
+
+Assinale a alternativa que relaciona CORRETAMENTE o número indicativo do animal da Figura B ao
+movimento registrado na Figura A.
+a) 3 – epibolia
+b) 4 – involução
+c) 2 – delaminação
+d) 5 – ingressão
+e) 1 – embolia
+
+
+
+
+                                                                                                                            20
+SSA UPE – 1ª FASE                                                                                                            2º DIA
+32. Um dos principais fatores que podem causar uma queda drástica na energia produzida por painéis
+fotovoltaicos e concentradores solares é o acúmulo de partículas de poeira e areia em suas superfícies.
+[...] A remoção de partículas dos painéis solares por forças eletrostáticas, utilizando ondas eletrostáticas
+viajantes, tem se tornado mais comum nos últimos anos. O conceito de cortina elétrica foi introduzido
+por Masuda na década de setenta, voltado principalmente para eletrofotografia. Já nos últimos vinte
+anos, desenvolveu-se o Escudo Eletrodinâmico Transparente para a limpeza de painéis solares. Este
+dispositivo é muito vantajoso porque é simples, escalável e não requer o uso de recursos hídricos para
+remover partículas de poeira. Além disso, a ausência de partes mecânicas móveis reduz
+consideravelmente os custos de manutenção. É também uma tecnologia que exige um consumo de
+energia muito baixo, podendo ser suprido pelo próprio painel.
+                           A. Zouaghi, N. Zouzou. Numerical modeling of particle motion in traveling wave solar panels cleaning device,
+                                                                                               Journal of Electrostatics, vol. 110, 2021.
+
+
+A figura a seguir mostra um gráfico da energia potencial U, em unidades de mJ, em função da posição x
+de uma partícula de poeira massa m = 0,5 g que se move apenas ao longo do eixo x de um painel solar
+e na ausência de forças dissipativas. A partícula passa pela origem com uma velocidade inicial de
+6,0 m/s na direção positiva do eixo x. Então, podemos calcular que a velocidade da partícula em
+x = 10,0 m é igual a quanto?
+
+a) 36 m/s
+b) 24 m/s
+c) 16 m/s
+d) 12 m/s
+e) 10 m/s
+
+
+
+
+33. No tratamento de água para consumo humano, há uma etapa denominada floculação, na qual é
+adicionado sulfato de alumínio, Al2(SO4)3, que forma flocos e ajuda na remoção de material particulado
+presente na água. Entretanto, a adição dessa substância provoca uma alteração do pH do meio,
+requisitando a adição de carbonato de sódio, Na2CO3, para ajustar o pH da água.
+Quanto à natureza química da substância para corrigir o pH do meio, ela é um(a)
+a) ácido de Lewis.
+b) base de Lewis.
+c) substância anfótera.
+d) ácido de Bronsted-Lowry.
+e) óxido de hidrólise alcalina.
+
+
+
+
+                                                                                                                                      21
+SSA UPE – 1ª FASE                                                                                                                   2º DIA
+34. Em uma aula experimental no curso de Ciências Ambientais, a Professora Cláudia simula um
+ambiente para produção de chuva ácida, para mostrar os danos ambientais do fenômeno, ao adicionar
+500 g dióxido de enxofre (SO2) em uma atmosfera de gás oxigênio de massa 230 g, medida ao pesar o
+sistema e subtrair a massa da substância adicionada. A reação que ocorre é a formação do trióxido de
+enxofre (SO3), conforme a equação química não balanceada:
+
+                                                    SO2 (g) + O2 (g) SO3 (g)
+Qual a massa do trióxido de enxofre é formada no instante em que um dos reagentes é consumido por
+completo?
+                                              Dados: O = 16 g/mol; S = 32 g/mol
+a) 625 g
+b) 1150 g
+c) 575 g
+d) 160 g
+e) 500 g
+
+
+35. Uma órbita geoestacionária (GEO) é um recurso natural finito, pois apenas um número limitado de
+satélites pode ocupar esse espaço. Devido ao crescente número de satélites geoestacionários e ao
+número restrito de regiões disponíveis, os operadores de satélites frequentemente posicionam vários
+satélites muito próximos uns dos outros no mesmo espaço geossíncrono, técnica conhecida como
+colocação (collocation).
+O conceito de agrupamento de satélites, ou seja, a colocação de dois ou mais satélites dentro de um
+intervalo restrito de longitudes na órbita geoestacionária, tem sido considerado nos últimos anos para
+futuras missões de satélites de comunicação. Contudo, posicionar diversos satélites tão próximos
+requer manobras ativas de manutenção de posição para evitar colisões, sombreamento, interferência
+em sensores e interferência nas comunicações devido às variações nos ângulos de visada.
+     I. Beigelman, P. Gurfil. Optimal Geostationary Satellite Collocation Using Relative Orbital Element Corrections, Journal of Spacecraft and
+                                                                                                                      Rockets, vol. 46(1), 2009.
+
+
+Considerando o trecho do artigo citado, um satélite de comunicação de massa m = 800 kg está em uma
+órbita geoestacionária acima do Equador em um raio R = 42164 km do centro da Terra. Devido a
+pequenas perturbações provenientes da gravidade lunar e do vento solar, o satélite adquiriu uma
+pequena velocidade de deriva de módulo
+v = 1,5 m/s em relação à sua velocidade
+tangencial e na direção do centro da Terra.
+A figura ao lado ilustra a situação-problema.
+Um pequeno propulsor a bordo do satélite
+aplica um empuxo de duração de 3,0 s para
+aplicar uma força corretiva que deve
+neutralizar exatamente essa deriva, trazendo o
+satélite de volta à sua órbita original. Então, a
+força média aplicada pelo propulsor ao satélite
+nessa correção foi de
+
+a) 150 N na direção da velocidade orbital e mesmo sentido.
+b) 200 N na direção da velocidade de deriva e sentido oposto.
+c) 350 N alinhada 45 graus da velocidade orbital
+d) 400 N antiparalela à velocidade de deriva.
+e) 550 N paralela à velocidade de deriva.
+
+                                                                                                                                             22
+SSA UPE – 1ª FASE                                                                                                            2º DIA
+36. Didaticamente, a História é dividida em períodos denominados de Pré-História (até 4000 a.C), Idade
+Antiga (entre 4000 a.C. e 476 d.C), Idade Média (entre 476 d.C. e 1453 d.C.), Idade Moderna (entre
+1453 d.C. e 1789 d.C.) e Idade Contemporânea (desde 1789 d.C.). Em um achado arqueológico, foram
+encontrados pedaços de cerâmicas que foram usadas como pratos na alimentação das pessoas que ali
+viviam. Então, os arqueólogos resolveram datar aquele achado, usando um isótopo radioativo cuja
+meia-vida é igual a 2600 anos.
+Sabendo que a atividade radioativa medida, no ano de 2024 d.C., para esse isótopo corresponde a um
+quarto da atividade esperada para quando os indivíduos utilizaram aquela cerâmica, assinale a
+alternativa que indica o período da História em que essas pessoas viveram.
+a) Pré-História
+b) Idade Antiga
+c) Idade Média
+d) Idade Moderna
+e) Idade Contemporânea
+
+
+37. Leia o trecho e avalie as medidas profiláticas elencadas a seguir.
+O Brasil registra aumento de 150% nos casos de picadas de escorpião, aponta estudo. Levantamento
+revela crescimento alarmante das ocorrências em comparação aos últimos cinco anos; especialistas
+alertam para riscos à saúde e indicam medidas de prevenção. A pesquisa, conduzida por instituições de
+saúde e vigilância epidemiológica, destaca um cenário preocupante, especialmente nas regiões
+Sudeste e Nordeste. O aumento dos casos tem pressionado o sistema de saúde, exigindo maior
+disponibilidade de soro antiescorpiônico e campanhas de conscientização.
+        Disponível em: https://www.spagora.com.br/brasil/2025/05/15/aumento-picadas-escorpião-brasil. Acesso em: 10 jul. 2025. Adaptado.
+
+
+
+
+Analise as medidas numeradas de 1 a 6 e assinale a alternativa que registra aquelas que são
+apropriadas para prevenir acidentes com os escorpiões.
+
+a) 2, 4 e 5
+b) 1, 3 e 6
+c) 1, 2 e 6
+d) 2, 3 e 5
+e) 4, 5 e 6
+
+                                                                                                                                     23
+SSA UPE – 1ª FASE                                                                          2º DIA
+38. A transição energética promove uma busca por fontes mais limpas de energia, impulsionando o
+desenvolvimento de dispositivos que consumam menos energia, bem como a produção de dispositivos
+que acumulem energia com mais eficiência e menos agressão ao meio ambiente. Nesse contexto, há
+um conjunto de minerais contendo elementos químicos chamados de Terras Raras, com distribuição
+eletrônica terminando em orbitais 4f. O Brasil tem uma das maiores reservas desses minérios no
+mundo.
+Assinale a alternativa que apresenta a localização desses elementos na Tabela Periódica.
+a) Halogênios.
+b) Calcogênios.
+c) Metais alcalinos.
+d) Metais alcalinos terrosos.
+e) Série dos lantanídeos.
+
+
+
+39. Um chatbot é um programa de computador desenvolvido para simular conversas “humanizadas”,
+seja por texto seja por voz. Quando questionamos a definição de equilíbrio de um corpo no que diz
+respeito às forças e torques que atuam sobre ele, um chatbot responde:
+
+Um corpo está em equilíbrio mecânico quando satisfaz simultaneamente duas condições:
+
+1. Equilíbrio translacional (forças)
+   A soma vetorial de todas as forças que atuam sobre o corpo é zero. Isso garante que o centro de
+   massa do corpo não acelera (permanece em repouso ou em movimento retilíneo uniforme).
+
+2. Equilíbrio rotacional (torques ou momentos)
+   A soma dos torques (ou momentos de força) em relação a qualquer ponto é zero. Isso garante que
+   o corpo não tenha aceleração angular (permaneça com velocidade angular constante ou em
+   repouso).
+
+Considere o objeto ilustrado na figura a seguir, que está sob atuação de três forças e dois torques
+constantes e pode se mover no plano xy. As forças são verticais e têm módulos iguais a F1 = 16,5 N,
+F2 = 4,5 N e F3, e os torques (ou momentos) são colineares, com módulos M1 e M2 = 8,8 Nm, e apontam
+para dentro e para fora do plano da página, respectivamente. Então, sabendo que o objeto está em
+equilíbrio translacional e rotacional, podemos afirmar que F3 e M1 valem, respectivamente, quanto?
+
+a) 8,8 N e 12,0 Nm
+b) 4,4 N e 12,5 Nm
+c) 12,0 N e 8,8 Nm
+d) 16,5 N e 4,4 Nm
+e) 6,0 N e 8,8 Nm
+
+
+
+
+                                                                                                 24
+SSA UPE – 1ª FASE                                                                              2º DIA
+
+
+40. O diclorodifeniltricoloretano, conhecido como DDT ou DDT-E, é um conhecido inseticida, que
+começou a ser utilizado no período da Segunda Guerra Mundial, para combater os vetores de doenças
+como Malária e Febre Tifoide, e foi posteriormente utilizado como defensivo agrícola. O DDT demora
+entre 5 e 30 anos para se degradar, atingindo a fauna e a flora de forma agressiva, podendo se infiltrar
+na água, afetando o equilíbrio do ambiente. Por isso, é proibido de ser fabricado, importado e estocado
+no Brasil, pela Lei 11.936, de 2009.
+Um fazendeiro foi preso em flagrante por armazenar uma quantidade do inseticida, que, segundo um
+funcionário, foi obtida a partir de 2250 kg de clorobenzeno, precursor do DDT, conforme a equação
+química não balanceada, a seguir:
+                                 C6H5Cl + C2HCl3O → C14H9Cl5 + H2O
+                                     Clorobenzeno              DDT
+
+Sabendo que o clorobenzeno é o reagente limitante e que o rendimento da reação foi de 80%, qual a
+massa aproximada do produto ilegal foi confiscada pela polícia?
+
+                     Dados: H = 1g/mol; C = 12g/mol; O = 16g/mol; Cl = 35,5g/mol
+
+
+a) 1034 kg
+b) 1418 kg
+c) 2010 kg
+d) 2836 kg
+e) 3545 kg
+
+
+
+
+41. O método científico é essencial para garantir a confiabilidade e a validade de qualquer estudo. Sua
+função é proteger a pesquisa da subjetividade e das opiniões, garantindo que as conclusões sejam
+baseadas em fatos e dados concretos. Com sua aplicação, as descobertas científicas podem ser
+replicadas e verificadas por outros pesquisadores, contribuindo para o avanço da ciência e a solução de
+problemas na sociedade. Sobre processos e conceitos empregados na metodologia científica, assinale
+a alternativa CORRETA.
+
+a) Os resultados em ciência devem ser sempre aceitos como definitivos e inquestionáveis.
+b) Em um experimento científico, não é necessário um grupo controle, apenas o experimental.
+c) A experimentação é um passo fundamental no método científico.
+d) A formulação de uma teoria visa explicar determinada questão levantada em uma hipótese, que,
+   depois de confirmada, é considerada confiável e imutável.
+e) Uma lei cientifica é a descrição e explicação absoluta de um fenômeno e suas manifestações,
+   devendo ser sempre aceita como verdadeira, eterna e universal.
+
+
+
+
+                                                                                                      25
+SSA UPE – 1ª FASE                                                                                                                   2º DIA
+
+42. A Manufatura Aditiva (MA) foi introduzida pela primeira vez há mais de três décadas, quando a
+primeira patente SLA apareceu em 1986 por Charles (Chuck) Hull. O termo impressão 3D é
+frequentemente usado como sinônimo em um contexto não técnico ou em associação com máquinas
+com capacidades e preços mais baixos. O processo foi descrito pela primeira vez como prototipagem e
+fabricação rápida e envolve a utilização de modelos 3D baseados em computador para depositar
+camadas sucessivas de materiais, uma no topo da outra, para criar um objeto 3D em forma de rede. A
+principal novidade da MA está em adicionar material em vez de removê-lo.
+Manuel B. Arrillaga Tamez, Iman Taha. A review of additive manufacturing technologies and markets for thermosetting resins and their potential
+                                                                            for carbon fiber integration, Additive Manufacturing, Vol. 37, 2021.
+
+
+A figura a seguir ilustra o funcionamento simplificado de uma extrusora de uma impressora 3D de
+filamento de Ácido Polilático (PLA), um tipo de plástico biodegradável e compostável. O filamento é
+empurrado para um bocal aquecido através de uma engrenagem de raio 0,5 cm, movida por um
+pequeno motor elétrico e por um rolamento de mesmo raio e que gira livremente. O filamento derretido
+é, então, depositado em camadas para formar a peça final. Para uma configuração padrão de extrusão
+de filamento igual 50 mm/s sem deslizamentos, qual é a velocidade angular do rolamento em rad/s?
+
+a) 50
+b) 30
+c) 25
+d) 15
+e) 10
+
+
+
+
+43. A febre é o aumento da temperatura corporal que, se não controlada a tempo, pode levar o indivíduo
+a óbito. Esse desfecho se dá porque, entre outras coisas, temperaturas acima de 40ºC podem
+desnaturar enzimas vitais para o funcionamento do corpo.
+
+O processo descrito provoca uma
+a) exacerbação da atividade enzimática.
+b) mudança na estrutura terciária das proteínas.
+c) condensação dos carboidratos que constituem as enzimas.
+d) permuta na sequência de substâncias simples entre os aminoácidos.
+e) alteração na atividade de alguns metabólitos que passam a atuar como toxinas.
+
+
+
+
+                                                                                                                                             26
+SSA UPE – 1ª FASE                                                                                             2º DIA
+
+44. Novos avanços nas tecnologias de entrega por drones, como o design das aeronaves, melhorias em
+baterias e softwares de controle, podem transformar a indústria das entregas e, consequentemente, a
+sociedade como um todo. Um desdobramento bem-sucedido de drones de entrega em larga escala
+poderia transformar radicalmente a indústria, substituindo milhares de motoristas, caminhões de entrega
+movidos a combustíveis fósseis, o tráfego rodoviário e centros de distribuição centralizados por
+operadores de drones, pequenas aeronaves, tráfego aéreo, centros móveis e entregas ponto a ponto.
+Essa ampla transformação poderia resultar em menor congestionamento na infraestrutura viária
+existente, aumento da segurança nas estradas e melhor acessibilidade a regiões com infraestrutura
+rodoviária precária. Além disso, inúmeras outras aplicações poderiam ser aprimoradas, ampliadas ou
+até mesmo criadas. Em comparação com a entrega padrão por caminhões, as duas principais
+limitações dos drones de entrega, especialmente dos drones aéreos, são o alcance e a capacidade de
+carga. As baterias, que precisam ser necessariamente leves nesses drones, não conseguem fornecer
+energia suficiente para trajetos longos ou cargas pesadas. Por exemplo, o protótipo atual da Amazon
+pode entregar pacotes de até 5 libras (aproximadamente 2,3 kg) em uma distância de até 15 milhas
+(cerca de 24 km).
+                                                   E. Frachtenberg. Practical Drone Delivery, Computer, vol. 52(12), 2019.
+
+
+
+Durante uma missão de entrega de encomendas, um drone voa verticalmente para cima com uma
+velocidade constante de 7,2 km/h. Ao atingir uma determinada altura, ele solta um pacote de 5 libras
+com alimentos, que passa, então, a cair livremente sob ação da gravidade, sem resistência do ar.
+Considere que o pacote é solto em t = 0 e que o drone continua subindo com a mesma velocidade
+constante. Determine a distância entre o drone e o pacote após 1,0 segundo.
+
+Dados: Aceleração da gravidade g = 10,0 m/s2
+
+
+
+a) 1 m
+b) 2 m
+c) 3 m
+d) 4 m
+e) 5 m
+
+
+
+
+                                                                                                                       27
+SSA UPE – 1ª FASE                                                                                                    2º DIA
+
+45. A reação provocada por um parque eólico é subjetiva. Muitas pessoas olham a turbina eólica como
+um símbolo de energia limpa e avanço tecnológico, outras reagem negativamente à nova paisagem. No
+Brasil, questionamentos quanto ao impacto visual vêm sendo levantados por ambientalistas e
+pesquisadores em razão do número significativo de empreendimentos instalados em dunas de areias e
+outros pontos de grande interesse turístico.
+                                 Disponível em: https://scielo.br/j/ambiagua/a/5b77GBj4yPTzkS4pjxyhyH/. Acesso em: 09 jul. 2025.
+
+
+Sobre os impactos ambientais e sociais decorrentes da expansão de parques eólicos e solares como
+fontes de energias renováveis, assinale a alternativa CORRETA.
+
+a) A poluição sonora é causada pelo giro das pás em atrito com o ar, mas com ruídos de baixo espectro
+   de frequência, que não ultrapassam 45 decibéis. Os aerogeradores modernos eliminam todo o ruído
+   acústico.
+b) Há baixo índice de mortalidade de aves migratórias, mesmo das espécies ameaçadas de extinção.
+   Apesar dos baixos índices, todos os parques instalam estímulos visuais e auditivos nas torres eólicas
+   para reduzir ainda mais essa taxa, evitando a colisão de aves.
+c) Há profunda transformação na paisagem das regiões. Desse modo, decisões sobre a localização de
+   parques eólicos devem ser tomadas levando em consideração os usos da terra na região de
+   interesse, com o planejamento e a definição de um zoneamento ecológico-econômico para energia
+   eólica.
+d) As evidências apontam que parques eólicos não causam impactos aos ecossistemas. Asseguram
+   geração de energia limpa, garantindo emprego à população local, bem como o aumento do fluxo do
+   turismo.
+e) A alteração paisagística causada pela presença dos aerogeradores não causa desvalorização
+   monetária da região, estimula a economia local com aumento da atividade turística, pois se
+   transforma em atração turística, devido a sua imponência e indicação de desenvolvimento
+   tecnológico.
+
+
+
+
+                                                                                                                             28
+SSA UPE – 1ª FASE              2º DIA
+
+                    RASCUNHO
+
+
+
+
+                                    29
+SSA UPE – 1ª FASE              2º DIA
+
+                    RASCUNHO
+
+
+
+
+                                    30
+SSA UPE – 1ª FASE              2º DIA
+
+                    RASCUNHO
+
+
+
+
+                                    31
+ SSA UPE – 1ª FASE                                                                      2º DIA
+
+
+
+
+                           ATENÇÃO!
+1. Abra este Caderno apenas quando o Aplicador de Provas autorizar o início da Prova.
+2. Observe se o Caderno de Prova está completo. Ele deverá conter 45 (quarenta e cinco)
+   questões de múltipla escolha distribuídas entre as áreas de conhecimento de Matemática e
+   suas Tecnologias e de Ciências da Natureza e suas Tecnologias.
+3. Se o Caderno de Prova estiver incompleto ou com algum defeito gráfico que lhe cause
+   dúvidas, informe imediatamente ao Aplicador de Provas.
+4. Uma vez dada a ordem de início da Prova, preencha, nos espaços apropriados, o seu Nome
+   completo, o seu Número de Inscrição, o Nome do prédio e o Número da sala, o Número do
+   Documento de Identificação, o Órgão Expedidor e a Unidade da Federação.
+5. Para registrar as alternativas escolhidas nas questões da Prova, você receberá um
+   Cartão-Resposta de Leitura Ótica. Verifique se o Número de Inscrição impresso no Cartão
+   coincide com o seu Número de Inscrição.
+6. As bolhas constantes do Cartão-Resposta referentes às questões de múltipla escolha devem
+   ser preenchidas totalmente com caneta esferográfica azul ou preta.
+7. Você dispõe de 4 horas para responder à Prova, incluído o tempo destinado ao
+   preenchimento do Cartão-Resposta.
+8. É permitido, após 3 horas do início da Prova, você retirar-se do prédio conduzindo o seu
+   Caderno de Prova, devendo, no entanto, entregar ao Aplicador de Provas o
+   Cartão-Resposta preenchido.
+9. Caso você não opte por levar o Caderno de Prova consigo, entregue-o ao Aplicador de
+   Provas, não podendo, sob nenhuma alegação, deixar o Caderno em outro lugar do recinto
+   de aplicação das provas.
+10. Não será permitido durante a realização das provas:
+
+  Comunicar-se com outros candidatos sob hipótese alguma;
+  Levantar da cadeira sem a devida autorização do Aplicador de Provas;
+  Consultar anotações ou livros bem como acessar no recinto, qualquer espécie de aparelho
+   de comunicação, aparelhos celulares (mesmo desligados), equipamentos auxiliares de
+   memória ou outros de qualquer natureza.
+
+
+                                     BOA PROVA!
+
+                                                                                             32
+
