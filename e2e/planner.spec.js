@@ -49,3 +49,40 @@ test('dados da versão Compasso permanecem disponíveis na versão C2',async({pa
  await page.addInitScript(()=>localStorage.setItem('compasso-ssa-v1',JSON.stringify({version:1,slots:{'2026-11-11_7':{subject:'Matemática',topics:['Meu conteúdo antigo'],note:'Minha observação antiga',done:true}},custom:{Matemática:['Meu conteúdo antigo']}})));
  await page.goto('/');await page.locator('#jump').fill('2026-11-11');await expect(page.locator('.event')).toContainText('Meu conteúdo antigo');await expect(page.locator('.completed')).toHaveCount(1);await page.locator('.event').click();await expect(page.locator('#edit-note')).toHaveValue('Minha observação antiga');await expect(page.locator('#edit-done')).toBeChecked();await expect(page.locator('#topic-list input:checked')).toHaveCount(1);
 });
+async function seedBlock(page){
+ await page.addInitScript(()=>{
+  if(!localStorage.getItem('compasso-ssa-v1'))localStorage.setItem('compasso-ssa-v1',JSON.stringify({version:1,slots:{'2026-11-11_7':{subject:'Matemática',topics:['Função afim'],note:'Preservar primeira hora',done:false},'2026-11-11_8':{subject:'Matemática',topics:['Função quadrática'],note:'Preservar segunda hora',done:false},'2026-11-11_9':{subject:'Matemática',topics:['Progressão aritmética'],note:'Preservar terceira hora',done:false},'2026-11-12_7':{subject:'Escola',topics:[],note:'Outro dia',done:false}},custom:{}}));
+ });
+ await page.goto('/');await page.locator('#jump').fill('2026-11-11');await page.locator('#day').click();
+}
+test('menu do botão direito conclui por hora, reabre e exclui somente o bloco selecionado',async({page})=>{
+ const errors=[];page.on('pageerror',e=>errors.push(e.message));await seedBlock(page);
+ await page.locator('.event').click({button:'right'});await expect(page.getByRole('dialog',{name:'Ações do agendamento'})).toBeVisible();await expect(page.locator('#editor-form')).toHaveCount(0);
+ await page.locator('#complete-hours').click();await page.locator('.completion-hour[value="8"]').check();await page.getByRole('button',{name:'Salvar conclusão'}).click();
+ await expect(page.locator('.partially-completed')).toHaveCount(1);await expect(page.locator('.completion-badge')).toContainText('1/3');await expect(page.locator('.completed')).toHaveCount(0);await expect(page.locator('#celebration')).toContainText('Você fez acontecer!');await expect(page.locator('.achievement-summary')).toContainText('1 de 3 horas');
+ let stored=await page.evaluate(()=>JSON.parse(localStorage.getItem('compasso-ssa-v1')));expect(stored.slots['2026-11-11_7'].done).toBe(false);expect(stored.slots['2026-11-11_8'].done).toBe(true);expect(stored.slots['2026-11-11_9'].done).toBe(false);expect(stored.slots['2026-11-11_8'].note).toBe('Preservar segunda hora');expect(stored.slots['2026-11-11_8'].topics).toEqual(['Função quadrática']);
+ await page.locator('.event').click({button:'right'});await page.locator('#complete-block').click();await expect(page.locator('.completed')).toHaveCount(1);await expect(page.locator('.completion-badge')).toContainText('Concluído!');await expect(page.locator('.achievement-summary')).toContainText('Plano do dia concluído');
+ await page.reload();await page.locator('#jump').fill('2026-11-11');await page.locator('#day').click();await expect(page.locator('.completed')).toHaveCount(1);await expect(page.locator('#celebration')).toHaveCount(0);
+ await page.locator('.event').click({button:'right'});await page.locator('#complete-block').click();await expect(page.locator('.completed')).toHaveCount(0);await expect(page.locator('.achievement-summary')).toHaveCount(0);
+ await page.locator('.event').click({button:'right'});await page.locator('#delete-block').click();await page.locator('#cancel-delete').click();await expect(page.locator('.event')).toHaveCount(1);
+ await page.locator('.event').click({button:'right'});await page.locator('#delete-block').click();await page.locator('#confirm-delete').click();await expect(page.locator('.event')).toHaveCount(0);await expect(page.locator('.empty-slot')).toHaveCount(12);
+ stored=await page.evaluate(()=>JSON.parse(localStorage.getItem('compasso-ssa-v1')));expect(Object.keys(stored.slots)).toEqual(['2026-11-12_7']);expect(errors).toEqual([]);
+});
+test('menu acessível pelo teclado e animação respeita movimento reduzido',async({page})=>{
+ await page.emulateMedia({reducedMotion:'reduce'});await seedBlock(page);await page.locator('.event').focus();await page.keyboard.press('Shift+F10');await expect(page.locator('.actions-sheet')).toBeVisible();await page.keyboard.press('Escape');await expect(page.locator('.modal')).toHaveCount(0);await expect(page.locator('.event')).toBeFocused();
+ await page.locator('.event').click({button:'right'});await page.locator('#complete-block').click();await expect(page.locator('.celebration-card')).toBeVisible();await expect(page.locator('.celebration-confetti')).toBeHidden();expect(await page.locator('.celebration-card').evaluate(el=>getComputedStyle(el).animationName)).toBe('none');
+ await page.screenshot({path:'/tmp/c2-conquista.png',fullPage:true});
+});
+test('celular e tablet: toque longo real abre ações, toque curto edita e movimento cancela',async({browser})=>{
+ for(const width of [390,1024]){
+  const context=await browser.newContext({viewport:{width,height:900},hasTouch:true,isMobile:true});const page=await context.newPage();await seedBlock(page);
+  await page.locator('.event').tap();await expect(page.locator('#editor-form')).toBeVisible();await page.locator('#cancel').tap();
+  await page.locator('.event').scrollIntoViewIfNeeded();let box=await page.locator('.event').boundingBox();const client=await context.newCDPSession(page);const point={x:box.x+box.width/2,y:Math.max(20,box.y+60)};
+  await client.send('Input.dispatchTouchEvent',{type:'touchStart',touchPoints:[point]});await page.waitForTimeout(680);await client.send('Input.dispatchTouchEvent',{type:'touchEnd',touchPoints:[]});
+  await expect(page.locator('.actions-sheet')).toBeVisible();await expect(page.locator('#editor-form')).toHaveCount(0);expect(await page.evaluate(()=>document.documentElement.scrollWidth)).toBe(width);
+  const sheet=await page.locator('.actions-sheet').boundingBox();expect(sheet.x).toBeGreaterThanOrEqual(0);expect(sheet.x+sheet.width).toBeLessThanOrEqual(width);
+  await page.locator('#complete-hours').tap();await page.locator('.completion-hour[value="7"]').check();await page.getByRole('button',{name:'Salvar conclusão'}).tap();await expect(page.locator('.partially-completed')).toHaveCount(1);
+  await page.locator('.event').scrollIntoViewIfNeeded();box=await page.locator('.event').boundingBox();const p={x:box.x+box.width/2,y:Math.max(20,box.y+60)};await client.send('Input.dispatchTouchEvent',{type:'touchStart',touchPoints:[p]});await client.send('Input.dispatchTouchEvent',{type:'touchMove',touchPoints:[{x:p.x,y:p.y+35}]});await page.waitForTimeout(680);await client.send('Input.dispatchTouchEvent',{type:'touchEnd',touchPoints:[]});await expect(page.locator('.actions-sheet')).toHaveCount(0);
+  await context.close();
+ }
+});

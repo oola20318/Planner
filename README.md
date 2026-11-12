@@ -55,3 +55,11 @@ O build usa caminhos relativos, incluindo dados e links para os PDFs, e foi vali
 ## Leitura e identidade visual
 
 A marca é C2, mantendo a paleta verde e o estilo tipográfico editorial. A grade usa fontes de 14–18 px para horários, matérias e conteúdos; as linhas ficaram mais altas e a grade semanal usa rolagem horizontal em telas estreitas para preservar a leitura. A chave de armazenamento e o formato de backup anteriores foram preservados, portanto os agendamentos existentes continuam disponíveis. Sincronização e login ainda não foram implementados: esta versão continua usando armazenamento local.
+
+## Ações rápidas e conclusão
+
+Clique com o botão direito em um bloco para abrir suas ações. No celular ou tablet, pressione por cerca de meio segundo; um toque curto continua abrindo o editor. Movimentos para rolar cancelam o toque longo. Também é possível abrir as ações com Shift+F10 quando o bloco está focado.
+
+O menu permite concluir todo o bloco, marcar/desmarcar horas individuais, editar ou excluir o bloco inteiro. A exclusão pede confirmação e afeta apenas as horas contíguas daquele bloco naquele dia. A edição de uma única hora continua disponível no editor.
+
+A conclusão parcial mostra a quantidade de horas realizadas e uma barra de progresso. A total exibe um selo e um fundo de conquista. Um resumo do dia permanece visível depois de atualizar a página. Novas conclusões mostram uma mensagem de reconhecimento com uma breve animação, desativada quando o sistema solicita movimento reduzido. A celebração não se repete ao recarregar ou ao salvar novamente uma hora já concluída.

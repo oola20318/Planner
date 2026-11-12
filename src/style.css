@@ -74,3 +74,74 @@
   .modal { max-height: 95dvh; }
   .field-row { grid-template-columns: minmax(0,1fr); }
 }
+
+/* Ações rápidas e conquistas que continuam visíveis após recarregar. */
+:root { --hour-height: 156px; }
+.event { position: relative; -webkit-touch-callout: none; -webkit-user-select: none; user-select: none; touch-action: manipulation; }
+.event.completed { background: linear-gradient(135deg,#e3f2e5,#f5f3da); box-shadow: inset 0 0 0 1px #b4cba4; }
+.event.completed::after { content: '✦'; position: absolute; right: 8px; bottom: 8px; color: #a18742; font-size: 24px; opacity: .45; pointer-events: none; }
+.event.partially-completed { background: linear-gradient(160deg,color-mix(in srgb,var(--event) 12%,white),#edf5e8); }
+.completion-badge { align-self: flex-start; padding: 4px 7px; border: 1px solid #b6c899; border-radius: 5px; background: #f6f8e8; color: #375d34; font-size: 12px; font-weight: 700; line-height: 1.25; }
+.completed .completion-badge { background: #386442; border-color: #386442; color: #fff5ca; }
+.completion-track { position: absolute; bottom: 0; left: 0; right: 0; height: 4px; background: #e3e9d5; }
+.completion-track i { display: block; height: 100%; background: #6d9757; }
+.press-pending { outline: 3px solid #a9bc8d; outline-offset: -3px; }
+.achievement-summary { display: flex; gap: 18px; align-items: center; padding: 21px 24px; margin: 0 0 24px; border: 1px solid #c8d8ad; border-radius: 12px; background: linear-gradient(110deg,#edf5e8,#fbf6e4); }
+.achievement-medal { flex-shrink: 0; display: grid; place-items: center; width: 50px; height: 50px; border: 1px solid #c8ab61; border-radius: 50%; color: #927127; background: #f7ebbf; box-shadow: 0 0 0 5px #f7edca88; font-size: 25px; }
+.achievement-summary strong { font-size: 18px; color: #355d38; }
+.achievement-summary p { font-size: 14px; margin: 7px 0 0; color: #627154; }
+.achievement-count { margin-left: auto; color: #547444; font-size: 26px; font-family: Georgia,serif; }
+.actions-sheet { width: min(430px,calc(100vw - 24px)); max-height: calc(100dvh - 24px); padding: 22px; border: 1px solid #e0e7d8; box-shadow: 0 22px 80px #14271b40; }
+.actions-sheet .modal-head h2 { font-size: 25px; }
+.event-actions { display: grid; gap: 5px; }
+.event-actions > button { padding: 14px 10px; display: flex; align-items: center; gap: 14px; text-align: left; border-radius: 8px; }
+.event-actions > button:hover, .event-actions > button:focus-visible { background: #edf4e7; }
+.event-actions > button > span:first-child { width: 28px; text-align: center; font-size: 25px; flex-shrink: 0; }
+.event-actions b { display: block; font-weight: 600; font-size: 15px; }
+.event-actions small { display: block; font-size: 13px; margin-top: 5px; line-height: 1.5; }
+.event-actions .danger { border-top: 1px solid #ebede5; border-radius: 0 0 8px 8px; margin-top: 7px; }
+.event-actions .danger:hover { background: #fcf0eb; }
+.danger-button { background: #a84f42; color: white; border-radius: 7px; padding: 12px 17px; font-size: 15px; }
+.hour-completion-list { display: grid; gap: 10px; }
+.hour-completion-list label { display: flex; align-items: center; gap: 12px; padding: 15px; margin: 0; border: 1px solid #e0e7d8; border-radius: 8px; }
+.hour-completion-list input { width: 22px; height: 22px; flex-shrink: 0; accent-color: #426c40; }
+.hour-completion-list b, .hour-completion-list small { display: block; }
+.hour-completion-list small { font-size: 13px; margin-top: 5px; line-height: 1.5; }
+.hour-completion-list label:has(input:checked) { background: #eff5e8; border-color: #a6bd8b; }
+.hour-status { margin-left: auto; font-size: 12px; color: #5e7651; }
+#celebration { position: fixed; left: 50%; bottom: 24px; transform: translateX(-50%); width: min(520px,calc(100vw - 28px)); z-index: 10; pointer-events: none; }
+.celebration-card { position: relative; display: flex; align-items: center; gap: 16px; padding: 22px; border: 1px solid #a9bd88; border-radius: 16px; background: linear-gradient(115deg,#f7faed,#fcf1cc); box-shadow: 0 12px 50px #203b2433; animation: achievement-appear .45s ease-out; }
+.celebration-card strong { color: #35582f; font: 25px Georgia,serif; }
+.celebration-card p { margin: 8px 0 4px; font-size: 14px; color: #52694c; }
+.celebration-card small { font-size: 12px; color: #7b7d58; }
+.celebration-medal { display: grid; place-items: center; width: 52px; height: 52px; flex-shrink: 0; border: 1px solid #c29d45; background: #f4dfa0; color: #936c1e; border-radius: 50%; font-size: 29px; }
+.celebration-card button { align-self: flex-start; margin-left: auto; pointer-events: auto; font-size: 24px; color: #62734d; padding: 0 3px; }
+.celebration-confetti { position: absolute; left: 50%; top: 10px; }
+.celebration-confetti i { position: absolute; width: 7px; height: 11px; border-radius: 2px; background: #99b675; animation: celebration-burst 1.4s ease-out both; --rotation: 0deg; }
+.celebration-confetti i:nth-child(3n) { background: #dbc06c; }
+.celebration-confetti i:nth-child(3n + 1) { background: #7d9d8b; }
+@keyframes achievement-appear { from { opacity: 0; transform: translateY(15px) scale(.96); } to { opacity: 1; transform: none; } }
+@keyframes celebration-burst { 0% { opacity: 0; transform: rotate(var(--angle)) translateY(0); } 15% { opacity: 1; } 100% { opacity: 0; transform: rotate(var(--angle)) translateY(calc(-1 * var(--distance))) rotate(160deg); } }
+@media(pointer:coarse), (max-width:799px) {
+ .overlay:has(.actions-sheet) { align-items: flex-end; padding: 10px; }
+ .actions-sheet { width: 100%; max-width: 520px; margin-bottom: env(safe-area-inset-bottom,0px); }
+}
+@media(max-width:799px) {
+ :root { --hour-height: 160px; }
+ .achievement-summary { padding: 17px; gap: 12px; flex-wrap: wrap; }
+ .achievement-medal { width: 38px; height: 38px; font-size: 22px; }
+ .achievement-summary > div { flex: 1; min-width: 160px; }
+ .achievement-summary strong { font-size: 16px; }
+ .achievement-summary p { font-size: 13px; }
+ .achievement-count { font-size: 22px; }
+ .hour-completion-list label { flex-wrap: wrap; }
+ .hour-status { margin-left: 34px; }
+ .celebration-card { padding: 17px 14px; gap: 10px; }
+ .celebration-card strong { font-size: 22px; }
+ .celebration-medal { width: 40px; height: 40px; font-size: 25px; }
+ .celebration-card p { font-size: 13px; }
+}
+@media(prefers-reduced-motion:reduce) {
+ .celebration-card { animation: none; }
+ .celebration-confetti { display: none; }
+}
